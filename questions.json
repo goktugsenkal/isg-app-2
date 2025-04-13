@@ -139,7 +139,7 @@
       "Alt işveren",
       "Asıl işveren ve alt işveren"
     ],
-    "answer": 0,
+    "answer": 3,
     "questionNumber": 512,
     "questionIndex": 11
   },
@@ -1339,7 +1339,7 @@
       "Tehlike: Muhtemel bir yaralanma veya bunların sağlık üzerinde oluşturabileceği hasarkaynağı",
       "Risk: Tehlikeli bir durumda meydana gelebilecek olan sağlığa yönelik yaralanma veyahasarın olasılık ve derecesinin birleşimi"
     ],
-    "answer": 3,
+    "answer": 0,
     "questionNumber": 610,
     "questionIndex": 111
   },
@@ -1495,7 +1495,7 @@
       "7",
       "5"
     ],
-    "answer": 1,
+    "answer": 3,
     "questionNumber": 623,
     "questionIndex": 124
   },
@@ -1627,7 +1627,7 @@
       "% 10-6",
       "% 18-22"
     ],
-    "answer": 3,
+    "answer": 0,
     "questionNumber": 634,
     "questionIndex": 135
   },
@@ -1795,7 +1795,7 @@
       "400",
       "100"
     ],
-    "answer": 3,
+    "answer": 0,
     "questionNumber": 648,
     "questionIndex": 149
   },
@@ -1831,7 +1831,7 @@
       "Plastiklerin yanması",
       "Yangın"
     ],
-    "answer": 2,
+    "answer": 0,
     "questionNumber": 651,
     "questionIndex": 152
   },
@@ -2035,7 +2035,7 @@
       "Omuz yüksekliğinden yukarıda",
       "Parmak eklemi-alt bacak ortası yüksekliği arasında"
     ],
-    "answer": 1,
+    "answer": 2,
     "questionNumber": 668,
     "questionIndex": 169
   },
@@ -2275,7 +2275,7 @@
       "Kazaya neden olanların tazminat miktarını hesaplama",
       "Ne olduğunu açıklama ve teyit etme"
     ],
-    "answer": 2,
+    "answer": 0,
     "questionNumber": 688,
     "questionIndex": 189
   },
@@ -2443,7 +2443,7 @@
       "İşçi Sağlığı ve İş Güvenliği Tüzüğü",
       "Sosyal Sigorta Sağlık İşlemleri Tüzüğü"
     ],
-    "answer": 1,
+    "answer": 3,
     "questionNumber": 702,
     "questionIndex": 203
   },
@@ -2659,7 +2659,7 @@
       "18 yaşını doldurmamış",
       "16 yaşını doldurmamış"
     ],
-    "answer": 1,
+    "answer": 3,
     "questionNumber": 720,
     "questionIndex": 221
   },
@@ -2923,7 +2923,7 @@
       "Çalışanlara, sadece maruziyet sırasında yapılması gerekli sağlık gözetimi hakkında bilgi verilecektir.",
       "Sağlık gözetimi, maruziyet başlamadan önce yapılacak ve daha sonra da düzenli aralıklarla sürdürülecektir."
     ],
-    "answer": 0,
+    "answer": 2,
     "questionNumber": 742,
     "questionIndex": 243
   },
@@ -3031,7 +3031,7 @@
       "Muharrik kuvvetle işleyen tam otomatik soğuk şekillendirme tezgahlarında yapılan işlerde",
       "Piroteknik malzemesi hazırlama ve imali işlerinde"
     ],
-    "answer": 1,
+    "answer": 2,
     "questionNumber": 751,
     "questionIndex": 252
   },
@@ -3259,7 +3259,7 @@
       "Muharrik kuvvetle işleyen tam otomatik soğuk şekillendirme tezgahlarında yapılan işlerde",
       "Kimyasal gübrelerin üretimi ve depolanması işlerinde"
     ],
-    "answer": 1,
+    "answer": 2,
     "questionNumber": 770,
     "questionIndex": 271
   },
@@ -3295,7 +3295,7 @@
       "Toplu iş sözleşmesi",
       "Takım sözleşmesi"
     ],
-    "answer": 1,
+    "answer": 2,
     "questionNumber": 773,
     "questionIndex": 274
   },
@@ -3523,7 +3523,7 @@
       "Beyin fırtınası",
       "Grup çalışması"
     ],
-    "answer": 2,
+    "answer": 0,
     "questionNumber": 792,
     "questionIndex": 293
   },
