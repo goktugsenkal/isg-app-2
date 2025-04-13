@@ -43,7 +43,7 @@
       "3",
       "6"
     ],
-    "answer": 2,
+    "answer": 0,
     "questionNumber": 504,
     "questionIndex": 3
   },
@@ -55,7 +55,7 @@
       "İş eldiven",
       "Çatı merdiveni"
     ],
-    "answer": 3,
+    "answer": 0,
     "questionNumber": 505,
     "questionIndex": 4
   },
@@ -67,7 +67,7 @@
       "Yetersiz kâr oranları",
       "Kapalı dar alanlarda çalışma"
     ],
-    "answer": 2,
+    "answer": 0,
     "questionNumber": 506,
     "questionIndex": 5
   },
@@ -79,7 +79,7 @@
       "Bir gün önce",
       "Aynı gün"
     ],
-    "answer": 3,
+    "answer": 0,
     "questionNumber": 507,
     "questionIndex": 6
   },
@@ -91,7 +91,7 @@
       "Emniyet kemeri kullanılması",
       "Güvenlik ağı kurulması"
     ],
-    "answer": 1,
+    "answer": 0,
     "questionNumber": 508,
     "questionIndex": 7
   },
@@ -115,7 +115,7 @@
       "1200",
       "1000"
     ],
-    "answer": 1,
+    "answer": 0,
     "questionNumber": 510,
     "questionIndex": 9
   },
@@ -127,7 +127,7 @@
       "Ücretler",
       "Yasal hak ve sorumluluklar"
     ],
-    "answer": 3,
+    "answer": 0,
     "questionNumber": 511,
     "questionIndex": 10
   },
@@ -163,7 +163,7 @@
       "Eğitimin ücretini işçi karşılamalıdır.",
       "İşçi eğitime katılmak zorundadır."
     ],
-    "answer": 2,
+    "answer": 0,
     "questionNumber": 514,
     "questionIndex": 13
   },
@@ -175,7 +175,7 @@
       "Özürlüler",
       "Formenler"
     ],
-    "answer": 2,
+    "answer": 0,
     "questionNumber": 515,
     "questionIndex": 14
   },
@@ -187,7 +187,7 @@
       "İş kazalarını azaltmak",
       "İşyerinde verimliliği artırmak"
     ],
-    "answer": 3,
+    "answer": 0,
     "questionNumber": 516,
     "questionIndex": 15
   },
@@ -211,7 +211,7 @@
       "Eğitim hedefi",
       "Eğitim tarihi"
     ],
-    "answer": 1,
+    "answer": 0,
     "questionNumber": 518,
     "questionIndex": 17
   },
@@ -223,7 +223,7 @@
       "Örgün eğitim",
       "İleri eğitim"
     ],
-    "answer": 2,
+    "answer": 0,
     "questionNumber": 519,
     "questionIndex": 18
   },
@@ -235,7 +235,7 @@
       "Kaza, yaralanma ve hastalıktan korunma prensipleri",
       "Maden işlerinde iş güvenliği"
     ],
-    "answer": 2,
+    "answer": 0,
     "questionNumber": 520,
     "questionIndex": 19
   },
@@ -247,7 +247,7 @@
       "Temizlik ve düzen",
       "Ekranlı ekipmanlarla çalışma"
     ],
-    "answer": 1,
+    "answer": 0,
     "questionNumber": 521,
     "questionIndex": 20
   },
@@ -259,7 +259,7 @@
       "İş güvenliği ile görevli mühendis veya teknik eleman",
       "İşyeri hekimi"
     ],
-    "answer": 1,
+    "answer": 0,
     "questionNumber": 522,
     "questionIndex": 21
   },
@@ -271,7 +271,7 @@
       "Eğitimin yeri",
       "Eğitimin süresi"
     ],
-    "answer": 2,
+    "answer": 0,
     "questionNumber": 523,
     "questionIndex": 22
   },
@@ -283,7 +283,7 @@
       "Maddenin şekli",
       "Maddenin cinsi"
     ],
-    "answer": 2,
+    "answer": 0,
     "questionNumber": 524,
     "questionIndex": 23
   },
@@ -307,7 +307,7 @@
       "Kaynak arkı",
       "Yıldırım"
     ],
-    "answer": 2,
+    "answer": 0,
     "questionNumber": 526,
     "questionIndex": 25
   },
@@ -319,7 +319,7 @@
       "Isı",
       "Oksijen"
     ],
-    "answer": 2,
+    "answer": 0,
     "questionNumber": 526,
     "questionIndex": 26
   },
@@ -331,7 +331,7 @@
       "Azot oksitler",
       "Metil bromür"
     ],
-    "answer": 4,
+    "answer": 0,
     "questionNumber": 527,
     "questionIndex": 27
   },
@@ -343,7 +343,7 @@
       "Karbon klorür",
       "Karbon monoksit"
     ],
-    "answer": 2,
+    "answer": 0,
     "questionNumber": 528,
     "questionIndex": 28
   },
@@ -355,7 +355,7 @@
       "Yanıcı metal yangınları",
       "Yanıcı katı madde yangınları"
     ],
-    "answer": 3,
+    "answer": 0,
     "questionNumber": 529,
     "questionIndex": 29
   },
@@ -367,7 +367,7 @@
       "Yanıcı gaz yangınları",
       "Yanıcı metal yangınları"
     ],
-    "answer": 1,
+    "answer": 0,
     "questionNumber": 530,
     "questionIndex": 30
   },
@@ -403,7 +403,7 @@
       "C",
       "B"
     ],
-    "answer": 2,
+    "answer": 0,
     "questionNumber": 533,
     "questionIndex": 33
   },
@@ -427,7 +427,7 @@
       "D",
       "A"
     ],
-    "answer": 3,
+    "answer": 0,
     "questionNumber": 535,
     "questionIndex": 35
   },
@@ -439,7 +439,7 @@
       "B",
       "D"
     ],
-    "answer": 2,
+    "answer": 0,
     "questionNumber": 536,
     "questionIndex": 36
   },
@@ -451,7 +451,7 @@
       "E",
       "D"
     ],
-    "answer": 3,
+    "answer": 0,
     "questionNumber": 537,
     "questionIndex": 37
   },
@@ -463,7 +463,7 @@
       "Kuru kimyevi toz",
       "Su"
     ],
-    "answer": 1,
+    "answer": 0,
     "questionNumber": 538,
     "questionIndex": 38
   },
@@ -475,7 +475,7 @@
       "Kum",
       "Su"
     ],
-    "answer": 2,
+    "answer": 0,
     "questionNumber": 539,
     "questionIndex": 39
   },
@@ -487,7 +487,7 @@
       "Kum",
       "KKT"
     ],
-    "answer": 2,
+    "answer": 0,
     "questionNumber": 540,
     "questionIndex": 40
   },
@@ -499,7 +499,7 @@
       "Endirekt temas yolu ile",
       "Hava yolu ile"
     ],
-    "answer": 3,
+    "answer": 0,
     "questionNumber": 541,
     "questionIndex": 41
   },
@@ -511,7 +511,7 @@
       "Bir yerden damlayan yakıtın yanması",
       "Bir yerden püsküren yakıtın yanması"
     ],
-    "answer": 3,
+    "answer": 0,
     "questionNumber": 542,
     "questionIndex": 42
   },
@@ -535,7 +535,7 @@
       "115",
       "100"
     ],
-    "answer": 1,
+    "answer": 0,
     "questionNumber": 544,
     "questionIndex": 44
   },
@@ -547,7 +547,7 @@
       "9",
       "12"
     ],
-    "answer": 2,
+    "answer": 0,
     "questionNumber": 545,
     "questionIndex": 45
   },
@@ -559,7 +559,7 @@
       "12",
       "6"
     ],
-    "answer": 1,
+    "answer": 0,
     "questionNumber": 546,
     "questionIndex": 46
   },
@@ -583,7 +583,7 @@
       "20",
       "25"
     ],
-    "answer": 1,
+    "answer": 0,
     "questionNumber": 547,
     "questionIndex": 48
   },
@@ -619,7 +619,7 @@
       "30",
       "20"
     ],
-    "answer": 1,
+    "answer": 0,
     "questionNumber": 550,
     "questionIndex": 51
   },
@@ -631,7 +631,7 @@
       "6",
       "4"
     ],
-    "answer": 1,
+    "answer": 0,
     "questionNumber": 551,
     "questionIndex": 52
   },
@@ -667,7 +667,7 @@
       "Kurtarma",
       "İlk Yardım"
     ],
-    "answer": 2,
+    "answer": 0,
     "questionNumber": 554,
     "questionIndex": 55
   },
@@ -679,7 +679,7 @@
       "Personelin yaşı ve deneyimi",
       "Acil durum ekiplerinin sayısı"
     ],
-    "answer": 2,
+    "answer": 0,
     "questionNumber": 555,
     "questionIndex": 56
   },
@@ -703,7 +703,7 @@
       "Risk değerlendirme planı",
       "Ramak kala planı"
     ],
-    "answer": 3,
+    "answer": 0,
     "questionNumber": 557,
     "questionIndex": 58
   },
@@ -715,7 +715,7 @@
       "Planın geliştirilmesi",
       "Eğitim yapılması"
     ],
-    "answer": 3,
+    "answer": 0,
     "questionNumber": 558,
     "questionIndex": 59
   },
@@ -727,7 +727,7 @@
       "İç yönetmelik hazırlanması",
       "Acil durum eğitim ve tatbikatları"
     ],
-    "answer": 3,
+    "answer": 0,
     "questionNumber": 559,
     "questionIndex": 60
   },
@@ -739,7 +739,7 @@
       "Kriz masası yönetim kadrosu",
       "İşyeri güvenlik ekibi"
     ],
-    "answer": 2,
+    "answer": 0,
     "questionNumber": 560,
     "questionIndex": 61
   },
@@ -763,7 +763,7 @@
       "Basel Yönergesi",
       "Çevresel Etki Değerlendirme Yönergesi"
     ],
-    "answer": 1,
+    "answer": 0,
     "questionNumber": 562,
     "questionIndex": 63
   },
@@ -775,7 +775,7 @@
       "İyileşmeyi kolaylaştırmak",
       "Ortam güvenliğini sağlamak"
     ],
-    "answer": 3,
+    "answer": 0,
     "questionNumber": 563,
     "questionIndex": 64
   },
@@ -787,7 +787,7 @@
       "Korumak",
       "Kaldırmak"
     ],
-    "answer": 1,
+    "answer": 0,
     "questionNumber": 564,
     "questionIndex": 65
   },
@@ -811,7 +811,7 @@
       "Solunum",
       "Havayolu"
     ],
-    "answer": 2,
+    "answer": 0,
     "questionNumber": 566,
     "questionIndex": 67
   },
@@ -823,7 +823,7 @@
       "Güvenlik ve sağlık işaretleri",
       "İş makinaları kullanma talimatları"
     ],
-    "answer": 1,
+    "answer": 0,
     "questionNumber": 567,
     "questionIndex": 68
   },
@@ -847,7 +847,7 @@
       "Bir tehlikeye neden olabilecek veya zarar verecek durum hakkında uyarıda bulunan işaret",
       "Acil çıkış yolları, ilkyardım veya kurtarma ile ilgili bilgi veren işaretler"
     ],
-    "answer": 1,
+    "answer": 0,
     "questionNumber": 569,
     "questionIndex": 70
   },
@@ -859,7 +859,7 @@
       "Tehlikeye neden olacak veya tehlikeye maruz bırakacak bir davranışı yasaklayan işaret",
       "Uyulması zorunlu bir davranışı belirleyen işaret"
     ],
-    "answer": 2,
+    "answer": 0,
     "questionNumber": 570,
     "questionIndex": 71
   },
@@ -871,7 +871,7 @@
       "Bir tehlikeye neden olabilecek veya zarar verecek durum hakkında uyarıda bulunan işaret",
       "Uyulması zorunlu bir davranışı belirleyen işaret"
     ],
-    "answer": 3,
+    "answer": 0,
     "questionNumber": 571,
     "questionIndex": 72
   },
@@ -895,7 +895,7 @@
       "Dikdörtgen veya kare biçiminde, yeşil zemin üzerine beyaz piktogram",
       "Daire biçiminde, mavi zemin üzerine beyaz piktogram"
     ],
-    "answer": 1,
+    "answer": 0,
     "questionNumber": 573,
     "questionIndex": 74
   },
@@ -919,7 +919,7 @@
       "Üçgen şeklinde, sarı zemin üzerine siyah piktogram, siyah çerçeve",
       "Daire biçiminde, beyaz zemin üzerine siyah piktogram, kırmızı çerçeve ve diyagonal çizgi"
     ],
-    "answer": 1,
+    "answer": 0,
     "questionNumber": 575,
     "questionIndex": 76
   },
@@ -943,7 +943,7 @@
       "Havanın sıcaklığı, havanın nemi",
       "Havanın karışımı, havanın sıcaklığı"
     ],
-    "answer": 1,
+    "answer": 0,
     "questionNumber": 577,
     "questionIndex": 78
   },
@@ -955,7 +955,7 @@
       "0,05-0,15 m/s",
       "0,10-0,20 m/s"
     ],
-    "answer": 3,
+    "answer": 0,
     "questionNumber": 578,
     "questionIndex": 79
   },
@@ -967,7 +967,7 @@
       "İşverene fazla maddi yük getirmemelidir.",
       "Gerekli ayarlamalar yapıldığında kullanana tam uymalıdır."
     ],
-    "answer": 1,
+    "answer": 0,
     "questionNumber": 579,
     "questionIndex": 80
   },
@@ -979,7 +979,7 @@
       "İşyerindeki mevcut koşullara uygun olmalıdır.",
       "Ek risk yaratmadan ilgili riski önlemeye yönelik olmalıdır."
     ],
-    "answer": 3,
+    "answer": 0,
     "questionNumber": 580,
     "questionIndex": 81
   },
@@ -991,7 +991,7 @@
       "Kullanma süresi",
       "Vardiya düzeni"
     ],
-    "answer": 2,
+    "answer": 0,
     "questionNumber": 581,
     "questionIndex": 82
   },
@@ -1003,7 +1003,7 @@
       "İşçinin ücretinden kesilmelidir.",
       "İşçiyi hangi risklere karşı koruyacağı konusunda işçi bilgilendirilmelidir"
     ],
-    "answer": 1,
+    "answer": 0,
     "questionNumber": 582,
     "questionIndex": 83
   },
@@ -1015,7 +1015,7 @@
       "Sesli eğitim verilmelidir.",
       "Görsel eğitim verilmelidir."
     ],
-    "answer": 1,
+    "answer": 0,
     "questionNumber": 583,
     "questionIndex": 84
   },
@@ -1027,7 +1027,7 @@
       "Her işte kullanacaklardır.",
       "Genç işçiler kullanmayacaklardır."
     ],
-    "answer": 2,
+    "answer": 0,
     "questionNumber": 584,
     "questionIndex": 85
   },
@@ -1039,7 +1039,7 @@
       "İşverene",
       "Ustaya"
     ],
-    "answer": 2,
+    "answer": 0,
     "questionNumber": 585,
     "questionIndex": 86
   },
@@ -1051,7 +1051,7 @@
       "Kişisel koruyucunun standart numarasının ne olduğu",
       "Kişisel koruyucunun nasıl kullanılacağı"
     ],
-    "answer": 3,
+    "answer": 0,
     "questionNumber": 586,
     "questionIndex": 87
   },
@@ -1063,7 +1063,7 @@
       "Göz ve yüz koruyucuları",
       "Dolaşım sistemi koruyucuları"
     ],
-    "answer": 2,
+    "answer": 0,
     "questionNumber": 587,
     "questionIndex": 88
   },
@@ -1075,7 +1075,7 @@
       "Ergimiş metalin sıcaklığından korurlar.",
       "Düşme mesafesine bağlı olarak 10-15 kg ağırlığındaki cisimlerin etkilerinden korurlar."
     ],
-    "answer": 3,
+    "answer": 0,
     "questionNumber": 588,
     "questionIndex": 89
   },
@@ -1087,7 +1087,7 @@
       "3",
       "5"
     ],
-    "answer": 1,
+    "answer": 0,
     "questionNumber": 589,
     "questionIndex": 90
   },
@@ -1099,7 +1099,7 @@
       "Sıcak çalışma ortamında kullanılabilirler.",
       "Petrol kuyuları, rafineri ve kimyasallarla çalışan tesislerde kullanılabilirler."
     ],
-    "answer": 3,
+    "answer": 0,
     "questionNumber": 590,
     "questionIndex": 91
   },
@@ -1123,7 +1123,7 @@
       "10.000",
       "20.000"
     ],
-    "answer": 1,
+    "answer": 0,
     "questionNumber": 592,
     "questionIndex": 93
   },
@@ -1135,7 +1135,7 @@
       "95",
       "75"
     ],
-    "answer": 1,
+    "answer": 0,
     "questionNumber": 593,
     "questionIndex": 94
   },
@@ -1147,7 +1147,7 @@
       "0,2 ? 8",
       "0,2 ? 4"
     ],
-    "answer": 1,
+    "answer": 0,
     "questionNumber": 594,
     "questionIndex": 95
   },
@@ -1159,7 +1159,7 @@
       "Kullanıldığı yere ve kullanım amacına uygun olarak seçilmelidir.",
       "Koruma özelliğini kaybeden filtreler değiştirilmelidir."
     ],
-    "answer": 1,
+    "answer": 0,
     "questionNumber": 595,
     "questionIndex": 96
   },
@@ -1183,7 +1183,7 @@
       "Çelik tabanlı ayakkabılar",
       "Parmak koruyucu ayakkabılar"
     ],
-    "answer": 1,
+    "answer": 0,
     "questionNumber": 597,
     "questionIndex": 98
   },
@@ -1195,7 +1195,7 @@
       "Plastik malzemeden yapılmış olmalı",
       "Ucuz olmalı"
     ],
-    "answer": 1,
+    "answer": 0,
     "questionNumber": 598,
     "questionIndex": 99
   },
@@ -1207,7 +1207,7 @@
       "Şeffaf camlı yüz siperi",
       "Normal gözlük"
     ],
-    "answer": 2,
+    "answer": 0,
     "questionNumber": 599,
     "questionIndex": 100
   },
@@ -1219,7 +1219,7 @@
       "Uçlarına çelik yüksüklerin konulduğu eldivenler",
       "Tel dokumayla takviye edilmiş eldivenler"
     ],
-    "answer": 1,
+    "answer": 0,
     "questionNumber": 600,
     "questionIndex": 101
   },
@@ -1231,7 +1231,7 @@
       "Yalıtkan ayakkabı",
       "Kıvılcım çıkartmayan ayakkabı"
     ],
-    "answer": 1,
+    "answer": 0,
     "questionNumber": 601,
     "questionIndex": 102
   },
@@ -1243,7 +1243,7 @@
       "Hiçbiri",
       "Teknik ekipman"
     ],
-    "answer": 2,
+    "answer": 0,
     "questionNumber": 602,
     "questionIndex": 103
   },
@@ -1255,7 +1255,7 @@
       "Kişisel koruyucu donanımlar",
       "Makina koruyucuları"
     ],
-    "answer": 1,
+    "answer": 0,
     "questionNumber": 603,
     "questionIndex": 104
   },
@@ -1267,7 +1267,7 @@
       "İş güvenliği mühendisi",
       "İş sağlığı ve güvenliği kurulu"
     ],
-    "answer": 1,
+    "answer": 0,
     "questionNumber": 604,
     "questionIndex": 105
   },
@@ -1279,7 +1279,7 @@
       "Sanayi Odaları",
       "TOBB"
     ],
-    "answer": 1,
+    "answer": 0,
     "questionNumber": 605,
     "questionIndex": 106
   },
@@ -1303,7 +1303,7 @@
       "Kaldırma aksesuarları",
       "Emniyet aksamları"
     ],
-    "answer": 2,
+    "answer": 0,
     "questionNumber": 607,
     "questionIndex": 108
   },
@@ -1315,7 +1315,7 @@
       "Sanayi ve Ticaret Bakanlığı",
       "MMO"
     ],
-    "answer": 3,
+    "answer": 0,
     "questionNumber": 608,
     "questionIndex": 109
   },
@@ -1327,7 +1327,7 @@
       "Makinaların imalatının tamamlanmasından sonra",
       "Makinaların tasarım ve imalinden önce"
     ],
-    "answer": 3,
+    "answer": 0,
     "questionNumber": 609,
     "questionIndex": 110
   },
@@ -1339,7 +1339,7 @@
       "Tehlike: Muhtemel bir yaralanma veya bunların sağlık üzerinde oluşturabileceği hasarkaynağı",
       "Risk: Tehlikeli bir durumda meydana gelebilecek olan sağlığa yönelik yaralanma veyahasarın olasılık ve derecesinin birleşimi"
     ],
-    "answer": 3,
+    "answer": 0,
     "questionNumber": 610,
     "questionIndex": 111
   },
@@ -1351,7 +1351,7 @@
       "Tehlike bölgesinden yeterli uzaklığa yerleştirilmeli",
       "Kolayca devreden çıkarılmalı veya kolayca by-pass edilmeli"
     ],
-    "answer": 2,
+    "answer": 0,
     "questionNumber": 611,
     "questionIndex": 112
   },
@@ -1363,7 +1363,7 @@
       "Talimatlar, uzman personelin anlayabileceği topluluk dilinde hazırlanmalıdır",
       "Profesyonel olmayan operatörler tarafından kullanılması düşünülen makinalar için,kullanım talimatlarının yazılması ve düzenlenmesinde bu tür operatörlerden makul olarakbeklenebilecek genel eğitim seviyeleri ve yargıda bulunabilme düzeyleri de göz önündebulundurulmalıdır."
     ],
-    "answer": 3,
+    "answer": 0,
     "questionNumber": 612,
     "questionIndex": 113
   },
@@ -1375,7 +1375,7 @@
       "İş parçalarının ve bunların fırlama riskinin bulunduğu durumlarda kullanılması gerekenkoruyucu yapı",
       "Yuvarlanma ve devrilmeye karşı koruyucu yapı"
     ],
-    "answer": 1,
+    "answer": 0,
     "questionNumber": 613,
     "questionIndex": 114
   },
@@ -1387,7 +1387,7 @@
       "İş parçalarının ve bunların fırlama riskinin bulunduğu durumlarda kullanılması gerekenkoruyucu yapı",
       "Döner kesici takımların kırılma ve fırlama riskinin bulunduğu durumlarda kullanılmasıgereken koruyucu yapı"
     ],
-    "answer": 1,
+    "answer": 0,
     "questionNumber": 614,
     "questionIndex": 115
   },
@@ -1399,7 +1399,7 @@
       "1,25",
       "1,1"
     ],
-    "answer": 3,
+    "answer": 0,
     "questionNumber": 615,
     "questionIndex": 116
   },
@@ -1411,7 +1411,7 @@
       "1",
       "1,1"
     ],
-    "answer": 3,
+    "answer": 0,
     "questionNumber": 616,
     "questionIndex": 117
   },
@@ -1423,7 +1423,7 @@
       "2",
       "4"
     ],
-    "answer": 2,
+    "answer": 0,
     "questionNumber": 617,
     "questionIndex": 118
   },
@@ -1447,7 +1447,7 @@
       "Altı ayda bir",
       "Yılda bir"
     ],
-    "answer": 3,
+    "answer": 0,
     "questionNumber": 619,
     "questionIndex": 120
   },
@@ -1459,7 +1459,7 @@
       "1,5",
       "5"
     ],
-    "answer": 3,
+    "answer": 0,
     "questionNumber": 620,
     "questionIndex": 121
   },
@@ -1483,7 +1483,7 @@
       "4",
       "8"
     ],
-    "answer": 1,
+    "answer": 0,
     "questionNumber": 622,
     "questionIndex": 123
   },
@@ -1495,7 +1495,7 @@
       "7",
       "5"
     ],
-    "answer": 1,
+    "answer": 0,
     "questionNumber": 623,
     "questionIndex": 124
   },
@@ -1507,7 +1507,7 @@
       "2",
       "1"
     ],
-    "answer": 3,
+    "answer": 0,
     "questionNumber": 624,
     "questionIndex": 125
   },
@@ -1531,7 +1531,7 @@
       "2",
       "2,5"
     ],
-    "answer": 1,
+    "answer": 0,
     "questionNumber": 626,
     "questionIndex": 127
   },
@@ -1543,7 +1543,7 @@
       "Periyodik olarak 12 ayda bir",
       "Kompresörün montajından sonra ve çalıştırılmasından önce"
     ],
-    "answer": 2,
+    "answer": 0,
     "questionNumber": 627,
     "questionIndex": 128
   },
@@ -1555,7 +1555,7 @@
       "3 metre",
       "9 metre"
     ],
-    "answer": 1,
+    "answer": 0,
     "questionNumber": 628,
     "questionIndex": 129
   },
@@ -1567,7 +1567,7 @@
       "Gerekli önlem alınmış ve 7 metre yükseklikte emniyet kemerini uygun bir yeresabitleyerek çalışma",
       "Yüksekten düşme riskine karşı emniyet filesi kullanılarak çalışma"
     ],
-    "answer": 3,
+    "answer": 0,
     "questionNumber": 629,
     "questionIndex": 130
   },
@@ -1579,7 +1579,7 @@
       "Başkalarının yardımı ile çıkılabilen 5 metre yüksekliğe yüksek denir.",
       "Tek adımla kolayca çıkamayacağımız yerler yüksek olarak tanımlanabilir."
     ],
-    "answer": 2,
+    "answer": 0,
     "questionNumber": 630,
     "questionIndex": 131
   },
@@ -1603,7 +1603,7 @@
       "İskele sistemleri",
       "İkaz işaretleri"
     ],
-    "answer": 1,
+    "answer": 0,
     "questionNumber": 632,
     "questionIndex": 133
   },
@@ -1615,7 +1615,7 @@
       "Oksijen düzeyinin yetersizliği dolayısıyla ölüm veya ciddi şekilde yaralanma riski olan herkapalı alan bu şekilde adlandırılmaktadır.",
       "Zararlı maddeler dolayısıyla ölüm veya ciddi şekilde yaralanma riski olan her kapalı alanbu şekilde adlandırılmaktadır."
     ],
-    "answer": 3,
+    "answer": 0,
     "questionNumber": 633,
     "questionIndex": 134
   },
@@ -1627,7 +1627,7 @@
       "% 10-6",
       "% 18-22"
     ],
-    "answer": 3,
+    "answer": 0,
     "questionNumber": 634,
     "questionIndex": 135
   },
@@ -1639,7 +1639,7 @@
       "En üst, orta ve en alttan birer kez",
       "Üst, orta ve taban seviyelerinden üçer kez"
     ],
-    "answer": 2,
+    "answer": 0,
     "questionNumber": 635,
     "questionIndex": 136
   },
@@ -1651,7 +1651,7 @@
       "Fazla karanlık olması",
       "Oksijen fazlalığı"
     ],
-    "answer": 3,
+    "answer": 0,
     "questionNumber": 636,
     "questionIndex": 137
   },
@@ -1663,7 +1663,7 @@
       "% 72,04 azot",
       "% 20,93 oksijen"
     ],
-    "answer": 1,
+    "answer": 0,
     "questionNumber": 637,
     "questionIndex": 138
   },
@@ -1675,7 +1675,7 @@
       "Azot",
       "Oksijen"
     ],
-    "answer": 3,
+    "answer": 0,
     "questionNumber": 638,
     "questionIndex": 139
   },
@@ -1687,7 +1687,7 @@
       "Karbondioksit",
       "Metan"
     ],
-    "answer": 1,
+    "answer": 0,
     "questionNumber": 639,
     "questionIndex": 140
   },
@@ -1711,7 +1711,7 @@
       "Hava ile karışmasına grizu denir.",
       "Bitki artıklarının parçalanması sonucu oluşur."
     ],
-    "answer": 1,
+    "answer": 0,
     "questionNumber": 641,
     "questionIndex": 142
   },
@@ -1723,7 +1723,7 @@
       "Hidrojen sülfat",
       "Karbon monoksit"
     ],
-    "answer": 3,
+    "answer": 0,
     "questionNumber": 642,
     "questionIndex": 143
   },
@@ -1747,7 +1747,7 @@
       "9",
       "11"
     ],
-    "answer": 1,
+    "answer": 0,
     "questionNumber": 644,
     "questionIndex": 145
   },
@@ -1771,7 +1771,7 @@
       "20",
       "17"
     ],
-    "answer": 2,
+    "answer": 0,
     "questionNumber": 646,
     "questionIndex": 147
   },
@@ -1783,7 +1783,7 @@
       "Patlayıcı değildir.",
       "Zehirli bir gazdır."
     ],
-    "answer": 3,
+    "answer": 0,
     "questionNumber": 647,
     "questionIndex": 148
   },
@@ -1795,7 +1795,7 @@
       "400",
       "100"
     ],
-    "answer": 3,
+    "answer": 0,
     "questionNumber": 648,
     "questionIndex": 149
   },
@@ -1807,7 +1807,7 @@
       "20 ppm",
       "50 ppm"
     ],
-    "answer": 1,
+    "answer": 0,
     "questionNumber": 649,
     "questionIndex": 150
   },
@@ -1819,7 +1819,7 @@
       "0,01",
       "0,1"
     ],
-    "answer": 2,
+    "answer": 0,
     "questionNumber": 650,
     "questionIndex": 151
   },
@@ -1831,7 +1831,7 @@
       "Plastiklerin yanması",
       "Yangın"
     ],
-    "answer": 2,
+    "answer": 0,
     "questionNumber": 651,
     "questionIndex": 152
   },
@@ -1843,7 +1843,7 @@
       "78",
       "88"
     ],
-    "answer": 1,
+    "answer": 0,
     "questionNumber": 652,
     "questionIndex": 153
   },
@@ -1855,7 +1855,7 @@
       "Maruz kalma limit değeri karbon monoksitin limit değerinden düşüktür.",
       "% 15'i aşan değerlerde patlayıcıdır."
     ],
-    "answer": 3,
+    "answer": 0,
     "questionNumber": 653,
     "questionIndex": 154
   },
@@ -1867,7 +1867,7 @@
       "Patlayıcı gaz olup olmaması",
       "Hepsi"
     ],
-    "answer": 1,
+    "answer": 0,
     "questionNumber": 654,
     "questionIndex": 155
   },
@@ -1879,7 +1879,7 @@
       "Kapalı alanda depolanan maddeler",
       "Kapalı alanda yapılan boyama işleri"
     ],
-    "answer": 2,
+    "answer": 0,
     "questionNumber": 655,
     "questionIndex": 156
   },
@@ -1891,7 +1891,7 @@
       "Hepsi",
       "Gürültü, sıcaklık veya kaygan yüzeyler"
     ],
-    "answer": 1,
+    "answer": 0,
     "questionNumber": 656,
     "questionIndex": 157
   },
@@ -1903,7 +1903,7 @@
       "20",
       "17"
     ],
-    "answer": 1,
+    "answer": 0,
     "questionNumber": 657,
     "questionIndex": 158
   },
@@ -1915,7 +1915,7 @@
       "Yükseğe malzeme kaldırma",
       "Solunum yolları tahrişi"
     ],
-    "answer": 2,
+    "answer": 0,
     "questionNumber": 658,
     "questionIndex": 159
   },
@@ -1951,7 +1951,7 @@
       "Çalışma koşullarında önemli değişikli olduğunda verilmelidir.",
       "Periyodik olarak tekrarlanmalıdır."
     ],
-    "answer": 2,
+    "answer": 0,
     "questionNumber": 661,
     "questionIndex": 162
   },
@@ -1963,7 +1963,7 @@
       "Çalışma sırasında gözleri kısa sürelerle dinlendirme alışkanlığı",
       "Güvenlik ve sağlık işretleri"
     ],
-    "answer": 3,
+    "answer": 0,
     "questionNumber": 662,
     "questionIndex": 163
   },
@@ -1975,7 +1975,7 @@
       "İşveren istediğinde",
       "Çalışmaya başlamadan önce"
     ],
-    "answer": 3,
+    "answer": 0,
     "questionNumber": 663,
     "questionIndex": 164
   },
@@ -1987,7 +1987,7 @@
       "Ekran görüntüsü stabil olmalıdır.",
       "Düz ve plazma ekran olmalıdır."
     ],
-    "answer": 2,
+    "answer": 0,
     "questionNumber": 664,
     "questionIndex": 165
   },
@@ -1999,7 +1999,7 @@
       "Klavyeler çalışanların talebi ve isteğine göre olmalıdır.",
       "Klavyenin rengi mat olacak ve ışığı yansıtmayacaktır."
     ],
-    "answer": 2,
+    "answer": 0,
     "questionNumber": 665,
     "questionIndex": 166
   },
@@ -2011,7 +2011,7 @@
       "Kişisel koruyucu donanım vermek",
       "Riskleri en aza indirecek önlemleri almak"
     ],
-    "answer": 3,
+    "answer": 0,
     "questionNumber": 666,
     "questionIndex": 167
   },
@@ -2023,7 +2023,7 @@
       "Gözlerin korunması",
       "Ellerin korunması"
     ],
-    "answer": 1,
+    "answer": 0,
     "questionNumber": 667,
     "questionIndex": 168
   },
@@ -2035,7 +2035,7 @@
       "Omuz yüksekliğinden yukarıda",
       "Parmak eklemi-alt bacak ortası yüksekliği arasında"
     ],
-    "answer": 1,
+    "answer": 0,
     "questionNumber": 668,
     "questionIndex": 169
   },
@@ -2047,7 +2047,7 @@
       "Alt bacak ortası yüksekliğinden aşağıda",
       "Dirsek-omuz yüksekliği arasında"
     ],
-    "answer": 2,
+    "answer": 0,
     "questionNumber": 669,
     "questionIndex": 170
   },
@@ -2071,7 +2071,7 @@
       "Çok ağır ve çok büyükse",
       "Kaba ve kavranması zor ise"
     ],
-    "answer": 1,
+    "answer": 0,
     "questionNumber": 671,
     "questionIndex": 172
   },
@@ -2083,7 +2083,7 @@
       "Çalışılan yer işi yapmak için yeterli genişlikte ise",
       "İşyeri tabanında veya çalışılan zeminlerde yüklerin indirilip kaldırılmasını gerektirenseviye farklılıkları yoksa"
     ],
-    "answer": 1,
+    "answer": 0,
     "questionNumber": 672,
     "questionIndex": 173
   },
@@ -2095,7 +2095,7 @@
       "4857 sayılı Kanun",
       "818 sayılı Kanun"
     ],
-    "answer": 1,
+    "answer": 0,
     "questionNumber": 673,
     "questionIndex": 174
   },
@@ -2107,7 +2107,7 @@
       "İşçinin fabrika sınırları dışında kamyondan yük boşaltırken düşüp kolunu kırması",
       "İşçinin işyerinde öğle tatilinde top oynarken düşüp ayağını kırması"
     ],
-    "answer": 3,
+    "answer": 0,
     "questionNumber": 674,
     "questionIndex": 175
   },
@@ -2119,7 +2119,7 @@
       "Yol inşaatında çalışan işçinin yakındaki elma ağacından elma koparırken düşüp ayağını kırması",
       "İşçinin işyerinde kalp krizi geçirmesi"
     ],
-    "answer": 2,
+    "answer": 0,
     "questionNumber": 675,
     "questionIndex": 176
   },
@@ -2131,7 +2131,7 @@
       "Göğüs kafesi ve solunum organları yaralanması",
       "Sürekli iş göremezliğe neden olan kazalar"
     ],
-    "answer": 1,
+    "answer": 0,
     "questionNumber": 676,
     "questionIndex": 177
   },
@@ -2143,7 +2143,7 @@
       "Sürekli iş göremezliğe neden olan kazalar",
       "Bir günden fazla işten uzaklaşmaya neden olacak kazalar"
     ],
-    "answer": 1,
+    "answer": 0,
     "questionNumber": 677,
     "questionIndex": 178
   },
@@ -2155,7 +2155,7 @@
       "Kimya",
       "Tekstil"
     ],
-    "answer": 3,
+    "answer": 0,
     "questionNumber": 678,
     "questionIndex": 179
   },
@@ -2167,7 +2167,7 @@
       "Sekizinci",
       "Birinci"
     ],
-    "answer": 1,
+    "answer": 0,
     "questionNumber": 679,
     "questionIndex": 180
   },
@@ -2179,7 +2179,7 @@
       "Kimyasal",
       "Fiziksel"
     ],
-    "answer": 2,
+    "answer": 0,
     "questionNumber": 680,
     "questionIndex": 181
   },
@@ -2191,7 +2191,7 @@
       "Gürültü",
       "Statik iş yükü"
     ],
-    "answer": 2,
+    "answer": 0,
     "questionNumber": 681,
     "questionIndex": 182
   },
@@ -2203,7 +2203,7 @@
       "Partikül",
       "Rutubet"
     ],
-    "answer": 1,
+    "answer": 0,
     "questionNumber": 682,
     "questionIndex": 183
   },
@@ -2227,7 +2227,7 @@
       "Tehlikeli yükseklikte istifleme",
       "Kontrol ve testleri yapılmamış basınçlı kaplar"
     ],
-    "answer": 1,
+    "answer": 0,
     "questionNumber": 684,
     "questionIndex": 185
   },
@@ -2263,7 +2263,7 @@
       "3",
       "1"
     ],
-    "answer": 2,
+    "answer": 0,
     "questionNumber": 687,
     "questionIndex": 188
   },
@@ -2287,7 +2287,7 @@
       "Ergonomik önlem alınır.",
       "Psikolojik önlem alınır."
     ],
-    "answer": 1,
+    "answer": 0,
     "questionNumber": 689,
     "questionIndex": 190
   },
@@ -2299,7 +2299,7 @@
       "İş kazası raporu hazırlanır.",
       "İş kazası sonrası analizi yapılır."
     ],
-    "answer": 2,
+    "answer": 0,
     "questionNumber": 690,
     "questionIndex": 191
   },
@@ -2311,7 +2311,7 @@
       "Balık kılçığı tekniği",
       "Kronominal tekniği"
     ],
-    "answer": 3,
+    "answer": 0,
     "questionNumber": 691,
     "questionIndex": 192
   },
@@ -2323,7 +2323,7 @@
       "Malzeme",
       "İşyeri"
     ],
-    "answer": 2,
+    "answer": 0,
     "questionNumber": 692,
     "questionIndex": 193
   },
@@ -2335,7 +2335,7 @@
       "Ortam ölçümü ve raporlaması",
       "Önleyici faaliyetler"
     ],
-    "answer": 1,
+    "answer": 0,
     "questionNumber": 693,
     "questionIndex": 194
   },
@@ -2359,7 +2359,7 @@
       "Biyolojik etmenler",
       "Kimyasal etmenler"
     ],
-    "answer": 1,
+    "answer": 0,
     "questionNumber": 695,
     "questionIndex": 196
   },
@@ -2383,7 +2383,7 @@
       "Plini",
       "Ramazzini"
     ],
-    "answer": 2,
+    "answer": 0,
     "questionNumber": 697,
     "questionIndex": 198
   },
@@ -2395,7 +2395,7 @@
       "Ramazzini",
       "Nicander"
     ],
-    "answer": 1,
+    "answer": 0,
     "questionNumber": 698,
     "questionIndex": 199
   },
@@ -2407,7 +2407,7 @@
       "İşçilerin sağlık muayeneleri",
       "Kadın işçilerin gece çalıştırılmaması"
     ],
-    "answer": 2,
+    "answer": 0,
     "questionNumber": 699,
     "questionIndex": 200
   },
@@ -2419,7 +2419,7 @@
       "4",
       "2"
     ],
-    "answer": 1,
+    "answer": 0,
     "questionNumber": 700,
     "questionIndex": 201
   },
@@ -2431,7 +2431,7 @@
       "Etmenlerin neden olduğu meslek hastalıkları",
       "Mesleki kanserler"
     ],
-    "answer": 1,
+    "answer": 0,
     "questionNumber": 701,
     "questionIndex": 202
   },
@@ -2443,7 +2443,7 @@
       "İşçi Sağlığı ve İş Güvenliği Tüzüğü",
       "Sosyal Sigorta Sağlık İşlemleri Tüzüğü"
     ],
-    "answer": 1,
+    "answer": 0,
     "questionNumber": 702,
     "questionIndex": 203
   },
@@ -2455,7 +2455,7 @@
       "Çok değişik semptomlar olabilir.",
       "Çok değişik iş kollarında görülür."
     ],
-    "answer": 1,
+    "answer": 0,
     "questionNumber": 703,
     "questionIndex": 204
   },
@@ -2479,7 +2479,7 @@
       "İstanbul",
       "Ankara"
     ],
-    "answer": 3,
+    "answer": 0,
     "questionNumber": 705,
     "questionIndex": 206
   },
@@ -2491,7 +2491,7 @@
       "Çalışma ve Sosyal Güvenlik Bakanlığı Merkezi",
       "Meslek Hastalıkları Hastanesi"
     ],
-    "answer": 3,
+    "answer": 0,
     "questionNumber": 706,
     "questionIndex": 207
   },
@@ -2503,7 +2503,7 @@
       "Tıbbi korunma tedbirleri",
       "Kimyasallardan korunma tedbirleri"
     ],
-    "answer": 3,
+    "answer": 0,
     "questionNumber": 707,
     "questionIndex": 208
   },
@@ -2515,7 +2515,7 @@
       "İşle ilgili kazalar",
       "İşle ilgili hastalıklar"
     ],
-    "answer": 2,
+    "answer": 0,
     "questionNumber": 708,
     "questionIndex": 209
   },
@@ -2527,7 +2527,7 @@
       "Pnömokonyoz",
       "Ruhsal hastalıklar"
     ],
-    "answer": 3,
+    "answer": 0,
     "questionNumber": 709,
     "questionIndex": 210
   },
@@ -2551,7 +2551,7 @@
       "Beyaz fosfor",
       "Solventler"
     ],
-    "answer": 3,
+    "answer": 0,
     "questionNumber": 711,
     "questionIndex": 212
   },
@@ -2563,7 +2563,7 @@
       "Talyum",
       "Civa"
     ],
-    "answer": 1,
+    "answer": 0,
     "questionNumber": 712,
     "questionIndex": 213
   },
@@ -2587,7 +2587,7 @@
       "Basınçlı kaplara ait kontrol formları",
       "Acil eylem planı"
     ],
-    "answer": 3,
+    "answer": 0,
     "questionNumber": 714,
     "questionIndex": 215
   },
@@ -2599,7 +2599,7 @@
       "İşletme belgesi başvuru ve beyan formu",
       "İşyerlerinde İSG Kurulları tarafından hazırlanan yönetmelik"
     ],
-    "answer": 2,
+    "answer": 0,
     "questionNumber": 715,
     "questionIndex": 216
   },
@@ -2611,7 +2611,7 @@
       "Kullanıldığı sürece her üç ayda bir yapılır ve belgelenmesi gerekir.",
       "Üç yılda bir defa yapılır."
     ],
-    "answer": 3,
+    "answer": 0,
     "questionNumber": 716,
     "questionIndex": 217
   },
@@ -2635,7 +2635,7 @@
       "Solunum ve solunum yolları muayenesine tabi tutulurlar.",
       "Karaciğer muayenesine tabi tutulurlar."
     ],
-    "answer": 2,
+    "answer": 0,
     "questionNumber": 718,
     "questionIndex": 219
   },
@@ -2647,7 +2647,7 @@
       "Kadınlar",
       "Erkekler"
     ],
-    "answer": 1,
+    "answer": 0,
     "questionNumber": 719,
     "questionIndex": 220
   },
@@ -2659,7 +2659,7 @@
       "18 yaşını doldurmamış",
       "16 yaşını doldurmamış"
     ],
-    "answer": 1,
+    "answer": 0,
     "questionNumber": 720,
     "questionIndex": 221
   },
@@ -2683,7 +2683,7 @@
       "12 ayda",
       "3 ayda"
     ],
-    "answer": 3,
+    "answer": 0,
     "questionNumber": 722,
     "questionIndex": 223
   },
@@ -2719,7 +2719,7 @@
       "Kadın Hakları Yönetmeliği",
       "Kadınların Çalışamayacağı İşler Yönetmeliği"
     ],
-    "answer": 1,
+    "answer": 0,
     "questionNumber": 725,
     "questionIndex": 226
   },
@@ -2743,7 +2743,7 @@
       "Yangın eğitimi almış olmak",
       "Okuryazar olmak"
     ],
-    "answer": 3,
+    "answer": 0,
     "questionNumber": 727,
     "questionIndex": 228
   },
@@ -2755,7 +2755,7 @@
       "Ehliyet",
       "Nüfus cüzdanı"
     ],
-    "answer": 1,
+    "answer": 0,
     "questionNumber": 728,
     "questionIndex": 229
   },
@@ -2767,7 +2767,7 @@
       "Solunduğunda, ağız yoluyla alındığında, deriye nüfuz ettiğinde kalıtımsal genetik hasarlara yol açmayan maddeler",
       "Solunduğunda, ağız yoluyla alındığında, deriye nüfuz ettiğinde kalıtımsal genetik hasarlara yol açabilen veya bu etkinin oluşumunu hızlandıran maddeler"
     ],
-    "answer": 2,
+    "answer": 0,
     "questionNumber": 729,
     "questionIndex": 230
   },
@@ -2791,7 +2791,7 @@
       "1",
       "10"
     ],
-    "answer": 3,
+    "answer": 0,
     "questionNumber": 731,
     "questionIndex": 232
   },
@@ -2803,7 +2803,7 @@
       "İşveren, risk değerlendirmesinde kullanılan bilgileri istenmesi halinde yetkili makamlara vermek zorundadır.",
       "Risk değerlendirmesi beşli matris yöntemi ile yapılmalı ve her yıl tekrarlanmalıdır."
     ],
-    "answer": 3,
+    "answer": 0,
     "questionNumber": 732,
     "questionIndex": 233
   },
@@ -2815,7 +2815,7 @@
       "İşveren, kanserojen veya mutajen maddelerin değiştirilmesi konusunda yapılan araştırma sonuçlarını, istenmesi halinde herkese vermek zorundadır.",
       "İşveren, teknik olarak mümkün olduğu hallerde, işçilerin sağlığı ve güvenliği açısından kullanım koşullarında tehlikesiz veya daha az tehlikeli madde, karışım veya proses kullanarak işyerindeki kanserojen veya mutajen maddelerin kullanımını azaltacaktır."
     ],
-    "answer": 3,
+    "answer": 0,
     "questionNumber": 733,
     "questionIndex": 234
   },
@@ -2827,7 +2827,7 @@
       "Yapılan risk değerlendirmesi sonucunda çalışanların sağlığı ve güvenliği yönünden risk bulunduğunun ortaya çıkması halinde çalışanların tehlikeli maddelere maruziyeti önlenecektir.",
       "İşveren, kanserojen ve mutajen maddelere maruziyeti azaltmak için bu maddelerin kullanımını işyerinde uygun araçlarla yasaklayacaktır."
     ],
-    "answer": 3,
+    "answer": 0,
     "questionNumber": 734,
     "questionIndex": 235
   },
@@ -2839,7 +2839,7 @@
       "Kanserojen veya mutajen maddelere maruz kalan veya kalabilecek işçi sayısı mümkün olan en çok sayıda olacaktır.",
       "Kanserojen veya mutajen maddelerin çalışma ortamına yayılmasını önlemek veya en aza indirmek için proses tasarımı uygun şekilde yapılacak ve gerekli mühendislik kontrol önlemleri alınacaktır."
     ],
-    "answer": 2,
+    "answer": 0,
     "questionNumber": 735,
     "questionIndex": 236
   },
@@ -2851,7 +2851,7 @@
       "Kanserojen ve mutajen maddelerle çalışan işçilere öncelikle uygun ve CE işaretli kişisel koruyucu donanımlar verecektir.",
       "Özellikle işyeri tabanı, duvarlar ve diğer yüzeyler düzenli olarak temizlenecek ve hijyen şartları sağlanacaktır."
     ],
-    "answer": 3,
+    "answer": 0,
     "questionNumber": 736,
     "questionIndex": 237
   },
@@ -2875,7 +2875,7 @@
       "İşveren, çalışanlara durum hakkında derhal bilgi verecektir.",
       "Etkilenmiş alana, sadece onarım ve diğer zorunlu işleri yapacak kişilerin girmesine izin verilecektir."
     ],
-    "answer": 3,
+    "answer": 0,
     "questionNumber": 738,
     "questionIndex": 239
   },
@@ -2887,7 +2887,7 @@
       "Çalışanlara, işe özel koruyucu giyim eşyası verilecek ve kendi elbiseleri ile koruyucu giyim eşyalarının ayrı yerlerde saklanması için her çalışana bir elbise dolabı verilecektir.",
       "Koruyucu araç ve gereçler özel yerlerde ve uygun şartlarda saklanacaktır."
     ],
-    "answer": 2,
+    "answer": 0,
     "questionNumber": 739,
     "questionIndex": 240
   },
@@ -2899,7 +2899,7 @@
       "İlk yardım temel ilkeleri",
       "Maruziyeti önlenmek için alınması gerekli önlemler"
     ],
-    "answer": 2,
+    "answer": 0,
     "questionNumber": 740,
     "questionIndex": 241
   },
@@ -2935,7 +2935,7 @@
       "Meslek Hastalıkları Hastanesi",
       "Çevre ve Orman Bakanlığı"
     ],
-    "answer": 2,
+    "answer": 0,
     "questionNumber": 743,
     "questionIndex": 244
   },
@@ -2959,7 +2959,7 @@
       "İçişleri Bakanlığı",
       "Sanayi ve Ticaret Bakanlığı"
     ],
-    "answer": 3,
+    "answer": 0,
     "questionNumber": 745,
     "questionIndex": 246
   },
@@ -2971,7 +2971,7 @@
       "Otel, pansiyon, kamp, yurt ve misafirhane gibi konaklama tesislerinde yapılan işler",
       "Petrol ve doğal gaz arama işleri"
     ],
-    "answer": 2,
+    "answer": 0,
     "questionNumber": 746,
     "questionIndex": 247
   },
@@ -2995,7 +2995,7 @@
       "Çöp ve kanalizasyon hizmetleri işleri",
       "Mücevherat ve kuyumculuk imalat işleri"
     ],
-    "answer": 1,
+    "answer": 0,
     "questionNumber": 748,
     "questionIndex": 249
   },
@@ -3007,7 +3007,7 @@
       "Karada, göl ve akarsularda insan veya eşya ve hayvan taşıma işleri",
       "Zirai mücadele ilaç bayiliği işleri"
     ],
-    "answer": 1,
+    "answer": 0,
     "questionNumber": 749,
     "questionIndex": 250
   },
@@ -3019,7 +3019,7 @@
       "Özürlüler",
       "20 yaşından büyük 30 yaşından küçük genç kızlar"
     ],
-    "answer": 1,
+    "answer": 0,
     "questionNumber": 750,
     "questionIndex": 251
   },
@@ -3031,7 +3031,7 @@
       "Muharrik kuvvetle işleyen tam otomatik soğuk şekillendirme tezgahlarında yapılan işlerde",
       "Piroteknik malzemesi hazırlama ve imali işlerinde"
     ],
-    "answer": 1,
+    "answer": 0,
     "questionNumber": 751,
     "questionIndex": 252
   },
@@ -3043,7 +3043,7 @@
       "Genç ve sağlıklı erkek işçilerin işe girişinde sağlık muayenesinden geçmeleri zorunlu değildir.",
       "14 yaşından küçük çocuk işçilerin işe girişlerinde hekim kontrolünden geçirilerek sağlıklı olduklarının belirlenmesi gerekir."
     ],
-    "answer": 2,
+    "answer": 0,
     "questionNumber": 752,
     "questionIndex": 253
   },
@@ -3055,7 +3055,7 @@
       "40 yaşından daha yaşlı olanlar",
       "60 yaşından daha yaşlı olanlar"
     ],
-    "answer": 3,
+    "answer": 0,
     "questionNumber": 753,
     "questionIndex": 254
   },
@@ -3067,7 +3067,7 @@
       "% 5",
       "% 3"
     ],
-    "answer": 2,
+    "answer": 0,
     "questionNumber": 754,
     "questionIndex": 255
   },
@@ -3079,7 +3079,7 @@
       "Saat 18:00'de başlayıp, saat 20:00 ile 21:00 arası yemek ve dinlenme arası verilen ve saat 24:00?e kadar süren çalışmalar",
       "Saat 02:30'de başlayıp, saat 06:00 ile 07:00 arası yemek ve dinlenme arası verilen ve saat 11:00?e kadar süren çalışmalar"
     ],
-    "answer": 3,
+    "answer": 0,
     "questionNumber": 755,
     "questionIndex": 256
   },
@@ -3091,7 +3091,7 @@
       "Üç yılda en az bir defa",
       "İki yılda en az bir defa"
     ],
-    "answer": 2,
+    "answer": 0,
     "questionNumber": 756,
     "questionIndex": 257
   },
@@ -3103,7 +3103,7 @@
       "7,5 saat",
       "8,5 saat"
     ],
-    "answer": 3,
+    "answer": 0,
     "questionNumber": 757,
     "questionIndex": 258
   },
@@ -3115,7 +3115,7 @@
       "En geç saat 18.00'de başlayarak en erken saat 07.00'ye kadar geçen ve her halde en fazla on iki saat süren dönemdir.",
       "En geç saat 20.00?de başlayarak en erken saat 06.00'ya kadar geçen ve her halde en fazla on bir saat süren dönemdir."
     ],
-    "answer": 2,
+    "answer": 0,
     "questionNumber": 758,
     "questionIndex": 259
   },
@@ -3163,7 +3163,7 @@
       "Gerekirse helikopter pisti",
       "Kamp alanı"
     ],
-    "answer": 1,
+    "answer": 0,
     "questionNumber": 762,
     "questionIndex": 263
   },
@@ -3187,7 +3187,7 @@
       "Her 20 erkek ve her 20 kadın işçi için bir adet olmak üzere tuvalet kabinlerinin yapılması",
       "Her 40 erkek ve her 40 kadın işçi için bir adet olmak üzere tuvalet kabinlerinin yapılması"
     ],
-    "answer": 1,
+    "answer": 0,
     "questionNumber": 764,
     "questionIndex": 265
   },
@@ -3199,7 +3199,7 @@
       "Mizaç bozuklukları",
       "Sinirsel yorgunluk sendromu"
     ],
-    "answer": 3,
+    "answer": 0,
     "questionNumber": 765,
     "questionIndex": 266
   },
@@ -3211,7 +3211,7 @@
       "İşletmenin korunması",
       "Ekonominin korunması"
     ],
-    "answer": 1,
+    "answer": 0,
     "questionNumber": 766,
     "questionIndex": 267
   },
@@ -3223,7 +3223,7 @@
       "Dalgınlık",
       "Dikkatsizlik"
     ],
-    "answer": 3,
+    "answer": 0,
     "questionNumber": 767,
     "questionIndex": 268
   },
@@ -3247,7 +3247,7 @@
       "Kağıt",
       "Toz"
     ],
-    "answer": 1,
+    "answer": 0,
     "questionNumber": 769,
     "questionIndex": 270
   },
@@ -3259,7 +3259,7 @@
       "Muharrik kuvvetle işleyen tam otomatik soğuk şekillendirme tezgahlarında yapılan işlerde",
       "Kimyasal gübrelerin üretimi ve depolanması işlerinde"
     ],
-    "answer": 1,
+    "answer": 0,
     "questionNumber": 770,
     "questionIndex": 271
   },
@@ -3271,7 +3271,7 @@
       "İşi ihale eden kurumdaki çalışan işçisayısı",
       "İşverene ait işçi sayısı"
     ],
-    "answer": 3,
+    "answer": 0,
     "questionNumber": 771,
     "questionIndex": 272
   },
@@ -3283,7 +3283,7 @@
       "Reaktivite",
       "Sağlık"
     ],
-    "answer": 1,
+    "answer": 0,
     "questionNumber": 772,
     "questionIndex": 273
   },
@@ -3295,7 +3295,7 @@
       "Toplu iş sözleşmesi",
       "Takım sözleşmesi"
     ],
-    "answer": 1,
+    "answer": 0,
     "questionNumber": 773,
     "questionIndex": 274
   },
@@ -3319,7 +3319,7 @@
       "Elektrik devresi üzerinde uygun nitelikte diyot kullanmak",
       "Elektrik devresi üzerinde 16 A değerinde sigorta kullanmak"
     ],
-    "answer": 2,
+    "answer": 0,
     "questionNumber": 775,
     "questionIndex": 276
   },
@@ -3331,7 +3331,7 @@
       "Mesleki eğitim",
       "Yüksek okul"
     ],
-    "answer": 1,
+    "answer": 0,
     "questionNumber": 776,
     "questionIndex": 277
   },
@@ -3343,7 +3343,7 @@
       "Azot",
       "Asetilen"
     ],
-    "answer": 2,
+    "answer": 0,
     "questionNumber": 777,
     "questionIndex": 278
   },
@@ -3355,7 +3355,7 @@
       "6",
       "5"
     ],
-    "answer": 3,
+    "answer": 0,
     "questionNumber": 778,
     "questionIndex": 279
   },
@@ -3379,7 +3379,7 @@
       "Paraselsus",
       "Nicander"
     ],
-    "answer": 2,
+    "answer": 0,
     "questionNumber": 780,
     "questionIndex": 281
   },
@@ -3403,7 +3403,7 @@
       "Yapının kullanım sınıfına",
       "Kullanıcı yüküne"
     ],
-    "answer": 3,
+    "answer": 0,
     "questionNumber": 782,
     "questionIndex": 283
   },
@@ -3427,7 +3427,7 @@
       "7",
       "5"
     ],
-    "answer": 2,
+    "answer": 0,
     "questionNumber": 784,
     "questionIndex": 285
   },
@@ -3439,7 +3439,7 @@
       "İş güvenliği uzmanı",
       "İşveren vekili"
     ],
-    "answer": 1,
+    "answer": 0,
     "questionNumber": 785,
     "questionIndex": 286
   },
@@ -3451,7 +3451,7 @@
       "İş güvenliği",
       "Psikoloji"
     ],
-    "answer": 2,
+    "answer": 0,
     "questionNumber": 786,
     "questionIndex": 287
   },
@@ -3475,7 +3475,7 @@
       "Eğitimler işçilere mali yük getirmemelidir.",
       "Eğitimler dinlenme süreleri dışında düzenlenir."
     ],
-    "answer": 1,
+    "answer": 0,
     "questionNumber": 788,
     "questionIndex": 289
   },
@@ -3499,7 +3499,7 @@
       "Haberleşme",
       "Yüksek gerilim enerji nakil hatları"
     ],
-    "answer": 1,
+    "answer": 0,
     "questionNumber": 790,
     "questionIndex": 291
   },
@@ -3511,7 +3511,7 @@
       "102",
       "91"
     ],
-    "answer": 2,
+    "answer": 0,
     "questionNumber": 791,
     "questionIndex": 292
   },
@@ -3523,7 +3523,7 @@
       "Beyin fırtınası",
       "Grup çalışması"
     ],
-    "answer": 2,
+    "answer": 0,
     "questionNumber": 792,
     "questionIndex": 293
   },
@@ -3535,7 +3535,7 @@
       "Bakımsız makina",
       "Emniyetsiz vaziyet alma"
     ],
-    "answer": 2,
+    "answer": 0,
     "questionNumber": 793,
     "questionIndex": 294
   },
@@ -3547,7 +3547,7 @@
       "Gürültüye maruz kalan işçiye fazla mesai ödenmesi",
       "Gürültünün kaynağında kesilmesi"
     ],
-    "answer": 2,
+    "answer": 0,
     "questionNumber": 794,
     "questionIndex": 295
   },
@@ -3559,7 +3559,7 @@
       "Sıcaklık, nem veya havalandırma uygun değilse",
       "Çalışılan yer işi yapmak için yeterli genişlikte ise"
     ],
-    "answer": 1,
+    "answer": 0,
     "questionNumber": 795,
     "questionIndex": 296
   },
@@ -3571,7 +3571,7 @@
       "Metal",
       "Maden"
     ],
-    "answer": 2,
+    "answer": 0,
     "questionNumber": 796,
     "questionIndex": 297
   },
@@ -3583,7 +3583,7 @@
       "Nisbi emredici kurallar",
       "Tamamlayıcı kurallar"
     ],
-    "answer": 1,
+    "answer": 0,
     "questionNumber": 797,
     "questionIndex": 298
   },
@@ -3607,7 +3607,7 @@
       "300",
       "180"
     ],
-    "answer": 1,
+    "answer": 0,
     "questionNumber": 799,
     "questionIndex": 300
   },
@@ -3619,7 +3619,7 @@
       "20 yaşını doldurmamış",
       "17 yaşını doldurmamış"
     ],
-    "answer": 2,
+    "answer": 0,
     "questionNumber": 800,
     "questionIndex": 301
   },
@@ -3631,7 +3631,7 @@
       "Yangın alarm ve tatbikatı",
       "Eğitim, danışmanlık ve bilgilendirme"
     ],
-    "answer": 2,
+    "answer": 0,
     "questionNumber": 801,
     "questionIndex": 302
   },
@@ -3655,7 +3655,7 @@
       "Bakanlıklar",
       "Başbakanlık"
     ],
-    "answer": 3,
+    "answer": 0,
     "questionNumber": 803,
     "questionIndex": 304
   },
@@ -3667,7 +3667,7 @@
       "İlave herhangi bir tehlike ortaya çıkarmamalı",
       "Kolayca devreden çıkarılmalı veya kolayca by-pass edilmeli"
     ],
-    "answer": 1,
+    "answer": 0,
     "questionNumber": 804,
     "questionIndex": 305
   },
@@ -3679,7 +3679,7 @@
       "% 1",
       "% 3"
     ],
-    "answer": 3,
+    "answer": 0,
     "questionNumber": 805,
     "questionIndex": 306
   },
@@ -3691,7 +3691,7 @@
       "0,1 Hz ile 1 Hz",
       "1 Hz ile 1 kHz"
     ],
-    "answer": 2,
+    "answer": 0,
     "questionNumber": 806,
     "questionIndex": 307
   },
@@ -3703,7 +3703,7 @@
       "Hakların korunması",
       "Üretimin korunması"
     ],
-    "answer": 2,
+    "answer": 0,
     "questionNumber": 807,
     "questionIndex": 308
   },
@@ -3715,7 +3715,7 @@
       "9",
       "5"
     ],
-    "answer": 1,
+    "answer": 0,
     "questionNumber": 808,
     "questionIndex": 309
   },
@@ -3727,7 +3727,7 @@
       "300",
       "700"
     ],
-    "answer": 3,
+    "answer": 0,
     "questionNumber": 809,
     "questionIndex": 310
   },
@@ -3739,7 +3739,7 @@
       "Ustalar",
       "Özürlüler"
     ],
-    "answer": 2,
+    "answer": 0,
     "questionNumber": 810,
     "questionIndex": 311
   },
@@ -3751,7 +3751,7 @@
       "50",
       "90"
     ],
-    "answer": 2,
+    "answer": 0,
     "questionNumber": 811,
     "questionIndex": 312
   },
@@ -3763,7 +3763,7 @@
       "Göz muayenesine tabi tutulurlar.",
       "Kalp muayenesi tabi tutulurlar."
     ],
-    "answer": 1,
+    "answer": 0,
     "questionNumber": 812,
     "questionIndex": 313
   },
@@ -3775,7 +3775,7 @@
       "Kolay açılacak şekilde iple bağlanacaktır.",
       "Kapalı veya kilitli olacaktır."
     ],
-    "answer": 3,
+    "answer": 0,
     "questionNumber": 813,
     "questionIndex": 314
   },
@@ -3787,7 +3787,7 @@
       "Soyut olması",
       "Özel olması"
     ],
-    "answer": 2,
+    "answer": 0,
     "questionNumber": 814,
     "questionIndex": 315
   },
@@ -3799,7 +3799,7 @@
       "18",
       "19"
     ],
-    "answer": 3,
+    "answer": 0,
     "questionNumber": 815,
     "questionIndex": 316
   },
@@ -3811,7 +3811,7 @@
       "Mücevherat ve kuyumculuk imalat işleri",
       "Bilimsel araştırma merkezleri ve laboratuarlarda yapılan işler"
     ],
-    "answer": 2,
+    "answer": 0,
     "questionNumber": 816,
     "questionIndex": 317
   },
@@ -3835,7 +3835,7 @@
       "Az tehlikeli",
       "Tehlikesiz"
     ],
-    "answer": 1,
+    "answer": 0,
     "questionNumber": 818,
     "questionIndex": 319
   },
@@ -3847,7 +3847,7 @@
       "Gaz maskesi",
       "Yüz siperi"
     ],
-    "answer": 1,
+    "answer": 0,
     "questionNumber": 819,
     "questionIndex": 320
   },
@@ -3883,7 +3883,7 @@
       "İyi önlem alınmamış ortamlarda uygun iş elbisesi ile çalışmamakla",
       "Temas edilmediği halde deri yoluyla"
     ],
-    "answer": 1,
+    "answer": 0,
     "questionNumber": 822,
     "questionIndex": 323
   },
@@ -3895,7 +3895,7 @@
       "ETR",
       "DGR"
     ],
-    "answer": 2,
+    "answer": 0,
     "questionNumber": 823,
     "questionIndex": 324
   },
@@ -3907,7 +3907,7 @@
       "1",
       "2"
     ],
-    "answer": 2,
+    "answer": 0,
     "questionNumber": 824,
     "questionIndex": 325
   },
@@ -3919,7 +3919,7 @@
       "6",
       "3"
     ],
-    "answer": 2,
+    "answer": 0,
     "questionNumber": 825,
     "questionIndex": 326
   },
@@ -3943,7 +3943,7 @@
       "İş kazası raporu hazırlanır.",
       "İş kazası sonrası analizi yapılır."
     ],
-    "answer": 1,
+    "answer": 0,
     "questionNumber": 827,
     "questionIndex": 328
   },
@@ -3955,7 +3955,7 @@
       "Sosyal Güvenlik Kurumu Hastaneleri",
       "Çalışma ve Sosyal Güvenlik Bakanlığı Merkezi"
     ],
-    "answer": 2,
+    "answer": 0,
     "questionNumber": 828,
     "questionIndex": 329
   },
@@ -3979,7 +3979,7 @@
       "İşyeri hekimi",
       "Usta temsilcisi"
     ],
-    "answer": 2,
+    "answer": 0,
     "questionNumber": 830,
     "questionIndex": 331
   },
@@ -4003,7 +4003,7 @@
       "10",
       "2"
     ],
-    "answer": 3,
+    "answer": 0,
     "questionNumber": 832,
     "questionIndex": 333
   },
@@ -4027,7 +4027,7 @@
       "Kişisel koruyucu donanımları",
       "İş makinaları kullanma talimatları"
     ],
-    "answer": 2,
+    "answer": 0,
     "questionNumber": 834,
     "questionIndex": 335
   },
@@ -4051,7 +4051,7 @@
       "Ayda bir",
       "Dört ayda bir"
     ],
-    "answer": 2,
+    "answer": 0,
     "questionNumber": 836,
     "questionIndex": 337
   },
@@ -4063,7 +4063,7 @@
       "Çalışanın tedbirli ve dikkatli davranması",
       "Önlenmesi mümkün olmayan risklerin değerlendirilmesi"
     ],
-    "answer": 1,
+    "answer": 0,
     "questionNumber": 837,
     "questionIndex": 338
   },
@@ -4087,7 +4087,7 @@
       "88",
       "58"
     ],
-    "answer": 2,
+    "answer": 0,
     "questionNumber": 839,
     "questionIndex": 340
   },
@@ -4099,7 +4099,7 @@
       "4",
       "1"
     ],
-    "answer": 2,
+    "answer": 0,
     "questionNumber": 840,
     "questionIndex": 341
   },
@@ -4123,7 +4123,7 @@
       "Gürültüden etkilenme süresi",
       "Gürültüyü meydana getiren sesin şiddeti"
     ],
-    "answer": 3,
+    "answer": 0,
     "questionNumber": 842,
     "questionIndex": 343
   },
@@ -4135,7 +4135,7 @@
       "Toplam işçi sayısı esas alınarak iş sağlığı ve güvenliği kurulu kurulur.",
       "Elliden fazla işçi çalıştıran her bir işyerinde ayrı ayrı birer iş sağlığı ve güvenliği kurulukurulur."
     ],
-    "answer": 1,
+    "answer": 0,
     "questionNumber": 843,
     "questionIndex": 344
   },
@@ -4147,7 +4147,7 @@
       "Ağır Ceza Mahkemesi Kararı",
       "Yargıtay Dairesi Kararı"
     ],
-    "answer": 2,
+    "answer": 0,
     "questionNumber": 844,
     "questionIndex": 345
   },
@@ -4159,7 +4159,7 @@
       "50",
       "150"
     ],
-    "answer": 2,
+    "answer": 0,
     "questionNumber": 845,
     "questionIndex": 346
   },
@@ -4183,7 +4183,7 @@
       "TOBB",
       "Sanayi Odaları"
     ],
-    "answer": 1,
+    "answer": 0,
     "questionNumber": 847,
     "questionIndex": 348
   },
@@ -4195,7 +4195,7 @@
       "Araç kullanmadan çıkılabilen en az 7 metre yüksekliğe yüksek denir.",
       "Tek adımla kolayca çıkamayacağımız yerler yüksek olarak tanımlanabilir."
     ],
-    "answer": 1,
+    "answer": 0,
     "questionNumber": 848,
     "questionIndex": 349
   },
@@ -4207,7 +4207,7 @@
       "Sağlığı etkileyebilecek riskler ile sigara içmenin getireceği ek riskler",
       "Maruziyeti önlenmek için alınması gerekli önlemler"
     ],
-    "answer": 3,
+    "answer": 0,
     "questionNumber": 849,
     "questionIndex": 350
   },
@@ -4219,7 +4219,7 @@
       "20",
       "10"
     ],
-    "answer": 3,
+    "answer": 0,
     "questionNumber": 850,
     "questionIndex": 351
   },
@@ -4231,7 +4231,7 @@
       "Çalışma ve Sosyal Güvenlik Bakanlığı",
       "Sanayi ve Ticaret Bakanlığı"
     ],
-    "answer": 3,
+    "answer": 0,
     "questionNumber": 851,
     "questionIndex": 352
   },
@@ -4255,7 +4255,7 @@
       "Korkuluk olması",
       "Güvenlik ağı kurulması"
     ],
-    "answer": 2,
+    "answer": 0,
     "questionNumber": 853,
     "questionIndex": 354
   },
@@ -4267,7 +4267,7 @@
       "İşle ilgili hastalıklar",
       "Meslek kazaları"
     ],
-    "answer": 1,
+    "answer": 0,
     "questionNumber": 854,
     "questionIndex": 355
   },
@@ -4303,7 +4303,7 @@
       "18",
       "16"
     ],
-    "answer": 3,
+    "answer": 0,
     "questionNumber": 857,
     "questionIndex": 358
   },
@@ -4315,7 +4315,7 @@
       "Bir tehlikeye neden olabilecek veya zarar verecek durum hakkında uyarıda bulunan işaret",
       "Acil çıkış yolları, ilkyardım veya kurtarma ile ilgili bilgi veren işaretler"
     ],
-    "answer": 3,
+    "answer": 0,
     "questionNumber": 858,
     "questionIndex": 359
   },
@@ -4351,7 +4351,7 @@
       "Gerilim değeri en fazla 75 volt olan gerilimlere küçük gerilim denir.",
       "Gerilim değeri en fazla 25 volt olan gerilimlere küçük gerilim denir."
     ],
-    "answer": 2,
+    "answer": 0,
     "questionNumber": 861,
     "questionIndex": 362
   },
@@ -4363,7 +4363,7 @@
       "4",
       "2"
     ],
-    "answer": 2,
+    "answer": 0,
     "questionNumber": 862,
     "questionIndex": 363
   },
@@ -4375,7 +4375,7 @@
       "İş sağlığı ve iş güvenliği eğitimlerine katılmak",
       "İşçileri yasal hak ve sorumlulukları konusunda bilgilendirmek"
     ],
-    "answer": 1,
+    "answer": 0,
     "questionNumber": 863,
     "questionIndex": 364
   },
@@ -4387,7 +4387,7 @@
       "1",
       "5"
     ],
-    "answer": 1,
+    "answer": 0,
     "questionNumber": 864,
     "questionIndex": 365
   },
@@ -4411,7 +4411,7 @@
       "Kimyasal boğucular",
       "Tahriş ediciler"
     ],
-    "answer": 2,
+    "answer": 0,
     "questionNumber": 866,
     "questionIndex": 367
   },
@@ -4447,7 +4447,7 @@
       "Karbon sülfür işleri",
       "Civa izabe fırınların da görülen işler"
     ],
-    "answer": 1,
+    "answer": 0,
     "questionNumber": 869,
     "questionIndex": 370
   },
@@ -4459,7 +4459,7 @@
       "Toplumun kullanımına açık bilgisayar sistemlerinde",
       "Taşıma araçlarındaki bilgisayar sistemlerinde"
     ],
-    "answer": 2,
+    "answer": 0,
     "questionNumber": 870,
     "questionIndex": 371
   },
@@ -4495,7 +4495,7 @@
       "Kimyasal maruziyet",
       "Zararlı tozlar"
     ],
-    "answer": 2,
+    "answer": 0,
     "questionNumber": 873,
     "questionIndex": 374
   },
@@ -4507,7 +4507,7 @@
       "Keski ve çekiç gevşek tutulmalı",
       "Keski başına oluşacak çapaklar zımpara taşı veya eğe ile temizlenmeli"
     ],
-    "answer": 1,
+    "answer": 0,
     "questionNumber": 874,
     "questionIndex": 375
   },
@@ -4519,7 +4519,7 @@
       "Bakanlık",
       "İş Güvenliği Uzmanı"
     ],
-    "answer": 1,
+    "answer": 0,
     "questionNumber": 875,
     "questionIndex": 376
   },
@@ -4531,7 +4531,7 @@
       "Günlük gürültü maruziyet düzeyi (LEX, 8 saat) (dB(A) re.25 μPa)",
       "Günlük gürültü maruziyet düzeyi (LEX, 8 saat) (dB(A) re.15 μPa)"
     ],
-    "answer": 2,
+    "answer": 0,
     "questionNumber": 876,
     "questionIndex": 377
   },
@@ -4543,7 +4543,7 @@
       "Kulaklık",
       "Baret"
     ],
-    "answer": 2,
+    "answer": 0,
     "questionNumber": 878,
     "questionIndex": 378
   },
@@ -4567,7 +4567,7 @@
       "80",
       "220"
     ],
-    "answer": 3,
+    "answer": 0,
     "questionNumber": 880,
     "questionIndex": 380
   },
@@ -4579,7 +4579,7 @@
       "Nitril",
       "Neopren"
     ],
-    "answer": 1,
+    "answer": 0,
     "questionNumber": 881,
     "questionIndex": 381
   },
@@ -4591,7 +4591,7 @@
       "3 ay",
       "6 ay"
     ],
-    "answer": 2,
+    "answer": 0,
     "questionNumber": 882,
     "questionIndex": 382
   },
@@ -4603,7 +4603,7 @@
       "Kondansatör",
       "Statik elektrik"
     ],
-    "answer": 2,
+    "answer": 0,
     "questionNumber": 883,
     "questionIndex": 383
   },
@@ -4615,7 +4615,7 @@
       "2 m",
       "3 m"
     ],
-    "answer": 2,
+    "answer": 0,
     "questionNumber": 884,
     "questionIndex": 384
   },
@@ -4627,7 +4627,7 @@
       "18",
       "10"
     ],
-    "answer": 2,
+    "answer": 0,
     "questionNumber": 885,
     "questionIndex": 385
   },
@@ -4639,7 +4639,7 @@
       "Toz maskesi",
       "İş Gözlüğü"
     ],
-    "answer": 2,
+    "answer": 0,
     "questionNumber": 886,
     "questionIndex": 386
   },
@@ -4663,7 +4663,7 @@
       "İş ayakkabısı",
       "Kulaklık"
     ],
-    "answer": 1,
+    "answer": 0,
     "questionNumber": 888,
     "questionIndex": 388
   },
@@ -4675,7 +4675,7 @@
       "Toz maskesi",
       "Kulaklık"
     ],
-    "answer": 1,
+    "answer": 0,
     "questionNumber": 889,
     "questionIndex": 389
   },
@@ -4687,7 +4687,7 @@
       "FFP1",
       "FFP2"
     ],
-    "answer": 1,
+    "answer": 0,
     "questionNumber": 890,
     "questionIndex": 390
   },
@@ -4699,7 +4699,7 @@
       "Hızlı yazma teknikleri",
       "Zorlayıcı travmalar ve koruma yolları"
     ],
-    "answer": 2,
+    "answer": 0,
     "questionNumber": 891,
     "questionIndex": 391
   },
@@ -4711,7 +4711,7 @@
       "İş eldiveni",
       "Baret"
     ],
-    "answer": 3,
+    "answer": 0,
     "questionNumber": 892,
     "questionIndex": 392
   },
@@ -4723,7 +4723,7 @@
       "1",
       "2"
     ],
-    "answer": 3,
+    "answer": 0,
     "questionNumber": 893,
     "questionIndex": 393
   },
@@ -4735,7 +4735,7 @@
       "Kulak Koruyucusu Tipi",
       "Gürültü Azaltma Oranı"
     ],
-    "answer": 3,
+    "answer": 0,
     "questionNumber": 894,
     "questionIndex": 394
   },
@@ -4747,7 +4747,7 @@
       "12",
       "18"
     ],
-    "answer": 3,
+    "answer": 0,
     "questionNumber": 895,
     "questionIndex": 395
   },
@@ -4759,7 +4759,7 @@
       "Çarpıntı",
       "Travma"
     ],
-    "answer": 1,
+    "answer": 0,
     "questionNumber": 896,
     "questionIndex": 396
   },
@@ -4771,7 +4771,7 @@
       "Yapılacak işe uygun olmalı",
       "Çapları uygun olmalı, kolayca çıkmalı, çatlak kırık olmalı"
     ],
-    "answer": 3,
+    "answer": 0,
     "questionNumber": 897,
     "questionIndex": 397
   },
@@ -4795,7 +4795,7 @@
       "10 m",
       "8 m"
     ],
-    "answer": 1,
+    "answer": 0,
     "questionNumber": 899,
     "questionIndex": 399
   },
@@ -4807,7 +4807,7 @@
       "Ayakkabının ön tarafında parmakların rahatça hareket edebileceği yer olacak şekildeseçilmeli",
       "Sabah vakitlerinde deneyerek seçilmeli"
     ],
-    "answer": 3,
+    "answer": 0,
     "questionNumber": 900,
     "questionIndex": 400
   },
@@ -4819,7 +4819,7 @@
       "Kancalar",
       "Frenler"
     ],
-    "answer": 3,
+    "answer": 0,
     "questionNumber": 901,
     "questionIndex": 401
   },
@@ -4831,7 +4831,7 @@
       "Yapılacak işe uygun seçilmeli",
       "Destek olarak tahta, plastik veya yumuşak malzeme kullanılmamalıdır"
     ],
-    "answer": 3,
+    "answer": 0,
     "questionNumber": 902,
     "questionIndex": 402
   },
@@ -4843,7 +4843,7 @@
       "Çizme",
       "Tabanca"
     ],
-    "answer": 2,
+    "answer": 0,
     "questionNumber": 903,
     "questionIndex": 403
   },
@@ -4867,7 +4867,7 @@
       "20",
       "5"
     ],
-    "answer": 3,
+    "answer": 0,
     "questionNumber": 905,
     "questionIndex": 405
   },
@@ -4879,7 +4879,7 @@
       "İş eldiveni",
       "Toz maskesi"
     ],
-    "answer": 1,
+    "answer": 0,
     "questionNumber": 906,
     "questionIndex": 406
   },
@@ -4915,7 +4915,7 @@
       "Riskler yeterli derecede azaltılmışsa",
       "Teknik tedbirler yetersizse"
     ],
-    "answer": 3,
+    "answer": 0,
     "questionNumber": 909,
     "questionIndex": 409
   },
@@ -4927,7 +4927,7 @@
       "Teknik Eleman",
       "İş Güvenliği Uzmanı"
     ],
-    "answer": 3,
+    "answer": 0,
     "questionNumber": 910,
     "questionIndex": 410
   },
@@ -4939,7 +4939,7 @@
       "3",
       "1,5"
     ],
-    "answer": 3,
+    "answer": 0,
     "questionNumber": 911,
     "questionIndex": 411
   },
@@ -4951,7 +4951,7 @@
       "Çalışma Koşulu A",
       "Çalışma Koşulu B"
     ],
-    "answer": 2,
+    "answer": 0,
     "questionNumber": 912,
     "questionIndex": 412
   },
@@ -4987,7 +4987,7 @@
       "II, III, IV",
       "I, II, III"
     ],
-    "answer": 3,
+    "answer": 0,
     "questionNumber": 915,
     "questionIndex": 415
   },
@@ -4999,7 +4999,7 @@
       "931 Sayılı Yasa",
       "1475 Sayılı Yasa"
     ],
-    "answer": 1,
+    "answer": 0,
     "questionNumber": 916,
     "questionIndex": 416
   },
@@ -5011,7 +5011,7 @@
       "931 Sayılı İş Kanunu",
       "Belediye Kanunu"
     ],
-    "answer": 1,
+    "answer": 0,
     "questionNumber": 917,
     "questionIndex": 417
   },
@@ -5023,7 +5023,7 @@
       "Yalnız III",
       "hepsi"
     ],
-    "answer": 3,
+    "answer": 0,
     "questionNumber": 918,
     "questionIndex": 418
   },
@@ -5035,7 +5035,7 @@
       "Plini",
       "Juvenal"
     ],
-    "answer": 2,
+    "answer": 0,
     "questionNumber": 919,
     "questionIndex": 419
   },
@@ -5083,7 +5083,7 @@
       "meslek hastalığı",
       "iş hekimi"
     ],
-    "answer": 1,
+    "answer": 0,
     "questionNumber": 923,
     "questionIndex": 423
   },
@@ -5095,7 +5095,7 @@
       "Owen",
       "Hipokrates"
     ],
-    "answer": 3,
+    "answer": 0,
     "questionNumber": 924,
     "questionIndex": 424
   },
@@ -5107,7 +5107,7 @@
       "Kurul üyelerinin çoğunluğu ile toplanır.",
       "İSG kurulları danışma organı niteliğindedir."
     ],
-    "answer": 2,
+    "answer": 0,
     "questionNumber": 925,
     "questionIndex": 425
   },
@@ -5119,7 +5119,7 @@
       "50",
       "Sayı önemli değildir."
     ],
-    "answer": 1,
+    "answer": 0,
     "questionNumber": 926,
     "questionIndex": 426
   },
@@ -5131,7 +5131,7 @@
       "Oksijen ve elektrik kaynağı işçileri",
       "Civa izabe fırınların da görülen işler"
     ],
-    "answer": 1,
+    "answer": 0,
     "questionNumber": 927,
     "questionIndex": 427
   },
@@ -5155,7 +5155,7 @@
       "İş sağlığı ve güvenliği",
       "Risk değerlendirmesi"
     ],
-    "answer": 2,
+    "answer": 0,
     "questionNumber": 929,
     "questionIndex": 429
   },
@@ -5179,7 +5179,7 @@
       "Tehlikeli durum",
       "Dalgınlık"
     ],
-    "answer": 1,
+    "answer": 0,
     "questionNumber": 931,
     "questionIndex": 431
   },
@@ -5191,7 +5191,7 @@
       "% 50",
       "% 10"
     ],
-    "answer": 1,
+    "answer": 0,
     "questionNumber": 932,
     "questionIndex": 432
   },
@@ -5203,7 +5203,7 @@
       "Alet ve makineleri tehlikeli şekilde kullanma",
       "Emniyetsiz yükleme, taşıma ve istifleme"
     ],
-    "answer": 1,
+    "answer": 0,
     "questionNumber": 933,
     "questionIndex": 433
   },
@@ -5215,7 +5215,7 @@
       "İşçi Temsilcisi",
       "İl Sanayi Müdürü"
     ],
-    "answer": 2,
+    "answer": 0,
     "questionNumber": 934,
     "questionIndex": 434
   },
@@ -5227,7 +5227,7 @@
       "I-II-III",
       "II-III"
     ],
-    "answer": 3,
+    "answer": 0,
     "questionNumber": 935,
     "questionIndex": 435
   },
@@ -5239,7 +5239,7 @@
       "1",
       "2"
     ],
-    "answer": 3,
+    "answer": 0,
     "questionNumber": 936,
     "questionIndex": 436
   },
@@ -5251,7 +5251,7 @@
       "Deniz İş Kanunu",
       "Borçlar Kanunu"
     ],
-    "answer": 2,
+    "answer": 0,
     "questionNumber": 937,
     "questionIndex": 437
   },
@@ -5275,7 +5275,7 @@
       "İş hukuku",
       "Mali hukuk"
     ],
-    "answer": 2,
+    "answer": 0,
     "questionNumber": 940,
     "questionIndex": 439
   },
@@ -5287,7 +5287,7 @@
       "Kusursuz sorumluluk",
       "Destek tazminatı"
     ],
-    "answer": 2,
+    "answer": 0,
     "questionNumber": 941,
     "questionIndex": 440
   },
@@ -5299,7 +5299,7 @@
       "Taksir",
       "Kusur"
     ],
-    "answer": 2,
+    "answer": 0,
     "questionNumber": 942,
     "questionIndex": 441
   },
@@ -5335,7 +5335,7 @@
       "İşveren vekilliği özel yükümlere dayanan özel bir statüdür",
       "İşveren vekilinin işçilere karşı işlem ve yükümlülüklerinden doğrudan işveren sorumludur"
     ],
-    "answer": 2,
+    "answer": 0,
     "questionNumber": 945,
     "questionIndex": 444
   },
@@ -5347,7 +5347,7 @@
       "Cezai",
       "İdari"
     ],
-    "answer": 3,
+    "answer": 0,
     "questionNumber": 946,
     "questionIndex": 445
   },
@@ -5359,7 +5359,7 @@
       "Cezai",
       "İdari"
     ],
-    "answer": 3,
+    "answer": 0,
     "questionNumber": 947,
     "questionIndex": 446
   },
@@ -5371,7 +5371,7 @@
       "Ticaret kanunu",
       "İş kanunu"
     ],
-    "answer": 1,
+    "answer": 0,
     "questionNumber": 948,
     "questionIndex": 447
   },
@@ -5383,7 +5383,7 @@
       "10",
       "15"
     ],
-    "answer": 3,
+    "answer": 0,
     "questionNumber": 950,
     "questionIndex": 448
   },
@@ -5407,7 +5407,7 @@
       "İş kanunu",
       "Meslek eğitimi kanunu"
     ],
-    "answer": 2,
+    "answer": 0,
     "questionNumber": 952,
     "questionIndex": 450
   },
@@ -5419,7 +5419,7 @@
       "İdari",
       "Cezai"
     ],
-    "answer": 2,
+    "answer": 0,
     "questionNumber": 953,
     "questionIndex": 451
   },
@@ -5431,7 +5431,7 @@
       "SS kanunu",
       "İş kanunu"
     ],
-    "answer": 2,
+    "answer": 0,
     "questionNumber": 954,
     "questionIndex": 452
   },
@@ -5443,7 +5443,7 @@
       "Deniz ve hava taşıma işleri",
       "Ev hizmetleri"
     ],
-    "answer": 3,
+    "answer": 0,
     "questionNumber": 955,
     "questionIndex": 453
   },
@@ -5467,7 +5467,7 @@
       "Umumi Hıfzıssıhha Kanunu",
       "Sosyal Sigortalar ve Genel Sigortalar Kanunu"
     ],
-    "answer": 2,
+    "answer": 0,
     "questionNumber": 957,
     "questionIndex": 455
   },
@@ -5479,7 +5479,7 @@
       "SGK İl Müdürü",
       "Türkiye İş Kurumu İl Müdürü"
     ],
-    "answer": 1,
+    "answer": 0,
     "questionNumber": 958,
     "questionIndex": 456
   },
@@ -5491,7 +5491,7 @@
       "300",
       "100"
     ],
-    "answer": 3,
+    "answer": 0,
     "questionNumber": 959,
     "questionIndex": 457
   },
@@ -5503,7 +5503,7 @@
       "Umumi Hıfzıssıhha Kanunu",
       "Borçlar Kanunu"
     ],
-    "answer": 2,
+    "answer": 0,
     "questionNumber": 960,
     "questionIndex": 458
   },
@@ -5515,7 +5515,7 @@
       "Kamu kurum ve kuruluşları, işyerlerinde yapacakları iş sağlığı ve güvenliği ile ilgili teftişve denetlemelerin sonuçlarını ve yapacakları işlemleri o yer için yetkili bölge müdürlüğünebildirirler.",
       "İşyerinin açılmasına izin vermeye yetkili belediyeler ile diğer ilgili makamlar bu iznivermeden önce, Çalışma ve Sosyal Güvenlik Bakanlığınca iş mevzuatına göre verilmesigerekli işletme belgesinin varlığını araştırmak zorundadır."
     ],
-    "answer": 1,
+    "answer": 0,
     "questionNumber": 961,
     "questionIndex": 459
   },
@@ -5527,7 +5527,7 @@
       "Borçlar kanunu",
       "İş kanunu"
     ],
-    "answer": 1,
+    "answer": 0,
     "questionNumber": 962,
     "questionIndex": 460
   },
@@ -5551,7 +5551,7 @@
       "İşverenler işyerlerinde iş sağlığı ve güvenliğinin sağlanması için gerekli her türlü önlemialmak, araç ve gereçleri noksansız bulundurmakla yükümlüdür",
       "işçiler iş sağlığı ve güvenliği konusunda alınan her türlü önleme uymakla yükümlüdürler."
     ],
-    "answer": 2,
+    "answer": 0,
     "questionNumber": 964,
     "questionIndex": 462
   },
@@ -5599,7 +5599,7 @@
       "Şeker fabrikası",
       "Gofret , bisküvi imalathanesi"
     ],
-    "answer": 2,
+    "answer": 0,
     "questionNumber": 968,
     "questionIndex": 466
   },
@@ -5611,7 +5611,7 @@
       "II. Risk grubunda 500 işçi çalışan iş yerinde tam gün çalışan en az bir iş yeri hemşiresibulunmalıdır",
       "IV.risk gurubunda 300 işçi çalışan iş yerinde tam gün çalışan en az 1 iş yeri hemşiresibulunmalıdır"
     ],
-    "answer": 1,
+    "answer": 0,
     "questionNumber": 969,
     "questionIndex": 467
   },
@@ -5623,7 +5623,7 @@
       "V.risk gurubunda 350 işçi çalışan bir iş yerinde tam gün bir iş yeri hemşiresi çalışmalıdır",
       "Sağlık ve güvenlik işçisi,50 den fazla işçi çalıştıran yerlerde seçilmelidir"
     ],
-    "answer": 2,
+    "answer": 0,
     "questionNumber": 970,
     "questionIndex": 468
   },
@@ -5635,7 +5635,7 @@
       "Ayda en az 1 iş günü",
       "Ayda en az 5 iş günü"
     ],
-    "answer": 3,
+    "answer": 0,
     "questionNumber": 971,
     "questionIndex": 469
   },
@@ -5671,7 +5671,7 @@
       "Askerlik yaptığı sınıf",
       "Daha önceki işler"
     ],
-    "answer": 3,
+    "answer": 0,
     "questionNumber": 974,
     "questionIndex": 472
   },
@@ -5707,7 +5707,7 @@
       "Hiçbiri",
       "Aynı gün toplanmak zorundadır,"
     ],
-    "answer": 3,
+    "answer": 0,
     "questionNumber": 977,
     "questionIndex": 475
   },
@@ -5719,7 +5719,7 @@
       "İşveren Vekili",
       "İş güvenliği uzmanı"
     ],
-    "answer": 3,
+    "answer": 0,
     "questionNumber": 978,
     "questionIndex": 476
   },
@@ -5731,7 +5731,7 @@
       "4857 sayımı İş Kanunun 83 maddesinde belirtilen taleplerin vukuunda acilen ve kararvermek",
       "İşyerinde yangınla,doğalafetlerle,sabotaj ve benzeri ile ilgili tedbirlerin yeterliliğini veekiplerin çalışmalarını izlemek"
     ],
-    "answer": 1,
+    "answer": 0,
     "questionNumber": 979,
     "questionIndex": 477
   },
@@ -5743,7 +5743,7 @@
       "Hiçbiri",
       "İş güvenliği uzmanı"
     ],
-    "answer": 1,
+    "answer": 0,
     "questionNumber": 980,
     "questionIndex": 478
   },
@@ -5755,7 +5755,7 @@
       "Tehlike alanının mesafesinin artırılması veya çalışma ortamına kapatılması",
       "Tehlikenin kaynağında azaltılması"
     ],
-    "answer": 1,
+    "answer": 0,
     "questionNumber": 981,
     "questionIndex": 479
   },
@@ -5767,7 +5767,7 @@
       "Periyodik sağlık muayenesi",
       "İşe giriş sağlık muayenesi"
     ],
-    "answer": 1,
+    "answer": 0,
     "questionNumber": 982,
     "questionIndex": 480
   },
@@ -5779,7 +5779,7 @@
       "İSG mevzuatına göre ihtiyaçları belirlemek",
       "İş güvenliği ve işçi sağlığının sağlanması"
     ],
-    "answer": 3,
+    "answer": 0,
     "questionNumber": 983,
     "questionIndex": 481
   },
@@ -5815,7 +5815,7 @@
       "Katılım hakkı",
       "Kuralların önceden belirlenmesi"
     ],
-    "answer": 1,
+    "answer": 0,
     "questionNumber": 986,
     "questionIndex": 484
   },
@@ -5827,7 +5827,7 @@
       "Çalışanların katılımı Koruma önleme anlayışı",
       "boş şık :=D"
     ],
-    "answer": 1,
+    "answer": 0,
     "questionNumber": 987,
     "questionIndex": 485
   },
@@ -5851,7 +5851,7 @@
       "Tehlikelerden kaynaklanan bir olayın meydana gelebilme olasılığı ile zarar vermederecesinin bir bileşkesidir.",
       "Muhtemel kaybın miktarı"
     ],
-    "answer": 2,
+    "answer": 0,
     "questionNumber": 989,
     "questionIndex": 487
   },
@@ -5863,7 +5863,7 @@
       "Proaktif faaliyet",
       "Hepsi"
     ],
-    "answer": 2,
+    "answer": 0,
     "questionNumber": 990,
     "questionIndex": 488
   },
@@ -5875,7 +5875,7 @@
       "Çabuk netice alınması sağlanır",
       "Bireyin meslektaşları tarafından yönlendirilmesi engeller"
     ],
-    "answer": 2,
+    "answer": 0,
     "questionNumber": 991,
     "questionIndex": 489
   },
@@ -5887,7 +5887,7 @@
       "Sıvılar (asitler, bazlar, Solventler)",
       "Katı tozları (organik, inorganik)"
     ],
-    "answer": 1,
+    "answer": 0,
     "questionNumber": 992,
     "questionIndex": 490
   },
@@ -5911,7 +5911,7 @@
       "Büyük iş yerleri",
       "50 ve daha fazla işçi çalıştıran iş yerleri"
     ],
-    "answer": 2,
+    "answer": 0,
     "questionNumber": 994,
     "questionIndex": 492
   },
@@ -5923,7 +5923,7 @@
       "Çalışanların eğitilmesi",
       "Risklerin değerlendirilmesi"
     ],
-    "answer": 1,
+    "answer": 0,
     "questionNumber": 995,
     "questionIndex": 493
   },
@@ -5935,7 +5935,7 @@
       "Tehlikeli makina parçaları",
       "Makine koruyucularını çıkarmak"
     ],
-    "answer": 2,
+    "answer": 0,
     "questionNumber": 996,
     "questionIndex": 494
   },
@@ -5947,7 +5947,7 @@
       "iş yeri sağlık pirimleri",
       "Tehlike tanımları"
     ],
-    "answer": 3,
+    "answer": 0,
     "questionNumber": 997,
     "questionIndex": 495
   },
@@ -5959,7 +5959,7 @@
       "60-100",
       "20-25"
     ],
-    "answer": 2,
+    "answer": 0,
     "questionNumber": 998,
     "questionIndex": 496
   },
@@ -5971,7 +5971,7 @@
       "Sanayiden sayılan ve yılda 11 ay faaliyet yürütülen 51 işçi çalıştırılan bir işyeri",
       "10 yılda bir"
     ],
-    "answer": 1,
+    "answer": 0,
     "questionNumber": 999,
     "questionIndex": 497
   },
@@ -5983,7 +5983,7 @@
       "Geçici veya Hareketli iş alanlarında",
       "Maden, petrol ve gaz çıkarma işlerinde"
     ],
-    "answer": 2,
+    "answer": 0,
     "questionNumber": 1000,
     "questionIndex": 498
   }
