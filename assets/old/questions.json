@@ -1,0 +1,5342 @@
+[
+  {
+    "question": "What is the etymology of the word \"robot\"?",
+    "options": [
+      "It was coined by Isaac Asimov in his science fiction stories.",
+      "It was first used by Karel Capek in his 1920 play R.U.R.",
+      "It originates from the Greek word for \"automaton.\"",
+      "It was introduced by Leonardo da Vinci in his sketches of mechanical devices."
+    ],
+    "answer": 1,
+    "questionNumber": 1,
+    "questionIndex": 0
+  },
+  {
+    "question": "Which of the following is a key question in mobile robotics?",
+    "options": [
+      "What is the weight of the robot?",
+      "Where am I?",
+      "How much energy does the robot consume?",
+      "What is the robot's maximum speed?"
+    ],
+    "answer": 1,
+    "questionNumber": 2,
+    "questionIndex": 1
+  },
+  {
+    "question": "What is the primary focus of the \"Localization\" module in the course?",
+    "options": [
+      "Planning the robot's path to avoid obstacles.",
+      "Determining the robot's position in the environment.",
+      "Controlling the robot's motion using actuators.",
+      "Extracting key features from sensor data."
+    ],
+    "answer": 1,
+    "questionNumber": 3,
+    "questionIndex": 2
+  },
+  {
+    "question": "Which of the following sensors is commonly used for perception in autonomous robots?",
+    "options": [
+      "Thermometer",
+      "Laser scanner",
+      "Barometer",
+      "Hygrometer"
+    ],
+    "answer": 1,
+    "questionNumber": 4,
+    "questionIndex": 3
+  },
+  {
+    "question": "What is the main goal of the \"Cognition\" module in the course?",
+    "options": [
+      "To sense the environment using raw data.",
+      "To plan the robot's path and avoid collisions.",
+      "To control the robot's motion using inverse kinematics.",
+      "To build a map of the environment."
+    ],
+    "answer": 1,
+    "questionNumber": 5,
+    "questionIndex": 4
+  },
+  {
+    "question": "Which of the following is a constraint related to wheel types in motion control?",
+    "options": [
+      "No-sliding constraint (lateral)",
+      "Maximum speed constraint",
+      "Energy consumption constraint",
+      "Weight distribution constraint"
+    ],
+    "answer": 0,
+    "questionNumber": 6,
+    "questionIndex": 5
+  },
+  {
+    "question": "What is the purpose of the \"see-think-act\" cycle in autonomous robots?",
+    "options": [
+      "To measure the robot's energy consumption.",
+      "To sense, process, and act on environmental information.",
+      "To calculate the robot's weight distribution.",
+      "To determine the robot's maximum speed."
+    ],
+    "answer": 1,
+    "questionNumber": 7,
+    "questionIndex": 6
+  },
+  {
+    "question": "Which of the following is a key component of the \"Perception\" module?",
+    "options": [
+      "Path execution",
+      "Key point matching",
+      "Motion control",
+      "Localization"
+    ],
+    "answer": 1,
+    "questionNumber": 8,
+    "questionIndex": 7
+  },
+  {
+    "question": "What is the main focus of the \"Path Planning\" module?",
+    "options": [
+      "To sense the environment using raw data.",
+      "To determine the robot's position in the environment.",
+      "To plan the robot's movement to reach a goal.",
+      "To control the robot's motion using actuators."
+    ],
+    "answer": 2,
+    "questionNumber": 9,
+    "questionIndex": 8
+  },
+  {
+    "question": "Which of the following is a common application of autonomous robots?",
+    "options": [
+      "Cooking food in a kitchen.",
+      "Autonomous driving.",
+      "Writing novels.",
+      "Painting portraits."
+    ],
+    "answer": 1,
+    "questionNumber": 10,
+    "questionIndex": 9
+  },
+  {
+    "question": "What is the primary goal of the \"Motion Control\" module in the course?",
+    "options": [
+      "To sense the environment using raw data.",
+      "To determine the robot's position in the environment.",
+      "To control the robot's movement using actuators.",
+      "To plan the robot's path to avoid obstacles."
+    ],
+    "answer": 2,
+    "questionNumber": 11,
+    "questionIndex": 10
+  },
+  {
+    "question": "Which of the following is a key step in the \"see-think-act\" cycle?",
+    "options": [
+      "Measuring the robot's weight.",
+      "Extracting information from raw sensor data.",
+      "Calculating the robot's energy consumption.",
+      "Determining the robot's maximum speed."
+    ],
+    "answer": 1,
+    "questionNumber": 12,
+    "questionIndex": 11
+  },
+  {
+    "question": "What is the main purpose of \"Information Extraction\" in the perception process?",
+    "options": [
+      "To control the robot's motion using actuators.",
+      "To filter and detect edges from raw sensor data.",
+      "To plan the robot's path to reach a goal.",
+      "To determine the robot's position in the environment."
+    ],
+    "answer": 1,
+    "questionNumber": 13,
+    "questionIndex": 12
+  },
+  {
+    "question": "Which of the following is a common tool used in the course for simulating robot environments?",
+    "options": [
+      "MATLAB",
+      "Gazebo",
+      "Unity",
+      "Blender"
+    ],
+    "answer": 1,
+    "questionNumber": 14,
+    "questionIndex": 13
+  },
+  {
+    "question": "What is the primary focus of the \"Global Path Planning\" module?",
+    "options": [
+      "To avoid local obstacles in real-time.",
+      "To plan a high-level path from start to goal.",
+      "To control the robot's motion using inverse kinematics.",
+      "To sense the environment using raw data."
+    ],
+    "answer": 1,
+    "questionNumber": 15,
+    "questionIndex": 14
+  },
+  {
+    "question": "Which of the following is a key component of the \"Localization\" process?",
+    "options": [
+      "Path execution",
+      "Belief update (information fusion)",
+      "Key point matching",
+      "Edge detection"
+    ],
+    "answer": 1,
+    "questionNumber": 16,
+    "questionIndex": 15
+  },
+  {
+    "question": "What is the main purpose of \"Acting\" in the see-think-act cycle?",
+    "options": [
+      "To sense the environment using raw data.",
+      "To execute actuator commands based on planned paths.",
+      "To determine the robot's position in the environment.",
+      "To plan the robot's movement to reach a goal."
+    ],
+    "answer": 1,
+    "questionNumber": 17,
+    "questionIndex": 16
+  },
+  {
+    "question": "Which of the following is a key feature of autonomous robots?",
+    "options": [
+      "They are always controlled by a human operator.",
+      "They can sense their environment and act independently.",
+      "They are limited to pre-programmed tasks.",
+      "They cannot operate in dynamic environments."
+    ],
+    "answer": 1,
+    "questionNumber": 18,
+    "questionIndex": 17
+  },
+  {
+    "question": "What is the primary focus of the \"Local Path Planning\" module?",
+    "options": [
+      "To plan a high-level path from start to goal.",
+      "To avoid local obstacles in real-time.",
+      "To control the robot's motion using actuators.",
+      "To sense the environment using raw data."
+    ],
+    "answer": 1,
+    "questionNumber": 19,
+    "questionIndex": 18
+  },
+  {
+    "question": "Which of the following is a key component of the \"Cognition\" module?",
+    "options": [
+      "Sensing the environment using raw data.",
+      "Determining the robot's position in the environment.",
+      "Planning the robot's path to reach a goal.",
+      "Controlling the robot's motion using actuators."
+    ],
+    "answer": 2,
+    "questionNumber": 20,
+    "questionIndex": 19
+  },
+  {
+    "question": "What is the primary purpose of the \"Sensing\" phase in the see-think-act cycle?",
+    "options": [
+      "To plan the robot's path to reach a goal.",
+      "To gather raw data from the environment.",
+      "To control the robot's motion using actuators.",
+      "To determine the robot's position in the environment."
+    ],
+    "answer": 1,
+    "questionNumber": 21,
+    "questionIndex": 20
+  },
+  {
+    "question": "Which of the following is a key component of the \"Map Building\" process?",
+    "options": [
+      "Path execution",
+      "Creating an environment model",
+      "Key point matching",
+      "Edge detection"
+    ],
+    "answer": 1,
+    "questionNumber": 22,
+    "questionIndex": 21
+  },
+  {
+    "question": "What is the main goal of the \"Path Execution\" module?",
+    "options": [
+      "To sense the environment using raw data.",
+      "To execute the planned path using actuator commands.",
+      "To determine the robot's position in the environment.",
+      "To plan the robot's movement to reach a goal."
+    ],
+    "answer": 1,
+    "questionNumber": 23,
+    "questionIndex": 22
+  },
+  {
+    "question": "Which of the following is a key feature of the \"Rolling Constraint\" in motion control?",
+    "options": [
+      "It prevents the robot from sliding laterally.",
+      "It ensures the robot moves in a straight line.",
+      "It limits the robot's maximum speed.",
+      "It controls the robot's energy consumption."
+    ],
+    "answer": 1,
+    "questionNumber": 24,
+    "questionIndex": 23
+  },
+  {
+    "question": "What is the primary focus of the \"Information Fusion\" process in localization?",
+    "options": [
+      "To plan the robot's path to reach a goal.",
+      "To combine sensor data to update the robot's belief about its position.",
+      "To control the robot's motion using actuators.",
+      "To sense the environment using raw data."
+    ],
+    "answer": 1,
+    "questionNumber": 25,
+    "questionIndex": 24
+  },
+  {
+    "question": "Which of the following is a key component of the \"Global Map\" in the see-think-act cycle?",
+    "options": [
+      "Raw sensor data",
+      "A high-level representation of the environment",
+      "Actuator commands",
+      "Local obstacle information"
+    ],
+    "answer": 1,
+    "questionNumber": 26,
+    "questionIndex": 25
+  },
+  {
+    "question": "What is the main purpose of the \"Mission Commands\" in the see-think-act cycle?",
+    "options": [
+      "To sense the environment using raw data.",
+      "To provide high-level goals for the robot.",
+      "To control the robot's motion using actuators.",
+      "To determine the robot's position in the environment."
+    ],
+    "answer": 1,
+    "questionNumber": 27,
+    "questionIndex": 26
+  },
+  {
+    "question": "Which of the following is a key feature of the \"No-Sliding Constraint\" in motion control?",
+    "options": [
+      "It prevents the robot from sliding laterally.",
+      "It ensures the robot moves in a straight line.",
+      "It limits the robot's maximum speed.",
+      "It controls the robot's energy consumption."
+    ],
+    "answer": 0,
+    "questionNumber": 28,
+    "questionIndex": 27
+  },
+  {
+    "question": "What is the primary focus of the \"Graph Search\" algorithm in global path planning?",
+    "options": [
+      "To avoid local obstacles in real-time.",
+      "To find a high-level path from start to goal.",
+      "To control the robot's motion using actuators.",
+      "To sense the environment using raw data."
+    ],
+    "answer": 1,
+    "questionNumber": 29,
+    "questionIndex": 28
+  },
+  {
+    "question": "Which of the following is a key component of the \"Local Map\" in the see-think-act cycle?",
+    "options": [
+      "Raw sensor data",
+      "A high-level representation of the environment",
+      "Actuator commands",
+      "Local obstacle information"
+    ],
+    "answer": 3,
+    "questionNumber": 30,
+    "questionIndex": 29
+  },
+  {
+    "question": "What is the origin of the word \"robot\"?",
+    "options": [
+      "Derived from the Latin word for \"mechanical\"",
+      "Coined by Isaac Asimov in his science fiction stories",
+      "Introduced by Karel Capek in his play R.U.R.",
+      "Derived from the Greek word for \"automaton\""
+    ],
+    "answer": 2,
+    "questionNumber": 31,
+    "questionIndex": 30
+  },
+  {
+    "question": "What does the word \"rabota\" mean in Czech?",
+    "options": [
+      "Machine",
+      "Forced labor or serf",
+      "Autonomous",
+      "Worker"
+    ],
+    "answer": 1,
+    "questionNumber": 32,
+    "questionIndex": 31
+  },
+  {
+    "question": "Which of the following is NOT one of the key questions in mobile robotics?",
+    "options": [
+      "Where am I?",
+      "What is my power consumption?",
+      "Where am I going?",
+      "How do I get there?"
+    ],
+    "answer": 1,
+    "questionNumber": 33,
+    "questionIndex": 32
+  },
+  {
+    "question": "What must a robot have to answer the key questions in mobile robotics?",
+    "options": [
+      "A human operator for guidance",
+      "A model of the environment",
+      "A pre-programmed path only",
+      "Physical markers to guide it"
+    ],
+    "answer": 1,
+    "questionNumber": 34,
+    "questionIndex": 33
+  },
+  {
+    "question": "What are the steps in the see-think-act cycle for localization?",
+    "options": [
+      "Encode - Decode - Move",
+      "Sense - Plan - Act",
+      "Query - Decide - Execute",
+      "Predict - Update - React"
+    ],
+    "answer": 1,
+    "questionNumber": 35,
+    "questionIndex": 34
+  },
+  {
+    "question": "Which of the following is an example of autonomous robot applications?",
+    "options": [
+      "Environmental monitoring",
+      "Video gaming",
+      "Electrical circuit repair",
+      "Home appliance manufacturing"
+    ],
+    "answer": 0,
+    "questionNumber": 36,
+    "questionIndex": 35
+  },
+  {
+    "question": "Which type of motion constraint ensures no lateral slipping of robot wheels?",
+    "options": [
+      "Rolling constraint",
+      "No-sliding constraint",
+      "Friction constraint",
+      "Balance constraint"
+    ],
+    "answer": 1,
+    "questionNumber": 37,
+    "questionIndex": 36
+  },
+  {
+    "question": "In perception, what is a typical method for information extraction?",
+    "options": [
+      "Image noise reduction",
+      "Key point matching",
+      "Signal amplification",
+      "Object destruction"
+    ],
+    "answer": 1,
+    "questionNumber": 38,
+    "questionIndex": 37
+  },
+  {
+    "question": "What is the role of global path planning in robotics?",
+    "options": [
+      "Avoiding immediate collisions",
+      "Defining an overall route",
+      "Identifying wheel encoders' accuracy",
+      "Improving local perception"
+    ],
+    "answer": 1,
+    "questionNumber": 39,
+    "questionIndex": 38
+  },
+  {
+    "question": "What happens during a belief update in localization?",
+    "options": [
+      "The robot restarts its operation.",
+      "The robot adjusts its internal representation of its position.",
+      "The robot performs edge detection in its surroundings.",
+      "The robot recharges its battery."
+    ],
+    "answer": 1,
+    "questionNumber": 40,
+    "questionIndex": 39
+  },
+  {
+    "question": "What does the term \"robot\" originate from?",
+    "options": [
+      "The Greek word \"automaton\" meaning self-moving",
+      "The Latin word \"robotica\" meaning mechanical labor",
+      "The Czech word \"rabota\" meaning forced labor",
+      "The German word \"roboter\" meaning helper"
+    ],
+    "answer": 2,
+    "questionNumber": 41,
+    "questionIndex": 40
+  },
+  {
+    "question": "What is a fundamental requirement for a system to be classified as a robot?",
+    "options": [
+      "The ability to communicate with humans",
+      "Autonomy in sensing and acting in the physical world",
+      "Advanced artificial intelligence for decision-making",
+      "Operation only in industrial environments"
+    ],
+    "answer": 1,
+    "questionNumber": 42,
+    "questionIndex": 41
+  },
+  {
+    "question": "Which of the following is NOT a primary area of focus for autonomous robots?",
+    "options": [
+      "Motion control",
+      "Perception",
+      "Localization",
+      "Quantum computing"
+    ],
+    "answer": 3,
+    "questionNumber": 43,
+    "questionIndex": 42
+  },
+  {
+    "question": "What question does the localization aspect of robotics address?",
+    "options": [
+      "Where am I?",
+      "Where am I going?",
+      "How do I get there?",
+      "What is my goal?"
+    ],
+    "answer": 0,
+    "questionNumber": 44,
+    "questionIndex": 43
+  },
+  {
+    "question": "What is the purpose of the \"see-think-act\" cycle in robotics?",
+    "options": [
+      "To classify objects in the environment",
+      "To enable robots to perceive, plan, and execute actions",
+      "To define robot tasks in industrial settings",
+      "To assist robots in learning from human behavior"
+    ],
+    "answer": 1,
+    "questionNumber": 45,
+    "questionIndex": 44
+  },
+  {
+    "question": "Which of the following is NOT an example of autonomous robots in application?",
+    "options": [
+      "Search and rescue",
+      "Military operations",
+      "Financial data analysis",
+      "Environmental monitoring"
+    ],
+    "answer": 2,
+    "questionNumber": 46,
+    "questionIndex": 45
+  },
+  {
+    "question": "What is a common method used in global path planning for robots?",
+    "options": [
+      "Graph search algorithms",
+      "Deep neural networks",
+      "Trial-and-error movement",
+      "Pre-recorded human commands"
+    ],
+    "answer": 0,
+    "questionNumber": 47,
+    "questionIndex": 46
+  },
+  {
+    "question": "What is a \"rolling constraint\" in motion control?",
+    "options": [
+      "Robots must roll at a constant speed",
+      "The wheel must roll without sliding",
+      "The robot can only roll forward, not backward",
+      "All wheels must be of equal size"
+    ],
+    "answer": 1,
+    "questionNumber": 48,
+    "questionIndex": 47
+  },
+  {
+    "question": "What is the primary goal of autonomous mobile robots?",
+    "options": [
+      "To replicate human intelligence",
+      "To perform tasks in physical environments autonomously",
+      "To replace all human-operated machinery",
+      "To communicate with other robots"
+    ],
+    "answer": 1,
+    "questionNumber": 49,
+    "questionIndex": 48
+  },
+  {
+    "question": "Which of the following sensors is commonly used for perception in autonomous robots?",
+    "options": [
+      "Barometer",
+      "Laser scanner",
+      "Thermometer",
+      "Altimeter"
+    ],
+    "answer": 1,
+    "questionNumber": 50,
+    "questionIndex": 49
+  },
+  {
+    "question": "What is the main challenge addressed by local path planning in robotics?",
+    "options": [
+      "Optimizing computational resources",
+      "Avoiding obstacles in the immediate environment",
+      "Defining long-term goals for the robot",
+      "Minimizing energy consumption"
+    ],
+    "answer": 1,
+    "questionNumber": 51,
+    "questionIndex": 50
+  },
+  {
+    "question": "Which of the following tasks does NOT fall under the \"perception\" category in robotics?",
+    "options": [
+      "Filtering sensor data",
+      "Matching key point features",
+      "Planning a global path",
+      "Extracting information from camera inputs"
+    ],
+    "answer": 2,
+    "questionNumber": 52,
+    "questionIndex": 51
+  },
+  {
+    "question": "In localization, what happens when the robot accumulates uncertainty during movement?",
+    "options": [
+      "It stops moving until recalibrated",
+      "It updates its belief using sensor information",
+      "It resets its position to the origin",
+      "It ignores the uncertainty and continues moving"
+    ],
+    "answer": 1,
+    "questionNumber": 53,
+    "questionIndex": 52
+  },
+  {
+    "question": "What is the primary question addressed by \"cognition\" in autonomous robots?",
+    "options": [
+      "Where am I?",
+      "How do I get there?",
+      "What sensors should I use?",
+      "How much energy is available?"
+    ],
+    "answer": 1,
+    "questionNumber": 54,
+    "questionIndex": 53
+  },
+  {
+    "question": "What characteristic distinguishes autonomous robots from other robotic systems?",
+    "options": [
+      "They are controlled remotely by humans",
+      "They act based on their own decisions",
+      "They are limited to industrial applications",
+      "They operate exclusively indoors"
+    ],
+    "answer": 1,
+    "questionNumber": 55,
+    "questionIndex": 54
+  },
+  {
+    "question": "What type of transport does the \"no-sliding constraint\" in motion control address?",
+    "options": [
+      "Vertical motion",
+      "Lateral motion of wheels",
+      "Rotational motion of joints",
+      "Backward motion"
+    ],
+    "answer": 1,
+    "questionNumber": 56,
+    "questionIndex": 55
+  },
+  {
+    "question": "In the \"see-think-act\" cycle, what does the \"think\" stage involve?",
+    "options": [
+      "Interpreting data from the environment and planning actions",
+      "Detecting objects through sensors",
+      "Executing motor commands",
+      "Collecting feedback from actuators"
+    ],
+    "answer": 0,
+    "questionNumber": 57,
+    "questionIndex": 56
+  },
+  {
+    "question": "Why is having a model of the environment important for autonomous robots?",
+    "options": [
+      "It reduces the need for sensors",
+      "It allows the robot to predict and plan its movements",
+      "It ensures energy efficiency",
+      "It makes the robot faster"
+    ],
+    "answer": 1,
+    "questionNumber": 58,
+    "questionIndex": 57
+  },
+  {
+    "question": "Which of the following is an example of a high-level task performed by autonomous robots?",
+    "options": [
+      "Detecting edges in an image",
+      "Updating the belief about position",
+      "Navigating through a warehouse",
+      "Measuring distances with a laser scanner"
+    ],
+    "answer": 2,
+    "questionNumber": 59,
+    "questionIndex": 58
+  },
+  {
+    "question": "Which reference book provides extensive details about planning algorithms for robotics?",
+    "options": [
+      "Robotics: Modelling, Planning, and Control",
+      "Probabilistic Robotics",
+      "Planning Algorithms by S. M. LaValle",
+      "Introduction to Autonomous Mobile Robots"
+    ],
+    "answer": 2,
+    "questionNumber": 60,
+    "questionIndex": 59
+  },
+  {
+    "question": "What does \"Degrees of Freedom\" (DOF) in robotics represent?",
+    "options": [
+      "The robot's ability to navigate autonomously",
+      "The number of independent motions a robot can perform",
+      "The type of sensors used by the robot",
+      "The number of actuators in a robot"
+    ],
+    "answer": 1,
+    "questionNumber": 61,
+    "questionIndex": 60
+  },
+  {
+    "question": "What is the primary characteristic of holonomic motion?",
+    "options": [
+      "The number of actuators is greater than the robot\u2019s DOF",
+      "The robot has as many DOF as its Degree of Mobility (DOM)",
+      "The robot is capable of 360\u00b0 rotation without moving",
+      "The robot uses only one actuator for all movements"
+    ],
+    "answer": 1,
+    "questionNumber": 62,
+    "questionIndex": 61
+  },
+  {
+    "question": "Which of the following describes a differential-drive robot?",
+    "options": [
+      "It uses a single actuator to control all its motions",
+      "It has independent actuation of its left and right wheels",
+      "It is always holonomic",
+      "It does not experience motion constraints"
+    ],
+    "answer": 1,
+    "questionNumber": 63,
+    "questionIndex": 62
+  },
+  {
+    "question": "In kinematics, what does \"forward kinematics\" calculate?",
+    "options": [
+      "Control inputs for reaching a desired pose",
+      "Changes in the robot\u2019s state over time based on control inputs",
+      "The inverse of the robot\u2019s trajectory",
+      "The optimal path for obstacle avoidance"
+    ],
+    "answer": 1,
+    "questionNumber": 64,
+    "questionIndex": 63
+  },
+  {
+    "question": "What does \"trajectory tracking\" involve?",
+    "options": [
+      "Avoiding obstacles while moving randomly",
+      "Precomputing and following a smooth trajectory",
+      "Estimating motion parameters from incomplete data",
+      "Performing global path planning"
+    ],
+    "answer": 1,
+    "questionNumber": 65,
+    "questionIndex": 64
+  },
+  {
+    "question": "How does open-loop control differ from closed-loop control?",
+    "options": [
+      "Open-loop control relies on feedback, while closed-loop control does not",
+      "Open-loop control executes predefined inputs without feedback",
+      "Open-loop control is always more accurate than closed-loop control",
+      "Open-loop control requires continuous environmental sensing"
+    ],
+    "answer": 1,
+    "questionNumber": 66,
+    "questionIndex": 65
+  },
+  {
+    "question": "What is a disadvantage of open-loop control?",
+    "options": [
+      "It requires continuous computation of feedback",
+      "It depends on noisy sensors for actuation",
+      "It cannot adapt to dynamic environmental changes",
+      "It is computationally more expensive than closed-loop"
+    ],
+    "answer": 2,
+    "questionNumber": 67,
+    "questionIndex": 66
+  },
+  {
+    "question": "In closed-loop control, what is \"P-Control\" designed to achieve?",
+    "options": [
+      "Compensate for accumulated errors over time",
+      "Compute control inputs based on future error predictions",
+      "Adjust control inputs proportionally to the current error",
+      "Eliminate all sources of noise and disturbances"
+    ],
+    "answer": 2,
+    "questionNumber": 68,
+    "questionIndex": 67
+  },
+  {
+    "question": "What additional capability does \"PI Control\" have over \"P-Control\"?",
+    "options": [
+      "It considers the rate of change of error",
+      "It accumulates error over time for better adjustments",
+      "It predicts future error based on current trends",
+      "It eliminates the need for feedback"
+    ],
+    "answer": 1,
+    "questionNumber": 69,
+    "questionIndex": 68
+  },
+  {
+    "question": "Which type of control acts as a \"dampener\" on control effort?",
+    "options": [
+      "Open-loop control",
+      "P-Control",
+      "PI Control",
+      "PID Control"
+    ],
+    "answer": 3,
+    "questionNumber": 70,
+    "questionIndex": 69
+  },
+  {
+    "question": "In feedback linearization, what is the key idea?",
+    "options": [
+      "Transform control inputs to control a holonomic point",
+      "Use precomputed trajectories to minimize disturbances",
+      "Ignore motion constraints to simplify calculations",
+      "Match control inputs directly to actuator outputs"
+    ],
+    "answer": 0,
+    "questionNumber": 71,
+    "questionIndex": 70
+  },
+  {
+    "question": "What is the primary advantage of closed-loop control?",
+    "options": [
+      "It minimizes computational requirements",
+      "It adapts to external disturbances and unforeseen events",
+      "It eliminates all motion constraints",
+      "It operates without feedback"
+    ],
+    "answer": 1,
+    "questionNumber": 72,
+    "questionIndex": 71
+  },
+  {
+    "question": "What is the maximum Degree of Mobility (DOM) for a robot operating on a plane?",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "answer": 1,
+    "questionNumber": 73,
+    "questionIndex": 72
+  },
+  {
+    "question": "What is the main impact of non-holonomicity in robots?",
+    "options": [
+      "It allows unlimited mobility in all directions",
+      "It simplifies motion planning",
+      "It imposes motion constraints on the robot",
+      "It makes the robot holonomic"
+    ],
+    "answer": 2,
+    "questionNumber": 74,
+    "questionIndex": 73
+  },
+  {
+    "question": "What do forward kinematics equations describe in robotics?",
+    "options": [
+      "The robot\u2019s pose as a function of control inputs",
+      "The control inputs required to reach a goal pose",
+      "The robot's response to external disturbances",
+      "The robot\u2019s global path in a known environment"
+    ],
+    "answer": 0,
+    "questionNumber": 75,
+    "questionIndex": 74
+  },
+  {
+    "question": "What type of motion is typically associated with a robot\u2019s actuators in the body frame?",
+    "options": [
+      "Rotational and translational velocities",
+      "Angular displacement only",
+      "Linear motion only",
+      "Purely vertical motion"
+    ],
+    "answer": 0,
+    "questionNumber": 76,
+    "questionIndex": 75
+  },
+  {
+    "question": "Why is a rotation matrix used in forward kinematics for the world frame?",
+    "options": [
+      "To align the robot\u2019s sensors with the body frame",
+      "To account for the robot\u2019s changing orientation",
+      "To eliminate the effects of wheel slip",
+      "To simplify calculations in the body frame"
+    ],
+    "answer": 1,
+    "questionNumber": 77,
+    "questionIndex": 76
+  },
+  {
+    "question": "In inverse kinematics, what constraint must be satisfied for a non-holonomic robot?",
+    "options": [
+      "The robot must always move forward",
+      "The robot's control inputs must account for motion constraints",
+      "The robot must operate only in the body frame",
+      "The robot must maintain constant speed"
+    ],
+    "answer": 1,
+    "questionNumber": 78,
+    "questionIndex": 77
+  },
+  {
+    "question": "What is the purpose of trajectory tracking in robot motion control?",
+    "options": [
+      "To precompute and follow a feasible trajectory",
+      "To avoid any constraints during motion",
+      "To maintain a fixed velocity and heading",
+      "To replace all feedback mechanisms"
+    ],
+    "answer": 0,
+    "questionNumber": 79,
+    "questionIndex": 78
+  },
+  {
+    "question": "What does open-loop control assume about the environment?",
+    "options": [
+      "The environment is dynamic and unpredictable",
+      "The robot can rely on real-time feedback",
+      "Conditions remain constant during motion",
+      "Feedback sensors provide continuous updates"
+    ],
+    "answer": 2,
+    "questionNumber": 80,
+    "questionIndex": 79
+  },
+  {
+    "question": "How does proportional control (P-Control) behave with high gain values?",
+    "options": [
+      "It stabilizes the robot\u2019s trajectory",
+      "It makes the controller unstable",
+      "It eliminates all errors",
+      "It slows down the robot\u2019s response"
+    ],
+    "answer": 1,
+    "questionNumber": 81,
+    "questionIndex": 80
+  },
+  {
+    "question": "Which type of control accounts for both current and accumulated errors?",
+    "options": [
+      "P-Control",
+      "PI Control",
+      "Open-loop Control",
+      "Feedback Linearization"
+    ],
+    "answer": 1,
+    "questionNumber": 82,
+    "questionIndex": 81
+  },
+  {
+    "question": "What is the role of derivative control in PID controllers?",
+    "options": [
+      "It adjusts control inputs based on current error",
+      "It compensates for future errors by damping control effort",
+      "It corrects errors accumulated over time",
+      "It eliminates disturbances from the environment"
+    ],
+    "answer": 1,
+    "questionNumber": 83,
+    "questionIndex": 82
+  },
+  {
+    "question": "What is a key drawback of open-loop control in dynamic environments?",
+    "options": [
+      "It requires constant computational resources",
+      "It cannot adapt to changes or disturbances",
+      "It depends heavily on sensor accuracy",
+      "It is too slow for real-time applications"
+    ],
+    "answer": 1,
+    "questionNumber": 84,
+    "questionIndex": 83
+  },
+  {
+    "question": "Which of the following conditions makes open-loop control more suitable?",
+    "options": [
+      "The environment is highly dynamic and unpredictable",
+      "Sensors have limited bandwidth or computational resources",
+      "External feedback is always available and reliable",
+      "The robot operates with dynamic obstacle avoidance"
+    ],
+    "answer": 1,
+    "questionNumber": 85,
+    "questionIndex": 84
+  },
+  {
+    "question": "What is the primary purpose of feedback linearization in motion control?",
+    "options": [
+      "To eliminate the need for sensors in the robot.",
+      "To control a non-holonomic robot using linear control methods.",
+      "To increase the robot's speed in open-loop control.",
+      "To reduce the computational complexity of path planning."
+    ],
+    "answer": 1,
+    "questionNumber": 86,
+    "questionIndex": 85
+  },
+  {
+    "question": "What is the main challenge in trajectory tracking for non-holonomic robots?",
+    "options": [
+      "Ensuring the robot moves in a straight line.",
+      "Adapting to dynamic environments while maintaining smooth trajectories.",
+      "Reducing the robot's energy consumption.",
+      "Increasing the robot's maximum speed."
+    ],
+    "answer": 1,
+    "questionNumber": 87,
+    "questionIndex": 86
+  },
+  {
+    "question": "Which of the following is a key advantage of closed-loop control over open-loop control?",
+    "options": [
+      "It requires less computational power.",
+      "It can adapt to changes and disturbances in the environment.",
+      "It is faster in executing pre-computed paths.",
+      "It does not rely on sensor feedback."
+    ],
+    "answer": 1,
+    "questionNumber": 88,
+    "questionIndex": 87
+  },
+  {
+    "question": "What is the primary function of a proportional (P) controller in motion control?",
+    "options": [
+      "To eliminate all errors in the robot's position.",
+      "To adjust control inputs proportionally to the error.",
+      "To integrate past errors to improve future performance.",
+      "To predict future errors and adjust control inputs accordingly."
+    ],
+    "answer": 1,
+    "questionNumber": 89,
+    "questionIndex": 88
+  },
+  {
+    "question": "What is a key limitation of proportional (P) control?",
+    "options": [
+      "It cannot handle dynamic environments.",
+      "It may lead to oscillatory behavior around the set-point.",
+      "It requires high computational resources.",
+      "It is only effective in open-loop control systems."
+    ],
+    "answer": 1,
+    "questionNumber": 90,
+    "questionIndex": 89
+  },
+  {
+    "question": "What is the primary purpose of integral (I) control in a PI controller?",
+    "options": [
+      "To reduce the robot's speed.",
+      "To eliminate steady-state errors by integrating past errors.",
+      "To predict future errors based on the rate of change.",
+      "To increase the robot's responsiveness to sudden changes."
+    ],
+    "answer": 1,
+    "questionNumber": 91,
+    "questionIndex": 90
+  },
+  {
+    "question": "What is the main benefit of adding derivative (D) control in a PID controller?",
+    "options": [
+      "It reduces the robot's energy consumption.",
+      "It predicts future errors based on the rate of change of the error.",
+      "It eliminates the need for sensor feedback.",
+      "It increases the robot's maximum speed."
+    ],
+    "answer": 1,
+    "questionNumber": 92,
+    "questionIndex": 91
+  },
+  {
+    "question": "What is a key drawback of using high gains in a proportional (P) controller?",
+    "options": [
+      "It makes the robot slower.",
+      "It can lead to unstable or oscillatory behavior.",
+      "It increases the robot's energy consumption.",
+      "It reduces the robot's ability to adapt to dynamic environments."
+    ],
+    "answer": 1,
+    "questionNumber": 93,
+    "questionIndex": 92
+  },
+  {
+    "question": "What is the primary purpose of trajectory tracking in motion control?",
+    "options": [
+      "To ensure the robot follows a pre-computed path accurately.",
+      "To increase the robot's speed in open-loop control.",
+      "To eliminate the need for sensors in the robot.",
+      "To reduce the computational complexity of path planning."
+    ],
+    "answer": 0,
+    "questionNumber": 94,
+    "questionIndex": 93
+  },
+  {
+    "question": "What is a key requirement for a feasible trajectory in motion control?",
+    "options": [
+      "It must be pre-computed without any feedback.",
+      "It must be smooth and kinematically feasible.",
+      "It must avoid all obstacles in the environment.",
+      "It must be executed in open-loop control only."
+    ],
+    "answer": 1,
+    "questionNumber": 95,
+    "questionIndex": 94
+  },
+  {
+    "question": "What is the primary difference between holonomic and non-holonomic robots?",
+    "options": [
+      "Holonomic robots have fewer degrees of freedom.",
+      "Non-holonomic robots have more controllable degrees of freedom.",
+      "Holonomic robots can directly control all their degrees of freedom.",
+      "Non-holonomic robots are faster than holonomic robots."
+    ],
+    "answer": 2,
+    "questionNumber": 96,
+    "questionIndex": 95
+  },
+  {
+    "question": "What is the main impact of non-holonomicity on motion planning?",
+    "options": [
+      "It reduces the robot's speed.",
+      "It introduces motion constraints that affect path planning.",
+      "It eliminates the need for feedback control.",
+      "It increases the robot's energy consumption."
+    ],
+    "answer": 1,
+    "questionNumber": 97,
+    "questionIndex": 96
+  },
+  {
+    "question": "What is the primary purpose of forward kinematics in motion control?",
+    "options": [
+      "To determine the control inputs needed to reach a desired pose.",
+      "To calculate the robot's pose based on control inputs and time.",
+      "To eliminate errors in the robot's position.",
+      "To increase the robot's speed in open-loop control."
+    ],
+    "answer": 1,
+    "questionNumber": 98,
+    "questionIndex": 97
+  },
+  {
+    "question": "What is the primary purpose of inverse kinematics in motion control?",
+    "options": [
+      "To calculate the robot's pose based on control inputs and time.",
+      "To determine the control inputs needed to reach a desired pose.",
+      "To eliminate errors in the robot's position.",
+      "To increase the robot's speed in open-loop control."
+    ],
+    "answer": 1,
+    "questionNumber": 99,
+    "questionIndex": 98
+  },
+  {
+    "question": "What is a key challenge in controlling differential-drive robots?",
+    "options": [
+      "They have too many degrees of freedom.",
+      "They are non-holonomic, which introduces motion constraints.",
+      "They cannot operate in dynamic environments.",
+      "They require high computational resources for open-loop control."
+    ],
+    "answer": 1,
+    "questionNumber": 100,
+    "questionIndex": 99
+  },
+  {
+    "question": "What is the primary purpose of the \"rolling constraint\" in motion control?",
+    "options": [
+      "To prevent the robot from sliding laterally.",
+      "To ensure the robot moves in a straight line.",
+      "To limit the robot's maximum speed.",
+      "To reduce the robot's energy consumption."
+    ],
+    "answer": 1,
+    "questionNumber": 101,
+    "questionIndex": 100
+  },
+  {
+    "question": "What is the primary purpose of the \"no-sliding constraint\" in motion control?",
+    "options": [
+      "To ensure the robot moves in a straight line.",
+      "To prevent the robot from sliding laterally.",
+      "To limit the robot's maximum speed.",
+      "To reduce the robot's energy consumption."
+    ],
+    "answer": 1,
+    "questionNumber": 102,
+    "questionIndex": 101
+  },
+  {
+    "question": "What is the primary purpose of actuators in a robot?",
+    "options": [
+      "To sense the environment and gather data.",
+      "To convert electrical energy into mechanical motion.",
+      "To plan the robot's path to reach a goal.",
+      "To eliminate errors in the robot's position."
+    ],
+    "answer": 1,
+    "questionNumber": 103,
+    "questionIndex": 102
+  },
+  {
+    "question": "What is a key source of uncertainty in robot motion control?",
+    "options": [
+      "High computational resources.",
+      "Wheel slip and environmental factors.",
+      "The use of closed-loop control.",
+      "The robot's maximum speed."
+    ],
+    "answer": 1,
+    "questionNumber": 104,
+    "questionIndex": 103
+  },
+  {
+    "question": "What is the primary purpose of the \"see-think-act\" cycle in autonomous robots?",
+    "options": [
+      "To increase the robot's speed in open-loop control.",
+      "To sense, process, and act on environmental information.",
+      "To eliminate the need for sensors in the robot.",
+      "To reduce the computational complexity of path planning."
+    ],
+    "answer": 1,
+    "questionNumber": 105,
+    "questionIndex": 104
+  },
+  {
+    "question": "What is the primary purpose of the \"local map\" in the see-think-act cycle?",
+    "options": [
+      "To provide a high-level representation of the environment.",
+      "To store raw sensor data for future processing.",
+      "To represent local obstacle information for navigation.",
+      "To eliminate errors in the robot's position."
+    ],
+    "answer": 2,
+    "questionNumber": 106,
+    "questionIndex": 105
+  },
+  {
+    "question": "What is the primary purpose of the \"global map\" in the see-think-act cycle?",
+    "options": [
+      "To represent local obstacle information for navigation.",
+      "To provide a high-level representation of the environment.",
+      "To store raw sensor data for future processing.",
+      "To eliminate errors in the robot's position."
+    ],
+    "answer": 1,
+    "questionNumber": 107,
+    "questionIndex": 106
+  },
+  {
+    "question": "What is the primary purpose of the \"mission commands\" in the see-think-act cycle?",
+    "options": [
+      "To provide high-level goals for the robot.",
+      "To sense the environment and gather data.",
+      "To control the robot's motion using actuators.",
+      "To eliminate errors in the robot's position."
+    ],
+    "answer": 0,
+    "questionNumber": 108,
+    "questionIndex": 107
+  },
+  {
+    "question": "What is the primary purpose of the \"path execution\" module in the see-think-act cycle?",
+    "options": [
+      "To sense the environment and gather data.",
+      "To execute the planned path using actuator commands.",
+      "To eliminate errors in the robot's position.",
+      "To provide high-level goals for the robot."
+    ],
+    "answer": 1,
+    "questionNumber": 109,
+    "questionIndex": 108
+  },
+  {
+    "question": "What is the primary purpose of the \"cognition\" module in the see-think-act cycle?",
+    "options": [
+      "To sense the environment and gather data.",
+      "To plan the robot's path to reach a goal.",
+      "To eliminate errors in the robot's position.",
+      "To execute the planned path using actuator commands."
+    ],
+    "answer": 1,
+    "questionNumber": 110,
+    "questionIndex": 109
+  },
+  {
+    "question": "What is the relationship between Degrees of Freedom (DOF) and Degrees of Mobility (DOM) in a differential-drive robot?",
+    "options": [
+      "The DOF is equal to the DOM",
+      "The DOF is less than the DOM",
+      "The DOF is greater than the DOM",
+      "The DOF and DOM have no mathematical relationship"
+    ],
+    "answer": 2,
+    "questionNumber": 111,
+    "questionIndex": 110
+  },
+  {
+    "question": "What defines a holonomic robot?",
+    "options": [
+      "When the number of DOF equals the robot's DOM",
+      "When the number of actuators exceeds the DOF",
+      "When the robot can rotate in place",
+      "When the robot uses differential drive steering"
+    ],
+    "answer": 0,
+    "questionNumber": 112,
+    "questionIndex": 111
+  },
+  {
+    "question": "What is the goal of forward kinematics in robotics?",
+    "options": [
+      "Finding the final pose (x, y, \u03b8) given control parameters and time",
+      "Finding control parameters given the final desired pose",
+      "Calculating the optimal path to reach a goal",
+      "Determining the robot's degrees of freedom"
+    ],
+    "answer": 0,
+    "questionNumber": 113,
+    "questionIndex": 112
+  },
+  {
+    "question": "In the driver example, what are the control inputs mentioned?",
+    "options": [
+      "Steering and acceleration",
+      "Steering, acceleration, and braking",
+      "Acceleration and braking",
+      "Steering, acceleration, and gear shifting"
+    ],
+    "answer": 0,
+    "questionNumber": 114,
+    "questionIndex": 113
+  },
+  {
+    "question": "Which of the following is listed as an example of actuation uncertainty?",
+    "options": [
+      "Wheel slip",
+      "Battery voltage fluctuation",
+      "GPS signal interference",
+      "CPU processing delays"
+    ],
+    "answer": 0,
+    "questionNumber": 115,
+    "questionIndex": 114
+  },
+  {
+    "question": "What is the maximum number of Degrees of Mobility (DOM) for a robot moving in a 2D plane?",
+    "options": [
+      "3",
+      "2",
+      "4",
+      "6"
+    ],
+    "answer": 0,
+    "questionNumber": 116,
+    "questionIndex": 115
+  },
+  {
+    "question": "How is forward velocity calculated in a differential-drive robot?",
+    "options": [
+      "(r\ud835\udf19\u0307r + r\ud835\udf19\u0307l)/2",
+      "(r\ud835\udf19\u0307r - r\ud835\udf19\u0307l)/2",
+      "(r\ud835\udf19\u0307r \u00d7 r\ud835\udf19\u0307l)/2",
+      "(r\ud835\udf19\u0307r + r\ud835\udf19\u0307l) \u00d7 2"
+    ],
+    "answer": 0,
+    "questionNumber": 117,
+    "questionIndex": 116
+  },
+  {
+    "question": "What is the key characteristic of Proportional (P) Control?",
+    "options": [
+      "The control effort is proportional to the error",
+      "The control effort is proportional to time",
+      "The control effort is proportional to velocity",
+      "The control effort is proportional to acceleration"
+    ],
+    "answer": 0,
+    "questionNumber": 118,
+    "questionIndex": 117
+  },
+  {
+    "question": "What additional component does PI Control incorporate compared to P Control?",
+    "options": [
+      "Accumulated error over time",
+      "Rate of change of error",
+      "Prediction of future error",
+      "System damping coefficient"
+    ],
+    "answer": 0,
+    "questionNumber": 119,
+    "questionIndex": 118
+  },
+  {
+    "question": "What is the main advantage of closed-loop control compared to open-loop control?",
+    "options": [
+      "Robustness to external perturbation",
+      "Faster execution time",
+      "Lower computational requirements",
+      "Simpler implementation process"
+    ],
+    "answer": 0,
+    "questionNumber": 120,
+    "questionIndex": 119
+  },
+  {
+    "question": "What is the primary input for kinematics in robotics?",
+    "options": [
+      "The robot\u2019s desired final position",
+      "The robot\u2019s motion constraints",
+      "The control parameters such as wheel velocities",
+      "The external disturbances and noise"
+    ],
+    "answer": 2,
+    "questionNumber": 121,
+    "questionIndex": 120
+  },
+  {
+    "question": "In motion control, what does the term \"holonomic\" imply?",
+    "options": [
+      "The robot has unrestricted motion in all directions",
+      "The robot\u2019s DOF equals its DOM",
+      "The robot has more actuators than required",
+      "The robot is designed for purely rotational motion"
+    ],
+    "answer": 1,
+    "questionNumber": 122,
+    "questionIndex": 121
+  },
+  {
+    "question": "What is a major advantage of closed-loop control over open-loop control?",
+    "options": [
+      "It reduces computational requirements",
+      "It is unaffected by environmental disturbances",
+      "It adapts to changes in real-time",
+      "It eliminates the need for trajectory tracking"
+    ],
+    "answer": 2,
+    "questionNumber": 123,
+    "questionIndex": 122
+  },
+  {
+    "question": "In the context of forward kinematics, what does rotational velocity determine?",
+    "options": [
+      "The linear motion of the robot",
+      "The orientation change over time",
+      "The control parameters of the robot",
+      "The maximum speed achievable"
+    ],
+    "answer": 1,
+    "questionNumber": 124,
+    "questionIndex": 123
+  },
+  {
+    "question": "Why is smoothness important in trajectory tracking?",
+    "options": [
+      "It reduces the energy consumption of the robot",
+      "It ensures feasibility given the robot's kinematic constraints",
+      "It minimizes the number of control inputs required",
+      "It simplifies the trajectory computation"
+    ],
+    "answer": 1,
+    "questionNumber": 125,
+    "questionIndex": 124
+  },
+  {
+    "question": "Which control type is most effective for dealing with noise and disturbances?",
+    "options": [
+      "Open-loop control",
+      "P-Control",
+      "Closed-loop control",
+      "Proportional-Integral control"
+    ],
+    "answer": 2,
+    "questionNumber": 126,
+    "questionIndex": 125
+  },
+  {
+    "question": "What is the primary purpose of feedback in closed-loop control?",
+    "options": [
+      "To precompute the robot\u2019s trajectory",
+      "To maintain the robot\u2019s state within desired limits",
+      "To simplify forward kinematics calculations",
+      "To minimize the number of control parameters"
+    ],
+    "answer": 1,
+    "questionNumber": 127,
+    "questionIndex": 126
+  },
+  {
+    "question": "In PI control, what does the integral component compensate for?",
+    "options": [
+      "Rapid changes in control input",
+      "Accumulated errors over time",
+      "Noise in sensor measurements",
+      "Fluctuations in system dynamics"
+    ],
+    "answer": 1,
+    "questionNumber": 128,
+    "questionIndex": 127
+  },
+  {
+    "question": "What is the key goal of inverse kinematics?",
+    "options": [
+      "To calculate the pose of a robot based on control inputs",
+      "To compute control inputs needed to reach a goal pose",
+      "To minimize disturbances during motion",
+      "To calculate velocity and acceleration profiles"
+    ],
+    "answer": 1,
+    "questionNumber": 129,
+    "questionIndex": 128
+  },
+  {
+    "question": "Which of the following best describes PID control?",
+    "options": [
+      "It relies only on proportional feedback for adjustments",
+      "It combines proportional, integral, and derivative components",
+      "It is exclusively used for holonomic robots",
+      "It operates without considering accumulated error"
+    ],
+    "answer": 1,
+    "questionNumber": 130,
+    "questionIndex": 129
+  },
+  {
+    "question": "What is the primary function of a sensor in robotics?",
+    "options": [
+      "To control the robot\u2019s movement",
+      "To measure aspects of the world or the robot\u2019s state",
+      "To emit signals that control actuators",
+      "To compute control inputs for trajectory tracking"
+    ],
+    "answer": 1,
+    "questionNumber": 131,
+    "questionIndex": 130
+  },
+  {
+    "question": "How do active sensors interact with the environment?",
+    "options": [
+      "They passively collect data without emitting energy",
+      "They emit energy and measure the environment's response",
+      "They rely solely on internal robot parameters",
+      "They use precomputed models for data collection"
+    ],
+    "answer": 1,
+    "questionNumber": 132,
+    "questionIndex": 131
+  },
+  {
+    "question": "Which of the following is a passive sensor?",
+    "options": [
+      "Infrared distance sensor",
+      "Sonar range finder",
+      "Camera",
+      "Laser scanner"
+    ],
+    "answer": 2,
+    "questionNumber": 133,
+    "questionIndex": 132
+  },
+  {
+    "question": "What principle do most distance sensors operate on?",
+    "options": [
+      "The time-of-flight (TOF) of emitted signals",
+      "The frequency modulation of sensor outputs",
+      "The displacement of moving parts in the sensor",
+      "The reflection of ambient light"
+    ],
+    "answer": 0,
+    "questionNumber": 134,
+    "questionIndex": 133
+  },
+  {
+    "question": "What is a key limitation of infrared proximity sensors?",
+    "options": [
+      "They consume excessive energy",
+      "They are heavily influenced by object characteristics like color and surface",
+      "They are too expensive for educational robots",
+      "They only work in underwater environments"
+    ],
+    "answer": 1,
+    "questionNumber": 135,
+    "questionIndex": 134
+  },
+  {
+    "question": "What is the first step in sensor calibration?",
+    "options": [
+      "Fit the curve to sensor readings",
+      "Use ground-truth telemetry to set up the sensor",
+      "Measure and tabulate sensor readings",
+      "Normalize sensor measurements"
+    ],
+    "answer": 1,
+    "questionNumber": 136,
+    "questionIndex": 135
+  },
+  {
+    "question": "How is random error in sensor measurements typically represented?",
+    "options": [
+      "By using a single average value",
+      "By describing the distribution through moment matching",
+      "By ignoring it during control calculations",
+      "By replacing measurements with theoretical estimates"
+    ],
+    "answer": 1,
+    "questionNumber": 137,
+    "questionIndex": 136
+  },
+  {
+    "question": "What type of sensor is commonly used in underwater applications?",
+    "options": [
+      "Infrared proximity sensor",
+      "Ultrasonic sonar sensor",
+      "LIDAR",
+      "Passive microphone"
+    ],
+    "answer": 1,
+    "questionNumber": 138,
+    "questionIndex": 137
+  },
+  {
+    "question": "What is a major disadvantage of ultrasonic sensors?",
+    "options": [
+      "High cost and weight",
+      "Vulnerability to specular reflections and sensor cross-talk",
+      "Incompatibility with underwater environments",
+      "High energy consumption in dynamic tasks"
+    ],
+    "answer": 1,
+    "questionNumber": 139,
+    "questionIndex": 138
+  },
+  {
+    "question": "Which technology is used in LIDAR sensors?",
+    "options": [
+      "Reflectance-based sound detection",
+      "Coherent light for time-of-flight measurements",
+      "Passive light detection from ambient sources",
+      "Thermal imaging for distance calculations"
+    ],
+    "answer": 1,
+    "questionNumber": 140,
+    "questionIndex": 139
+  },
+  {
+    "question": "What is the scanning resolution of the Turtlebot III LIDAR range finder?",
+    "options": [
+      "0.11\u00b0",
+      "0.25\u00b0",
+      "1\u00b0",
+      "2\u00b0"
+    ],
+    "answer": 2,
+    "questionNumber": 141,
+    "questionIndex": 140
+  },
+  {
+    "question": "What is a primary disadvantage of LIDAR systems?",
+    "options": [
+      "Low sampling rates compared to ultrasonic sensors",
+      "Susceptibility to weather conditions like rain",
+      "Inability to measure large distances",
+      "Lack of precision in high-end systems"
+    ],
+    "answer": 1,
+    "questionNumber": 142,
+    "questionIndex": 141
+  },
+  {
+    "question": "What is a key requirement for vision in robotics compared to traditional computer vision?",
+    "options": [
+      "High-resolution imaging capabilities",
+      "Real-time, task-driven operation",
+      "Processing of only still images",
+      "Avoiding dynamic environments"
+    ],
+    "answer": 1,
+    "questionNumber": 143,
+    "questionIndex": 142
+  },
+  {
+    "question": "What does the dynamic range of a sensor indicate?",
+    "options": [
+      "The minimum distance it can detect",
+      "The ratio of maximum to minimum input values it can handle",
+      "The frequency at which it can provide readings",
+      "The resolution of its output"
+    ],
+    "answer": 1,
+    "questionNumber": 144,
+    "questionIndex": 143
+  },
+  {
+    "question": "What is the primary purpose of feature extraction in the perceptual pipeline?",
+    "options": [
+      "To generate a higher-level understanding from sensor data",
+      "To perform real-time control adjustments",
+      "To directly control robot actuators",
+      "To replace low-level sensor readings with noise-free data"
+    ],
+    "answer": 0,
+    "questionNumber": 145,
+    "questionIndex": 144
+  },
+  {
+    "question": "What is the primary function of a sensor in a robot?",
+    "options": [
+      "To control the robot's actuators",
+      "To measure some aspects about the state of the world or the robot",
+      "To process high-level decision-making",
+      "To communicate with other robots"
+    ],
+    "answer": 1,
+    "questionNumber": 146,
+    "questionIndex": 145
+  },
+  {
+    "question": "Which type of sensor affects the environment by emitting energy?",
+    "options": [
+      "Passive sensor",
+      "Ambient light sensor",
+      "Active sensor",
+      "Sound microphone"
+    ],
+    "answer": 2,
+    "questionNumber": 147,
+    "questionIndex": 146
+  },
+  {
+    "question": "What is the measurement principle of most distance sensors?",
+    "options": [
+      "Measure ambient light intensity",
+      "Emit a signal and receive its reflection from an object",
+      "Detect sound waves",
+      "Measure internal robot parameters"
+    ],
+    "answer": 1,
+    "questionNumber": 148,
+    "questionIndex": 147
+  },
+  {
+    "question": "What is a common disadvantage of infrared proximity sensors?",
+    "options": [
+      "High cost",
+      "Dependence on object characteristics (shape, color, surface)",
+      "Inability to measure distance",
+      "High energy consumption"
+    ],
+    "answer": 1,
+    "questionNumber": 149,
+    "questionIndex": 148
+  },
+  {
+    "question": "What is the purpose of sensor calibration?",
+    "options": [
+      "To increase the sensor's energy consumption",
+      "To relate a sensor measurement to a perceptive feature",
+      "To make the sensor emit more energy",
+      "To reduce the sensor's size"
+    ],
+    "answer": 1,
+    "questionNumber": 150,
+    "questionIndex": 149
+  },
+  {
+    "question": "Which representation is used to describe random errors in sensor measurements?",
+    "options": [
+      "Original measurements",
+      "Histogram of measurements",
+      "Compact representation of distribution",
+      "All of the above"
+    ],
+    "answer": 3,
+    "questionNumber": 151,
+    "questionIndex": 150
+  },
+  {
+    "question": "What is the frequency range of ultrasonic sensors?",
+    "options": [
+      "Less than 20 kHz",
+      "Greater than 20 kHz",
+      "Between 700-1000 nm",
+      "Between 0.12 - 3.5 m"
+    ],
+    "answer": 1,
+    "questionNumber": 152,
+    "questionIndex": 151
+  },
+  {
+    "question": "What is a common disadvantage of ultrasonic sensors?",
+    "options": [
+      "High cost",
+      "Specular reflections and sensor cross-talk",
+      "Inability to measure distance",
+      "High energy consumption"
+    ],
+    "answer": 1,
+    "questionNumber": 153,
+    "questionIndex": 152
+  },
+  {
+    "question": "What does LIDAR stand for?",
+    "options": [
+      "Light Detection and Ranging",
+      "Laser Intensity Detection and Ranging",
+      "Light Intensity Detection and Ranging",
+      "Laser Detection and Ranging"
+    ],
+    "answer": 0,
+    "questionNumber": 154,
+    "questionIndex": 153
+  },
+  {
+    "question": "What is a common disadvantage of LIDAR sensors?",
+    "options": [
+      "Low sampling rates",
+      "High energy usage and cost",
+      "Inability to measure distance",
+      "Poor resolution"
+    ],
+    "answer": 1,
+    "questionNumber": 155,
+    "questionIndex": 154
+  },
+  {
+    "question": "What is the primary concern of vision for robotics compared to classical computer vision?",
+    "options": [
+      "High-resolution images",
+      "Real-time, fast operation",
+      "General-purpose applications",
+      "Still image processing"
+    ],
+    "answer": 1,
+    "questionNumber": 156,
+    "questionIndex": 155
+  },
+  {
+    "question": "What is dynamic range in the context of sensor response rating?",
+    "options": [
+      "The speed at which a sensor can provide readings",
+      "The minimum distance between two values that can be detected by a sensor",
+      "The spread between lower and upper limits of input values",
+      "The behavior of output as input varies"
+    ],
+    "answer": 2,
+    "questionNumber": 157,
+    "questionIndex": 156
+  },
+  {
+    "question": "What is the process of generating higher-level perception from sensor readings called?",
+    "options": [
+      "Signal processing",
+      "Feature extraction",
+      "Scene interpretation",
+      "Sensing"
+    ],
+    "answer": 1,
+    "questionNumber": 158,
+    "questionIndex": 157
+  },
+  {
+    "question": "What is the underlying sensing mechanism for odometry?",
+    "options": [
+      "Infrared sensors",
+      "Shaft encoding",
+      "Ultrasonic sensors",
+      "LIDAR"
+    ],
+    "answer": 1,
+    "questionNumber": 159,
+    "questionIndex": 158
+  },
+  {
+    "question": "How does a quadrature encoder detect the direction of motion?",
+    "options": [
+      "By using a single detector",
+      "By shifting a 2nd detector by a phase of 90\u00b0",
+      "By measuring ambient light",
+      "By emitting ultrasonic waves"
+    ],
+    "answer": 1,
+    "questionNumber": 160,
+    "questionIndex": 159
+  },
+  {
+    "question": "What is the primary challenge in sensor calibration?",
+    "options": [
+      "Reducing power consumption of the sensor",
+      "Establishing a relationship between sensor readings and the desired feature",
+      "Minimizing the size and weight of the sensor",
+      "Ensuring the sensor can operate in all weather conditions"
+    ],
+    "answer": 1,
+    "questionNumber": 161,
+    "questionIndex": 160
+  },
+  {
+    "question": "How does a Gaussian distribution describe sensor uncertainty?",
+    "options": [
+      "By ignoring random errors in measurements",
+      "Using the mean and variance of the data",
+      "Storing original measurements without processing",
+      "Replacing measurements with precomputed estimates"
+    ],
+    "answer": 1,
+    "questionNumber": 162,
+    "questionIndex": 161
+  },
+  {
+    "question": "What is a common use case for ultrasonic sonar sensors?",
+    "options": [
+      "High-speed autonomous vehicles",
+      "Educational robots",
+      "Underwater distance measurement",
+      "Precision mapping in urban areas"
+    ],
+    "answer": 2,
+    "questionNumber": 163,
+    "questionIndex": 162
+  },
+  {
+    "question": "What is the main advantage of LIDAR over ultrasonic sensors?",
+    "options": [
+      "Better performance in underwater environments",
+      "Higher sampling rates and precision",
+      "Lower energy consumption",
+      "Greater resistance to weather conditions"
+    ],
+    "answer": 1,
+    "questionNumber": 164,
+    "questionIndex": 163
+  },
+  {
+    "question": "What is a major disadvantage of infrared proximity sensors?",
+    "options": [
+      "They are extremely expensive",
+      "They are not suitable for detecting metallic surfaces",
+      "Their performance depends on the object's surface and color",
+      "They require constant recalibration"
+    ],
+    "answer": 2,
+    "questionNumber": 165,
+    "questionIndex": 164
+  },
+  {
+    "question": "Why is feature extraction critical in the perceptual pipeline?",
+    "options": [
+      "It reduces the computational load on the robot",
+      "It ensures real-time operation of the robot",
+      "It generates high-level perception for complex tasks",
+      "It filters out systematic errors in sensors"
+    ],
+    "answer": 2,
+    "questionNumber": 166,
+    "questionIndex": 165
+  },
+  {
+    "question": "What characteristic is measured by a shaft encoder in odometry?",
+    "options": [
+      "Ambient light intensity",
+      "Direction and speed of rotation",
+      "Distance to nearby obstacles",
+      "Surface characteristics"
+    ],
+    "answer": 1,
+    "questionNumber": 167,
+    "questionIndex": 166
+  },
+  {
+    "question": "What type of errors do sensors experience?",
+    "options": [
+      "Only random errors",
+      "Only systematic errors",
+      "Both random and systematic errors",
+      "Errors caused by intentional disturbances"
+    ],
+    "answer": 2,
+    "questionNumber": 168,
+    "questionIndex": 167
+  },
+  {
+    "question": "What is a major limitation of LIDAR in outdoor environments?",
+    "options": [
+      "It cannot detect objects closer than 30 cm",
+      "Its performance is affected by adverse weather like rain",
+      "It requires constant recalibration during operation",
+      "It operates only at low sampling rates"
+    ],
+    "answer": 1,
+    "questionNumber": 169,
+    "questionIndex": 168
+  },
+  {
+    "question": "What is the principle behind odometry?",
+    "options": [
+      "Detecting motion using visual landmarks",
+      "Measuring distance traveled using wheel rotations",
+      "Tracking the robot\u2019s pose using GPS data",
+      "Avoiding obstacles using ultrasonic sensors"
+    ],
+    "answer": 1,
+    "questionNumber": 170,
+    "questionIndex": 169
+  },
+  {
+    "question": "What is the dynamic range of a sensor?",
+    "options": [
+      "The range of output voltages the sensor can produce",
+      "The ratio of the highest to lowest input values it can detect",
+      "The speed at which the sensor provides readings",
+      "The minimum resolution of the sensor\u2019s measurements"
+    ],
+    "answer": 1,
+    "questionNumber": 171,
+    "questionIndex": 170
+  },
+  {
+    "question": "Why are ultrasonic sensors prone to cross-talk?",
+    "options": [
+      "They use sound waves that can interfere with each other",
+      "Their emitted beams have high coherence",
+      "They rely on visible light reflection",
+      "They are affected by temperature variations"
+    ],
+    "answer": 0,
+    "questionNumber": 172,
+    "questionIndex": 171
+  },
+  {
+    "question": "What is the key purpose of a proximal architecture in robotics?",
+    "options": [
+      "To make sensor readings independent of actuator actions",
+      "To directly link sensor readings to robot actions",
+      "To generate high-level models from raw sensor data",
+      "To improve long-term memory of the robot"
+    ],
+    "answer": 1,
+    "questionNumber": 173,
+    "questionIndex": 172
+  },
+  {
+    "question": "What component of PID control dampens rapid changes in control effort?",
+    "options": [
+      "Proportional",
+      "Integral",
+      "Derivative",
+      "Open-loop"
+    ],
+    "answer": 2,
+    "questionNumber": 174,
+    "questionIndex": 173
+  },
+  {
+    "question": "What is the primary advantage of using laser scanners like LIDAR?",
+    "options": [
+      "Low energy consumption and cost",
+      "Resistance to interference from other robots",
+      "Extremely precise and high-speed measurements",
+      "Superior performance in adverse weather conditions"
+    ],
+    "answer": 2,
+    "questionNumber": 175,
+    "questionIndex": 174
+  },
+  {
+    "question": "What is the principle of reflectance sensing in infrared proximity sensors?",
+    "options": [
+      "Measuring the time-of-flight of emitted light",
+      "Detecting the intensity of reflected light from an object",
+      "Emitting sound waves and analyzing their echoes",
+      "Using ambient light to calculate object distance"
+    ],
+    "answer": 1,
+    "questionNumber": 176,
+    "questionIndex": 175
+  },
+  {
+    "question": "How does a quadrature encoder determine the direction of motion?",
+    "options": [
+      "By measuring the phase shift between two signals",
+      "By detecting the speed of wheel rotations",
+      "By analyzing reflected light from the encoder disk",
+      "By calculating the distance traveled in one direction"
+    ],
+    "answer": 0,
+    "questionNumber": 177,
+    "questionIndex": 176
+  },
+  {
+    "question": "Which sensor type is best suited for high-resolution 3D mapping?",
+    "options": [
+      "Ultrasonic sensors",
+      "Infrared proximity sensors",
+      "LIDAR",
+      "Passive microphones"
+    ],
+    "answer": 2,
+    "questionNumber": 178,
+    "questionIndex": 177
+  },
+  {
+    "question": "What is the main application of vision in robotics?",
+    "options": [
+      "Enhancing battery life during navigation",
+      "Generating task-specific perception for object tracking and motion planning",
+      "Reducing the weight of the robot",
+      "Ensuring stability in rough terrains"
+    ],
+    "answer": 1,
+    "questionNumber": 179,
+    "questionIndex": 178
+  },
+  {
+    "question": "What is a disadvantage of passive sensors like cameras?",
+    "options": [
+      "They interfere with the environment",
+      "They rely on external light sources",
+      "They are only effective for underwater applications",
+      "They require constant recalibration"
+    ],
+    "answer": 1,
+    "questionNumber": 180,
+    "questionIndex": 179
+  },
+  {
+    "question": "What is the purpose of signal processing in the perceptual pipeline?",
+    "options": [
+      "To extract high-level features from raw data",
+      "To amplify raw sensor signals for better resolution",
+      "To eliminate systematic errors in motion planning",
+      "To precompute trajectories for navigation"
+    ],
+    "answer": 0,
+    "questionNumber": 181,
+    "questionIndex": 180
+  },
+  {
+    "question": "Why is sensor resolution important in robotics?",
+    "options": [
+      "It determines the speed at which the robot can move",
+      "It defines the minimum detectable difference between measurements",
+      "It ensures compatibility with other sensors",
+      "It eliminates noise from the environment"
+    ],
+    "answer": 1,
+    "questionNumber": 182,
+    "questionIndex": 181
+  },
+  {
+    "question": "What is the role of odometry in mobile robots?",
+    "options": [
+      "Tracking the robot's motion using wheel encoders",
+      "Detecting obstacles in the robot's path",
+      "Estimating the robot's position using GPS",
+      "Measuring the intensity of ambient light"
+    ],
+    "answer": 0,
+    "questionNumber": 183,
+    "questionIndex": 182
+  },
+  {
+    "question": "What distinguishes distal architecture in perception systems?",
+    "options": [
+      "Actions are directly triggered by sensor readings",
+      "Sensor readings are processed into a high-level model for scene interpretation",
+      "The system bypasses the perceptual pipeline",
+      "It uses only active sensors for environmental interaction"
+    ],
+    "answer": 1,
+    "questionNumber": 184,
+    "questionIndex": 183
+  },
+  {
+    "question": "Which factor contributes most to random errors in sensor measurements?",
+    "options": [
+      "Environmental noise and variations",
+      "Sensor calibration errors",
+      "Specular reflections in the system",
+      "Misalignment of actuators"
+    ],
+    "answer": 0,
+    "questionNumber": 185,
+    "questionIndex": 184
+  },
+  {
+    "question": "What is the primary use of histogram representation in sensor uncertainty?",
+    "options": [
+      "To provide a compact, model-free representation of sensor data distribution",
+      "To directly compute control inputs for the robot",
+      "To store exact measurements without processing",
+      "To ignore systematic errors during motion planning"
+    ],
+    "answer": 0,
+    "questionNumber": 186,
+    "questionIndex": 185
+  },
+  {
+    "question": "What is a key feature of ultrasonic sensors in robotics?",
+    "options": [
+      "They measure distances using laser beams",
+      "They emit sound waves and measure reflected signals",
+      "They require coherent light for operation",
+      "They perform well in adverse weather conditions"
+    ],
+    "answer": 1,
+    "questionNumber": 187,
+    "questionIndex": 186
+  },
+  {
+    "question": "Why are LIDAR systems often used in autonomous vehicles?",
+    "options": [
+      "They are low-cost and energy-efficient",
+      "They provide high precision and fast sampling rates",
+      "They operate well in underwater conditions",
+      "They are unaffected by environmental noise"
+    ],
+    "answer": 1,
+    "questionNumber": 188,
+    "questionIndex": 187
+  },
+  {
+    "question": "What is the typical frequency range of ultrasonic sensors?",
+    "options": [
+      "Below 20 Hz",
+      "20 Hz to 20 kHz",
+      "Above 20 kHz",
+      "100 MHz to 1 GHz"
+    ],
+    "answer": 2,
+    "questionNumber": 189,
+    "questionIndex": 188
+  },
+  {
+    "question": "How does systematic error differ from random error in sensors?",
+    "options": [
+      "Systematic error is consistent and predictable, while random error is not",
+      "Systematic error is caused by external noise, while random error is due to calibration issues",
+      "Systematic error can only occur in passive sensors, while random error affects all sensors",
+      "Systematic error can be eliminated using Gaussian distribution"
+    ],
+    "answer": 0,
+    "questionNumber": 190,
+    "questionIndex": 189
+  },
+  {
+    "question": "What is dead-reckoning in localization?",
+    "options": [
+      "A method to measure environmental features",
+      "Updating a robot's pose based on differential movements",
+      "Using a map to locate a robot's position",
+      "Identifying the robot's position using active beacons"
+    ],
+    "answer": 1,
+    "questionNumber": 191,
+    "questionIndex": 190
+  },
+  {
+    "question": "What is a primary challenge of dead-reckoning?",
+    "options": [
+      "Non-Gaussian sensor noise",
+      "Wheel slip and runaway errors",
+      "Dependence on GPS signals",
+      "Limited resolution of onboard sensors"
+    ],
+    "answer": 1,
+    "questionNumber": 192,
+    "questionIndex": 191
+  },
+  {
+    "question": "What does global localization involve?",
+    "options": [
+      "Starting with the robot's initial position known",
+      "Finding the robot's position without prior information",
+      "Blindly following a precomputed trajectory",
+      "Combining map-based and beacon-based methods"
+    ],
+    "answer": 1,
+    "questionNumber": 193,
+    "questionIndex": 192
+  },
+  {
+    "question": "What is the \"kidnapped robot problem\"?",
+    "options": [
+      "A robot losing its ability to move due to system errors",
+      "A situation where a robot is suddenly moved to an unknown location",
+      "Errors caused by wheel slip in dead-reckoning",
+      "Failures in GPS signal reception"
+    ],
+    "answer": 1,
+    "questionNumber": 194,
+    "questionIndex": 193
+  },
+  {
+    "question": "What are the three components of probabilistic localization?",
+    "options": [
+      "Actuation model, sensing model, motion model",
+      "Belief state, motion model, sensor model",
+      "Path planner, odometry, Bayes filter",
+      "Pose estimation, dynamic obstacles, environment map"
+    ],
+    "answer": 1,
+    "questionNumber": 195,
+    "questionIndex": 194
+  },
+  {
+    "question": "What is the key difference between measurement data and control data?",
+    "options": [
+      "Measurement data reduces uncertainty, while control data increases it",
+      "Control data is always more reliable than measurement data",
+      "Measurement data is only used in global localization",
+      "Control data provides knowledge about the environment"
+    ],
+    "answer": 0,
+    "questionNumber": 196,
+    "questionIndex": 195
+  },
+  {
+    "question": "What is the purpose of Bayes' rule in robotics localization?",
+    "options": [
+      "To compute the robot\u2019s velocity and acceleration",
+      "To calculate the posterior probability of the robot\u2019s state",
+      "To eliminate noise from sensor data",
+      "To plan optimal paths through a map"
+    ],
+    "answer": 1,
+    "questionNumber": 197,
+    "questionIndex": 196
+  },
+  {
+    "question": "What is the Markov assumption?",
+    "options": [
+      "Future data is independent of past data if the current state is known",
+      "Sensor noise is always Gaussian",
+      "Localization is only possible in static environments",
+      "A robot\u2019s motion is unaffected by environmental factors"
+    ],
+    "answer": 0,
+    "questionNumber": 198,
+    "questionIndex": 197
+  },
+  {
+    "question": "What is the main function of a Bayes filter in localization?",
+    "options": [
+      "Generating a high-resolution map of the environment",
+      "Estimating the posterior state based on measurements and controls",
+      "Eliminating errors from GPS signals",
+      "Controlling the robot's trajectory using inverse kinematics"
+    ],
+    "answer": 1,
+    "questionNumber": 199,
+    "questionIndex": 198
+  },
+  {
+    "question": "What are the three probability distributions required by a Bayes filter?",
+    "options": [
+      "Initial belief, motion model, path planner",
+      "Initial belief, measurement probability, state transition probability",
+      "Sensor noise, map ambiguity, control uncertainty",
+      "Observation model, control model, trajectory distribution"
+    ],
+    "answer": 1,
+    "questionNumber": 200,
+    "questionIndex": 199
+  },
+  {
+    "question": "How does grid localization approximate the robot's belief?",
+    "options": [
+      "By using a continuous Gaussian distribution",
+      "By discretizing the pose space into finite states",
+      "By relying solely on odometry data",
+      "By assuming the environment is dynamic"
+    ],
+    "answer": 1,
+    "questionNumber": 201,
+    "questionIndex": 200
+  },
+  {
+    "question": "What is a discrete Bayes filter also known as?",
+    "options": [
+      "Histogram filter",
+      "Kalman filter",
+      "Markov localization",
+      "Particle filter"
+    ],
+    "answer": 0,
+    "questionNumber": 202,
+    "questionIndex": 201
+  },
+  {
+    "question": "What is the primary challenge of global localization in dynamic environments?",
+    "options": [
+      "The robot cannot detect landmarks",
+      "Map ambiguity and sensor noise",
+      "Excessive reliance on dead-reckoning",
+      "Incompatibility with GPS signals"
+    ],
+    "answer": 1,
+    "questionNumber": 203,
+    "questionIndex": 202
+  },
+  {
+    "question": "What does the belief distribution represent in probabilistic localization?",
+    "options": [
+      "The robot's exact position at a specific time",
+      "The posterior probability of the robot\u2019s state",
+      "The map of the robot\u2019s environment",
+      "The robot\u2019s motion model"
+    ],
+    "answer": 1,
+    "questionNumber": 204,
+    "questionIndex": 203
+  },
+  {
+    "question": "What is the purpose of the state transition probability in the Bayes filter?",
+    "options": [
+      "To calculate the robot's control inputs",
+      "To model how the robot's state evolves over time",
+      "To directly observe the robot's current position",
+      "To eliminate errors in the motion model"
+    ],
+    "answer": 1,
+    "questionNumber": 205,
+    "questionIndex": 204
+  },
+  {
+    "question": "What is the primary limitation of probabilistic localization?",
+    "options": [
+      "It only works in static environments",
+      "It assumes perfect sensor readings",
+      "It can be computationally expensive",
+      "It cannot handle map ambiguities"
+    ],
+    "answer": 2,
+    "questionNumber": 206,
+    "questionIndex": 205
+  },
+  {
+    "question": "What is the purpose of the initial belief in the Bayes filter?",
+    "options": [
+      "To determine the robot's next action",
+      "To provide a prior estimate of the robot's state",
+      "To define the map of the environment",
+      "To calculate control inputs for the robot"
+    ],
+    "answer": 1,
+    "questionNumber": 207,
+    "questionIndex": 206
+  },
+  {
+    "question": "In localization, what is a generative model?",
+    "options": [
+      "A model that estimates future positions of the robot",
+      "A model that describes how a state variable generates sensor measurements",
+      "A precomputed map for robot navigation",
+      "A set of equations to calculate odometry"
+    ],
+    "answer": 1,
+    "questionNumber": 208,
+    "questionIndex": 207
+  },
+  {
+    "question": "How does the Markov assumption simplify localization calculations?",
+    "options": [
+      "By reducing the dimensionality of sensor measurements",
+      "By ensuring that computations depend only on the current state",
+      "By eliminating the need for probabilistic models",
+      "By ignoring environmental dynamics"
+    ],
+    "answer": 1,
+    "questionNumber": 209,
+    "questionIndex": 208
+  },
+  {
+    "question": "What is the main advantage of grid localization?",
+    "options": [
+      "It works with continuous pose representations",
+      "It approximates beliefs using discrete states",
+      "It eliminates the need for sensor models",
+      "It is unaffected by dynamic environments"
+    ],
+    "answer": 1,
+    "questionNumber": 210,
+    "questionIndex": 209
+  },
+  {
+    "question": "Which localization problem combines global localization and position tracking?",
+    "options": [
+      "Beacon-based localization",
+      "Grid localization",
+      "Full localization",
+      "Dead-reckoning"
+    ],
+    "answer": 2,
+    "questionNumber": 211,
+    "questionIndex": 210
+  },
+  {
+    "question": "What is the key difference between dead-reckoning and global localization?",
+    "options": [
+      "Dead-reckoning relies on external sensors, while global localization does not",
+      "Dead-reckoning starts from a known position, while global localization does not",
+      "Global localization uses control data, while dead-reckoning uses measurement data",
+      "Global localization is only suitable for dynamic environments"
+    ],
+    "answer": 1,
+    "questionNumber": 212,
+    "questionIndex": 211
+  },
+  {
+    "question": "What is the purpose of histogram filters in discrete Bayes localization?",
+    "options": [
+      "To represent beliefs as continuous distributions",
+      "To approximate the belief using discrete probabilities",
+      "To store sensor data for later processing",
+      "To eliminate noise from odometry measurements"
+    ],
+    "answer": 1,
+    "questionNumber": 213,
+    "questionIndex": 212
+  },
+  {
+    "question": "What does the posterior probability distribution in Bayes' rule represent?",
+    "options": [
+      "The robot\u2019s motion plan",
+      "The likelihood of the robot\u2019s state after incorporating measurement data",
+      "The prior knowledge of the robot\u2019s environment",
+      "The robot's exact trajectory over time"
+    ],
+    "answer": 1,
+    "questionNumber": 214,
+    "questionIndex": 213
+  },
+  {
+    "question": "What are examples of beacon-based localization methods?",
+    "options": [
+      "Histogram filters and Bayes filters",
+      "Trilateration and fingerprinting",
+      "Grid localization and dead-reckoning",
+      "Kalman filters and particle filters"
+    ],
+    "answer": 1,
+    "questionNumber": 215,
+    "questionIndex": 214
+  },
+  {
+    "question": "Why does global localization face challenges in GPS-denied environments?",
+    "options": [
+      "The robot cannot estimate control data",
+      "The robot loses access to a reliable positioning reference",
+      "Sensors cannot collect measurement data",
+      "It leads to runaway errors in dead-reckoning"
+    ],
+    "answer": 1,
+    "questionNumber": 216,
+    "questionIndex": 215
+  },
+  {
+    "question": "What is a common assumption made in probabilistic localization?",
+    "options": [
+      "Sensor noise is always systematic",
+      "The robot's state is represented as a probability distribution",
+      "Control inputs are independent of measurement data",
+      "The environment is completely static"
+    ],
+    "answer": 1,
+    "questionNumber": 217,
+    "questionIndex": 216
+  },
+  {
+    "question": "What does the term \"map ambiguity\" refer to in localization?",
+    "options": [
+      "A map with dynamic obstacles",
+      "Similar landmarks in different locations causing confusion",
+      "A robot\u2019s inability to create a map",
+      "Errors in GPS signals"
+    ],
+    "answer": 1,
+    "questionNumber": 218,
+    "questionIndex": 217
+  },
+  {
+    "question": "What type of sensor is most commonly used for map-based global localization?",
+    "options": [
+      "Odometry sensors",
+      "Laser scanners or cameras",
+      "Speedometers",
+      "Gyroscopes"
+    ],
+    "answer": 1,
+    "questionNumber": 219,
+    "questionIndex": 218
+  },
+  {
+    "question": "Why is the Bayes filter applied recursively in localization?",
+    "options": [
+      "To avoid storing historical data",
+      "To update the belief state as new measurements and controls are received",
+      "To eliminate errors in the robot's trajectory",
+      "To calculate the prior belief at each time step"
+    ],
+    "answer": 1,
+    "questionNumber": 220,
+    "questionIndex": 219
+  },
+  {
+    "question": "What is the primary purpose of control data in localization?",
+    "options": [
+      "To correct sensor noise",
+      "To update the robot\u2019s pose based on motion inputs",
+      "To identify landmarks in the environment",
+      "To measure distances between objects"
+    ],
+    "answer": 1,
+    "questionNumber": 221,
+    "questionIndex": 220
+  },
+  {
+    "question": "What challenge arises from non-Gaussian sensor noise in localization?",
+    "options": [
+      "It simplifies the robot's motion model",
+      "It makes probabilistic methods more complex",
+      "It eliminates the need for measurement probability",
+      "It renders the Bayes filter inapplicable"
+    ],
+    "answer": 1,
+    "questionNumber": 222,
+    "questionIndex": 221
+  },
+  {
+    "question": "What does the belief state bel(x\u209c) represent in probabilistic localization?",
+    "options": [
+      "The robot's exact position at time t",
+      "The posterior probability of the robot's state at time t",
+      "The environment map at time t",
+      "The robot's control inputs at time t"
+    ],
+    "answer": 1,
+    "questionNumber": 223,
+    "questionIndex": 222
+  },
+  {
+    "question": "What is the main reason the Bayes filter relies on recursive updates?",
+    "options": [
+      "To minimize computational complexity",
+      "To remove historical sensor data",
+      "To account for map ambiguity",
+      "To handle dynamic environments"
+    ],
+    "answer": 0,
+    "questionNumber": 224,
+    "questionIndex": 223
+  },
+  {
+    "question": "Which component of the Bayes filter accounts for changes in the robot's state over time?",
+    "options": [
+      "Measurement probability",
+      "State transition probability",
+      "Initial belief",
+      "Observation model"
+    ],
+    "answer": 1,
+    "questionNumber": 225,
+    "questionIndex": 224
+  },
+  {
+    "question": "What is the primary advantage of grid localization over continuous localization methods?",
+    "options": [
+      "It eliminates the need for probabilistic models",
+      "It is computationally faster in all cases",
+      "It discretizes the pose space for easier belief representation",
+      "It is unaffected by dynamic obstacles"
+    ],
+    "answer": 2,
+    "questionNumber": 226,
+    "questionIndex": 225
+  },
+  {
+    "question": "How does map-matching work in global localization?",
+    "options": [
+      "By aligning sensor data with a prebuilt map of the environment",
+      "By estimating the robot\u2019s state using control inputs",
+      "By identifying GPS coordinates in real time",
+      "By tracking the robot\u2019s movement over time"
+    ],
+    "answer": 0,
+    "questionNumber": 227,
+    "questionIndex": 226
+  },
+  {
+    "question": "Why is the belief bel(x\u209c) updated with both measurement and control data?",
+    "options": [
+      "To improve the accuracy of the robot's motion model",
+      "To handle noise and uncertainties in both motion and sensors",
+      "To avoid storing redundant data",
+      "To simplify calculations in the Bayes filter"
+    ],
+    "answer": 1,
+    "questionNumber": 228,
+    "questionIndex": 227
+  },
+  {
+    "question": "What is a common limitation of beacon-based localization methods like GPS?",
+    "options": [
+      "They are not accurate in indoor environments",
+      "They are computationally intensive",
+      "They rely on map-matching techniques",
+      "They require continuous sensor calibration"
+    ],
+    "answer": 0,
+    "questionNumber": 229,
+    "questionIndex": 228
+  },
+  {
+    "question": "How does the histogram filter approximate the robot's state?",
+    "options": [
+      "Using Gaussian distributions",
+      "By representing the belief with discrete probabilities",
+      "By calculating exact posterior probabilities",
+      "By directly measuring the robot's state"
+    ],
+    "answer": 1,
+    "questionNumber": 230,
+    "questionIndex": 229
+  },
+  {
+    "question": "Why is the Markov assumption fundamental in Bayes filtering?",
+    "options": [
+      "It allows future states to depend only on the current state",
+      "It removes the need for dynamic obstacle modeling",
+      "It enables real-time map generation",
+      "It reduces the reliance on measurement data"
+    ],
+    "answer": 0,
+    "questionNumber": 231,
+    "questionIndex": 230
+  },
+  {
+    "question": "What is a key disadvantage of dead-reckoning in localization?",
+    "options": [
+      "It requires GPS data to work",
+      "It accumulates errors over time",
+      "It is computationally expensive",
+      "It cannot use odometry sensors"
+    ],
+    "answer": 1,
+    "questionNumber": 232,
+    "questionIndex": 231
+  },
+  {
+    "question": "What is the role of p(z\u209c|x\u209c) in the Bayes filter?",
+    "options": [
+      "It represents the motion model",
+      "It is the measurement probability distribution",
+      "It calculates the initial belief",
+      "It determines control data reliability"
+    ],
+    "answer": 1,
+    "questionNumber": 233,
+    "questionIndex": 232
+  },
+  {
+    "question": "What is the primary purpose of global localization?",
+    "options": [
+      "To correct odometry errors",
+      "To determine the robot\u2019s position without prior knowledge",
+      "To track the robot\u2019s position using differential movements",
+      "To handle dynamic obstacles in the environment"
+    ],
+    "answer": 1,
+    "questionNumber": 234,
+    "questionIndex": 233
+  },
+  {
+    "question": "What does the term \"dynamic environment\" mean in localization?",
+    "options": [
+      "The robot operates in a constantly changing environment",
+      "The robot moves at high speeds",
+      "The map is generated in real time",
+      "Sensors are recalibrated continuously"
+    ],
+    "answer": 0,
+    "questionNumber": 235,
+    "questionIndex": 234
+  },
+  {
+    "question": "What is the main function of the state transition probability p(x\u209c|u\u209c, x\u209c\u208b\u2081) in the Bayes filter?",
+    "options": [
+      "To model how the robot\u2019s state changes based on control inputs",
+      "To measure the likelihood of sensor readings",
+      "To calculate the robot\u2019s initial position",
+      "To generate a continuous map of the environment"
+    ],
+    "answer": 0,
+    "questionNumber": 236,
+    "questionIndex": 235
+  },
+  {
+    "question": "What is the purpose of the measurement probability p(z\u209c|x\u209c) in the Bayes filter?",
+    "options": [
+      "To represent the robot\u2019s motion model",
+      "To compute the likelihood of sensor data given the state",
+      "To estimate control input effects",
+      "To correct map ambiguity"
+    ],
+    "answer": 1,
+    "questionNumber": 237,
+    "questionIndex": 236
+  },
+  {
+    "question": "Why is map ambiguity a challenge in global localization?",
+    "options": [
+      "It causes errors in dead-reckoning",
+      "It makes similar areas on the map indistinguishable",
+      "It reduces the effectiveness of GPS signals",
+      "It limits the robot's ability to move freely"
+    ],
+    "answer": 1,
+    "questionNumber": 238,
+    "questionIndex": 237
+  },
+  {
+    "question": "What does p(x\u209c|z\u2081:\u209c, u\u2081:\u209c) represent in probabilistic localization?",
+    "options": [
+      "The likelihood of the robot\u2019s control inputs",
+      "The posterior probability of the robot's state at time t",
+      "The initial belief of the robot\u2019s state",
+      "The noise in the robot's motion model"
+    ],
+    "answer": 1,
+    "questionNumber": 239,
+    "questionIndex": 238
+  },
+  {
+    "question": "What is the role of a prior belief p(x\u2080) in localization?",
+    "options": [
+      "To provide an initial estimate of the robot\u2019s state",
+      "To calculate the measurement probability",
+      "To store historical control data",
+      "To update the robot\u2019s map in real time"
+    ],
+    "answer": 0,
+    "questionNumber": 240,
+    "questionIndex": 239
+  },
+  {
+    "question": "What is a major drawback of grid-based localization?",
+    "options": [
+      "It requires dynamic environments",
+      "It is computationally expensive for fine-grained grids",
+      "It cannot handle map ambiguity",
+      "It eliminates the need for measurement models"
+    ],
+    "answer": 1,
+    "questionNumber": 241,
+    "questionIndex": 240
+  },
+  {
+    "question": "Why is beacon-based localization often unsuitable indoors?",
+    "options": [
+      "Beacons cannot provide accurate measurements in small spaces",
+      "Signal attenuation and interference reduce accuracy",
+      "It requires visual landmarks for effectiveness",
+      "It depends entirely on odometry data"
+    ],
+    "answer": 1,
+    "questionNumber": 242,
+    "questionIndex": 241
+  },
+  {
+    "question": "What does the Markov assumption state about past and future data?",
+    "options": [
+      "They are always dependent on each other",
+      "They are independent if the current state is known",
+      "Past data can only be ignored in dynamic environments",
+      "Future data is unaffected by control inputs"
+    ],
+    "answer": 1,
+    "questionNumber": 243,
+    "questionIndex": 242
+  },
+  {
+    "question": "What does the term \"posterior\" refer to in Bayes' rule?",
+    "options": [
+      "The probability of the current state given past measurements",
+      "The initial belief of the robot\u2019s state",
+      "The probability of a measurement given the current state",
+      "The probability of the state after incorporating new data"
+    ],
+    "answer": 3,
+    "questionNumber": 244,
+    "questionIndex": 243
+  },
+  {
+    "question": "How does trilateration work in beacon-based localization?",
+    "options": [
+      "By matching sensor data to a prebuilt map",
+      "By calculating the robot's position based on distances to multiple beacons",
+      "By using odometry data to estimate position",
+      "By generating a histogram of control inputs"
+    ],
+    "answer": 1,
+    "questionNumber": 245,
+    "questionIndex": 244
+  },
+  {
+    "question": "What is the primary purpose of p(z\u209c|x\u209c) in the context of Bayes filters?",
+    "options": [
+      "To model sensor noise",
+      "To compute state transitions",
+      "To define initial probabilities",
+      "To represent map-based ambiguities"
+    ],
+    "answer": 0,
+    "questionNumber": 246,
+    "questionIndex": 245
+  },
+  {
+    "question": "What does grid decomposition refer to in grid localization?",
+    "options": [
+      "Dividing the environment into discrete cells for pose representation",
+      "Mapping continuous sensor data into a histogram",
+      "Generating a Gaussian distribution for the robot\u2019s belief",
+      "Breaking down the environment into dynamic and static zones"
+    ],
+    "answer": 0,
+    "questionNumber": 247,
+    "questionIndex": 246
+  },
+  {
+    "question": "Why is the posterior belief normalized in grid-based localization?",
+    "options": [
+      "To ensure it represents a valid probability distribution",
+      "To eliminate dynamic obstacles from consideration",
+      "To remove errors in the state transition model",
+      "To make sensor readings more reliable"
+    ],
+    "answer": 0,
+    "questionNumber": 248,
+    "questionIndex": 247
+  },
+  {
+    "question": "What does the discrete Bayes filter rely on to update beliefs?",
+    "options": [
+      "A continuous Gaussian model",
+      "A collection of discrete probability values",
+      "Odometry data alone",
+      "A precomputed environmental map"
+    ],
+    "answer": 1,
+    "questionNumber": 249,
+    "questionIndex": 248
+  },
+  {
+    "question": "How does the Bayes filter handle measurement and control data?",
+    "options": [
+      "It processes them sequentially to update the belief state",
+      "It uses measurement data only for initial localization",
+      "It relies entirely on control data for belief updates",
+      "It ignores sensor noise when processing control data"
+    ],
+    "answer": 0,
+    "questionNumber": 250,
+    "questionIndex": 249
+  },
+  {
+    "question": "What is a primary challenge of localization in dynamic environments?",
+    "options": [
+      "The robot cannot detect any landmarks",
+      "Sensor models often fail due to unmodeled dynamic obstacles",
+      "The Bayes filter becomes computationally intractable",
+      "Control data becomes completely irrelevant"
+    ],
+    "answer": 1,
+    "questionNumber": 251,
+    "questionIndex": 250
+  },
+  {
+    "question": "How does the Bayes filter adapt to dynamic obstacles in the environment?",
+    "options": [
+      "By recalculating prior beliefs for every state update",
+      "By using measurement data to correct for unmodeled changes",
+      "By relying solely on odometry data for localization",
+      "By assuming the environment is static and ignoring dynamics"
+    ],
+    "answer": 1,
+    "questionNumber": 252,
+    "questionIndex": 251
+  },
+  {
+    "question": "What type of maps are commonly used in probabilistic localization?",
+    "options": [
+      "Metric maps and topological maps",
+      "Visual maps and sonar maps",
+      "Beacon-based maps only",
+      "Static maps without dynamic updates"
+    ],
+    "answer": 0,
+    "questionNumber": 253,
+    "questionIndex": 252
+  },
+  {
+    "question": "How does a metric map represent the environment?",
+    "options": [
+      "As a graph of connected locations",
+      "Using geometric coordinates for landmarks and obstacles",
+      "By associating beacons with proximity signals",
+      "Through predefined state transitions"
+    ],
+    "answer": 1,
+    "questionNumber": 254,
+    "questionIndex": 253
+  },
+  {
+    "question": "What is the advantage of a topological map in localization?",
+    "options": [
+      "It is computationally efficient for large environments",
+      "It provides highly detailed geometric data",
+      "It eliminates the need for a motion model",
+      "It depends entirely on GPS for navigation"
+    ],
+    "answer": 0,
+    "questionNumber": 255,
+    "questionIndex": 254
+  },
+  {
+    "question": "What is the kidnapped robot problem in localization?",
+    "options": [
+      "A robot being physically moved to an unknown location",
+      "A sensor failure causing inaccurate state updates",
+      "A dynamic obstacle that blocks the robot's path",
+      "An environment with no detectable landmarks"
+    ],
+    "answer": 0,
+    "questionNumber": 256,
+    "questionIndex": 255
+  },
+  {
+    "question": "How does a Bayes filter help address the kidnapped robot problem?",
+    "options": [
+      "By recalculating the belief state from scratch using global localization",
+      "By increasing the resolution of the grid map",
+      "By eliminating control data from belief updates",
+      "By assuming no prior knowledge of the environment"
+    ],
+    "answer": 0,
+    "questionNumber": 257,
+    "questionIndex": 256
+  },
+  {
+    "question": "How does grid resolution affect localization accuracy?",
+    "options": [
+      "Higher resolution improves accuracy but increases computational cost",
+      "Lower resolution is more accurate for dynamic environments",
+      "High resolution eliminates the need for prior beliefs",
+      "Grid resolution has no impact on localization performance"
+    ],
+    "answer": 0,
+    "questionNumber": 258,
+    "questionIndex": 257
+  },
+  {
+    "question": "What is a disadvantage of high-resolution grid-based localization?",
+    "options": [
+      "It is incompatible with beacon-based localization methods",
+      "It requires significantly more computational resources",
+      "It cannot handle dynamic obstacles effectively",
+      "It relies entirely on odometry for updates"
+    ],
+    "answer": 1,
+    "questionNumber": 259,
+    "questionIndex": 258
+  },
+  {
+    "question": "What factor most significantly affects the measurement probability p(z\u209c|x\u209c)?",
+    "options": [
+      "The sensor's accuracy and noise characteristics",
+      "The environment's dynamic behavior",
+      "The resolution of the robot's grid map",
+      "The number of control data inputs"
+    ],
+    "answer": 0,
+    "questionNumber": 260,
+    "questionIndex": 259
+  },
+  {
+    "question": "Which localization method is best suited for environments with minimal landmarks?",
+    "options": [
+      "Beacon-based localization",
+      "Dead-reckoning",
+      "Global localization with a motion model",
+      "Metric map-based localization"
+    ],
+    "answer": 1,
+    "questionNumber": 261,
+    "questionIndex": 260
+  },
+  {
+    "question": "How do dynamic environments complicate global localization?",
+    "options": [
+      "By introducing ambiguities in the map due to moving obstacles",
+      "By preventing odometry from updating the belief state",
+      "By rendering sensor measurements completely unreliable",
+      "By forcing the robot to use static grid maps"
+    ],
+    "answer": 0,
+    "questionNumber": 262,
+    "questionIndex": 261
+  },
+  {
+    "question": "What is the trade-off when using a high-resolution grid in grid localization?",
+    "options": [
+      "Increased accuracy vs. higher computational load",
+      "Increased speed vs. decreased accuracy",
+      "Fewer map ambiguities vs. reduced dynamic adaptability",
+      "Better odometry integration vs. lower belief updates"
+    ],
+    "answer": 0,
+    "questionNumber": 263,
+    "questionIndex": 262
+  },
+  {
+    "question": "How does map ambiguity affect the belief bel(x\u209c) in localization?",
+    "options": [
+      "It reduces confidence in the robot's position estimate",
+      "It forces the robot to rely entirely on control data",
+      "It makes prior beliefs irrelevant",
+      "It eliminates the need for measurement data"
+    ],
+    "answer": 0,
+    "questionNumber": 264,
+    "questionIndex": 263
+  },
+  {
+    "question": "How is localization accuracy maintained in GPS-denied environments?",
+    "options": [
+      "By relying on odometry and sensor fusion",
+      "By increasing the frequency of GPS signals",
+      "By using beacon-based localization instead of grid-based methods",
+      "By ignoring measurement data and focusing on control updates"
+    ],
+    "answer": 0,
+    "questionNumber": 265,
+    "questionIndex": 264
+  },
+  {
+    "question": "What is the primary benefit of using topological maps for localization?",
+    "options": [
+      "They simplify navigation in environments with distinct landmarks",
+      "They provide precise geometric details about obstacles",
+      "They eliminate the need for probabilistic models",
+      "They are highly effective in GPS-denied environments"
+    ],
+    "answer": 0,
+    "questionNumber": 266,
+    "questionIndex": 265
+  },
+  {
+    "question": "How does probabilistic localization handle sensor inaccuracies?",
+    "options": [
+      "By ignoring outlier measurements",
+      "By modeling sensor noise in the measurement probability p(z\u209c|x\u209c)",
+      "By relying solely on control data for updates",
+      "By recalibrating sensors after each measurement"
+    ],
+    "answer": 1,
+    "questionNumber": 267,
+    "questionIndex": 266
+  },
+  {
+    "question": "Why is the posterior probability distribution normalized in Bayes filters?",
+    "options": [
+      "To ensure it represents a valid probability distribution",
+      "To eliminate measurement noise from the system",
+      "To simplify the computation of state transitions",
+      "To make control data more accurate"
+    ],
+    "answer": 0,
+    "questionNumber": 268,
+    "questionIndex": 267
+  },
+  {
+    "question": "What makes the Bayes filter computationally feasible in localization?",
+    "options": [
+      "It uses recursive updates instead of recalculating all data",
+      "It eliminates noise from sensor readings",
+      "It only updates prior beliefs once",
+      "It assumes the environment is always static"
+    ],
+    "answer": 0,
+    "questionNumber": 269,
+    "questionIndex": 268
+  },
+  {
+    "question": "How does a Gaussian distribution simplify modeling measurement uncertainty?",
+    "options": [
+      "By assuming errors follow a symmetric bell-shaped curve",
+      "By ignoring random noise in measurements",
+      "By directly eliminating systematic errors",
+      "By providing discrete probabilities for each state"
+    ],
+    "answer": 0,
+    "questionNumber": 270,
+    "questionIndex": 269
+  },
+  {
+    "question": "What is a key assumption in probabilistic generative models?",
+    "options": [
+      "The robot's current state completely determines future measurements",
+      "Past data is irrelevant in dynamic environments",
+      "Sensor noise always follows a uniform distribution",
+      "Control data does not affect the robot's state"
+    ],
+    "answer": 0,
+    "questionNumber": 271,
+    "questionIndex": 270
+  },
+  {
+    "question": "How does trilateration work in beacon-based localization?",
+    "options": [
+      "By measuring distances to three or more beacons",
+      "By matching the environment to a prebuilt map",
+      "By calculating the robot\u2019s velocity using odometry",
+      "By using a histogram filter to estimate position"
+    ],
+    "answer": 0,
+    "questionNumber": 272,
+    "questionIndex": 271
+  },
+  {
+    "question": "What is the main drawback of dead-reckoning for long-term navigation?",
+    "options": [
+      "It does not use sensor measurements for corrections",
+      "It requires a prebuilt map of the environment",
+      "It relies entirely on beacon signals",
+      "It cannot handle wheel slip or other actuation errors"
+    ],
+    "answer": 0,
+    "questionNumber": 273,
+    "questionIndex": 272
+  },
+  {
+    "question": "How does map ambiguity impact global localization?",
+    "options": [
+      "It increases the probability of incorrect state estimation",
+      "It eliminates the need for measurement updates",
+      "It forces the robot to rely solely on control inputs",
+      "It simplifies the computation of posterior beliefs"
+    ],
+    "answer": 0,
+    "questionNumber": 274,
+    "questionIndex": 273
+  },
+  {
+    "question": "Why are dynamic environments challenging for localization?",
+    "options": [
+      "Sensor data becomes outdated quickly due to moving obstacles",
+      "The Bayes filter cannot handle non-static environments",
+      "Control data is rendered useless in changing conditions",
+      "Maps are permanently distorted by dynamic objects"
+    ],
+    "answer": 0,
+    "questionNumber": 275,
+    "questionIndex": 274
+  },
+  {
+    "question": "What role does the state transition probability p(x\u209c|u\u209c, x\u209c\u208b\u2081) play in the Bayes filter?",
+    "options": [
+      "It models how control inputs affect the robot's state over time",
+      "It represents the likelihood of sensor measurements",
+      "It calculates the robot's initial belief",
+      "It eliminates map ambiguities during updates"
+    ],
+    "answer": 0,
+    "questionNumber": 276,
+    "questionIndex": 275
+  },
+  {
+    "question": "How does grid-based localization approximate a robot's belief?",
+    "options": [
+      "By using a histogram of probabilities over discrete grid cells",
+      "By calculating exact state transitions for all possible states",
+      "By ignoring measurement noise",
+      "By relying entirely on dynamic map representations"
+    ],
+    "answer": 0,
+    "questionNumber": 277,
+    "questionIndex": 276
+  },
+  {
+    "question": "What is the key challenge of using beacon-based localization indoors?",
+    "options": [
+      "Signal attenuation and interference",
+      "Lack of dynamic obstacle handling",
+      "Inability to measure distances accurately",
+      "High computational requirements"
+    ],
+    "answer": 0,
+    "questionNumber": 278,
+    "questionIndex": 277
+  },
+  {
+    "question": "What is the purpose of a motion model in probabilistic localization?",
+    "options": [
+      "To predict how the robot's state changes based on control inputs",
+      "To correct systematic errors in sensor measurements",
+      "To eliminate random noise from belief updates",
+      "To match sensor data with the environment map"
+    ],
+    "answer": 0,
+    "questionNumber": 279,
+    "questionIndex": 278
+  },
+  {
+    "question": "How does the Bayes filter handle prior beliefs during updates?",
+    "options": [
+      "By combining them with measurement and control data to refine the belief state",
+      "By discarding them after each sensor measurement",
+      "By relying on them exclusively for dynamic environments",
+      "By recalibrating sensors to match prior beliefs"
+    ],
+    "answer": 0,
+    "questionNumber": 280,
+    "questionIndex": 279
+  },
+  {
+    "question": "What is the key idea behind particle filters?",
+    "options": [
+      "Representing the belief with a finite set of samples or particles",
+      "Using continuous Gaussian distributions for all beliefs",
+      "Relying entirely on odometry data for updates",
+      "Eliminating measurement models from localization"
+    ],
+    "answer": 0,
+    "questionNumber": 281,
+    "questionIndex": 280
+  },
+  {
+    "question": "How do particle filters handle non-Gaussian distributions?",
+    "options": [
+      "By assuming all noise is Gaussian",
+      "By weighting particles to approximate non-Gaussian distributions",
+      "By ignoring unlikely states during updates",
+      "By converting non-Gaussian distributions into histograms"
+    ],
+    "answer": 1,
+    "questionNumber": 282,
+    "questionIndex": 281
+  },
+  {
+    "question": "In particle filters, what is the role of importance sampling?",
+    "options": [
+      "To update the map dynamically during localization",
+      "To sample new particles from a proposal distribution",
+      "To compute the posterior belief directly",
+      "To eliminate the need for state transition probabilities"
+    ],
+    "answer": 1,
+    "questionNumber": 283,
+    "questionIndex": 282
+  },
+  {
+    "question": "What are the three steps of a particle filter?",
+    "options": [
+      "Sensor update, grid mapping, normalization",
+      "Sampling, weighting, resampling",
+      "State estimation, map matching, belief correction",
+      "Prior estimation, correction, map adjustment"
+    ],
+    "answer": 1,
+    "questionNumber": 284,
+    "questionIndex": 283
+  },
+  {
+    "question": "What is Monte Carlo Localization (MCL)?",
+    "options": [
+      "A form of grid-based localization",
+      "An application of particle filters to the localization problem",
+      "A simplified version of Kalman filtering",
+      "A deterministic approach to state estimation"
+    ],
+    "answer": 1,
+    "questionNumber": 285,
+    "questionIndex": 284
+  },
+  {
+    "question": "What is the Kalman filter best suited for?",
+    "options": [
+      "Nonlinear systems with Gaussian noise",
+      "Linear systems with Gaussian noise",
+      "Dynamic environments with no prior map",
+      "Grid-based localization problems"
+    ],
+    "answer": 1,
+    "questionNumber": 286,
+    "questionIndex": 285
+  },
+  {
+    "question": "In a Kalman filter, what does the state transition model represent?",
+    "options": [
+      "How the robot's state evolves over time",
+      "The likelihood of measurement data",
+      "The mapping of states to observations",
+      "The map representation in localization"
+    ],
+    "answer": 0,
+    "questionNumber": 287,
+    "questionIndex": 286
+  },
+  {
+    "question": "What is the prediction step in a Kalman filter?",
+    "options": [
+      "Updating the robot\u2019s belief based on measurement data",
+      "Calculating the next state based on the motion model",
+      "Normalizing the belief distribution over all states",
+      "Resampling particles based on importance weights"
+    ],
+    "answer": 1,
+    "questionNumber": 288,
+    "questionIndex": 287
+  },
+  {
+    "question": "What is the main limitation of Kalman filters?",
+    "options": [
+      "They can only handle linear Gaussian systems",
+      "They are computationally expensive for large state spaces",
+      "They do not incorporate control data",
+      "They cannot handle dynamic environments"
+    ],
+    "answer": 0,
+    "questionNumber": 289,
+    "questionIndex": 288
+  },
+  {
+    "question": "What is the purpose of the covariance matrix in a Kalman filter?",
+    "options": [
+      "To represent the uncertainty in the state estimate",
+      "To normalize the belief distribution",
+      "To approximate the posterior with particles",
+      "To update the measurement model"
+    ],
+    "answer": 0,
+    "questionNumber": 290,
+    "questionIndex": 289
+  },
+  {
+    "question": "What problem does SLAM address in robotics?",
+    "options": [
+      "Combining localization and mapping simultaneously",
+      "Using odometry exclusively for pose estimation",
+      "Detecting dynamic obstacles in real-time",
+      "Eliminating the need for loop closures"
+    ],
+    "answer": 0,
+    "questionNumber": 291,
+    "questionIndex": 290
+  },
+  {
+    "question": "What is the \u201cloop closure\u201d in SLAM?",
+    "options": [
+      "Recognizing and correcting for previously visited locations",
+      "Removing dynamic obstacles from the map",
+      "Completing the map representation in a single step",
+      "Ignoring uncertainties in the robot's pose"
+    ],
+    "answer": 0,
+    "questionNumber": 292,
+    "questionIndex": 291
+  },
+  {
+    "question": "Why is SLAM considered a \u201cchicken-or-egg\u201d problem?",
+    "options": [
+      "A map is needed for localization, and a pose is needed for mapping",
+      "It requires simultaneous grid and particle localization",
+      "Control inputs and sensor data cannot be processed simultaneously",
+      "Measurement noise invalidates map updates"
+    ],
+    "answer": 0,
+    "questionNumber": 293,
+    "questionIndex": 292
+  },
+  {
+    "question": "What is the main difference between particle filters and Kalman filters?",
+    "options": [
+      "Particle filters can represent non-Gaussian beliefs, while Kalman filters cannot",
+      "Particle filters use continuous distributions, while Kalman filters use histograms",
+      "Kalman filters are better for nonlinear systems than particle filters",
+      "Particle filters rely on exact measurements, unlike Kalman filters"
+    ],
+    "answer": 0,
+    "questionNumber": 294,
+    "questionIndex": 293
+  },
+  {
+    "question": "How does a grid map represent the environment?",
+    "options": [
+      "By discretizing the space into cells, each with a probability value",
+      "By using Gaussian distributions for all measurements",
+      "By storing exact positions of all obstacles",
+      "By eliminating sensor noise from the map"
+    ],
+    "answer": 0,
+    "questionNumber": 295,
+    "questionIndex": 294
+  },
+  {
+    "question": "How does resampling work in particle filters?",
+    "options": [
+      "By removing low-weight particles and duplicating high-weight ones",
+      "By converting all particles into a histogram",
+      "By recalculating the state transition probabilities for each particle",
+      "By applying Gaussian smoothing to all particles"
+    ],
+    "answer": 0,
+    "questionNumber": 296,
+    "questionIndex": 295
+  },
+  {
+    "question": "Why are particle filters computationally efficient for non-Gaussian distributions?",
+    "options": [
+      "They only require a finite set of samples",
+      "They do not use measurement models",
+      "They assume all noise is Gaussian",
+      "They eliminate the need for resampling"
+    ],
+    "answer": 0,
+    "questionNumber": 297,
+    "questionIndex": 296
+  },
+  {
+    "question": "What is the main challenge in applying SLAM?",
+    "options": [
+      "Correlation between map errors and pose errors",
+      "Reliance on GPS signals for mapping",
+      "Inability to handle dynamic obstacles",
+      "Lack of support for probabilistic models"
+    ],
+    "answer": 0,
+    "questionNumber": 298,
+    "questionIndex": 297
+  },
+  {
+    "question": "In Monte Carlo Localization, what determines a particle's weight?",
+    "options": [
+      "Its distance from the nearest obstacle",
+      "The likelihood of the particle given the sensor data",
+      "The number of particles in the proposal distribution",
+      "The robot's motion model"
+    ],
+    "answer": 1,
+    "questionNumber": 299,
+    "questionIndex": 298
+  },
+  {
+    "question": "How does a Kalman filter correct its predictions?",
+    "options": [
+      "By using sensor measurements to update the belief",
+      "By resampling the particles with higher weights",
+      "By eliminating outliers from the state distribution",
+      "By recalibrating the motion model dynamically"
+    ],
+    "answer": 0,
+    "questionNumber": 300,
+    "questionIndex": 299
+  },
+  {
+    "question": "What does the measurement model in a Kalman filter represent?",
+    "options": [
+      "The mapping of states to observations",
+      "The evolution of the robot's state over time",
+      "The likelihood of sensor noise being Gaussian",
+      "The grid map representation"
+    ],
+    "answer": 0,
+    "questionNumber": 301,
+    "questionIndex": 300
+  },
+  {
+    "question": "What is the role of the process noise in a Kalman filter?",
+    "options": [
+      "To model uncertainty in the robot's motion",
+      "To approximate sensor measurement probabilities",
+      "To account for dynamic changes in the map",
+      "To eliminate systematic errors in odometry"
+    ],
+    "answer": 0,
+    "questionNumber": 302,
+    "questionIndex": 301
+  },
+  {
+    "question": "Why is SLAM crucial for autonomous robots?",
+    "options": [
+      "It allows robots to localize and build maps simultaneously",
+      "It eliminates the need for sensor fusion",
+      "It provides a deterministic solution for pose estimation",
+      "It simplifies navigation in dynamic environments"
+    ],
+    "answer": 0,
+    "questionNumber": 303,
+    "questionIndex": 302
+  },
+  {
+    "question": "What does \u201cimportance factor\u201d mean in particle filters?",
+    "options": [
+      "The weight assigned to each particle based on measurement likelihood",
+      "The number of particles used in a given state",
+      "The probability of the initial belief being accurate",
+      "The ratio of measurement noise to process noise"
+    ],
+    "answer": 0,
+    "questionNumber": 304,
+    "questionIndex": 303
+  },
+  {
+    "question": "What is the key limitation of particle filters in high-dimensional spaces?",
+    "options": [
+      "They require a very large number of particles to remain accurate",
+      "They cannot handle Gaussian distributions effectively",
+      "They fail to incorporate sensor noise into the belief",
+      "They rely solely on grid-based representations"
+    ],
+    "answer": 0,
+    "questionNumber": 305,
+    "questionIndex": 304
+  },
+  {
+    "question": "Why are Gaussian assumptions critical in Kalman filters?",
+    "options": [
+      "Linear transformations preserve the Gaussian property",
+      "Gaussian noise eliminates the need for motion models",
+      "They allow for non-recursive updates in the belief",
+      "Kalman filters can only process continuous distributions"
+    ],
+    "answer": 0,
+    "questionNumber": 306,
+    "questionIndex": 305
+  },
+  {
+    "question": "What is the purpose of grid maps in SLAM?",
+    "options": [
+      "To discretize the environment for mapping and localization",
+      "To model sensor noise in a particle filter",
+      "To provide exact positions of dynamic obstacles",
+      "To eliminate correlations between pose and map errors"
+    ],
+    "answer": 0,
+    "questionNumber": 307,
+    "questionIndex": 306
+  },
+  {
+    "question": "How does loop closure improve the SLAM process?",
+    "options": [
+      "By correcting pose and map errors upon recognizing a previously visited area",
+      "By recalibrating the robot's sensors for improved accuracy",
+      "By dynamically updating the motion model during localization",
+      "By reducing computational requirements in particle filters"
+    ],
+    "answer": 0,
+    "questionNumber": 308,
+    "questionIndex": 307
+  },
+  {
+    "question": "What makes Monte Carlo Localization robust in large-scale environments?",
+    "options": [
+      "Its ability to represent non-Gaussian beliefs with particles",
+      "Its reliance on grid-based representations",
+      "Its deterministic approach to state estimation",
+      "Its independence from sensor models"
+    ],
+    "answer": 0,
+    "questionNumber": 309,
+    "questionIndex": 308
+  },
+  {
+    "question": "In SLAM, what is the data association problem?",
+    "options": [
+      "Matching sensor measurements to known landmarks or map features",
+      "Assigning particles to different probability distributions",
+      "Eliminating low-weight particles from the belief",
+      "Combining motion and measurement models into a unified system"
+    ],
+    "answer": 0,
+    "questionNumber": 310,
+    "questionIndex": 309
+  },
+  {
+    "question": "What is the key difference between grid-based localization and Monte Carlo Localization?",
+    "options": [
+      "Grid-based localization discretizes the environment, while MCL uses particles",
+      "Grid-based localization handles non-Gaussian beliefs, while MCL does not",
+      "MCL relies on a fixed map, while grid-based localization builds the map dynamically",
+      "MCL only works in static environments"
+    ],
+    "answer": 0,
+    "questionNumber": 311,
+    "questionIndex": 310
+  },
+  {
+    "question": "How does the proposal distribution affect particle filters?",
+    "options": [
+      "It determines how particles are sampled for the next iteration",
+      "It eliminates low-probability states from the belief",
+      "It ensures all particles have the same weight",
+      "It directly updates the map representation"
+    ],
+    "answer": 0,
+    "questionNumber": 312,
+    "questionIndex": 311
+  },
+  {
+    "question": "Why is SLAM particularly challenging in dynamic environments?",
+    "options": [
+      "Moving obstacles can cause errors in data association",
+      "The robot cannot rely on odometry",
+      "Measurement noise becomes Gaussian",
+      "Map updates are no longer possible"
+    ],
+    "answer": 0,
+    "questionNumber": 313,
+    "questionIndex": 312
+  },
+  {
+    "question": "What is the computational complexity of the Kalman filter relative to state and measurement dimensions?",
+    "options": [
+      "Linear",
+      "Quadratic",
+      "Polynomial",
+      "Exponential"
+    ],
+    "answer": 2,
+    "questionNumber": 314,
+    "questionIndex": 313
+  },
+  {
+    "question": "How do particles represent the posterior in Monte Carlo Localization?",
+    "options": [
+      "By clustering into discrete grid cells",
+      "By approximating the posterior distribution using a weighted set of particles",
+      "By storing exact robot poses for every measurement",
+      "By normalizing Gaussian noise"
+    ],
+    "answer": 1,
+    "questionNumber": 315,
+    "questionIndex": 314
+  },
+  {
+    "question": "What is the function of w\u1d62 (particle weight) in a particle filter?",
+    "options": [
+      "It indicates the likelihood of a particle representing the true state",
+      "It determines the next position of the particle",
+      "It replaces the posterior probability in the Bayes filter",
+      "It ensures uniform sampling of all particles"
+    ],
+    "answer": 0,
+    "questionNumber": 316,
+    "questionIndex": 315
+  },
+  {
+    "question": "Why is SLAM referred to as a simultaneous problem?",
+    "options": [
+      "It involves building a map and estimating the robot's pose at the same time",
+      "It simultaneously handles dynamic and static environments",
+      "It uses both particle and Kalman filters at once",
+      "It requires simultaneous control and measurement updates"
+    ],
+    "answer": 0,
+    "questionNumber": 317,
+    "questionIndex": 316
+  },
+  {
+    "question": "What is the primary limitation of Kalman filters in SLAM?",
+    "options": [
+      "They assume linear Gaussian systems",
+      "They require particle resampling",
+      "They eliminate dynamic map updates",
+      "They are computationally intractable for small state spaces"
+    ],
+    "answer": 0,
+    "questionNumber": 318,
+    "questionIndex": 317
+  },
+  {
+    "question": "What is the purpose of resampling in particle filters?",
+    "options": [
+      "To discard low-weight particles and duplicate high-weight ones",
+      "To calculate the state transition probability",
+      "To normalize Gaussian noise in the belief distribution",
+      "To align the particles with the robot's prior belief"
+    ],
+    "answer": 0,
+    "questionNumber": 319,
+    "questionIndex": 318
+  },
+  {
+    "question": "How does the covariance matrix in a Kalman filter evolve during the prediction step?",
+    "options": [
+      "It increases to reflect greater uncertainty",
+      "It decreases to eliminate noise",
+      "It remains constant throughout the process",
+      "It resets based on measurement updates"
+    ],
+    "answer": 0,
+    "questionNumber": 320,
+    "questionIndex": 319
+  },
+  {
+    "question": "Why is a map essential for probabilistic localization?",
+    "options": [
+      "It provides the reference for measurement probabilities",
+      "It eliminates the need for particle resampling",
+      "It simplifies state transitions in dynamic environments",
+      "It replaces the motion model in localization"
+    ],
+    "answer": 0,
+    "questionNumber": 321,
+    "questionIndex": 320
+  },
+  {
+    "question": "How does particle filtering improve upon histogram filters?",
+    "options": [
+      "It approximates the posterior with fewer computational resources",
+      "It eliminates the need for measurement models",
+      "It handles dynamic environments without updating",
+      "It replaces the need for prior beliefs"
+    ],
+    "answer": 0,
+    "questionNumber": 322,
+    "questionIndex": 321
+  },
+  {
+    "question": "In SLAM, what happens during loop closure?",
+    "options": [
+      "Errors in the map and robot pose are corrected upon recognizing a previously visited area",
+      "The robot switches from mapping to pure localization",
+      "The belief state is reset based on new measurement data",
+      "Particle weights are recalculated to reflect measurement noise"
+    ],
+    "answer": 0,
+    "questionNumber": 323,
+    "questionIndex": 322
+  },
+  {
+    "question": "Why is the Kalman filter unsuitable for multimodal distributions?",
+    "options": [
+      "It only models a single Gaussian distribution",
+      "It eliminates low-probability states",
+      "It relies entirely on grid-based maps",
+      "It requires dynamic environment assumptions"
+    ],
+    "answer": 0,
+    "questionNumber": 324,
+    "questionIndex": 323
+  },
+  {
+    "question": "How does Monte Carlo Localization handle robot kidnapping?",
+    "options": [
+      "By spreading particles across the environment to account for the unknown location",
+      "By resetting the motion model to eliminate errors",
+      "By recalculating the map to reflect dynamic changes",
+      "By discarding all prior particles"
+    ],
+    "answer": 0,
+    "questionNumber": 325,
+    "questionIndex": 324
+  },
+  {
+    "question": "What does the motion model in Monte Carlo Localization represent?",
+    "options": [
+      "The probability distribution of a robot's new state given its current state and control inputs",
+      "The exact path the robot should follow in the environment",
+      "The likelihood of a map matching the robot's measurements",
+      "The mapping of particles to grid cells"
+    ],
+    "answer": 0,
+    "questionNumber": 326,
+    "questionIndex": 325
+  },
+  {
+    "question": "Why are particle filters preferred for handling non-linear systems?",
+    "options": [
+      "They do not assume Gaussian noise",
+      "They use finite samples to approximate complex distributions",
+      "They eliminate the need for measurement updates",
+      "They always operate with exact robot poses"
+    ],
+    "answer": 1,
+    "questionNumber": 327,
+    "questionIndex": 326
+  },
+  {
+    "question": "How do Kalman filters estimate state uncertainty?",
+    "options": [
+      "By using a covariance matrix to represent uncertainty",
+      "By relying on the mean value of state measurements",
+      "By normalizing particle weights during resampling",
+      "By adjusting the map resolution dynamically"
+    ],
+    "answer": 0,
+    "questionNumber": 328,
+    "questionIndex": 327
+  },
+  {
+    "question": "What makes SLAM a \"data association problem\"?",
+    "options": [
+      "It requires matching sensor data to known map features",
+      "It uses resampled particles to update the robot's belief",
+      "It depends entirely on linear Gaussian models",
+      "It assumes no dynamic changes in the environment"
+    ],
+    "answer": 0,
+    "questionNumber": 329,
+    "questionIndex": 328
+  },
+  {
+    "question": "What does a particle represent in Monte Carlo Localization?",
+    "options": [
+      "A hypothesis about the robot\u2019s state",
+      "A cell in a grid map",
+      "A measurement from a sensor",
+      "A dynamic obstacle in the environment"
+    ],
+    "answer": 0,
+    "questionNumber": 330,
+    "questionIndex": 329
+  },
+  {
+    "question": "What happens to low-weight particles during the resampling step?",
+    "options": [
+      "They are removed and replaced by high-weight particles",
+      "They are redistributed across the environment",
+      "They are normalized to match the belief distribution",
+      "They are updated using the motion model"
+    ],
+    "answer": 0,
+    "questionNumber": 331,
+    "questionIndex": 330
+  },
+  {
+    "question": "What is the purpose of a map in SLAM?",
+    "options": [
+      "To provide a reference for measurement and localization",
+      "To eliminate noise from sensor data",
+      "To directly calculate control inputs for the robot",
+      "To model the robot\u2019s motion in dynamic environments"
+    ],
+    "answer": 0,
+    "questionNumber": 332,
+    "questionIndex": 331
+  },
+  {
+    "question": "How does the prediction step in a Kalman filter affect the covariance matrix?",
+    "options": [
+      "It increases uncertainty based on the motion model",
+      "It reduces uncertainty by applying measurement updates",
+      "It normalizes the belief distribution over the state",
+      "It eliminates the need for prior information"
+    ],
+    "answer": 0,
+    "questionNumber": 333,
+    "questionIndex": 332
+  },
+  {
+    "question": "Why is loop closure essential for SLAM?",
+    "options": [
+      "It corrects accumulated errors in both pose and map",
+      "It eliminates dynamic obstacles from consideration",
+      "It resets the robot's belief to its initial state",
+      "It simplifies the motion model in probabilistic localization"
+    ],
+    "answer": 0,
+    "questionNumber": 334,
+    "questionIndex": 333
+  },
+  {
+    "question": "What is the main advantage of Monte Carlo Localization over grid-based methods?",
+    "options": [
+      "It handles non-Gaussian beliefs more efficiently",
+      "It eliminates the need for resampling",
+      "It uses exact state representations for localization",
+      "It requires fewer particles than grid cells"
+    ],
+    "answer": 0,
+    "questionNumber": 335,
+    "questionIndex": 334
+  },
+  {
+    "question": "What assumption does the Kalman filter make about noise?",
+    "options": [
+      "It is Gaussian and independent of state transitions",
+      "It is uniform and independent of measurements",
+      "It only occurs in dynamic environments",
+      "It eliminates uncertainty in the belief distribution"
+    ],
+    "answer": 0,
+    "questionNumber": 336,
+    "questionIndex": 335
+  },
+  {
+    "question": "How do particle filters maintain efficiency in localization?",
+    "options": [
+      "By focusing on high-probability regions of the state space",
+      "By increasing the number of particles at each step",
+      "By assuming Gaussian noise in measurements",
+      "By eliminating the motion model from consideration"
+    ],
+    "answer": 0,
+    "questionNumber": 337,
+    "questionIndex": 336
+  },
+  {
+    "question": "What does the proposal distribution in particle filters depend on?",
+    "options": [
+      "The robot's motion model and control inputs",
+      "The map representation used in SLAM",
+      "The measurement noise in the Kalman filter",
+      "The covariance matrix of the previous state"
+    ],
+    "answer": 0,
+    "questionNumber": 338,
+    "questionIndex": 337
+  },
+  {
+    "question": "What is the relationship between pose and map errors in SLAM?",
+    "options": [
+      "They are highly correlated, making SLAM challenging",
+      "They are independent of each other",
+      "Pose errors are eliminated when map errors occur",
+      "Map errors increase as pose errors decrease"
+    ],
+    "answer": 0,
+    "questionNumber": 339,
+    "questionIndex": 338
+  },
+  {
+    "question": "How does the Kalman filter correct its state prediction?",
+    "options": [
+      "By incorporating sensor measurements into the belief",
+      "By redistributing particles to high-probability states",
+      "By reducing the resolution of the grid map",
+      "By normalizing the covariance matrix"
+    ],
+    "answer": 0,
+    "questionNumber": 340,
+    "questionIndex": 339
+  },
+  {
+    "question": "What is the main benefit of using resampling in particle filters?",
+    "options": [
+      "It focuses computational resources on high-probability states",
+      "It eliminates measurement noise from the distribution",
+      "It ensures all particles have equal weights",
+      "It reduces the need for motion model updates"
+    ],
+    "answer": 0,
+    "questionNumber": 341,
+    "questionIndex": 340
+  },
+  {
+    "question": "Why do Kalman filters struggle with multi-modal distributions?",
+    "options": [
+      "They assume a single Gaussian for the belief",
+      "They rely entirely on dynamic maps",
+      "They ignore low-probability states",
+      "They require a high number of particles"
+    ],
+    "answer": 0,
+    "questionNumber": 342,
+    "questionIndex": 341
+  },
+  {
+    "question": "What does the term \u201cnon-parametric\u201d mean in the context of particle filters?",
+    "options": [
+      "The filter does not assume a specific probability distribution form",
+      "The filter relies on precomputed grid maps",
+      "The filter uses Gaussian assumptions for all noise",
+      "The filter ignores sensor measurement updates"
+    ],
+    "answer": 0,
+    "questionNumber": 343,
+    "questionIndex": 342
+  },
+  {
+    "question": "How does SLAM resolve uncertainties in robot pose and map errors?",
+    "options": [
+      "By recognizing and correcting loop closures",
+      "By ignoring dynamic changes in the environment",
+      "By recalibrating all sensors periodically",
+      "By resetting the map whenever errors accumulate"
+    ],
+    "answer": 0,
+    "questionNumber": 344,
+    "questionIndex": 343
+  },
+  {
+    "question": "What makes Monte Carlo Localization suitable for large environments?",
+    "options": [
+      "It requires fewer particles than grid-based methods for similar accuracy",
+      "It eliminates the need for a motion model",
+      "It assumes Gaussian distributions for all noise",
+      "It directly matches measurements to a static map"
+    ],
+    "answer": 0,
+    "questionNumber": 345,
+    "questionIndex": 344
+  },
+  {
+    "question": "What does the covariance matrix represent in a Kalman filter?",
+    "options": [
+      "The uncertainty in the robot\u2019s state estimate",
+      "The likelihood of sensor measurements",
+      "The map resolution for localization",
+      "The proposal distribution in particle filtering"
+    ],
+    "answer": 0,
+    "questionNumber": 346,
+    "questionIndex": 345
+  },
+  {
+    "question": "What is the \u201cdata association problem\u201d in SLAM?",
+    "options": [
+      "Matching sensor measurements to known landmarks or map features",
+      "Calculating control inputs based on motion models",
+      "Distributing particles across a state space",
+      "Eliminating dynamic obstacles from the map"
+    ],
+    "answer": 0,
+    "questionNumber": 347,
+    "questionIndex": 346
+  },
+  {
+    "question": "How does a particle filter differ from a Kalman filter in representing beliefs?",
+    "options": [
+      "A particle filter uses a weighted set of samples, while a Kalman filter uses a single Gaussian",
+      "A particle filter assumes linear motion, while a Kalman filter assumes non-linear motion",
+      "A Kalman filter relies on resampling, while a particle filter does not",
+      "A Kalman filter eliminates noise entirely, while a particle filter does not"
+    ],
+    "answer": 0,
+    "questionNumber": 348,
+    "questionIndex": 347
+  },
+  {
+    "question": "What is the purpose of the state transition model in a Kalman filter?",
+    "options": [
+      "To predict the next state based on control inputs and the current state",
+      "To calculate the likelihood of sensor measurements",
+      "To reduce uncertainty in the belief distribution",
+      "To eliminate errors in dynamic maps"
+    ],
+    "answer": 0,
+    "questionNumber": 349,
+    "questionIndex": 348
+  },
+  {
+    "question": "Why is SLAM referred to as the \u201cchicken-or-egg\u201d problem?",
+    "options": [
+      "A map is needed for localization, and localization is needed to build the map",
+      "It requires simultaneous processing of motion and measurement models",
+      "It assumes linear Gaussian systems for both pose and map updates",
+      "It eliminates uncertainties only after loop closures"
+    ],
+    "answer": 0,
+    "questionNumber": 350,
+    "questionIndex": 349
+  },
+  {
+    "question": "How does loop closure improve SLAM performance?",
+    "options": [
+      "By correcting accumulated errors in both the pose and map",
+      "By redistributing particles in high-probability regions",
+      "By reducing the need for control data",
+      "By directly calculating posterior probabilities"
+    ],
+    "answer": 0,
+    "questionNumber": 351,
+    "questionIndex": 350
+  },
+  {
+    "question": "What is a key limitation of particle filters?",
+    "options": [
+      "They require many particles in high-dimensional spaces",
+      "They assume Gaussian noise in all measurements",
+      "They cannot handle dynamic obstacles",
+      "They eliminate the need for resampling"
+    ],
+    "answer": 0,
+    "questionNumber": 352,
+    "questionIndex": 351
+  },
+  {
+    "question": "Why are grid maps useful in probabilistic localization?",
+    "options": [
+      "They discretize the environment, allowing for easier belief representation",
+      "They assume uniform distributions for all states",
+      "They eliminate the need for control inputs",
+      "They provide exact measurements of the environment"
+    ],
+    "answer": 0,
+    "questionNumber": 353,
+    "questionIndex": 352
+  },
+  {
+    "question": "What role does the measurement model play in Monte Carlo Localization?",
+    "options": [
+      "It weights particles based on how well they match sensor measurements",
+      "It predicts the robot's next state based on its control inputs",
+      "It normalizes the belief distribution across all particles",
+      "It eliminates the need for a proposal distribution"
+    ],
+    "answer": 0,
+    "questionNumber": 354,
+    "questionIndex": 353
+  },
+  {
+    "question": "What makes the Kalman filter efficient for linear systems?",
+    "options": [
+      "Its computational complexity is polynomial in state and measurement dimensions",
+      "It relies on resampling to refine beliefs",
+      "It assumes all noise is uniform and independent",
+      "It eliminates dynamic map updates during localization"
+    ],
+    "answer": 0,
+    "questionNumber": 355,
+    "questionIndex": 354
+  },
+  {
+    "question": "How do particle filters handle dynamic environments?",
+    "options": [
+      "By continuously updating particles based on new measurements",
+      "By assuming the environment remains static",
+      "By redistributing particles randomly",
+      "By eliminating low-probability states without resampling"
+    ],
+    "answer": 0,
+    "questionNumber": 356,
+    "questionIndex": 355
+  },
+  {
+    "question": "What is a key advantage of using Graph SLAM over standard SLAM methods?",
+    "options": [
+      "It provides a more efficient way to handle loop closures",
+      "It eliminates the need for probabilistic models",
+      "It does not require a map for localization",
+      "It assumes the environment is dynamic"
+    ],
+    "answer": 0,
+    "questionNumber": 357,
+    "questionIndex": 356
+  },
+  {
+    "question": "How does Extended Kalman Filter SLAM differ from standard SLAM?",
+    "options": [
+      "It linearizes non-linear models for improved performance",
+      "It eliminates the correlation between pose and map errors",
+      "It handles multi-modal distributions better than particle filters",
+      "It requires no loop closure corrections"
+    ],
+    "answer": 0,
+    "questionNumber": 358,
+    "questionIndex": 357
+  },
+  {
+    "question": "What is the main challenge of adapting SLAM to dynamic environments?",
+    "options": [
+      "Distinguishing between static and dynamic objects in the map",
+      "Eliminating noise from all sensor measurements",
+      "Ensuring loop closures occur only once",
+      "Reducing computational load from particle resampling"
+    ],
+    "answer": 0,
+    "questionNumber": 359,
+    "questionIndex": 358
+  },
+  {
+    "question": "What is a benefit of using a proposal distribution tailored to the motion model in particle filters?",
+    "options": [
+      "It improves the efficiency of sampling by focusing on likely states",
+      "It eliminates the need for measurement models",
+      "It reduces the number of particles required for accurate localization",
+      "It ensures particles represent a continuous belief"
+    ],
+    "answer": 0,
+    "questionNumber": 360,
+    "questionIndex": 359
+  },
+  {
+    "question": "How does loop closure in SLAM affect map accuracy?",
+    "options": [
+      "It corrects accumulated pose and map errors by recognizing revisited areas",
+      "It recalculates the robot\u2019s position based on control inputs",
+      "It eliminates dynamic obstacles from the map representation",
+      "It improves efficiency by reducing the number of particles"
+    ],
+    "answer": 0,
+    "questionNumber": 361,
+    "questionIndex": 360
+  },
+  {
+    "question": "Why is Extended Kalman Filter SLAM less suitable for large-scale environments?",
+    "options": [
+      "It scales poorly with the number of landmarks and poses",
+      "It assumes all noise is Gaussian",
+      "It cannot handle non-linear motion models",
+      "It relies entirely on static maps"
+    ],
+    "answer": 0,
+    "questionNumber": 362,
+    "questionIndex": 361
+  },
+  {
+    "question": "What technique can SLAM use to handle moving obstacles?",
+    "options": [
+      "Dynamic object filtering to separate static and dynamic features",
+      "Resampling particles across all possible states",
+      "Recalibrating sensors for dynamic environments",
+      "Using grid maps exclusively for localization"
+    ],
+    "answer": 0,
+    "questionNumber": 363,
+    "questionIndex": 362
+  },
+  {
+    "question": "How does the data association problem affect SLAM performance?",
+    "options": [
+      "Errors in matching sensor data to map features can lead to incorrect updates",
+      "It forces SLAM to discard loop closures",
+      "It eliminates the correlation between pose and map errors",
+      "It assumes the environment remains static"
+    ],
+    "answer": 0,
+    "questionNumber": 364,
+    "questionIndex": 363
+  },
+  {
+    "question": "What is a primary advantage of using particle filters in SLAM?",
+    "options": [
+      "They can handle non-Gaussian noise and non-linear systems effectively",
+      "They eliminate the need for measurement models",
+      "They require fewer computational resources than grid maps",
+      "They are optimal for large-scale maps with static environments"
+    ],
+    "answer": 0,
+    "questionNumber": 365,
+    "questionIndex": 364
+  },
+  {
+    "question": "What is the purpose of maintaining a dynamic map in SLAM?",
+    "options": [
+      "To adapt the map as the environment changes",
+      "To eliminate noise from measurement models",
+      "To focus only on static landmarks in the environment",
+      "To reduce the complexity of loop closures"
+    ],
+    "answer": 0,
+    "questionNumber": 366,
+    "questionIndex": 365
+  },
+  {
+    "question": "How does Graph SLAM optimize the robot\u2019s pose graph?",
+    "options": [
+      "By minimizing the error between loop closures and observations",
+      "By redistributing particles in the environment",
+      "By recalculating the belief state for each step",
+      "By focusing on static map features"
+    ],
+    "answer": 0,
+    "questionNumber": 367,
+    "questionIndex": 366
+  },
+  {
+    "question": "What role does sensor fusion play in SLAM?",
+    "options": [
+      "It combines multiple sensor inputs to improve accuracy in localization and mapping",
+      "It eliminates the need for loop closure",
+      "It reduces computational requirements by discarding low-priority data",
+      "It relies exclusively on beacon-based localization methods"
+    ],
+    "answer": 0,
+    "questionNumber": 368,
+    "questionIndex": 367
+  },
+  {
+    "question": "Why are dynamic objects problematic for SLAM?",
+    "options": [
+      "They can cause errors in map updates and pose estimation",
+      "They eliminate the need for control data",
+      "They invalidate the motion model used for prediction",
+      "They require Gaussian assumptions for noise"
+    ],
+    "answer": 0,
+    "questionNumber": 369,
+    "questionIndex": 368
+  },
+  {
+    "question": "How does non-linear optimization improve SLAM in dynamic environments?",
+    "options": [
+      "By adjusting the pose and map iteratively to minimize errors",
+      "By recalibrating sensors for every update",
+      "By eliminating dynamic objects from the state transition model",
+      "By increasing the resolution of grid maps"
+    ],
+    "answer": 0,
+    "questionNumber": 370,
+    "questionIndex": 369
+  },
+  {
+    "question": "What is the configuration space (C-space) in path planning?",
+    "options": [
+      "The set of possible transformations that can be applied to a robot",
+      "The roadmap of all known paths in the environment",
+      "A discrete grid map of obstacles",
+      "The set of dynamic objects in the workspace"
+    ],
+    "answer": 0,
+    "questionNumber": 371,
+    "questionIndex": 370
+  },
+  {
+    "question": "What does a point in C-space represent?",
+    "options": [
+      "The complete configuration of the robot",
+      "The location of a dynamic obstacle",
+      "The start and goal positions for path planning",
+      "The sensor readings from the environment"
+    ],
+    "answer": 0,
+    "questionNumber": 372,
+    "questionIndex": 371
+  },
+  {
+    "question": "What is the Minkowski sum used for in planning?",
+    "options": [
+      "To compute the configuration space by combining robot and obstacle geometries",
+      "To calculate the shortest path between two points",
+      "To generate a roadmap in free space",
+      "To sample configurations in C-space"
+    ],
+    "answer": 0,
+    "questionNumber": 373,
+    "questionIndex": 372
+  },
+  {
+    "question": "What is a key characteristic of combinatorial methods in planning?",
+    "options": [
+      "They are exact and complete",
+      "They are probabilistically complete",
+      "They require no computation of the configuration space",
+      "They rely entirely on sampling"
+    ],
+    "answer": 0,
+    "questionNumber": 374,
+    "questionIndex": 373
+  },
+  {
+    "question": "What is the evaluation function in the A* algorithm?",
+    "options": [
+      "f(n) = g(n) + h(n)",
+      "f(n) = g(n) - h(n)",
+      "f(n) = h(n)",
+      "f(n) = g(n) \u00d7 h(n)"
+    ],
+    "answer": 0,
+    "questionNumber": 375,
+    "questionIndex": 374
+  },
+  {
+    "question": "What is the role of the heuristic function h(n) in A*?",
+    "options": [
+      "To estimate the cost to the goal from the current node",
+      "To calculate the total path cost already traversed",
+      "To represent the exact cost of the optimal path",
+      "To check for collisions in the roadmap"
+    ],
+    "answer": 0,
+    "questionNumber": 376,
+    "questionIndex": 375
+  },
+  {
+    "question": "What is a drawback of the A* algorithm?",
+    "options": [
+      "It is memory inefficient for large search spaces",
+      "It cannot find an optimal path",
+      "It ignores heuristic functions in its search",
+      "It assumes all paths have equal cost"
+    ],
+    "answer": 0,
+    "questionNumber": 377,
+    "questionIndex": 376
+  },
+  {
+    "question": "How do sampling-based methods differ from combinatorial methods?",
+    "options": [
+      "They avoid explicit construction of roadmaps in C-space",
+      "They always provide exact solutions to the planning problem",
+      "They use a heuristic function to guide the search",
+      "They require no collision checking"
+    ],
+    "answer": 0,
+    "questionNumber": 378,
+    "questionIndex": 377
+  },
+  {
+    "question": "What is the primary advantage of Probabilistic Roadmaps (PRMs)?",
+    "options": [
+      "They are efficient in high-dimensional C-spaces",
+      "They guarantee the shortest path in all cases",
+      "They avoid sampling in narrow passages",
+      "They eliminate the need for collision checking"
+    ],
+    "answer": 0,
+    "questionNumber": 379,
+    "questionIndex": 378
+  },
+  {
+    "question": "What is the main limitation of PRMs?",
+    "options": [
+      "Difficulty sampling configurations in narrow passages",
+      "Inability to handle dynamic obstacles",
+      "Lack of probabilistic completeness",
+      "Dependence on exact map representations"
+    ],
+    "answer": 0,
+    "questionNumber": 380,
+    "questionIndex": 379
+  },
+  {
+    "question": "How do Rapidly Exploring Random Trees (RRTs) differ from PRMs?",
+    "options": [
+      "RRTs grow a single tree, while PRMs build a connected roadmap",
+      "RRTs rely on heuristic functions for sampling",
+      "PRMs are not probabilistically complete, while RRTs are",
+      "RRTs use grid-based discretization for collision checking"
+    ],
+    "answer": 0,
+    "questionNumber": 381,
+    "questionIndex": 380
+  },
+  {
+    "question": "What is the main advantage of RRTs for path planning?",
+    "options": [
+      "They explore C-space efficiently, especially in high-dimensional spaces",
+      "They guarantee an exact solution in all cases",
+      "They avoid collision checking entirely",
+      "They require no initialization of a graph"
+    ],
+    "answer": 0,
+    "questionNumber": 382,
+    "questionIndex": 381
+  },
+  {
+    "question": "What is a major limitation of potential field methods?",
+    "options": [
+      "They can get stuck in local minima",
+      "They are computationally expensive",
+      "They require precomputed roadmaps",
+      "They cannot handle non-holonomic robots"
+    ],
+    "answer": 0,
+    "questionNumber": 383,
+    "questionIndex": 382
+  },
+  {
+    "question": "What is the principle behind potential field methods?",
+    "options": [
+      "Using a vector field to compute a trajectory toward the goal",
+      "Sampling configurations randomly in C-space",
+      "Dividing the environment into discrete cells",
+      "Minimizing the number of nodes in a roadmap"
+    ],
+    "answer": 0,
+    "questionNumber": 384,
+    "questionIndex": 383
+  },
+  {
+    "question": "What is the curse of dimensionality in planning algorithms?",
+    "options": [
+      "The exponential growth of search space with increasing dimensions",
+      "The inability to handle multi-modal distributions",
+      "The reliance on grid maps for high-dimensional spaces",
+      "The inefficiency of collision checking in narrow passages"
+    ],
+    "answer": 0,
+    "questionNumber": 385,
+    "questionIndex": 384
+  },
+  {
+    "question": "What is the goal of path planning algorithms?",
+    "options": [
+      "To find a collision-free path from start to goal",
+      "To minimize the number of obstacles in the environment",
+      "To generate a dynamic map for localization",
+      "To avoid the computation of the configuration space"
+    ],
+    "answer": 0,
+    "questionNumber": 386,
+    "questionIndex": 385
+  },
+  {
+    "question": "What is probabilistic completeness in planning algorithms?",
+    "options": [
+      "The guarantee that a solution will be found if one exists, given enough time",
+      "The assurance that the optimal path will always be selected",
+      "The ability to handle dynamic environments without recalculating the path",
+      "The ability to compute the exact configuration space"
+    ],
+    "answer": 0,
+    "questionNumber": 387,
+    "questionIndex": 386
+  },
+  {
+    "question": "How do potential field methods guide a robot to its goal?",
+    "options": [
+      "By using attractive forces toward the goal and repulsive forces away from obstacles",
+      "By sampling random configurations in the environment",
+      "By dividing the workspace into grid cells and calculating costs",
+      "By precomputing all possible paths to the goal"
+    ],
+    "answer": 0,
+    "questionNumber": 388,
+    "questionIndex": 387
+  },
+  {
+    "question": "Why are RRTs suitable for high-dimensional spaces?",
+    "options": [
+      "They explore the configuration space rapidly and randomly",
+      "They eliminate the need for collision detection",
+      "They guarantee the shortest path in all scenarios",
+      "They rely on exact solutions to path planning problems"
+    ],
+    "answer": 0,
+    "questionNumber": 389,
+    "questionIndex": 388
+  },
+  {
+    "question": "What is the role of the cost function in path planning?",
+    "options": [
+      "To evaluate and compare different paths based on certain criteria",
+      "To precompute the roadmap of all configurations",
+      "To guide the robot dynamically toward its goal",
+      "To eliminate the need for sampling in narrow passages"
+    ],
+    "answer": 0,
+    "questionNumber": 390,
+    "questionIndex": 389
+  },
+  {
+    "question": "What is the primary advantage of hybrid A over traditional A*?",
+    "options": [
+      "It incorporates non-holonomic constraints into the path planning",
+      "It eliminates the need for a heuristic function",
+      "It avoids high memory usage in large search spaces",
+      "It guarantees the optimal path in all cases"
+    ],
+    "answer": 0,
+    "questionNumber": 391,
+    "questionIndex": 390
+  },
+  {
+    "question": "How does an admissible heuristic affect the performance of A*?",
+    "options": [
+      "It ensures that A* finds an optimal path",
+      "It reduces the memory requirements of the algorithm",
+      "It eliminates the need for backtracking",
+      "It allows A* to handle dynamic environments"
+    ],
+    "answer": 0,
+    "questionNumber": 392,
+    "questionIndex": 391
+  },
+  {
+    "question": "What is a visibility graph in combinatorial planning?",
+    "options": [
+      "A graph that connects all vertices of obstacles and the start/goal points",
+      "A roadmap constructed using random sampling",
+      "A grid-based representation of the configuration space",
+      "A tree that grows dynamically in the workspace"
+    ],
+    "answer": 0,
+    "questionNumber": 393,
+    "questionIndex": 392
+  },
+  {
+    "question": "What is a primary challenge of sampling-based methods in narrow passages?",
+    "options": [
+      "Generating valid samples within confined areas",
+      "Maintaining probabilistic completeness",
+      "Handling dynamic obstacles without recalculating",
+      "Guaranteeing the shortest path"
+    ],
+    "answer": 0,
+    "questionNumber": 394,
+    "questionIndex": 393
+  },
+  {
+    "question": "How does RRT improve upon standard RRT?",
+    "options": [
+      "It refines paths to ensure optimality",
+      "It eliminates the need for random sampling",
+      "It avoids the exploration of high-dimensional spaces",
+      "It guarantees completeness for dynamic environments"
+    ],
+    "answer": 0,
+    "questionNumber": 395,
+    "questionIndex": 394
+  },
+  {
+    "question": "What is the main purpose of collision checking in path planning?",
+    "options": [
+      "To ensure generated paths avoid obstacles",
+      "To calculate the shortest path between configurations",
+      "To eliminate the need for grid-based methods",
+      "To determine the admissibility of a heuristic"
+    ],
+    "answer": 0,
+    "questionNumber": 396,
+    "questionIndex": 395
+  },
+  {
+    "question": "What is the primary advantage of sampling-based methods like PRMs?",
+    "options": [
+      "They work efficiently in high-dimensional configuration spaces",
+      "They guarantee exact solutions to all planning problems",
+      "They do not require any collision detection",
+      "They are faster than all combinatorial methods"
+    ],
+    "answer": 0,
+    "questionNumber": 397,
+    "questionIndex": 396
+  },
+  {
+    "question": "What is the role of workspace-to-C-space mapping in planning?",
+    "options": [
+      "To translate the robot\u2019s physical environment into its configuration space",
+      "To precompute the shortest path between the start and goal",
+      "To define the heuristic function for A*",
+      "To avoid the use of random sampling"
+    ],
+    "answer": 0,
+    "questionNumber": 398,
+    "questionIndex": 397
+  },
+  {
+    "question": "How do grid-based planners like Dijkstra\u2019s algorithm differ from sampling-based methods?",
+    "options": [
+      "They exhaustively explore all possible paths in a discretized space",
+      "They rely on probabilistic completeness",
+      "They avoid collision checking in the configuration space",
+      "They use heuristic functions to guide the search"
+    ],
+    "answer": 0,
+    "questionNumber": 399,
+    "questionIndex": 398
+  },
+  {
+    "question": "What is the purpose of retraction in roadmap-based planning?",
+    "options": [
+      "To simplify the configuration space by retracting paths to lower-dimensional subspaces",
+      "To avoid sampling in narrow passages",
+      "To ensure all obstacles are removed from the map",
+      "To refine the heuristic used in A*"
+    ],
+    "answer": 0,
+    "questionNumber": 400,
+    "questionIndex": 399
+  },
+  {
+    "question": "What is the primary goal of roadmap-based planning methods?",
+    "options": [
+      "To precompute a graph that connects valid configurations in free space",
+      "To dynamically sample random configurations in the workspace",
+      "To calculate the shortest path in grid-based environments",
+      "To eliminate collision detection entirely"
+    ],
+    "answer": 0,
+    "questionNumber": 401,
+    "questionIndex": 400
+  },
+  {
+    "question": "Why are hybrid planners important in path planning?",
+    "options": [
+      "They combine multiple planning methods to handle complex scenarios like dynamic or non-holonomic constraints",
+      "They guarantee optimality in all environments",
+      "They eliminate the need for sampling-based techniques",
+      "They avoid using configuration space representations"
+    ],
+    "answer": 0,
+    "questionNumber": 402,
+    "questionIndex": 401
+  },
+  {
+    "question": "What makes Dijkstra's algorithm inefficient for large-scale environments?",
+    "options": [
+      "It explores all possible paths exhaustively without prioritization",
+      "It cannot find the shortest path",
+      "It does not account for heuristic guidance",
+      "It avoids using grid-based representations"
+    ],
+    "answer": 0,
+    "questionNumber": 403,
+    "questionIndex": 402
+  },
+  {
+    "question": "How does an RRT ensure exploration of the entire configuration space?",
+    "options": [
+      "By sampling random configurations and incrementally growing a tree",
+      "By precomputing all possible paths in the workspace",
+      "By using heuristic-based search",
+      "By eliminating collision detection for efficiency"
+    ],
+    "answer": 0,
+    "questionNumber": 404,
+    "questionIndex": 403
+  },
+  {
+    "question": "Why are visibility graphs limited in complex environments?",
+    "options": [
+      "They become computationally expensive as the number of obstacles increases",
+      "They rely on probabilistic sampling to generate paths",
+      "They do not guarantee optimal solutions",
+      "They cannot handle narrow passages in C-space"
+    ],
+    "answer": 0,
+    "questionNumber": 405,
+    "questionIndex": 404
+  },
+  {
+    "question": "What is the purpose of cost functions in optimization-based planning?",
+    "options": [
+      "To evaluate paths and select the best one based on specific criteria",
+      "To eliminate the need for sampling in configuration space",
+      "To define obstacles in the workspace",
+      "To guarantee collision-free paths"
+    ],
+    "answer": 0,
+    "questionNumber": 406,
+    "questionIndex": 405
+  },
+  {
+    "question": "How do kinodynamic planners differ from traditional path planners?",
+    "options": [
+      "They account for both kinematic and dynamic constraints of the robot",
+      "They eliminate the need for configuration space sampling",
+      "They rely exclusively on precomputed roadmaps",
+      "They use grid-based methods for narrow passages"
+    ],
+    "answer": 0,
+    "questionNumber": 407,
+    "questionIndex": 406
+  },
+  {
+    "question": "What is the primary goal of heuristic functions in informed search algorithms like A*?",
+    "options": [
+      "To guide the search toward the goal more efficiently",
+      "To eliminate the need for collision detection",
+      "To calculate the cost of all possible paths",
+      "To guarantee probabilistic completeness"
+    ],
+    "answer": 0,
+    "questionNumber": 408,
+    "questionIndex": 407
+  },
+  {
+    "question": "What is the limitation of sampling-based methods in environments with narrow passages?",
+    "options": [
+      "They may fail to sample valid configurations in tight spaces",
+      "They become computationally expensive in high-dimensional spaces",
+      "They do not guarantee optimal solutions",
+      "They require explicit configuration space representation"
+    ],
+    "answer": 0,
+    "questionNumber": 409,
+    "questionIndex": 408
+  },
+  {
+    "question": "How does RRT-Connect improve standard RRT performance?",
+    "options": [
+      "By growing two trees simultaneously, one from the start and one from the goal",
+      "By ensuring all paths are optimal",
+      "By avoiding random sampling altogether",
+      "By focusing exclusively on collision-free paths"
+    ],
+    "answer": 0,
+    "questionNumber": 410,
+    "questionIndex": 409
+  },
+  {
+    "question": "What is the difference between global and local path planning?",
+    "options": [
+      "Global planning focuses on long-term routes, while local planning addresses immediate obstacle avoidance",
+      "Local planning guarantees the shortest path, while global planning does not",
+      "Global planning works only in static environments, while local planning works in dynamic environments",
+      "Local planning avoids the use of configuration space"
+    ],
+    "answer": 0,
+    "questionNumber": 411,
+    "questionIndex": 410
+  },
+  {
+    "question": "What is a common drawback of optimization-based planners?",
+    "options": [
+      "They can be computationally expensive for complex cost functions",
+      "They rely entirely on random sampling",
+      "They cannot handle dynamic obstacles",
+      "They ignore kinematic constraints"
+    ],
+    "answer": 0,
+    "questionNumber": 412,
+    "questionIndex": 411
+  },
+  {
+    "question": "How do potential field methods address obstacles in the workspace?",
+    "options": [
+      "By assigning repulsive forces to obstacles and attractive forces to the goal",
+      "By sampling configurations dynamically",
+      "By discretizing the workspace into a grid map",
+      "By precomputing all possible collision-free paths"
+    ],
+    "answer": 0,
+    "questionNumber": 413,
+    "questionIndex": 412
+  },
+  {
+    "question": "Why are dynamic roadmaps beneficial for path planning?",
+    "options": [
+      "They adapt to changes in the environment by updating connections dynamically",
+      "They guarantee optimality in all scenarios",
+      "They eliminate the need for sampling in narrow passages",
+      "They use grid-based representations exclusively"
+    ],
+    "answer": 0,
+    "questionNumber": 414,
+    "questionIndex": 413
+  },
+  {
+    "question": "What is the role of waypoint generation in path planning?",
+    "options": [
+      "To simplify the overall path by identifying key configurations",
+      "To eliminate the need for collision checking",
+      "To refine the heuristic function in grid-based planning",
+      "To optimize the configuration space representation"
+    ],
+    "answer": 0,
+    "questionNumber": 415,
+    "questionIndex": 414
+  },
+  {
+    "question": "What is a major advantage of dynamic roadmaps in path planning?",
+    "options": [
+      "They can adjust to changes in the environment in real time",
+      "They eliminate the need for collision detection",
+      "They guarantee optimal paths in all scenarios",
+      "They work only in static environments"
+    ],
+    "answer": 0,
+    "questionNumber": 416,
+    "questionIndex": 415
+  },
+  {
+    "question": "Why are informed sampling strategies important in path planning?",
+    "options": [
+      "They reduce computational load by focusing on relevant areas of the configuration space",
+      "They guarantee collision-free paths without roadmaps",
+      "They eliminate the need for resampling in narrow passages",
+      "They ensure exact solutions in all environments"
+    ],
+    "answer": 0,
+    "questionNumber": 417,
+    "questionIndex": 416
+  },
+  {
+    "question": "How do kinodynamic planners handle robot constraints?",
+    "options": [
+      "By considering both motion constraints and dynamic forces like acceleration",
+      "By ignoring dynamic obstacles in the environment",
+      "By focusing exclusively on grid-based roadmaps",
+      "By avoiding configuration space altogether"
+    ],
+    "answer": 0,
+    "questionNumber": 418,
+    "questionIndex": 417
+  },
+  {
+    "question": "What is the key difference between RRT and RRT-Connect?",
+    "options": [
+      "RRT-Connect grows two trees simultaneously, improving efficiency",
+      "RRT-Connect eliminates the need for random sampling",
+      "RRT focuses on optimal paths, while RRT-Connect does not",
+      "RRT-Connect avoids collision checking entirely"
+    ],
+    "answer": 0,
+    "questionNumber": 419,
+    "questionIndex": 418
+  },
+  {
+    "question": "What is a primary limitation of grid-based planners like Dijkstra's algorithm?",
+    "options": [
+      "They become computationally expensive in high-resolution grids",
+      "They rely on probabilistic sampling for efficiency",
+      "They cannot find the shortest path",
+      "They are unsuitable for static environments"
+    ],
+    "answer": 0,
+    "questionNumber": 420,
+    "questionIndex": 419
+  },
+  {
+    "question": "How does A* improve upon Dijkstra's algorithm?",
+    "options": [
+      "By using a heuristic function to prioritize paths toward the goal",
+      "By eliminating the need for a cost function",
+      "By avoiding the exploration of suboptimal paths entirely",
+      "By using a probabilistic approach for narrow passages"
+    ],
+    "answer": 0,
+    "questionNumber": 421,
+    "questionIndex": 420
+  },
+  {
+    "question": "What does the term \"non-holonomic constraint\" refer to in path planning?",
+    "options": [
+      "Restrictions on a robot's motion due to its physical design or dynamics",
+      "The presence of dynamic obstacles in the workspace",
+      "The inability to find a valid configuration in C-space",
+      "The requirement to discretize the environment into grids"
+    ],
+    "answer": 0,
+    "questionNumber": 422,
+    "questionIndex": 421
+  },
+  {
+    "question": "What is the primary focus of hybrid A*?",
+    "options": [
+      "Incorporating non-holonomic constraints into the path planning process",
+      "Avoiding the use of heuristics for better performance",
+      "Guaranteeing exact solutions in high-dimensional spaces",
+      "Eliminating the need for sampling-based methods"
+    ],
+    "answer": 0,
+    "questionNumber": 423,
+    "questionIndex": 422
+  },
+  {
+    "question": "What is the main purpose of local planners in robotic systems?",
+    "options": [
+      "To handle immediate obstacle avoidance and short-term path adjustments",
+      "To compute the optimal long-term route to the goal",
+      "To generate random samples in C-space",
+      "To ensure the shortest path is always selected"
+    ],
+    "answer": 0,
+    "questionNumber": 424,
+    "questionIndex": 423
+  },
+  {
+    "question": "How does RRT improve the efficiency of RRT?",
+    "options": [
+      "By refining paths during tree expansion to approach optimality",
+      "By eliminating the need for random sampling",
+      "By using grid-based discretization for configuration space",
+      "By precomputing roadmaps for all possible configurations"
+    ],
+    "answer": 0,
+    "questionNumber": 425,
+    "questionIndex": 424
+  },
+  {
+    "question": "Why is collision detection critical in sampling-based methods?",
+    "options": [
+      "It ensures that sampled configurations and paths are valid and obstacle-free",
+      "It guarantees that the shortest path is always found",
+      "It reduces the computational complexity of the algorithm",
+      "It eliminates the need for dynamic roadmaps"
+    ],
+    "answer": 0,
+    "questionNumber": 426,
+    "questionIndex": 425
+  },
+  {
+    "question": "What is the goal of waypoint generation in local planning?",
+    "options": [
+      "To create intermediate configurations that simplify path execution",
+      "To eliminate the need for dynamic re-planning",
+      "To reduce the size of the configuration space",
+      "To ensure probabilistic completeness"
+    ],
+    "answer": 0,
+    "questionNumber": 427,
+    "questionIndex": 426
+  },
+  {
+    "question": "Why are potential field methods prone to local minima?",
+    "options": [
+      "The attractive and repulsive forces can cancel out, leaving the robot stuck",
+      "They rely on random sampling to escape narrow passages",
+      "They use grid-based maps exclusively",
+      "They assume the environment remains dynamic"
+    ],
+    "answer": 0,
+    "questionNumber": 428,
+    "questionIndex": 427
+  },
+  {
+    "question": "What is the primary purpose of informed RRT?",
+    "options": [
+      "To focus sampling on regions more likely to lead to an optimal path",
+      "To eliminate the need for heuristic functions",
+      "To refine potential field methods for better results",
+      "To handle dynamic obstacles in real-time"
+    ],
+    "answer": 0,
+    "questionNumber": 429,
+    "questionIndex": 428
+  },
+  {
+    "question": "How do heuristic functions in A* affect search efficiency?",
+    "options": [
+      "They guide the algorithm toward the goal, reducing unnecessary exploration",
+      "They ensure the shortest path is always selected",
+      "They eliminate the need for a cost function",
+      "They focus sampling exclusively on narrow passages"
+    ],
+    "answer": 0,
+    "questionNumber": 430,
+    "questionIndex": 429
+  },
+  {
+    "question": "What is the purpose of bidirectional search in planning algorithms?",
+    "options": [
+      "To grow trees or paths simultaneously from the start and goal to improve efficiency",
+      "To eliminate the need for heuristic functions",
+      "To focus exclusively on high-cost regions of the configuration space",
+      "To guarantee optimal solutions in all environments"
+    ],
+    "answer": 0,
+    "questionNumber": 431,
+    "questionIndex": 430
+  },
+  {
+    "question": "What is the difference between global and reactive planning?",
+    "options": [
+      "Global planning considers the entire environment, while reactive planning focuses on immediate obstacle avoidance",
+      "Reactive planning uses precomputed roadmaps, while global planning does not",
+      "Global planning is suitable for dynamic environments, while reactive planning is not",
+      "Reactive planning guarantees the shortest path, while global planning does not"
+    ],
+    "answer": 0,
+    "questionNumber": 432,
+    "questionIndex": 431
+  },
+  {
+    "question": "How does Lazy PRM improve upon standard PRM?",
+    "options": [
+      "By delaying collision checking until a path query is made",
+      "By avoiding sampling in narrow passages",
+      "By precomputing all possible paths in the configuration space",
+      "By guaranteeing optimal solutions in dynamic environments"
+    ],
+    "answer": 0,
+    "questionNumber": 433,
+    "questionIndex": 432
+  },
+  {
+    "question": "What is the goal of path smoothing in planning algorithms?",
+    "options": [
+      "To remove unnecessary waypoints and make the path more efficient and feasible",
+      "To eliminate the need for collision detection",
+      "To guarantee the shortest path in high-dimensional spaces",
+      "To simplify the configuration space representation"
+    ],
+    "answer": 0,
+    "questionNumber": 434,
+    "questionIndex": 433
+  },
+  {
+    "question": "Why are heuristic functions used in informed sampling methods like RRT?",
+    "options": [
+      "To bias sampling toward regions more likely to contain the optimal path",
+      "To eliminate collision checking for efficiency",
+      "To reduce the number of random samples needed",
+      "To avoid exploring high-dimensional spaces"
+    ],
+    "answer": 0,
+    "questionNumber": 435,
+    "questionIndex": 434
+  },
+  {
+    "question": "What is a primary advantage of kinodynamic planning?",
+    "options": [
+      "It accounts for dynamic constraints like velocity and acceleration",
+      "It eliminates the need for roadmap construction",
+      "It guarantees optimal solutions in narrow passages",
+      "It avoids the use of configuration space entirely"
+    ],
+    "answer": 0,
+    "questionNumber": 436,
+    "questionIndex": 435
+  },
+  {
+    "question": "How do roadmap-based methods like PRM handle multi-query planning problems?",
+    "options": [
+      "By precomputing a roadmap that can be reused for multiple start and goal pairs",
+      "By recalculating paths dynamically for each query",
+      "By sampling configurations only in narrow passages",
+      "By avoiding collision detection in the environment"
+    ],
+    "answer": 0,
+    "questionNumber": 437,
+    "questionIndex": 436
+  },
+  {
+    "question": "Why is the selection of a sampling strategy critical in sampling-based planning?",
+    "options": [
+      "It determines how effectively the configuration space is explored, especially in narrow passages",
+      "It eliminates the need for heuristic functions",
+      "It guarantees the shortest path in all cases",
+      "It focuses exclusively on high-cost regions"
+    ],
+    "answer": 0,
+    "questionNumber": 438,
+    "questionIndex": 437
+  },
+  {
+    "question": "What is the purpose of path optimization in planning algorithms?",
+    "options": [
+      "To refine an initially feasible path to make it shorter, smoother, or more efficient",
+      "To avoid collision detection in dynamic environments",
+      "To ensure probabilistic completeness in the algorithm",
+      "To precompute the configuration space representation"
+    ],
+    "answer": 0,
+    "questionNumber": 439,
+    "questionIndex": 438
+  },
+  {
+    "question": "How do dynamic planners handle changing environments?",
+    "options": [
+      "By continuously updating the plan based on new sensor data and changes in obstacles",
+      "By precomputing all possible paths in the workspace",
+      "By using grid-based methods exclusively",
+      "By eliminating the need for local planners"
+    ],
+    "answer": 0,
+    "questionNumber": 440,
+    "questionIndex": 439
+  },
+  {
+    "question": "What is the purpose of an admissible heuristic in A*?",
+    "options": [
+      "To ensure the cost estimate never overestimates the true cost to the goal",
+      "To bias the algorithm toward dynamic obstacles",
+      "To eliminate unnecessary waypoints in the path",
+      "To reduce the resolution of the configuration space"
+    ],
+    "answer": 0,
+    "questionNumber": 441,
+    "questionIndex": 440
+  },
+  {
+    "question": "What makes potential field methods computationally efficient?",
+    "options": [
+      "They rely on simple mathematical functions to compute forces guiding the robot",
+      "They avoid collision checking altogether",
+      "They guarantee optimal solutions in all environments",
+      "They focus exclusively on high-dimensional spaces"
+    ],
+    "answer": 0,
+    "questionNumber": 442,
+    "questionIndex": 441
+  },
+  {
+    "question": "Why are decoupled planning approaches used for multi-robot systems?",
+    "options": [
+      "They simplify the problem by planning for each robot independently before combining solutions",
+      "They eliminate the need for collision checking between robots",
+      "They guarantee optimal paths for all robots simultaneously",
+      "They use grid-based methods to handle dynamic obstacles"
+    ],
+    "answer": 0,
+    "questionNumber": 443,
+    "questionIndex": 442
+  },
+  {
+    "question": "How does sampling in narrow passages affect probabilistic roadmap methods?",
+    "options": [
+      "It significantly increases the time required to find a valid path",
+      "It eliminates the need for collision detection",
+      "It ensures the shortest path is always selected",
+      "It focuses exclusively on high-dimensional regions"
+    ],
+    "answer": 0,
+    "questionNumber": 444,
+    "questionIndex": 443
+  },
+  {
+    "question": "What is the main goal of anytime planning algorithms?",
+    "options": [
+      "To provide an initial feasible solution quickly and improve it over time if more time is available",
+      "To guarantee the shortest path regardless of time constraints",
+      "To avoid sampling-based methods for efficiency",
+      "To precompute all possible paths in the configuration space"
+    ],
+    "answer": 0,
+    "questionNumber": 445,
+    "questionIndex": 444
+  }
+]

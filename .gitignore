@@ -1,0 +1,28 @@
+# Composer vendor directory (dependencies)
+# Composer bağımlılık dizini
+/vendor/
+
+# Environment variables file (contains sensitive credentials)
+# Ortam değişkenleri dosyası (gizli bilgileri içerir)
+.env
+
+# macOS specific files (e.g., DS_Store)
+# macOS'e özgü dosyalar (örneğin DS_Store)
+.DS_Store
+
+# Log files and directories
+# Log dosyaları ve dizinleri
+*.log
+/logs/
+
+# Cache directories (if any)
+# Önbellek dizinleri (varsa)
+cache/
+tmp/
+
+# IDE or Editor-specific directories and files (adjust based on your toolset)
+# IDE veya Editöre özgü dizinler ve dosyalar (kullandığınız araçlara göre düzenleyin)
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project

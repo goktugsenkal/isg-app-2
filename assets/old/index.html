@@ -1,0 +1,432 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Robot Quiz App</title>
+  <!-- Mobile-responsive meta tag -->
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <style>
+    /* ---------------------------------------------
+       GENERAL / RESET
+    --------------------------------------------- */
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+      font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+    }
+
+    body {
+      /* Soft gradient background */
+      background: linear-gradient(120deg, #a1c4fd, #c2e9fb);
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      min-height: 100vh;
+      padding: 20px;
+    }
+
+    /* Max width container with a nice shadow */
+    .quiz-container {
+      width: 100%;
+      max-width: 650px;
+      background: #ffffff;
+      padding: 20px 25px;
+      box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+      border-radius: 8px;
+      display: flex;
+      flex-direction: column;
+      gap: 20px;
+    }
+
+    /* ---------------------------------------------
+       HEADER SECTION
+    --------------------------------------------- */
+    .quiz-header {
+      text-align: center;
+      margin-bottom: 0.5rem;
+    }
+    .quiz-header h1 {
+      font-size: 1.8em;
+      color: #333;
+      margin-bottom: 8px;
+    }
+    .quiz-header p {
+      color: #555;
+      font-size: 0.95em;
+    }
+
+    /* ---------------------------------------------
+       SCOREBOARD
+    --------------------------------------------- */
+    .scoreboard {
+      display: flex;
+      justify-content: center;
+      gap: 40px;
+      margin-bottom: 0.5rem;
+    }
+    .score-item {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      background: #f7f7f7;
+      border: 1px solid #ddd;
+      border-radius: 6px;
+      padding: 10px 15px;
+      min-width: 80px;
+    }
+    .score-item label {
+      font-weight: 600;
+      color: #444;
+      margin-bottom: 4px;
+    }
+    .score-item span {
+      font-size: 1.25em;
+      color: #007bff;
+      font-weight: bold;
+    }
+
+    /* ---------------------------------------------
+       QUESTION + NAVIGATION
+    --------------------------------------------- */
+    .question-container {
+      text-align: center;
+    }
+    #question {
+      font-size: 1.2em;
+      margin-bottom: 15px;
+      color: #333;
+    }
+
+    .options-container {
+      margin-bottom: 15px;
+    }
+    #options-list {
+      list-style-type: none;
+      padding: 0;
+    }
+    #options-list li {
+      background: #f0f0f0;
+      margin: 8px 0;
+      padding: 12px 16px;
+      border-radius: 6px;
+      cursor: pointer;
+      transition: background 0.3s, box-shadow 0.3s;
+    }
+    #options-list li:hover {
+      background: #fcf8e3; /* Light yellow on hover */
+    }
+
+    /* Immediate Feedback Colors */
+    .correct {
+      background-color: #c3e6cb !important; /* green-ish */
+      box-shadow: 0 0 0 2px rgba(110, 207, 113, 0.4);
+    }
+    .incorrect {
+      background-color: #f5c6cb !important; /* red-ish */
+      box-shadow: 0 0 0 2px rgba(249, 135, 135, 0.4);
+    }
+
+    /* Navigation buttons (Next/Prev) more prominent */
+    .nav-buttons {
+      display: flex;
+      justify-content: center;
+      gap: 20px;
+      margin-bottom: 20px;
+    }
+    button {
+      background: #007bff;
+      color: #fff;
+      padding: 12px 18px;
+      border: none;
+      font-size: 1em;
+      border-radius: 6px;
+      cursor: pointer;
+      transition: 0.3s;
+    }
+    button:hover {
+      background: #0056b3;
+    }
+
+    /* Jump to question */
+    .jump-container {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      gap: 8px;
+      margin-bottom: 20px;
+      flex-wrap: wrap;
+    }
+    #question-number-input {
+      width: 80px;
+      padding: 8px;
+      border: 1px solid #ccc;
+      border-radius: 6px;
+    }
+
+    /* Restart */
+    #restart-button {
+      background-color: #ff0000;
+      margin: 0 auto; /* center horizontally */
+      display: block;
+    }
+    #restart-button:hover {
+      background-color: #cc0000;
+    }
+
+    /* ---------------------------------------------
+       RESPONSIVE DESIGN
+    --------------------------------------------- */
+    @media (max-width: 480px) {
+      .scoreboard {
+        flex-direction: row;
+        gap: 15px;
+        margin-bottom: 1rem;
+      }
+      .nav-buttons {
+        flex-direction: column;
+        gap: 10px;
+      }
+      .jump-container {
+        flex-direction: column;
+      }
+      button {
+        width: 100%;
+      }
+    }
+  </style>
+
+  <link rel="icon" href="favicon.ico" type="image/x-icon" />
+
+</head>
+<body>
+
+  <div class="quiz-container">
+    <!-- HEADER -->
+    <div class="quiz-header">
+      <h1>Robot Quiz</h1>
+      <p>Göktuğ Şenkal</p>
+    </div>
+
+    <!-- SCOREBOARD -->
+    <div class="scoreboard">
+      <div class="score-item">
+        <label>Correct</label>
+        <span id="correct-count">0</span>
+      </div>
+      <div class="score-item">
+        <label>Wrong</label>
+        <span id="wrong-count">0</span>
+      </div>
+    </div>
+
+    <!-- QUESTION SECTION -->
+    <div class="question-container">
+      <h2 id="question"></h2>
+      <div class="options-container">
+        <ul id="options-list"></ul>
+      </div>
+    </div>
+
+    <!-- NEXT/PREV BUTTONS -->
+    <div class="nav-buttons">
+      <button id="prev-button">Previous</button>
+      <button id="next-button">Next</button>
+    </div>
+
+    <!-- JUMP TO QUESTION -->
+    <div class="jump-container">
+      <label for="question-number-input" style="font-weight: 600;">Jump to Q#:</label>
+      <input type="number" id="question-number-input" min="1" />
+      <button id="jump-button">Go</button>
+    </div>
+
+    <!-- RESTART QUIZ -->
+    <button id="restart-button">Restart Quiz</button>
+  </div>
+
+  <script>
+    // Quiz Data
+    let questions = [];
+    let currentQuestionIndex = 0;
+
+    // userAnswers array: { chosenIndex: number|null, isCorrect: boolean|null }
+    let userAnswers = [];
+
+    // Score counters
+    let correctCount = 0;
+    let wrongCount = 0;
+
+    // DOM elements
+    const questionElement = document.getElementById("question");
+    const optionsListElement = document.getElementById("options-list");
+
+    const prevButton = document.getElementById("prev-button");
+    const nextButton = document.getElementById("next-button");
+    const jumpButton = document.getElementById("jump-button");
+    const restartButton = document.getElementById("restart-button");
+
+    const questionNumberInput = document.getElementById("question-number-input");
+    const correctCountElement = document.getElementById("correct-count");
+    const wrongCountElement = document.getElementById("wrong-count");
+
+    // -------------------------------
+    // 1. Fetch Questions
+    // -------------------------------
+    fetch('questions.json')
+      .then(response => response.json())
+      .then(data => {
+        questions = data;
+        // Initialize userAnswers
+        userAnswers = questions.map(() => ({ chosenIndex: null, isCorrect: null }));
+        // Display the first question
+        displayQuestion(0);
+      })
+      .catch(error => console.error("Error loading questions:", error));
+
+    // -------------------------------
+    // 2. Display Question
+    // -------------------------------
+    function displayQuestion(index) {
+      // Bound the index
+      if (index < 0) index = 0;
+      if (index >= questions.length) index = questions.length - 1;
+      currentQuestionIndex = index;
+
+      const currentQ = questions[currentQuestionIndex];
+      questionElement.textContent = currentQ.question;
+
+      // Clear options
+      optionsListElement.innerHTML = "";
+
+      // Create options
+      currentQ.options.forEach((optionText, optionIndex) => {
+        const li = document.createElement("li");
+        li.textContent = optionText;
+
+        // Check if user previously answered
+        const userChoice = userAnswers[currentQuestionIndex].chosenIndex;
+        const correctAnswerIndex = currentQ.answer;
+
+        // If previously chosen
+        if (userChoice !== null) {
+          if (optionIndex === userChoice) {
+            // Mark chosen option (correct or incorrect)
+            if (optionIndex === correctAnswerIndex) {
+              li.classList.add("correct");
+            } else {
+              li.classList.add("incorrect");
+            }
+          }
+          // If the user was wrong, highlight correct one as well
+          if (userChoice !== correctAnswerIndex && optionIndex === correctAnswerIndex) {
+            li.classList.add("correct");
+          }
+        }
+
+        // Immediate feedback on click
+        li.addEventListener("click", () => selectOption(optionIndex));
+        optionsListElement.appendChild(li);
+      });
+
+      // Update the question number input
+      questionNumberInput.value = currentQuestionIndex + 1;
+    }
+
+    // -------------------------------
+    // 3. Handle Option Selection
+    // -------------------------------
+    function selectOption(optionIndex) {
+      const currentQ = questions[currentQuestionIndex];
+      const correctAnswerIndex = currentQ.answer;
+
+      const wasAlreadyAnswered = userAnswers[currentQuestionIndex].chosenIndex !== null;
+      const previousIsCorrect = userAnswers[currentQuestionIndex].isCorrect;
+
+      // Determine correctness
+      const isCorrect = (optionIndex === correctAnswerIndex);
+
+      // Update userAnswers
+      userAnswers[currentQuestionIndex].chosenIndex = optionIndex;
+      userAnswers[currentQuestionIndex].isCorrect = isCorrect;
+
+      // Adjust counts if user is changing an already-chosen answer
+      if (wasAlreadyAnswered) {
+        if (previousIsCorrect) {
+          correctCount--;
+        } else {
+          wrongCount--;
+        }
+      }
+
+      // Update correct/wrong counters
+      if (isCorrect) {
+        correctCount++;
+      } else {
+        wrongCount++;
+      }
+
+      // Update scoreboard
+      correctCountElement.textContent = correctCount;
+      wrongCountElement.textContent = wrongCount;
+
+      // Immediate UI highlight
+      const allOptions = optionsListElement.querySelectorAll("li");
+      allOptions.forEach((li, idx) => {
+        li.classList.remove("correct", "incorrect");
+        if (idx === optionIndex) {
+          li.classList.add(isCorrect ? "correct" : "incorrect");
+        }
+        // If this selection is wrong, highlight correct
+        if (!isCorrect && idx === correctAnswerIndex) {
+          li.classList.add("correct");
+        }
+      });
+    }
+
+    // -------------------------------
+    // 4. Navigation
+    // -------------------------------
+    nextButton.addEventListener("click", () => {
+      if (currentQuestionIndex < questions.length - 1) {
+        displayQuestion(currentQuestionIndex + 1);
+      }
+    });
+
+    prevButton.addEventListener("click", () => {
+      if (currentQuestionIndex > 0) {
+        displayQuestion(currentQuestionIndex - 1);
+      }
+    });
+
+    jumpButton.addEventListener("click", () => {
+      let qNum = parseInt(questionNumberInput.value, 10);
+      if (!isNaN(qNum)) {
+        // 1-based => 0-based
+        if (qNum < 1) qNum = 1;
+        if (qNum > questions.length) qNum = questions.length;
+        displayQuestion(qNum - 1);
+      }
+    });
+
+    // -------------------------------
+    // 5. Restart the Quiz
+    // -------------------------------
+    restartButton.addEventListener("click", () => {
+      currentQuestionIndex = 0;
+      correctCount = 0;
+      wrongCount = 0;
+
+      // Reset scoreboard
+      correctCountElement.textContent = 0;
+      wrongCountElement.textContent = 0;
+
+      // Reset user answers
+      userAnswers = questions.map(() => ({ chosenIndex: null, isCorrect: null }));
+
+      // Display first question again
+      displayQuestion(0);
+    });
+  </script>
+</body>
+</html>

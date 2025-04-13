@@ -1,0 +1,5990 @@
+[
+  {
+    "question": "Yapı işlerinde korkuluklar en az kaç cm yükseklikte olmalıdır?",
+    "options": [
+      "80",
+      "110",
+      "90",
+      "100"
+    ],
+    "answer": 2,
+    "questionNumber": 501,
+    "questionIndex": 0
+  },
+  {
+    "question": "Yapı işlerindeki korkuluklar en az kaç kg yüke dayanıklı olmalıdır?",
+    "options": [
+      "100",
+      "80",
+      "90",
+      "70"
+    ],
+    "answer": 0,
+    "questionNumber": 502,
+    "questionIndex": 1
+  },
+  {
+    "question": "Asma iskelelerde metrekareye kaç kilogramdan fazla yük konulmamalıdır?",
+    "options": [
+      "1000",
+      "300",
+      "400",
+      "500"
+    ],
+    "answer": 0,
+    "questionNumber": 503,
+    "questionIndex": 2
+  },
+  {
+    "question": "Düşme ve kayma tehlikesi olan yerlerde, yüksekliği tabandan itibaren kaç metreden daha fazla olan yerlerde çalışanlara güvenlik kemeri verilmelidir?",
+    "options": [
+      "4",
+      "5",
+      "3",
+      "6"
+    ],
+    "answer": 0,
+    "questionNumber": 504,
+    "questionIndex": 3
+  },
+  {
+    "question": "Cam, saç ve çimento harçlı levhalardan yapılmış veya eskimiş, yıpranmış ve dayanıklılığı azalmış çatılarda aşağıdakilerden hangisi kullanılmalıdır?",
+    "options": [
+      "Hiçbiri",
+      "Güvenlik kancası",
+      "İş eldiven",
+      "Çatı merdiveni"
+    ],
+    "answer": 0,
+    "questionNumber": 505,
+    "questionIndex": 4
+  },
+  {
+    "question": "Aşağıdakilerden hangisi gemi inşa ve tersanelerde kazaya neden olabilecek tehlikelerden biri değildir?",
+    "options": [
+      "Olumsuz termal konfor şartları",
+      "Yetersiz çalışma alanı",
+      "Yetersiz kâr oranları",
+      "Kapalı dar alanlarda çalışma"
+    ],
+    "answer": 0,
+    "questionNumber": 506,
+    "questionIndex": 5
+  },
+  {
+    "question": "Yapı işlerinde işçinin işe başladığını gösteren \"SGK İşe Giriş Bildirgesi\" ne zaman verilmelidir?",
+    "options": [
+      "Ay sonu",
+      "Bir gün sonra",
+      "Bir gün önce",
+      "Aynı gün"
+    ],
+    "answer": 0,
+    "questionNumber": 507,
+    "questionIndex": 6
+  },
+  {
+    "question": "Aşağıdakilerden hangisi yüksekte çalışmanın güvenlik koşullarından biri değildir?",
+    "options": [
+      "Korkuluk olması",
+      "Çelik burunlu ayakkabı giyilmesi",
+      "Emniyet kemeri kullanılması",
+      "Güvenlik ağı kurulması"
+    ],
+    "answer": 0,
+    "questionNumber": 508,
+    "questionIndex": 7
+  },
+  {
+    "question": "Yapı işlerinde çalışan işçiler hangi eğitimi almış olmalıdır?",
+    "options": [
+      "Mesleki eğitim",
+      "İlköğrenim",
+      "Yüksek okul",
+      "Okuryazar"
+    ],
+    "answer": 0,
+    "questionNumber": 509,
+    "questionIndex": 8
+  },
+  {
+    "question": "Emniyet kemerleri taşıma yükü en az kaç kg olmalıdır?",
+    "options": [
+      "1100",
+      "1150",
+      "1200",
+      "1000"
+    ],
+    "answer": 0,
+    "questionNumber": 510,
+    "questionIndex": 9
+  },
+  {
+    "question": "\"Çalışanların İş Sağlığı ve Güvenliği Eğitimlerinin Usul ve Esasları Hakkında Yönetmelik\"e göre; işverenler, çalışanları hangi konuda bilgilendirmekle yükümlüdür?",
+    "options": [
+      "Servis araçlarının saatleri",
+      "Yıllık izinler",
+      "Ücretler",
+      "Yasal hak ve sorumluluklar"
+    ],
+    "answer": 0,
+    "questionNumber": 511,
+    "questionIndex": 10
+  },
+  {
+    "question": "Asıl işveren-alt işveren ilişkisi kurulan işyerlerinde, alt işverene ait çalışanların eğitimlerinden kim sorumludur?",
+    "options": [
+      "Asıl işveren",
+      "İş güvenliği uzmanı",
+      "Alt işveren",
+      "Asıl işveren ve alt işveren"
+    ],
+    "answer": 0,
+    "questionNumber": 512,
+    "questionIndex": 11
+  },
+  {
+    "question": "İş sağlığı ve güvenliği eğitimleri ile ilgili olarak çalışanlar için aşağıdakilerden hangisi doğrudur?",
+    "options": [
+      "Eğitime katılmak zorundadırlar.",
+      "Eğitim sertifikası almak zorundadırlar.",
+      "Eğitimde soru sormak zorundadırlar.",
+      "Eğitime katılmak zorunda değildirler."
+    ],
+    "answer": 0,
+    "questionNumber": 513,
+    "questionIndex": 12
+  },
+  {
+    "question": "Çalışanların eğitimi ile ilgili olarak aşağıdakilerden hangisi yanlıştır?",
+    "options": [
+      "Eğitimin maliyetini işveren karşılamalıdır.",
+      "Eğitimde geçen süre çalışma süresinden sayılır.",
+      "Eğitimin ücretini işçi karşılamalıdır.",
+      "İşçi eğitime katılmak zorundadır."
+    ],
+    "answer": 0,
+    "questionNumber": 514,
+    "questionIndex": 13
+  },
+  {
+    "question": "Aşağıdaki işçilerden hangisinin eğitimine özel önem verilmelidir?",
+    "options": [
+      "Mühendisler",
+      "Ustalar",
+      "Özürlüler",
+      "Formenler"
+    ],
+    "answer": 0,
+    "questionNumber": 515,
+    "questionIndex": 14
+  },
+  {
+    "question": "İş sağlığı ve güvenliği eğitiminin amacı aşağıdakilerden hangisi değildir?",
+    "options": [
+      "Güvenli çalışma ortamı temin etmek",
+      "İş sağlığı ve güvenliği bilinci oluşturmak",
+      "İş kazalarını azaltmak",
+      "İşyerinde verimliliği artırmak"
+    ],
+    "answer": 0,
+    "questionNumber": 516,
+    "questionIndex": 15
+  },
+  {
+    "question": "İş sağlığı ve güvenliği eğitim programlarının hazırlanmasında aşağıdakilerden hangisinin görüşünü almak zorunludur?",
+    "options": [
+      "İşçilerin",
+      "Asıl ve alt işverenin",
+      "Alt işverenin",
+      "Asıl işverenin"
+    ],
+    "answer": 0,
+    "questionNumber": 517,
+    "questionIndex": 16
+  },
+  {
+    "question": "Yıllık eğitim programı çizelgesinde aşağıdakilerden hangisi yer almaz?",
+    "options": [
+      "Eğitim süresi",
+      "Eğitim ücreti",
+      "Eğitim hedefi",
+      "Eğitim tarihi"
+    ],
+    "answer": 0,
+    "questionNumber": 518,
+    "questionIndex": 17
+  },
+  {
+    "question": "\"Çalışanların İş Sağlığı ve Güvenliği Eğitimlerinin Usul ve Esasları Hakkında Yönetmelik\"e göre; eğitim türleri arasında aşağıdakilerden hangisi yer almaz?",
+    "options": [
+      "İlave eğitim",
+      "Yeni eğitim",
+      "Örgün eğitim",
+      "İleri eğitim"
+    ],
+    "answer": 0,
+    "questionNumber": 519,
+    "questionIndex": 18
+  },
+  {
+    "question": "Aşağıdakilerden hangisi \"Çalışanların İş Sağlığı ve Güvenliği Eğitimlerinin Usul ve  Esasları Hakkında Yönetmelik\"te belirtilen eğitim konuları arasında yer alır?",
+    "options": [
+      "Kaynak işlerinde iş güvenliği",
+      "İnşaat işlerinde iş güvenliği",
+      "Kaza, yaralanma ve hastalıktan korunma prensipleri",
+      "Maden işlerinde iş güvenliği"
+    ],
+    "answer": 0,
+    "questionNumber": 520,
+    "questionIndex": 19
+  },
+  {
+    "question": "Aşağıdakilerden hangisi \"Çalışanların İş Sağlığı ve Güvenliği Eğitimlerinin Usul ve Esasları Hakkında Yönetmelik\"te belirtilen eğitim konuları arasında yer almaz?",
+    "options": [
+      "Uyarı işaretleri",
+      "Bakım işlerinde güvenlik",
+      "Temizlik ve düzen",
+      "Ekranlı ekipmanlarla çalışma"
+    ],
+    "answer": 0,
+    "questionNumber": 521,
+    "questionIndex": 20
+  },
+  {
+    "question": "\"Çalışanların İş Sağlığı ve Güvenliği Eğitimlerinin Usul ve Esasları Hakkında Yönetmelik\"e göre; eğitimlerin verilmesinde yararlanılacak kişiler arasında aşağıdakilerden hangisi yoktur?",
+    "options": [
+      "İş müfettişi",
+      "İşveren vekili",
+      "İş güvenliği ile görevli mühendis veya teknik eleman",
+      "İşyeri hekimi"
+    ],
+    "answer": 0,
+    "questionNumber": 522,
+    "questionIndex": 21
+  },
+  {
+    "question": "Eğitim sonrası düzenlenecek belgede aşağıdakilerden hangisi bulunmaz?",
+    "options": [
+      "Eğitimin tarihi",
+      "Eğitimin konusu",
+      "Eğitimin yeri",
+      "Eğitimin süresi"
+    ],
+    "answer": 0,
+    "questionNumber": 523,
+    "questionIndex": 22
+  },
+  {
+    "question": "Aşağıdakilerden hangisi tutuşma olayının bağlı olduğu etmenlerden biri değildir?",
+    "options": [
+      "Maddenin oksijenle karışımı",
+      "Maddenin özellikleri",
+      "Maddenin şekli",
+      "Maddenin cinsi"
+    ],
+    "answer": 0,
+    "questionNumber": 524,
+    "questionIndex": 23
+  },
+  {
+    "question": "Aşağıdakilerden hangisi doğal ısı kaynağıdır?",
+    "options": [
+      "Volkan",
+      "Sürtünme",
+      "Kıvılcım",
+      "Elektrik"
+    ],
+    "answer": 0,
+    "questionNumber": 525,
+    "questionIndex": 24
+  },
+  {
+    "question": "Aşağıdakilerden hangisi yapay ısı kaynağıdır?",
+    "options": [
+      "Güneş",
+      "Volkan",
+      "Kaynak arkı",
+      "Yıldırım"
+    ],
+    "answer": 0,
+    "questionNumber": 526,
+    "questionIndex": 25
+  },
+  {
+    "question": "Aşağıdakilerden hangisi yangın üçgenini oluşturan unsurlardan biri değildir?",
+    "options": [
+      "Yanmış madde",
+      "Yanıcı madde",
+      "Isı",
+      "Oksijen"
+    ],
+    "answer": 0,
+    "questionNumber": 526,
+    "questionIndex": 26
+  },
+  {
+    "question": "Aşağıdakilerden hangisi yangın gazlarından biri değildir?",
+    "options": [
+      "Fosgen",
+      "Hidrojen siyanür",
+      "Azot oksitler",
+      "Metil bromür"
+    ],
+    "answer": 0,
+    "questionNumber": 527,
+    "questionIndex": 27
+  },
+  {
+    "question": "Aşağıdakilerden hangisi yangın dumanını oluşturan gazlardan biri değildir?",
+    "options": [
+      "Karbon dioksit",
+      "Kükürt oksitleri",
+      "Karbon klorür",
+      "Karbon monoksit"
+    ],
+    "answer": 0,
+    "questionNumber": 528,
+    "questionIndex": 28
+  },
+  {
+    "question": "Aşağıdakilerden hangisi A sınıfı yangındır?",
+    "options": [
+      "Yanıcı sıvı yangınları",
+      "Yanıcı gaz yangınları",
+      "Yanıcı metal yangınları",
+      "Yanıcı katı madde yangınları"
+    ],
+    "answer": 0,
+    "questionNumber": 529,
+    "questionIndex": 29
+  },
+  {
+    "question": "Aşağıdakilerden hangisi B sınıfı yangındır? .",
+    "options": [
+      "Yanıcı katı madde yangınları",
+      "Yanıcı sıvı yangınları",
+      "Yanıcı gaz yangınları",
+      "Yanıcı metal yangınları"
+    ],
+    "answer": 0,
+    "questionNumber": 530,
+    "questionIndex": 30
+  },
+  {
+    "question": "Aşağıdakilerden hangisi C sınıfı yangındır?",
+    "options": [
+      "Yanıcı gaz yangınları",
+      "Yanıcı katı madde yangınları",
+      "Yanıcı sıvı yangınları",
+      "Yanıcı metal yangınları"
+    ],
+    "answer": 0,
+    "questionNumber": 531,
+    "questionIndex": 31
+  },
+  {
+    "question": "Aşağıdakilerden hangisi D sınıfı yangındır?",
+    "options": [
+      "Yanıcı metal yangınları",
+      "Yanıcı katı madde yangınları",
+      "Yanıcı gaz yangınları",
+      "Yanıcı sıvı yangınları"
+    ],
+    "answer": 0,
+    "questionNumber": 532,
+    "questionIndex": 32
+  },
+  {
+    "question": "Boya ve tiner gibi maddelerin yangını hangi sınıf yangın grubunda yer alır?",
+    "options": [
+      "D",
+      "A",
+      "C",
+      "B"
+    ],
+    "answer": 0,
+    "questionNumber": 533,
+    "questionIndex": 33
+  },
+  {
+    "question": "Lastik ve deri gibi maddelerin yangını hangi sınıf yangın grubunda yer alır?",
+    "options": [
+      "C",
+      "B",
+      "A",
+      "E"
+    ],
+    "answer": 0,
+    "questionNumber": 534,
+    "questionIndex": 34
+  },
+  {
+    "question": "LPG ve doğal gaz gibi maddelerin yangını hangi sınıf yangın grubunda yer alır?",
+    "options": [
+      "C",
+      "B",
+      "D",
+      "A"
+    ],
+    "answer": 0,
+    "questionNumber": 535,
+    "questionIndex": 35
+  },
+  {
+    "question": "Magnezyum ve alüminyum gibi maddelerin yangını hangi sınıf yangın grubunda yer alır?",
+    "options": [
+      "A",
+      "C",
+      "B",
+      "D"
+    ],
+    "answer": 0,
+    "questionNumber": 536,
+    "questionIndex": 36
+  },
+  {
+    "question": "Elektrik ekipmanı ve elektronik cihaz gibi maddelerin yangını hangi sınıf yangın grubunda yer alır?",
+    "options": [
+      "A",
+      "C",
+      "E",
+      "D"
+    ],
+    "answer": 0,
+    "questionNumber": 537,
+    "questionIndex": 37
+  },
+  {
+    "question": "Elektrik yangınlarında aşağıdaki yangın söndürme maddelerinde hangisi kullanılmaz?",
+    "options": [
+      "Köpük",
+      "Karbondioksit",
+      "Kuru kimyevi toz",
+      "Su"
+    ],
+    "answer": 0,
+    "questionNumber": 538,
+    "questionIndex": 38
+  },
+  {
+    "question": "LPG yangınlarında söndürücü olarak ne kullanılır?",
+    "options": [
+      "Tuz",
+      "KKT ve CO2",
+      "Kum",
+      "Su"
+    ],
+    "answer": 0,
+    "questionNumber": 539,
+    "questionIndex": 39
+  },
+  {
+    "question": "Magnezyum ve alüminyum gibi metal yangınlarında söndürücü olarak ne kullanılır?",
+    "options": [
+      "Su",
+      "CO2",
+      "Kum",
+      "KKT"
+    ],
+    "answer": 0,
+    "questionNumber": 540,
+    "questionIndex": 40
+  },
+  {
+    "question": "Aşağıdakilerden hangisi ısı yayılımı türlerinden biri değildir?",
+    "options": [
+      "Işıma yolu ile",
+      "Direkt temas yolu ile",
+      "Endirekt temas yolu ile",
+      "Hava yolu ile"
+    ],
+    "answer": 0,
+    "questionNumber": 541,
+    "questionIndex": 41
+  },
+  {
+    "question": "Aşağıdakilerden hangisi jet yangınıdır?",
+    "options": [
+      "Bir yerden akan yakıtın yanması",
+      "Bir yerde toplanan yakıtın yanması",
+      "Bir yerden damlayan yakıtın yanması",
+      "Bir yerden püsküren yakıtın yanması"
+    ],
+    "answer": 0,
+    "questionNumber": 542,
+    "questionIndex": 42
+  },
+  {
+    "question": "Bleve aşağıdakilerden hangisidir?",
+    "options": [
+      "Tankın soğuması nedeniyle kırılması",
+      "Tankın emniyet ventilinin bozulması nedeniyle patlaması",
+      "Tankın manometresinin bozulması nedeniyle patlaması",
+      "Tankın içindeki sıvının ısınarak kaynamaya başlaması ve hızlı buharlaşma sonucu yükselen basıncın patlamaya neden olması"
+    ],
+    "answer": 0,
+    "questionNumber": 543,
+    "questionIndex": 43
+  },
+  {
+    "question": "Yangın söndürücüler yerden kaç cm yüksekliğe asılmalıdır?",
+    "options": [
+      "90",
+      "70",
+      "115",
+      "100"
+    ],
+    "answer": 0,
+    "questionNumber": 544,
+    "questionIndex": 44
+  },
+  {
+    "question": "CO2'li yangın söndürme cihazları kaç ayda bir kontrol edilmelidir?",
+    "options": [
+      "3",
+      "6",
+      "9",
+      "12"
+    ],
+    "answer": 0,
+    "questionNumber": 545,
+    "questionIndex": 45
+  },
+  {
+    "question": "Kuru Kimyevi Tozlu (KKT) yangın söndürme cihazları kaç ayda bir kontrol edilmelidir?",
+    "options": [
+      "3",
+      "9",
+      "12",
+      "6"
+    ],
+    "answer": 0,
+    "questionNumber": 546,
+    "questionIndex": 46
+  },
+  {
+    "question": "Yangın söndürme cihazları kaç yılda bir hidrostatik basınç testine tabi tutulmalıdır?",
+    "options": [
+      "2",
+      "5",
+      "10",
+      "1"
+    ],
+    "answer": 0,
+    "questionNumber": 546,
+    "questionIndex": 47
+  },
+  {
+    "question": "Yangın alarm butonlarının arasındaki uzaklık kaç metreyi geçmemelidir?",
+    "options": [
+      "50",
+      "10",
+      "20",
+      "25"
+    ],
+    "answer": 0,
+    "questionNumber": 547,
+    "questionIndex": 48
+  },
+  {
+    "question": "Yangın alarm butonları yerden en çok kaç metre yükseklikte olmalıdır?",
+    "options": [
+      "1,2",
+      "1,4",
+      "1,1",
+      "1,5"
+    ],
+    "answer": 0,
+    "questionNumber": 548,
+    "questionIndex": 49
+  },
+  {
+    "question": "Söndürme sistemi olarak sadece, yangın dolapları sistemi mevcut ise, su kapasitesi en az kaç litre debiyi 60 dakika süre ile karşılayacak kapasitede olacaktır?",
+    "options": [
+      "200",
+      "300",
+      "100",
+      "500"
+    ],
+    "answer": 0,
+    "questionNumber": 549,
+    "questionIndex": 50
+  },
+  {
+    "question": "Kaçış yollarında tabanlarda, döşemelerde ve yürüme yüzeylerinde ölçülen aydınlatma seviyesi en az kaç lux olmalıdır?",
+    "options": [
+      "10",
+      "50",
+      "30",
+      "20"
+    ],
+    "answer": 0,
+    "questionNumber": 550,
+    "questionIndex": 51
+  },
+  {
+    "question": "Normal aydınlatmanın kesilmesi halinde en az kaç saat süreyle acil aydınlatma sağlanmalıdır?",
+    "options": [
+      "2",
+      "1",
+      "6",
+      "4"
+    ],
+    "answer": 0,
+    "questionNumber": 551,
+    "questionIndex": 52
+  },
+  {
+    "question": "Afet olarak değerlendirilen olaylar ile dikkatsizlik, tedbirsizlik, ihmal, kasıt ve çeşitli sebeplerle meydana getirilen olayların yol açtığı hâller aşağıdakilerden hangisidir?",
+    "options": [
+      "İş Kazası",
+      "Acil durum",
+      "Kaza",
+      "Doğal afet"
+    ],
+    "answer": 0,
+    "questionNumber": 552,
+    "questionIndex": 53
+  },
+  {
+    "question": "Yapı, bina, tesis ve işletmelerde yangın güvenliğinden kim sorumludur?",
+    "options": [
+      "En büyük amir, sahip veya yöneticiler",
+      "Güvenlik ve denetim elemanı",
+      "Sivil savunma uzmanı",
+      "İş güvenliği uzmanı"
+    ],
+    "answer": 0,
+    "questionNumber": 553,
+    "questionIndex": 54
+  },
+  {
+    "question": "\"Yangın Yönetmeliği\"ne göre kurulması gereken ekipler arasında aşağıdakilerden hangisi yoktur?",
+    "options": [
+      "Kaçırma",
+      "Koruma",
+      "Kurtarma",
+      "İlk Yardım"
+    ],
+    "answer": 0,
+    "questionNumber": 554,
+    "questionIndex": 55
+  },
+  {
+    "question": "Yangın önleme ve söndürme konusundaki iç düzenlemelerde; \"Yangın Yönetmeliği\"nde yer alan hususlar arasında aşağıdakilerden hangisi yoktur?",
+    "options": [
+      "Eğitim ve bakım",
+      "Söndürme araçlarının kullanma usulleri",
+      "Personelin yaşı ve deneyimi",
+      "Acil durum ekiplerinin sayısı"
+    ],
+    "answer": 0,
+    "questionNumber": 555,
+    "questionIndex": 56
+  },
+  {
+    "question": "Afet yönetim sisteminin evreleri arasında aşağıdakilerden hangisi yer almaz?",
+    "options": [
+      "İyileştirme",
+      "Müdahale",
+      "Önceden bilme",
+      "Hazırlıklı olma"
+    ],
+    "answer": 0,
+    "questionNumber": 556,
+    "questionIndex": 57
+  },
+  {
+    "question": "Bir kurumun her türlü unsurunun olası bir tehlikeyi yaşamasını önlemek ya da önlenemeyen tehlikeleri zarar görmeden veya en az zararla bertaraf etmek amacıyla hazırlanan yazılı plan aşağıdakilerden hangisidir?",
+    "options": [
+      "Acil durum planı",
+      "Kaza önleme planı",
+      "Risk değerlendirme planı",
+      "Ramak kala planı"
+    ],
+    "answer": 0,
+    "questionNumber": 557,
+    "questionIndex": 58
+  },
+  {
+    "question": "Acil durum planlamasındaki yer alan dört adım için aşağıdakilerden hangisi yanlıştır?",
+    "options": [
+      "Tehlikelerin ve risklerin analizi",
+      "Planın uygulanması",
+      "Planın geliştirilmesi",
+      "Eğitim yapılması"
+    ],
+    "answer": 0,
+    "questionNumber": 558,
+    "questionIndex": 59
+  },
+  {
+    "question": "Eğer tesis veya proje inşaat aşamasında ise, inşaatta görev alan tüm alt işveren ve görevlilerin bilinçlendirme eğitimleri, bina yada tesis işletme aşamasında ise, aşağıdakilerden hangisi yapılmalıdır?",
+    "options": [
+      "Risk değerlendirmesi",
+      "OHSAS yönetim sistemi kurulması",
+      "İç yönetmelik hazırlanması",
+      "Acil durum eğitim ve tatbikatları"
+    ],
+    "answer": 0,
+    "questionNumber": 559,
+    "questionIndex": 60
+  },
+  {
+    "question": "Acil durum eğitimi alması gereken ekipler arasında aşağıdakilerden hangisi yoktur?",
+    "options": [
+      "Acil durum müdahale ekipleri",
+      "Pasif kadrolar",
+      "Kriz masası yönetim kadrosu",
+      "İşyeri güvenlik ekibi"
+    ],
+    "answer": 0,
+    "questionNumber": 560,
+    "questionIndex": 61
+  },
+  {
+    "question": "Acil durum ekiplerinin alması gereken eğitim konuları arasında aşağıdakilerden hangisi yoktur?",
+    "options": [
+      "Bina ve tesis çalışanları için depremden korunma ve davranış eğitimi",
+      "Tehlikeli kimyasallar, depolama, kullanma, korunma ve taşıma eğitimi",
+      "İş kazaları ve meslek hastalıkları eğitimi",
+      "Ofis çalışanları yangın ve deprem eğitimi"
+    ],
+    "answer": 0,
+    "questionNumber": 561,
+    "questionIndex": 62
+  },
+  {
+    "question": "Aşağıdaki hangisinde yeni bir yaklaşım getirilmekte ve kimyasal tesislerden kaynaklanan riskleri \"halkın bilme hakkı\" olduğu ileri sürülmektedir?",
+    "options": [
+      "Seveso II Yönergesi",
+      "Risk Değerlendirme Yönergesi",
+      "Basel Yönergesi",
+      "Çevresel Etki Değerlendirme Yönergesi"
+    ],
+    "answer": 0,
+    "questionNumber": 562,
+    "questionIndex": 63
+  },
+  {
+    "question": "Aşağıdakilerden hangisi ilk yardımcının öncelikli amaçları arasında değildir?",
+    "options": [
+      "Hayati tehlikeyi ortadan kaldırmak",
+      "İş güvenliğini sağlamak",
+      "İyileşmeyi kolaylaştırmak",
+      "Ortam güvenliğini sağlamak"
+    ],
+    "answer": 0,
+    "questionNumber": 563,
+    "questionIndex": 64
+  },
+  {
+    "question": "İlk yardımın temel uygulamaları arasında aşağıdakilerden hangisi yoktur?",
+    "options": [
+      "Bildirmek",
+      "Kurtarmak",
+      "Korumak",
+      "Kaldırmak"
+    ],
+    "answer": 0,
+    "questionNumber": 564,
+    "questionIndex": 65
+  },
+  {
+    "question": "İlk yardımcının özellikleri arasında aşağıdakilerden hangisi yoktur?",
+    "options": [
+      "Sakin olmalı",
+      "Aceleci olmalı",
+      "Bilgili olmalı",
+      "Kendinden emin olmalı"
+    ],
+    "answer": 0,
+    "questionNumber": 565,
+    "questionIndex": 66
+  },
+  {
+    "question": "İlk yardımın \"abc\"si arasında aşağıdakilerden hangisini değerlendirmek yoktur?",
+    "options": [
+      "Sindirim",
+      "Dolaşım",
+      "Solunum",
+      "Havayolu"
+    ],
+    "answer": 0,
+    "questionNumber": 566,
+    "questionIndex": 67
+  },
+  {
+    "question": "İşveren işyerinde yapılan risk değerlendirmesi sonuçlarına göre; çalışma yöntemleri, iş  organizasyonu ve toplu korunma önlemleriyle işyerindeki risklerin giderilemediği veya yeterince azaltılamadığı durumlarda, aşağıdakilerden hangisini bulundurmak ve uygun şekilde kullanmak zorundadır?",
+    "options": [
+      "Makine koruyucuları",
+      "Kişisel koruyucu donanımları",
+      "Güvenlik ve sağlık işaretleri",
+      "İş makinaları kullanma talimatları"
+    ],
+    "answer": 0,
+    "questionNumber": 567,
+    "questionIndex": 68
+  },
+  {
+    "question": "Aşağıdakilerden hangisi güvenlik ve sağlık işaretleri kapsamında değildir?",
+    "options": [
+      "Levha",
+      "Makine koruyucu şeridi",
+      "Sözlü iletişim",
+      "El kol işareti"
+    ],
+    "answer": 0,
+    "questionNumber": 568,
+    "questionIndex": 69
+  },
+  {
+    "question": "Aşağıdakilerden hangisi yasak işaretini tanımlar?",
+    "options": [
+      "Tehlikeye neden olacak veya tehlikeye maruz bırakacak bir davranışı yasaklayan işaret",
+      "Uyulması zorunlu bir davranışı belirleyen işaret",
+      "Bir tehlikeye neden olabilecek veya zarar verecek durum hakkında uyarıda bulunan işaret",
+      "Acil çıkış yolları, ilkyardım veya kurtarma ile ilgili bilgi veren işaretler"
+    ],
+    "answer": 0,
+    "questionNumber": 569,
+    "questionIndex": 70
+  },
+  {
+    "question": "Aşağıdakilerden hangisi uyarı işaretini tanımlar?",
+    "options": [
+      "Acil çıkış yolları, ilkyardım veya kurtarma ile ilgili bilgi veren işaretler",
+      "Bir tehlikeye neden olabilecek veya zarar verecek durum hakkında uyarıda bulunan işaret",
+      "Tehlikeye neden olacak veya tehlikeye maruz bırakacak bir davranışı yasaklayan işaret",
+      "Uyulması zorunlu bir davranışı belirleyen işaret"
+    ],
+    "answer": 0,
+    "questionNumber": 570,
+    "questionIndex": 71
+  },
+  {
+    "question": "Aşağıdakilerden hangisi emredici işareti tanımlar?",
+    "options": [
+      "Acil çıkış yolları, ilkyardım veya kurtarma ile ilgili bilgi veren işaretler",
+      "Tehlikeye neden olacak veya tehlikeye maruz bırakacak bir davranışı yasaklayan işaret",
+      "Bir tehlikeye neden olabilecek veya zarar verecek durum hakkında uyarıda bulunan işaret",
+      "Uyulması zorunlu bir davranışı belirleyen işaret"
+    ],
+    "answer": 0,
+    "questionNumber": 571,
+    "questionIndex": 72
+  },
+  {
+    "question": "Aşağıdakilerden hangisi işaret levhasını tanımlar?",
+    "options": [
+      "Saydam veya yarı saydam malzemeden yapılmış, içeriden veya arkadan aydınlatılarak ışıklı bir yüzey görünümü verilmiş işaret düzeneği",
+      "Bir işaret levhası veya ışıklandırılmış yüzey üzerinde kullanılan ve özel bir durumu veya özel bir davranışı tanımlayan şekil",
+      "Bir işaret levhası ile beraber kullanılan ve ek bilgi sağlayan levha",
+      "Geometrik şekil, resim, sembol, piktogram ve renklerden oluşturulan ve gerektiğinde yeterli aydınlatma ile görülebilir hale getirilmiş özel bilgi ileten levha"
+    ],
+    "answer": 0,
+    "questionNumber": 572,
+    "questionIndex": 73
+  },
+  {
+    "question": "Aşağıdakilerden hangisi yasaklayıcı işaretlerin temel niteliklerinden biridir?",
+    "options": [
+      "Daire biçiminde, beyaz zemin üzerine siyah piktogram, kırmızı çerçeve ve diyagonal çizgi",
+      "Üçgen şeklinde, sarı zemin üzerine siyah piktogram, siyah çerçeve",
+      "Dikdörtgen veya kare biçiminde, yeşil zemin üzerine beyaz piktogram",
+      "Daire biçiminde, mavi zemin üzerine beyaz piktogram"
+    ],
+    "answer": 0,
+    "questionNumber": 573,
+    "questionIndex": 74
+  },
+  {
+    "question": "Aşağıdakilerden hangisi acil yardım ve ilk yardım işaretlerinin temel niteliklerinden biridir?",
+    "options": [
+      "Daire biçiminde, beyaz zemin üzerine siyah piktogram, kırmızı çerçeve ve diyagonal çizgi",
+      "Dikdörtgen veya kare biçiminde, yeşil zemin üzerine beyaz piktogram",
+      "Daire biçiminde, mavi zemin üzerine beyaz piktogram",
+      "Üçgen şeklinde, sarı zemin üzerine siyah piktogram, siyah çerçeve"
+    ],
+    "answer": 0,
+    "questionNumber": 574,
+    "questionIndex": 75
+  },
+  {
+    "question": "Aşağıdakilerden hangisi emredici işaret temel niteliklerinden biridir?",
+    "options": [
+      "Daire biçiminde, mavi zemin üzerine beyaz piktogram",
+      "Dikdörtgen veya kare biçiminde, yeşil zemin üzerine beyaz piktogram",
+      "Üçgen şeklinde, sarı zemin üzerine siyah piktogram, siyah çerçeve",
+      "Daire biçiminde, beyaz zemin üzerine siyah piktogram, kırmızı çerçeve ve diyagonal çizgi"
+    ],
+    "answer": 0,
+    "questionNumber": 575,
+    "questionIndex": 76
+  },
+  {
+    "question": "Aşağıdakilerden hangisi uyarı işaretlerinin temel niteliklerinden biridir?",
+    "options": [
+      "Daire biçiminde, beyaz zemin üzerine siyah piktogram, kırmızı çerçeve ve diyagonal çizgi",
+      "Üçgen şeklinde, sarı zemin üzerine siyah piktogram, siyah çerçeve",
+      "Dikdörtgen veya kare biçiminde, yeşil zemin üzerine beyaz piktogram",
+      "Daire biçiminde, mavi zemin üzerine beyaz piktogram"
+    ],
+    "answer": 0,
+    "questionNumber": 576,
+    "questionIndex": 77
+  },
+  {
+    "question": "Aşağıdakilerden hangisi yaşanılan ortamın ve solunan havanın konfor şartlarını oluşturur?",
+    "options": [
+      "Havanın nemi, karışımı, sıcaklığı",
+      "Havanın nemi, havanın karışımı",
+      "Havanın sıcaklığı, havanın nemi",
+      "Havanın karışımı, havanın sıcaklığı"
+    ],
+    "answer": 0,
+    "questionNumber": 577,
+    "questionIndex": 78
+  },
+  {
+    "question": "Mahal içinde oluşan ve insanları rahatsız edebilecek hava akımı aşağıdakilerden hangisidir?",
+    "options": [
+      "0,05-0,10 m/s",
+      "0,20-0,30 m/s",
+      "0,05-0,15 m/s",
+      "0,10-0,20 m/s"
+    ],
+    "answer": 0,
+    "questionNumber": 578,
+    "questionIndex": 79
+  },
+  {
+    "question": "Aşağıdakilerden hangisi tüm kişisel koruyucularda bulunması gereken özelliklerdendir?",
+    "options": [
+      "Piyasada kolay bulunmalıdır.",
+      "İş elbisesi cebinde taşınabilir olmalıdır.",
+      "İşverene fazla maddi yük getirmemelidir.",
+      "Gerekli ayarlamalar yapıldığında kullanana tam uymalıdır."
+    ],
+    "answer": 0,
+    "questionNumber": 579,
+    "questionIndex": 80
+  },
+  {
+    "question": "Aşağıdakilerden hangisi kişisel koruyucularda bulunması gereken özelliklerden biri değildir?",
+    "options": [
+      "Kullanan işçinin sağlık durumuna ve ergonomik gereksinimlerine uygun olmalıdır.",
+      "İşyerinin markasını ve unvanını taşımalıdır.",
+      "İşyerindeki mevcut koşullara uygun olmalıdır.",
+      "Ek risk yaratmadan ilgili riski önlemeye yönelik olmalıdır."
+    ],
+    "answer": 0,
+    "questionNumber": 580,
+    "questionIndex": 81
+  },
+  {
+    "question": "Kişisel koruyucu donanımların kullanma koşulları aşağıdakilerden hangisine bağlı değildir?",
+    "options": [
+      "Risk derecesi",
+      "Maruziyet süresi",
+      "Kullanma süresi",
+      "Vardiya düzeni"
+    ],
+    "answer": 0,
+    "questionNumber": 581,
+    "questionIndex": 82
+  },
+  {
+    "question": "Kişisel koruyucu donanımların kullanımı ile ilgili olarak aşağıdakilerden hangisi yanlıştır?",
+    "options": [
+      "İşveren tarafından ücretsiz verilmelidir.",
+      "Hijyenik şartlarda muhafaza edilmelidir.",
+      "İşçinin ücretinden kesilmelidir.",
+      "İşçiyi hangi risklere karşı koruyacağı konusunda işçi bilgilendirilmelidir"
+    ],
+    "answer": 0,
+    "questionNumber": 582,
+    "questionIndex": 83
+  },
+  {
+    "question": "Kişisel koruyucu donanımların kullanımı ile ilgili eğitimler için aşağıdakilerden hangisi doğrudur?",
+    "options": [
+      "Kurgulamalı eğitim verilmelidir",
+      "Uygulamalı eğitim verilmelidir.",
+      "Sesli eğitim verilmelidir.",
+      "Görsel eğitim verilmelidir."
+    ],
+    "answer": 0,
+    "questionNumber": 583,
+    "questionIndex": 84
+  },
+  {
+    "question": "Aşağıdakilerden hangisi işçilerin kişisel koruyucu donanımların kullanımı ile ilgili yükümlülüğüdür?",
+    "options": [
+      "Ara sıra kullanacaklardır.",
+      "Talimatlara uygun olarak kullanacaklardır.",
+      "Her işte kullanacaklardır.",
+      "Genç işçiler kullanmayacaklardır."
+    ],
+    "answer": 0,
+    "questionNumber": 584,
+    "questionIndex": 85
+  },
+  {
+    "question": "İşçiler kişisel koruyucu donanımlarda gördükleri herhangi bir arıza veya eksikliği kime bildirmelidirler?",
+    "options": [
+      "İş güvenliği uzmanına",
+      "İşyeri hekimine",
+      "İşverene",
+      "Ustaya"
+    ],
+    "answer": 0,
+    "questionNumber": 585,
+    "questionIndex": 86
+  },
+  {
+    "question": "Aşağıdakilerden hangisi kişisel koruyucu donanımların kullanımının etkili olabilmesi için işçilere verilecek eğitimlerde belirtilmesi gereken konulardan biri değildir?",
+    "options": [
+      "Kişisel koruyucunun hangi etkilere karşı koruma sağladığı",
+      "Kişisel koruyucunun bakımının ve temizliğinin nasıl yapılacağı",
+      "Kişisel koruyucunun standart numarasının ne olduğu",
+      "Kişisel koruyucunun nasıl kullanılacağı"
+    ],
+    "answer": 0,
+    "questionNumber": 586,
+    "questionIndex": 87
+  },
+  {
+    "question": "Aşağıdakilerden hangisi kişisel koruyucu donanım çeşitlerinden biri değildir?",
+    "options": [
+      "Solunum sistemi koruyucuları",
+      "Baş koruyucuları",
+      "Göz ve yüz koruyucuları",
+      "Dolaşım sistemi koruyucuları"
+    ],
+    "answer": 0,
+    "questionNumber": 587,
+    "questionIndex": 88
+  },
+  {
+    "question": "Plastik baretler ile ilgili olarak aşağıdakilerden hangisi yanlıştır?",
+    "options": [
+      "Yalıtkan özelliği nedeni ile 600 volta kadar güvenlik sağlarlar.",
+      "Demir-çelik, madencilik, bina, gemi ve tünel inşaatlarında kullanılırlar.",
+      "Ergimiş metalin sıcaklığından korurlar.",
+      "Düşme mesafesine bağlı olarak 10-15 kg ağırlığındaki cisimlerin etkilerinden korurlar."
+    ],
+    "answer": 0,
+    "questionNumber": 588,
+    "questionIndex": 89
+  },
+  {
+    "question": "Plastik baretler iyi kullanıldığı takdirde kaç yıl süre ile kullanılabilirler?",
+    "options": [
+      "4",
+      "2",
+      "3",
+      "5"
+    ],
+    "answer": 0,
+    "questionNumber": 589,
+    "questionIndex": 90
+  },
+  {
+    "question": "Alüminyum baretler ile ilgili olarak aşağıdakilerden hangisi yanlıştır?",
+    "options": [
+      "Çarpma riskine karşı kullanılabilirler.",
+      "Elektriksel kaza riski olan yerlerde kullanılabilirler.",
+      "Sıcak çalışma ortamında kullanılabilirler.",
+      "Petrol kuyuları, rafineri ve kimyasallarla çalışan tesislerde kullanılabilirler."
+    ],
+    "answer": 0,
+    "questionNumber": 590,
+    "questionIndex": 91
+  },
+  {
+    "question": "Baretler kaç kg bilyenin 1,5 metreden üzerine düşmesine dayanıklı olmalıdır?",
+    "options": [
+      "3",
+      "1",
+      "2",
+      "4"
+    ],
+    "answer": 0,
+    "questionNumber": 591,
+    "questionIndex": 92
+  },
+  {
+    "question": "Elektrik işlerinde kullanılan yüksek düzeyde plastik baretler kaç volta kadar bozulmadan koruyucu özelliğini göstermelidir?",
+    "options": [
+      "30.000",
+      "60.000",
+      "10.000",
+      "20.000"
+    ],
+    "answer": 0,
+    "questionNumber": 592,
+    "questionIndex": 93
+  },
+  {
+    "question": "Çalışma ortamındaki gürültü düzeyi kaç dB olduğunda kulak koruyucusunun kullanılması gerekir?",
+    "options": [
+      "90",
+      "85",
+      "95",
+      "75"
+    ],
+    "answer": 0,
+    "questionNumber": 593,
+    "questionIndex": 94
+  },
+  {
+    "question": "Toz maskeleri kaç mikron arasındaki tozlar için kullanılabilirler?",
+    "options": [
+      "0,2 ? 3",
+      "0,2 ? 5",
+      "0,2 ? 8",
+      "0,2 ? 4"
+    ],
+    "answer": 0,
+    "questionNumber": 594,
+    "questionIndex": 95
+  },
+  {
+    "question": "Solunum sistemi koruyucuları ile ilgili aşağıdakilerden hangisi yanlıştır?",
+    "options": [
+      "Her kullanıştan sonra gözden geçirilmeli ve filtreler çıkarıldıktan sonra temizlenmelidir.",
+      "Üç aydan fazla kullanılmamalıdır.",
+      "Kullanıldığı yere ve kullanım amacına uygun olarak seçilmelidir.",
+      "Koruma özelliğini kaybeden filtreler değiştirilmelidir."
+    ],
+    "answer": 0,
+    "questionNumber": 595,
+    "questionIndex": 96
+  },
+  {
+    "question": "Aşağıdakilerden hangisi kişisel koruyucu donanımların üzerinde bulunması gereken işaretlemedir?",
+    "options": [
+      "TSE",
+      "CE",
+      "TM",
+      "TS"
+    ],
+    "answer": 0,
+    "questionNumber": 596,
+    "questionIndex": 97
+  },
+  {
+    "question": "Patlayıcı madde imal edilen işyerlerinde kişisel koruyucu donanım olarak kullanılacak ayakkabı türü aşağıdakilerden hangisidir?",
+    "options": [
+      "Kıvılcım çıkarmayan ayakkabılar",
+      "Yalıtkan ayakkabılar",
+      "Çelik tabanlı ayakkabılar",
+      "Parmak koruyucu ayakkabılar"
+    ],
+    "answer": 0,
+    "questionNumber": 597,
+    "questionIndex": 98
+  },
+  {
+    "question": "İşveren tarafından çalışanlara verilen kişisel koruyucu donanımların en önemli özelliği aşağıdakilerden hangisidir?",
+    "options": [
+      "Kullanımı uzun ömürlü olmalı",
+      "Hijyenik şartlara uygun olmalı",
+      "Plastik malzemeden yapılmış olmalı",
+      "Ucuz olmalı"
+    ],
+    "answer": 0,
+    "questionNumber": 598,
+    "questionIndex": 99
+  },
+  {
+    "question": "Elektrik ark ışınlarına karşı hangi tip koruyucu gözlük kullanılmalıdır?",
+    "options": [
+      "Dökümcü gözlüğü",
+      "Kaynakçı gözlüğü",
+      "Şeffaf camlı yüz siperi",
+      "Normal gözlük"
+    ],
+    "answer": 0,
+    "questionNumber": 599,
+    "questionIndex": 100
+  },
+  {
+    "question": "Ellerin darbe ve sıkıştırmaya karşı korunması için ne tür eldiven kullanılmalıdır?",
+    "options": [
+      "Eldivenlerin içerisine çelik bileşikler yerleştirilerek takviye edilen eldivenler",
+      "İyi kumaştan yapılmış eldivenler",
+      "Uçlarına çelik yüksüklerin konulduğu eldivenler",
+      "Tel dokumayla takviye edilmiş eldivenler"
+    ],
+    "answer": 0,
+    "questionNumber": 600,
+    "questionIndex": 101
+  },
+  {
+    "question": "Yuvarlanan ve ağır malzemelerle çalışılan işlerde ayak parmaklarının korunması içinnasıl bir ayakkabı kullanılmalıdır?",
+    "options": [
+      "Anti statik ayakkabı",
+      "Çelik burunlu ayakkabı",
+      "Yalıtkan ayakkabı",
+      "Kıvılcım çıkartmayan ayakkabı"
+    ],
+    "answer": 0,
+    "questionNumber": 601,
+    "questionIndex": 102
+  },
+  {
+    "question": "Kişiyi aynı anda bir veya birden fazla riske karşı korumak amacıyla üretici tarafından birbütün haline getirilmiş cihaz, alet veya malzemeden oluşmuş donanıma ne denir?",
+    "options": [
+      "Makine koruyucusu",
+      "Kişisel koruyucu",
+      "Hiçbiri",
+      "Teknik ekipman"
+    ],
+    "answer": 0,
+    "questionNumber": 602,
+    "questionIndex": 103
+  },
+  {
+    "question": "Risklerin, toplu korumayı sağlayacak teknik önlemlerle veya iş organizasyonu ve çalışma yöntemleriyle önlenemediği veya tam olarak sınırlandırılamadığı durumlarda ne kullanılacaktır?",
+    "options": [
+      "Yerel havalandırma",
+      "Ergonomik yöntemler",
+      "Kişisel koruyucu donanımlar",
+      "Makina koruyucuları"
+    ],
+    "answer": 0,
+    "questionNumber": 603,
+    "questionIndex": 104
+  },
+  {
+    "question": "İşçilere çalışma ortamındaki risklere ve standartlara uygun olarak ve tutanakla teslimedilen kişisel koruyucu donanımların, işçiler tarafından kullanılmaması durumda hukukisorumluluk kimdedir?",
+    "options": [
+      "İşçi",
+      "İşveren",
+      "İş güvenliği mühendisi",
+      "İş sağlığı ve güvenliği kurulu"
+    ],
+    "answer": 0,
+    "questionNumber": 604,
+    "questionIndex": 105
+  },
+  {
+    "question": "Kişisel koruyucu donanımların piyasa denetimi ve gözetimi işlemlerini yürüten kurumaşağıdakilerden hangisidir?",
+    "options": [
+      "Ticaret Odaları",
+      "ÇSGB",
+      "Sanayi Odaları",
+      "TOBB"
+    ],
+    "answer": 0,
+    "questionNumber": 605,
+    "questionIndex": 106
+  },
+  {
+    "question": "Bakanlar Kurulu Kararı ile yürürlüğe konulan, \"Uygunluk İşaretinin Ürüne İliştirilmesineve Kullanılmasına Dair Yönetmelik\"te belirtilen CE, aşağıdakilerden hangisinin kısaltılmışşeklidir?",
+    "options": [
+      "CommonEra",
+      "ConformitéEuropéene",
+      "Council of Europe",
+      "ChinaExport"
+    ],
+    "answer": 0,
+    "questionNumber": 606,
+    "questionIndex": 107
+  },
+  {
+    "question": "Makina Emniyeti Yönetmeliği aşağıdakilerden hangisini kapsamaz?",
+    "options": [
+      "Maden kuyusu asansörleri",
+      "Kısmen tamamlanmış makinalar",
+      "Kaldırma aksesuarları",
+      "Emniyet aksamları"
+    ],
+    "answer": 0,
+    "questionNumber": 607,
+    "questionIndex": 108
+  },
+  {
+    "question": "Makine Emniyeti Yönetmeliği kapsamına giren makinaların piyasa gözetimi ve denetimiaşağıdaki kurumlardan hangisi tarafından yapılır?",
+    "options": [
+      "TOBB",
+      "Çalışma ve Sosyal Güvenlik Bakanlığı",
+      "Sanayi ve Ticaret Bakanlığı",
+      "MMO"
+    ],
+    "answer": 0,
+    "questionNumber": 608,
+    "questionIndex": 109
+  },
+  {
+    "question": "Makine imalatçılarının veya yetkili temsilcilerinin risk değerlendirmesini ne zamanyapmaları gerekmektedir?",
+    "options": [
+      "Makinaların ihracatı sırasında",
+      "Makinaların piyasaya arzından önce",
+      "Makinaların imalatının tamamlanmasından sonra",
+      "Makinaların tasarım ve imalinden önce"
+    ],
+    "answer": 0,
+    "questionNumber": 609,
+    "questionIndex": 110
+  },
+  {
+    "question": "Makina Emniyeti Yönetmeliğinin temel sağlık ve güvenlik kurallarında geçen aşağıdakitanımlamalardan hangisi yanlıştır?",
+    "options": [
+      "Koruyucu tertibatı: Özellikle fiziksel bir engel vasıtasıyla koruma sağlayan makinanınparçası",
+      "Tehlikeye maruz kalan kişi: Kısmen veya tamamen bir tehlike bölgesinde bulunan kişi",
+      "Tehlike: Muhtemel bir yaralanma veya bunların sağlık üzerinde oluşturabileceği hasarkaynağı",
+      "Risk: Tehlikeli bir durumda meydana gelebilecek olan sağlığa yönelik yaralanma veyahasarın olasılık ve derecesinin birleşimi"
+    ],
+    "answer": 0,
+    "questionNumber": 610,
+    "questionIndex": 111
+  },
+  {
+    "question": "Aşağıdakilerden hangisi mahfazaların ve koruma tertibatlarının temel özelliklerinden birideğildir?",
+    "options": [
+      "Üretim işleminin izlenmesine asgari engel olmalı",
+      "İlave herhangi bir tehlike ortaya çıkarmamalı",
+      "Tehlike bölgesinden yeterli uzaklığa yerleştirilmeli",
+      "Kolayca devreden çıkarılmalı veya kolayca by-pass edilmeli"
+    ],
+    "answer": 0,
+    "questionNumber": 611,
+    "questionIndex": 112
+  },
+  {
+    "question": "Makine Emniyeti Yönetmeliğine göre hazırlanması gereken talimatlar konusundaaşağıdakilerden hangisi yanlıştır?",
+    "options": [
+      "Bütün makinalarda Türkçe hazırlanmış talimatlar bulunmalıdır.",
+      "Talimatların içeriği yalnızca makinaların amaçlanan kullanımlarını değil aynı zamandamakul bir şekilde öngörülebilen olası yanlış kullanımlarını da içermelidir.",
+      "Talimatlar, uzman personelin anlayabileceği topluluk dilinde hazırlanmalıdır",
+      "Profesyonel olmayan operatörler tarafından kullanılması düşünülen makinalar için,kullanım talimatlarının yazılması ve düzenlenmesinde bu tür operatörlerden makul olarakbeklenebilecek genel eğitim seviyeleri ve yargıda bulunabilme düzeyleri de göz önündebulundurulmalıdır."
+    ],
+    "answer": 0,
+    "questionNumber": 612,
+    "questionIndex": 113
+  },
+  {
+    "question": "Makinaların hareketliliği nedeniyle meydana gelebilecek tehlikeleri önlemek amacıylagerekli ilave temel sağlık ve güvenlik kurallarında yer alan \"ROPS\" anlamı aşağıdakilerdenhangisidir?",
+    "options": [
+      "Düşen nesneler veya malzemelere karşı koruyucu yapı",
+      "Döner kesici takımların kırılma ve fırlama riskinin bulunduğu durumlarda kullanılmasıgereken koruyucu yapı",
+      "İş parçalarının ve bunların fırlama riskinin bulunduğu durumlarda kullanılması gerekenkoruyucu yapı",
+      "Yuvarlanma ve devrilmeye karşı koruyucu yapı"
+    ],
+    "answer": 0,
+    "questionNumber": 613,
+    "questionIndex": 114
+  },
+  {
+    "question": "Makinaların hareketliliği nedeniyle meydana gelebilecek tehlikeleri önlemek amacıylagerekli ilave temel sağlık ve güvenlik kurallarında yer alan \"FOPS\"un anlamı aşağıdakilerdenhangisidir?",
+    "options": [
+      "Yuvarlanma ve devrilmeye karşı koruyucu yapı",
+      "Düşen nesneler veya malzemelere karşı koruyucu yapı",
+      "İş parçalarının ve bunların fırlama riskinin bulunduğu durumlarda kullanılması gerekenkoruyucu yapı",
+      "Döner kesici takımların kırılma ve fırlama riskinin bulunduğu durumlarda kullanılmasıgereken koruyucu yapı"
+    ],
+    "answer": 0,
+    "questionNumber": 614,
+    "questionIndex": 115
+  },
+  {
+    "question": "Makine Emniyeti Yönetmeliğine göre kaldırma makinaları ve kaldırma aksesuarları,statik deneylerde aşırı yüke, kalıcı bir şekil bozukluğu veya yapısal bir kusur meydanagelmeksizin dayanacak şekilde tasarımlanmalı ve imal edilmelidirler. Hesaplamalarda manuelçalıştırılan makinalar ve kaldırma aksesuarlarında bu katsayının değeri nedir?",
+    "options": [
+      "1",
+      "1,5",
+      "1,25",
+      "1,1"
+    ],
+    "answer": 0,
+    "questionNumber": 615,
+    "questionIndex": 116
+  },
+  {
+    "question": "Makine Emniyeti Yönetmeliğine göre kaldırma makinaları dinamik deney katsayısı ileçarpılmış azami çalışma yükü kullanılarak yapılan dinamik deneylerden, bir arıza meydanagelmeden, geçecek şekilde tasarımlanmalı ve imal dilmelidir. Bu dinamik deney katsayısıaşağıdakilerden hangisidir?",
+    "options": [
+      "1,5",
+      "1,25",
+      "1",
+      "1,1"
+    ],
+    "answer": 0,
+    "questionNumber": 616,
+    "questionIndex": 117
+  },
+  {
+    "question": "Makine Emniyeti Yönetmeliğine göre kaldırma zincirleri yeterli bir güvenlik düzeyisağlayacak şekilde seçilmiş bir çalışma katsayısına sahip olmalıdır. Genel bir kural olarak bukatsayı kaçtır?",
+    "options": [
+      "1",
+      "3",
+      "2",
+      "4"
+    ],
+    "answer": 0,
+    "questionNumber": 617,
+    "questionIndex": 118
+  },
+  {
+    "question": "İşçi Sağlığı ve İş Güvenliği Tüzüğüne göre, kaldırma makinaları, kabul edilen en ağıryükün en az kaç katını, etkili ve güvenli bir şekilde kaldıracak ve askıda tutabilecek güçteolacaktır?",
+    "options": [
+      "1",
+      "1,3",
+      "1,5",
+      "1,2"
+    ],
+    "answer": 0,
+    "questionNumber": 618,
+    "questionIndex": 119
+  },
+  {
+    "question": "İşçi Sağlığı ve İş Güvenliği Tüzüğüne göre, kaldırma makinaları ve araçları yetkili teknikbir eleman tarafından kaç ayda bir bütünüyle kontrol edilecektir?",
+    "options": [
+      "Üç ayda bir",
+      "Her ay",
+      "Altı ayda bir",
+      "Yılda bir"
+    ],
+    "answer": 0,
+    "questionNumber": 619,
+    "questionIndex": 120
+  },
+  {
+    "question": "İşçi Sağlığı ve İş Güvenliği Tüzüğüne göre, kaldırma araçlarının kancalarının güvenlikkat sayısı erimiş maden veya aşındırıcı maddeler gibi tehlikeli yükleri taşıyanlarda yükün enaz kaç katına eşit olacaktır?",
+    "options": [
+      "7",
+      "3",
+      "1,5",
+      "5"
+    ],
+    "answer": 0,
+    "questionNumber": 620,
+    "questionIndex": 121
+  },
+  {
+    "question": "İşçi Sağlığı ve İş Güvenliği Tüzüğüne göre en ağır yük için kaldırma ve bağlamazincirlerinin ve kancalarının güvenlik katsayısı en az kaç olacaktır?",
+    "options": [
+      "7",
+      "1",
+      "3",
+      "5"
+    ],
+    "answer": 0,
+    "questionNumber": 621,
+    "questionIndex": 122
+  },
+  {
+    "question": "İşçi Sağlığı ve İş Güvenliği Tüzüğüne göre çelik halatların güvenlik kat sayıları en az kaçolacaktır?",
+    "options": [
+      "6",
+      "2",
+      "4",
+      "8"
+    ],
+    "answer": 0,
+    "questionNumber": 622,
+    "questionIndex": 123
+  },
+  {
+    "question": "Makine Emniyeti Yönetmeliğine göre kaldırma işlemlerinde kullanılan halatın bütünü veuçları yeterli bir güvenlik düzeyi sağlayacak şekilde seçilmiş bir çalışma katsayısına sahipolmalıdır. Genel bir kural olarak bu katsayı kaçtır?",
+    "options": [
+      "3",
+      "1",
+      "7",
+      "5"
+    ],
+    "answer": 0,
+    "questionNumber": 623,
+    "questionIndex": 124
+  },
+  {
+    "question": "İşçi Sağlığı ve İş Güvenliği Tüzüğüne göre kaldırma veya çekme işlerinde kullanılan iphalatların kopmaya karşı güvenlik kat sayıları en az kaç olacaktır?",
+    "options": [
+      "4",
+      "3",
+      "2",
+      "1"
+    ],
+    "answer": 0,
+    "questionNumber": 624,
+    "questionIndex": 125
+  },
+  {
+    "question": "Basınçlı gaz tüpleri kaç yılda bir hidrostatik basınç testine tabi tutulmalıdır?",
+    "options": [
+      "15",
+      "10",
+      "1",
+      "5"
+    ],
+    "answer": 0,
+    "questionNumber": 625,
+    "questionIndex": 126
+  },
+  {
+    "question": "Kazanların hidrolik basınç deneyleri en yüksek çalışma basıncının en çok kaç katı ileyapılacaktır?",
+    "options": [
+      "1,5",
+      "1",
+      "2",
+      "2,5"
+    ],
+    "answer": 0,
+    "questionNumber": 626,
+    "questionIndex": 127
+  },
+  {
+    "question": "Kompresörlerin güvenlikle çalışmalarını sağlamak üzere kompresörlerin kontrol vedeneyleri için verilen sürelerden hangisi yanlıştır?",
+    "options": [
+      "Kompresör üzerinde yapılacak değişiklik ve büyük onarımlardan sonra",
+      "Periyodik olarak 6 ayda bir",
+      "Periyodik olarak 12 ayda bir",
+      "Kompresörün montajından sonra ve çalıştırılmasından önce"
+    ],
+    "answer": 0,
+    "questionNumber": 627,
+    "questionIndex": 128
+  },
+  {
+    "question": "İşlerinde İşçi Sağlığı ve İş Güvenliği Tüzüğü\"ne göre emniyet kemeri takma zorunluluğuen az kaç metre yükseklik için belirlenmiştir?",
+    "options": [
+      "5 metre",
+      "7 metre",
+      "3 metre",
+      "9 metre"
+    ],
+    "answer": 0,
+    "questionNumber": 628,
+    "questionIndex": 129
+  },
+  {
+    "question": "aşağıdakilerden hangisi yüksekten düşme riskinin oluş nedenleri arasında yer almaz?",
+    "options": [
+      "Seyyar sepetli hidrolik kaldırma aracı ile elektrik direğindeki arızaya müdahale etme",
+      "Ahşap elektrik direği üzerinde ayakçaktan başka kişisel koruyucu kullanmadan çalışma",
+      "Gerekli önlem alınmış ve 7 metre yükseklikte emniyet kemerini uygun bir yeresabitleyerek çalışma",
+      "Yüksekten düşme riskine karşı emniyet filesi kullanılarak çalışma"
+    ],
+    "answer": 0,
+    "questionNumber": 629,
+    "questionIndex": 130
+  },
+  {
+    "question": "Yükseklik kavramı aşağıdaki cümlelerden hangisi ile tanımlanır?",
+    "options": [
+      "Araç kullanmadan çıkılabilen en az 7 metre yüksekliğe yüksek denir.",
+      "El ile tutularak çıkılan ve düşme tehlikesi bulunan yerlere yüksek denir.",
+      "Başkalarının yardımı ile çıkılabilen 5 metre yüksekliğe yüksek denir.",
+      "Tek adımla kolayca çıkamayacağımız yerler yüksek olarak tanımlanabilir."
+    ],
+    "answer": 0,
+    "questionNumber": 630,
+    "questionIndex": 131
+  },
+  {
+    "question": "Aşağıdakilerden hangisi yüksekten düşmelerin önlenmesi için sayılan aktif sistemlerdenbiri değildir?",
+    "options": [
+      "Emniyet kemerleri",
+      "Şok emiciler",
+      "Uyarı hatları",
+      "Bağlantı kancaları"
+    ],
+    "answer": 0,
+    "questionNumber": 631,
+    "questionIndex": 132
+  },
+  {
+    "question": "Aşağıda belirtilenlerden hangisi geleneksel düşmeden korunma yöntemleri arasında yeralır?",
+    "options": [
+      "Korkuluk sistemleri",
+      "Merdiven sistemleri",
+      "İskele sistemleri",
+      "İkaz işaretleri"
+    ],
+    "answer": 0,
+    "questionNumber": 632,
+    "questionIndex": 133
+  },
+  {
+    "question": "Aşağıdakilerden hangisi kapalı alan tanımı değildir?",
+    "options": [
+      "Bazı alanlar iş yapılırken kapalı alan haline gelir, ya da inşaları, üretilişleri veya dahasonra uğradıkları değişiklikler esnasında kapalı alan haline dönüşebilirler.",
+      "Kapalı alan girişi-çıkışı olmayan tamamen kapalı bir yerdir.",
+      "Oksijen düzeyinin yetersizliği dolayısıyla ölüm veya ciddi şekilde yaralanma riski olan herkapalı alan bu şekilde adlandırılmaktadır.",
+      "Zararlı maddeler dolayısıyla ölüm veya ciddi şekilde yaralanma riski olan her kapalı alanbu şekilde adlandırılmaktadır."
+    ],
+    "answer": 0,
+    "questionNumber": 633,
+    "questionIndex": 134
+  },
+  {
+    "question": "Renksiz, kokusuz, tatsız, yanma ve solunum için kaçınılmaz bir gaz olan oksijeninfizyolojik",
+    "options": [
+      "% 19,5-22",
+      "% 14-9",
+      "% 10-6",
+      "% 18-22"
+    ],
+    "answer": 0,
+    "questionNumber": 634,
+    "questionIndex": 135
+  },
+  {
+    "question": "Kapalı alan ölçümlerinde, en az kaç noktadan ve kaç kez ölçüm yapmak gerekir?",
+    "options": [
+      "En üst ve en alttan birer kez",
+      "Ulaşabilen her noktadan iki kez",
+      "En üst, orta ve en alttan birer kez",
+      "Üst, orta ve taban seviyelerinden üçer kez"
+    ],
+    "answer": 0,
+    "questionNumber": 635,
+    "questionIndex": 136
+  },
+  {
+    "question": "Aşağıdakilerden hangisi kapalı ortamlarda oluşan risklerden değildir?",
+    "options": [
+      "Elektrik",
+      "Parlayıcı gaz ve buharlar",
+      "Fazla karanlık olması",
+      "Oksijen fazlalığı"
+    ],
+    "answer": 0,
+    "questionNumber": 636,
+    "questionIndex": 137
+  },
+  {
+    "question": "Temiz havayı oluşturan gaz hacimleri için aşağıdakilerden hangisi doğrudur?",
+    "options": [
+      "% 2,91 hidrojen",
+      "% 4,12 karbondioksit",
+      "% 72,04 azot",
+      "% 20,93 oksijen"
+    ],
+    "answer": 0,
+    "questionNumber": 637,
+    "questionIndex": 138
+  },
+  {
+    "question": "Aşağıdakilerden hangisi zehirli hava oluşumuna neden olan gazlardan biridir?",
+    "options": [
+      "Karbondioksit",
+      "Hidrojen sülfür",
+      "Azot",
+      "Oksijen"
+    ],
+    "answer": 0,
+    "questionNumber": 638,
+    "questionIndex": 139
+  },
+  {
+    "question": "Aşağıdakilerden hangisi patlayıcı hava oluşumuna neden olan gazlardan biridir?",
+    "options": [
+      "Azot oksitler",
+      "Hidrojen",
+      "Karbondioksit",
+      "Metan"
+    ],
+    "answer": 0,
+    "questionNumber": 639,
+    "questionIndex": 140
+  },
+  {
+    "question": "Renksiz, kokusuz ve tatsız bir gaz olan karbon monoksit için aşağıdakilerden hangisidoğrudur?",
+    "options": [
+      "Yüksek konsantrasyonlarda bile patlama özelliğine sahip değildir.",
+      "Zehirleyici bir gaz olup tehlikelidir.",
+      "Yoğunluğu havadan ağır olduğu için kapalı alanın zemininde birikir.",
+      "Yoğunluğu havadan hafif olduğu için kapalı alanın tavanında birikir."
+    ],
+    "answer": 0,
+    "questionNumber": 640,
+    "questionIndex": 141
+  },
+  {
+    "question": "Renksiz ve kokusuz bir gaz olan metan için aşağıdakilerden hangisi yanlıştır?",
+    "options": [
+      "Zehirli bir gazdır.",
+      "Havadan hafif olduğu için kapalı alanların tavanında toplanır.",
+      "Hava ile karışmasına grizu denir.",
+      "Bitki artıklarının parçalanması sonucu oluşur."
+    ],
+    "answer": 0,
+    "questionNumber": 641,
+    "questionIndex": 142
+  },
+  {
+    "question": "Aşağıdakilerden hangisi basit boğucu gazlar arasında yer alır?",
+    "options": [
+      "Hidrojen siyanür",
+      "Karbondioksit",
+      "Hidrojen sülfat",
+      "Karbon monoksit"
+    ],
+    "answer": 0,
+    "questionNumber": 642,
+    "questionIndex": 143
+  },
+  {
+    "question": "Aşağıdakilerden hangisi kimyasal boğucu gazlar arasında yer alır?",
+    "options": [
+      "Hidrojen",
+      "Metan",
+      "Etan",
+      "Hidrojen sülfür"
+    ],
+    "answer": 0,
+    "questionNumber": 643,
+    "questionIndex": 144
+  },
+  {
+    "question": "Yanıcı ve patlayıcı bir gaz olan metanın konsantrasyonu % kaçın altında ise patlamaolmaz ve sadece yanar?",
+    "options": [
+      "5",
+      "7",
+      "9",
+      "11"
+    ],
+    "answer": 0,
+    "questionNumber": 644,
+    "questionIndex": 145
+  },
+  {
+    "question": "Metan gazının tehlikesiz sayılabilecek konsantrasyonu % kaçtır?",
+    "options": [
+      "10",
+      "1",
+      "4",
+      "7"
+    ],
+    "answer": 0,
+    "questionNumber": 645,
+    "questionIndex": 146
+  },
+  {
+    "question": "Bir atmosferin havasının \"oksijeni az\" olarak değerlendirilmesi için atmosferdeki oksijenmiktarı en az % kaç olmalıdır?",
+    "options": [
+      "19,5",
+      "18",
+      "20",
+      "17"
+    ],
+    "answer": 0,
+    "questionNumber": 646,
+    "questionIndex": 147
+  },
+  {
+    "question": "Karbon monoksit için aşağıdakilerden hangisi yanlıştır",
+    "options": [
+      "Renksiz bir gazdır.",
+      "Havadan hafiftir.",
+      "Patlayıcı değildir.",
+      "Zehirli bir gazdır."
+    ],
+    "answer": 0,
+    "questionNumber": 647,
+    "questionIndex": 148
+  },
+  {
+    "question": "Kana oksijen taşıyan hemoglobin hücrelerinin (kırmızı kan hücreleri) karbon monoksiteolan eğilimi, oksijene göre yaklaşık kaç kez daha fazladır?",
+    "options": [
+      "300",
+      "200",
+      "400",
+      "100"
+    ],
+    "answer": 0,
+    "questionNumber": 648,
+    "questionIndex": 149
+  },
+  {
+    "question": "\"Parlayıcı, Patlayıcı, Zararlı ve Tehlikeli Maddelerle Çalışılan İşyerlerinde AlınacakTedbirler Hakkında Tüzük\"e göre, karbon monoksit için çalışma ortamında bulunmasınamüsaade edilen azami miktarı (maksimum) ne kadardır?",
+    "options": [
+      "30 ppm",
+      "40 ppm",
+      "20 ppm",
+      "50 ppm"
+    ],
+    "answer": 0,
+    "questionNumber": 649,
+    "questionIndex": 150
+  },
+  {
+    "question": "1000 ppm'in yüzde (%) karşılığı nedir?",
+    "options": [
+      "1",
+      "0,001",
+      "0,01",
+      "0,1"
+    ],
+    "answer": 0,
+    "questionNumber": 650,
+    "questionIndex": 151
+  },
+  {
+    "question": "Aşağıdakilerden hangisi sonucunda karbon monoksit oluşmaz?",
+    "options": [
+      "Nefes alıp-verme",
+      "İçten yanmalı motorların çalışması",
+      "Plastiklerin yanması",
+      "Yangın"
+    ],
+    "answer": 0,
+    "questionNumber": 651,
+    "questionIndex": 152
+  },
+  {
+    "question": "Normal havada bulunan nitrojen miktarı % ne kadardır?",
+    "options": [
+      "58",
+      "68",
+      "78",
+      "88"
+    ],
+    "answer": 0,
+    "questionNumber": 652,
+    "questionIndex": 153
+  },
+  {
+    "question": "Amonyak için aşağıdakilerden hangisi doğrudur?",
+    "options": [
+      "bir kokusu vardır.",
+      "Solunum sisteminde felce neden olabilir.",
+      "Maruz kalma limit değeri karbon monoksitin limit değerinden düşüktür.",
+      "% 15'i aşan değerlerde patlayıcıdır."
+    ],
+    "answer": 0,
+    "questionNumber": 653,
+    "questionIndex": 154
+  },
+  {
+    "question": "Aşağıdakilerden hangisi bir atmosferin patlamasına neden olabilecek kritik faktörlerbiridir?",
+    "options": [
+      "Oksijen konsantrasyonu",
+      "Toz olup olmaması",
+      "Patlayıcı gaz olup olmaması",
+      "Hepsi"
+    ],
+    "answer": 0,
+    "questionNumber": 654,
+    "questionIndex": 155
+  },
+  {
+    "question": "Aşağıdakilerden hangisi kapalı alanlarda zehirli atmosfer oluşumuna neden olabilir?",
+    "options": [
+      "Kapalı alanda yapılan kaynak işleri",
+      "Hepsi",
+      "Kapalı alanda depolanan maddeler",
+      "Kapalı alanda yapılan boyama işleri"
+    ],
+    "answer": 0,
+    "questionNumber": 655,
+    "questionIndex": 156
+  },
+  {
+    "question": "Aşağıdakilerden hangisi kapalı alanlarda bulunabilecek tehlikelerden biridir?",
+    "options": [
+      "Patlayıcı veya zehirli atmosfer",
+      "Oksijen konsantrasyonu düşük veya yüksek atmosfer",
+      "Hepsi",
+      "Gürültü, sıcaklık veya kaygan yüzeyler"
+    ],
+    "answer": 0,
+    "questionNumber": 656,
+    "questionIndex": 157
+  },
+  {
+    "question": "Filtre tipi solunum cihazlarının kullanılabileceği en düşük oksijen oranı % kaçtır?",
+    "options": [
+      "21,5",
+      "19,5",
+      "20",
+      "17"
+    ],
+    "answer": 0,
+    "questionNumber": 657,
+    "questionIndex": 158
+  },
+  {
+    "question": "Aşağıdakilerden hangisi ekranlı araçlarla çalışmada görülen zorlayıcı travmalardanbiridir?",
+    "options": [
+      "Ağır yük taşıma",
+      "Kas gücünün aşırı kullanımı",
+      "Yükseğe malzeme kaldırma",
+      "Solunum yolları tahrişi"
+    ],
+    "answer": 0,
+    "questionNumber": 658,
+    "questionIndex": 159
+  },
+  {
+    "question": "Aşağıdakilerden hangisi ekranlı araçlarla çalışmada görülen zorlayıcı travmalardan birideğildir?",
+    "options": [
+      "Uygun olmayan duruş biçimi",
+      "Göz yorgunluğu",
+      "Toz ve gazların neden olduğu olumsuzlukların tümü",
+      "Isı, nem ve aydınlatmanın neden olduğu olumsuzluklarının tümü"
+    ],
+    "answer": 0,
+    "questionNumber": 659,
+    "questionIndex": 160
+  },
+  {
+    "question": "Aşağıdakilerden hangisi çalışma merkezi donanımları arasında değildir?",
+    "options": [
+      "Masa",
+      "El aleti",
+      "Telefon",
+      "Monitör"
+    ],
+    "answer": 0,
+    "questionNumber": 660,
+    "questionIndex": 161
+  },
+  {
+    "question": "Aşağıdakilerden hangisi ekranlı araçlarla çalışanlara verilecek eğitimlerle ilgili değildir?",
+    "options": [
+      "Her yıl en az 6 saat verilmelidir.",
+      "İşe başlamadan önce verilmelidir.",
+      "Çalışma koşullarında önemli değişikli olduğunda verilmelidir.",
+      "Periyodik olarak tekrarlanmalıdır."
+    ],
+    "answer": 0,
+    "questionNumber": 661,
+    "questionIndex": 162
+  },
+  {
+    "question": "Aşağıdakilerden hangisi özellikle ekranlı araçlarla çalışanlara verilecek eğitim konuları arasındadır?",
+    "options": [
+      "Kişisel koruyucu donanım kullanma esasları",
+      "İlk yardım temel ilkeleri",
+      "Çalışma sırasında gözleri kısa sürelerle dinlendirme alışkanlığı",
+      "Güvenlik ve sağlık işretleri"
+    ],
+    "answer": 0,
+    "questionNumber": 662,
+    "questionIndex": 163
+  },
+  {
+    "question": "Ekranlı araçlarla çalışanların göz muayenesi hangi durumda yapılmalıdır?",
+    "options": [
+      "İş sağlığı ve güvenliği kurulu karar aldığında",
+      "İş güvenliği uzmanı gerekli gördüğünde",
+      "İşveren istediğinde",
+      "Çalışmaya başlamadan önce"
+    ],
+    "answer": 0,
+    "questionNumber": 663,
+    "questionIndex": 164
+  },
+  {
+    "question": "Ekranlı araçların monitörleri ile ilgili aşağıdakilerden hangisi zorunlu değildir?",
+    "options": [
+      "Karakter kolayca seçilebilecek şekil ve formda olmalıdır.",
+      "Satır ve karakterler arasında yeterli boşluk bulunmalıdır.",
+      "Ekran görüntüsü stabil olmalıdır.",
+      "Düz ve plazma ekran olmalıdır."
+    ],
+    "answer": 0,
+    "questionNumber": 664,
+    "questionIndex": 165
+  },
+  {
+    "question": "Ekranlı araçların klavyeleri ile ilgili aşağıdakilerden hangisi doğru değildir?",
+    "options": [
+      "Operatörün elleri ve kolları için klavyenin önünde yeterli boşluk olacaktır.",
+      "Klavye karakterlerinin yerleri kullanımı kolaylaştıracak şekilde düzenlenmiş olacaktır.",
+      "Klavyeler çalışanların talebi ve isteğine göre olmalıdır.",
+      "Klavyenin rengi mat olacak ve ışığı yansıtmayacaktır."
+    ],
+    "answer": 0,
+    "questionNumber": 665,
+    "questionIndex": 166
+  },
+  {
+    "question": "İşveren, çalışma merkezlerinde, ekranlı araçların kullanımından kaynaklanan zorlayıcıtravmalar ile ilgi aşağıdakilerden hangisini yapmak zorunda değildir?",
+    "options": [
+      "Riskleri ortadan kaldırmak",
+      "Riskleri belirlemek",
+      "Kişisel koruyucu donanım vermek",
+      "Riskleri en aza indirecek önlemleri almak"
+    ],
+    "answer": 0,
+    "questionNumber": 666,
+    "questionIndex": 167
+  },
+  {
+    "question": "Aşağıdakilerden hangisi özellikle ekranlı araçlarla çalışanlara verilecek eğitim konuları arasında değildir?",
+    "options": [
+      "Zorlayıcı travmalar ve korunma yolları",
+      "Ara dinlenmeleri",
+      "Gözlerin korunması",
+      "Ellerin korunması"
+    ],
+    "answer": 0,
+    "questionNumber": 667,
+    "questionIndex": 168
+  },
+  {
+    "question": "Elle taşımadan kaynaklı yaralanma riskleri göz önüne alındığında en hafifyükler hangi seviyede olmalıdır?",
+    "options": [
+      "Dirsek-omuz yüksekliği arasında",
+      "Dirsek-parmak eklemi yüksekliği arasında",
+      "Omuz yüksekliğinden yukarıda",
+      "Parmak eklemi-alt bacak ortası yüksekliği arasında"
+    ],
+    "answer": 0,
+    "questionNumber": 668,
+    "questionIndex": 169
+  },
+  {
+    "question": "Elle taşımadan kaynaklı yaralanma riskleri göz önüne alındığında en ağıryükler hangi seviyede olmalıdır?",
+    "options": [
+      "Alt bacak ortası-parmak eklemi yüksekliği arasında",
+      "Parmak eklemi-dirsek yüksekliği arasında",
+      "Alt bacak ortası yüksekliğinden aşağıda",
+      "Dirsek-omuz yüksekliği arasında"
+    ],
+    "answer": 0,
+    "questionNumber": 669,
+    "questionIndex": 170
+  },
+  {
+    "question": "Aşağıdakilerden hangisi elle taşıma işlerinde bireysel risk faktörleri kapsamına girmez?",
+    "options": [
+      "Uygun olmayan giysi, ayakkabı veya diğer kişisel eşyalar kullanması",
+      "Yeterli ve uygun bilgi ve eğitime sahip olmaması",
+      "Ara ve dinleme süresinin yetersiz olması",
+      "Yapılacak işi yürütmeye fiziki yapının uygun olmaması"
+    ],
+    "answer": 0,
+    "questionNumber": 670,
+    "questionIndex": 171
+  },
+  {
+    "question": "Aşağıda belirtilen özelliklere sahip yüklerden hangisinin elle taşınması halinde sırt ve belincinmesi riski oluşmayabilir?",
+    "options": [
+      "Vücudun eğilmesini veya bükülmesini gerektirmeyen bir konumda ise",
+      "Dengesiz veya içindekiler yer değiştiriyorsa",
+      "Çok ağır ve çok büyükse",
+      "Kaba ve kavranması zor ise"
+    ],
+    "answer": 0,
+    "questionNumber": 671,
+    "questionIndex": 172
+  },
+  {
+    "question": "Aşağıda belirtilen özelliklere sahip çalışma ortamlarından hangisi sırt incinmesi riskiniarttırabilir?",
+    "options": [
+      "Çalışılan yer işi yapmak için yeterli yükseklikte ise",
+      "Sıcaklık, nem veya havalandırma uygun değilse",
+      "Çalışılan yer işi yapmak için yeterli genişlikte ise",
+      "İşyeri tabanında veya çalışılan zeminlerde yüklerin indirilip kaldırılmasını gerektirenseviye farklılıkları yoksa"
+    ],
+    "answer": 0,
+    "questionNumber": 672,
+    "questionIndex": 173
+  },
+  {
+    "question": "Ülkemiz mevzuatında iş kazası hangi kanunda tanımlanmaktadır?",
+    "options": [
+      "5763 sayılı Kanun",
+      "5510 sayılı Kanun",
+      "4857 sayılı Kanun",
+      "818 sayılı Kanun"
+    ],
+    "answer": 0,
+    "questionNumber": 673,
+    "questionIndex": 174
+  },
+  {
+    "question": "Aşağıdakilerden hangisi SGK mevzuatına göre iş kazası değildir?",
+    "options": [
+      "İşçinin görev ile gittiği yerde mesai bittikten sonra yemek yerken meydana gelen LPGpatlaması sonucu yaralanması",
+      "İşçinin işe giderken bindiği dolmuşun bir taksi ile çarpışması sonucu yaralanması",
+      "İşçinin fabrika sınırları dışında kamyondan yük boşaltırken düşüp kolunu kırması",
+      "İşçinin işyerinde öğle tatilinde top oynarken düşüp ayağını kırması"
+    ],
+    "answer": 0,
+    "questionNumber": 674,
+    "questionIndex": 175
+  },
+  {
+    "question": "Aşağıdakilerden hangisi SGK mevzuatına göre iş kazasıdır?",
+    "options": [
+      "İş kazası nedeniyle hastanede tedavi gören işçinin evine giderken bindiği taksinin kazayapması sonucu tekrar yaralanması",
+      "Servis aracından inen işçinin evine gitmek için yolun karşısına geçerken yoldan geçenbaşka bir aracın çarpması sonucu yaralanması",
+      "Yol inşaatında çalışan işçinin yakındaki elma ağacından elma koparırken düşüp ayağını kırması",
+      "İşçinin işyerinde kalp krizi geçirmesi"
+    ],
+    "answer": 0,
+    "questionNumber": 675,
+    "questionIndex": 176
+  },
+  {
+    "question": "Aşağıdakilerden hangisi yaralanmanın cinsine göre sınıflandırılan iş kazalarından biridir?",
+    "options": [
+      "Göze yabancı cisim kaçması",
+      "Zararlı ve tehlikeli maddelere değme sonucu oluşan kazalar",
+      "Göğüs kafesi ve solunum organları yaralanması",
+      "Sürekli iş göremezliğe neden olan kazalar"
+    ],
+    "answer": 0,
+    "questionNumber": 676,
+    "questionIndex": 177
+  },
+  {
+    "question": "Aşağıdakilerden hangisi yaralanmanın ağırlığına göre sınıflandırılan iş kazalarından biri değildir?",
+    "options": [
+      "Ölümle sonuçlanan kazalar",
+      "Ruhsal ve sinirsel tahribat yapan kazalar",
+      "Sürekli iş göremezliğe neden olan kazalar",
+      "Bir günden fazla işten uzaklaşmaya neden olacak kazalar"
+    ],
+    "answer": 0,
+    "questionNumber": 677,
+    "questionIndex": 178
+  },
+  {
+    "question": "SGK istatistiklerine göre ülkemizde ölümlü iş kazaları en çok hangi sektörde olmaktadır?",
+    "options": [
+      "Metal",
+      "İnşaat",
+      "Kimya",
+      "Tekstil"
+    ],
+    "answer": 0,
+    "questionNumber": 678,
+    "questionIndex": 179
+  },
+  {
+    "question": "SGK istatistiklerine göre ülkemizde iş kazaları en çok hangi iş saatinde meydana gelmektedir?",
+    "options": [
+      "İkinci",
+      "Yedinci",
+      "Sekizinci",
+      "Birinci"
+    ],
+    "answer": 0,
+    "questionNumber": 679,
+    "questionIndex": 180
+  },
+  {
+    "question": "Aşağıdakilerden hangisi meslek hastalıklarına ve iş kazalarına neden olan çalışma ortamındaki etmenlerden değildir?",
+    "options": [
+      "Mekanik",
+      "Kişisel",
+      "Kimyasal",
+      "Fiziksel"
+    ],
+    "answer": 0,
+    "questionNumber": 680,
+    "questionIndex": 181
+  },
+  {
+    "question": "Aşağıdakilerden hangisi fiziksel etmendir?",
+    "options": [
+      "Sıkışma",
+      "Duruş bozukluğu",
+      "Gürültü",
+      "Statik iş yükü"
+    ],
+    "answer": 0,
+    "questionNumber": 681,
+    "questionIndex": 182
+  },
+  {
+    "question": "Aşağıdakilerden hangisi kimyasal etmendir?",
+    "options": [
+      "Radyasyon",
+      "Ezilme",
+      "Partikül",
+      "Rutubet"
+    ],
+    "answer": 0,
+    "questionNumber": 682,
+    "questionIndex": 183
+  },
+  {
+    "question": "Aşağıdakilerden hangisi iş kazalarının direkt (doğrudan) nedenlerinden biridir?",
+    "options": [
+      "Kimyasal etmenler",
+      "Tehlikeli durum ve tehlikeli hareketler",
+      "Ergonomik etmenler",
+      "Fiziksel etmenler"
+    ],
+    "answer": 0,
+    "questionNumber": 683,
+    "questionIndex": 184
+  },
+  {
+    "question": "Aşağıdakilerden hangisi iş kazalarının oluşumuna neden olan güvensiz davranışlardan biridir?",
+    "options": [
+      "Makine koruyucularını çıkarma",
+      "Tehlikeli çalışma yöntemi",
+      "Tehlikeli yükseklikte istifleme",
+      "Kontrol ve testleri yapılmamış basınçlı kaplar"
+    ],
+    "answer": 0,
+    "questionNumber": 684,
+    "questionIndex": 185
+  },
+  {
+    "question": "Aşağıdakilerden hangisi iş kazalarının oluşumuna neden olan güvensiz durumlardan biridir?",
+    "options": [
+      "Dalgınlık ve dikkatsizlik",
+      "Koruyucusuz makine ve tezgahlar",
+      "İşe uygun makine kullanmama",
+      "Tehlikeli hızda araç kullanma"
+    ],
+    "answer": 0,
+    "questionNumber": 685,
+    "questionIndex": 186
+  },
+  {
+    "question": "İş kazaları SGK Bölge Müdürlüğü'ne kazadan sonraki kaç iş günü içinde bildirilmelidir?",
+    "options": [
+      "3",
+      "2",
+      "5",
+      "1"
+    ],
+    "answer": 0,
+    "questionNumber": 686,
+    "questionIndex": 187
+  },
+  {
+    "question": "İş kazaları Bölge Çalışma Müdürlüğü'ne kazadan sonraki kaç iş günü içinde bildirilmelidir?",
+    "options": [
+      "2",
+      "5",
+      "3",
+      "1"
+    ],
+    "answer": 0,
+    "questionNumber": 687,
+    "questionIndex": 188
+  },
+  {
+    "question": "İş kazası araştırması yapılırken aşağıdakilerden hangisi tanıklarla görüşmenin amaçları arasında değildir?",
+    "options": [
+      "Diğer tanıkların anlattıklarını doğrulama",
+      "Kazadan nasıl korunulacağı üzerine görüşler edinme",
+      "Kazaya neden olanların tazminat miktarını hesaplama",
+      "Ne olduğunu açıklama ve teyit etme"
+    ],
+    "answer": 0,
+    "questionNumber": 688,
+    "questionIndex": 189
+  },
+  {
+    "question": "İş kazalarının önlenmesi için reaktif yaklaşım nasıl uygulanır?",
+    "options": [
+      "İş kazası olduktan sonra önlem alınır.",
+      "İş kazası olmadan önlem alınır.",
+      "Ergonomik önlem alınır.",
+      "Psikolojik önlem alınır."
+    ],
+    "answer": 0,
+    "questionNumber": 689,
+    "questionIndex": 190
+  },
+  {
+    "question": "İş kazalarının önlenmesi için proaktif yaklaşım nasıl uygulanır?",
+    "options": [
+      "İş kazası olduktan sonra önlem alınır.",
+      "İş kazası olmadan önlem alınır.",
+      "İş kazası raporu hazırlanır.",
+      "İş kazası sonrası analizi yapılır."
+    ],
+    "answer": 0,
+    "questionNumber": 690,
+    "questionIndex": 191
+  },
+  {
+    "question": "İş kazası analizlerinde kullanılan sebep-sonuç diyagramının diğer adı nedir?",
+    "options": [
+      "Grup çalışması",
+      "Beyin fırtınası",
+      "Balık kılçığı tekniği",
+      "Kronominal tekniği"
+    ],
+    "answer": 0,
+    "questionNumber": 691,
+    "questionIndex": 192
+  },
+  {
+    "question": "Kaza nedenleri aşağıdaki ana gruplardan hangisinde incelenmez?",
+    "options": [
+      "Yöntem",
+      "İnsan",
+      "Malzeme",
+      "İşyeri"
+    ],
+    "answer": 0,
+    "questionNumber": 692,
+    "questionIndex": 193
+  },
+  {
+    "question": "Aşağıdakilerden hangisi iş kazası soruşturma adımlarından biri değildir?",
+    "options": [
+      "Hazırlık",
+      "Sonuç ve kanaat",
+      "Ortam ölçümü ve raporlaması",
+      "Önleyici faaliyetler"
+    ],
+    "answer": 0,
+    "questionNumber": 693,
+    "questionIndex": 194
+  },
+  {
+    "question": "Sigortalının (çalışanın) çalıştığı işin niteliğine göre, tekrarlanan sebeplerle veya işinyürütüm şartları nedeniyle meydana gelen, geçici veya kalıcı hastalık, sakatlık, ruhi arızahallerine ne denir?",
+    "options": [
+      "Meslek gücü kaybı",
+      "Meslek hastalığı",
+      "İş hastalığı",
+      "İş kazası"
+    ],
+    "answer": 0,
+    "questionNumber": 694,
+    "questionIndex": 195
+  },
+  {
+    "question": "Aşağıdakilerden hangisi meslek hastalıklarına neden olan çalışma ortamındakietmenlerden değildir?",
+    "options": [
+      "Fizyolojik etmenler",
+      "Fiziksel etmenler",
+      "Biyolojik etmenler",
+      "Kimyasal etmenler"
+    ],
+    "answer": 0,
+    "questionNumber": 695,
+    "questionIndex": 196
+  },
+  {
+    "question": "\"SSK Sağlık İşlemleri Tüzüğü\"ne göre aşağıdakilerden hangisi meslek hastalığı grubundayer almaz?",
+    "options": [
+      "Mesleki bulaşıcı hastalıklar",
+      "Mesleki eklem hastalıkları",
+      "Kimyasal etmenlerle olan meslek hastalıkları",
+      "Mesleki deri hastalıkları"
+    ],
+    "answer": 0,
+    "questionNumber": 696,
+    "questionIndex": 197
+  },
+  {
+    "question": "Madenlerde çalışanların sağlık sorunlarını inceleyen ve \"De Re Metalica\" isimli kitabınyazarı olan hekim aşağıdakilerden hangisidir?",
+    "options": [
+      "Agricola",
+      "Nicander",
+      "Plini",
+      "Ramazzini"
+    ],
+    "answer": 0,
+    "questionNumber": 697,
+    "questionIndex": 198
+  },
+  {
+    "question": "\"Hastamıza ne iş yaptığını sormak zorundayız\" diyen ve işçi sağlığının babası olarak kabul edilen hekim şağıdakilerden hangisidir?",
+    "options": [
+      "Agricola",
+      "Plini",
+      "Ramazzini",
+      "Nicander"
+    ],
+    "answer": 0,
+    "questionNumber": 698,
+    "questionIndex": 199
+  },
+  {
+    "question": "1919'da kurulan Uluslararası Çalışma Örgütü?nün 1919'da imzalanan ilk sözleşmesinin konusu aşağıdakilerden hangisi ile ilgilidir?",
+    "options": [
+      "Maden ocaklarında çalışanlar",
+      "Çocuk işçilerin çalışma koşulları",
+      "İşçilerin sağlık muayeneleri",
+      "Kadın işçilerin gece çalıştırılmaması"
+    ],
+    "answer": 0,
+    "questionNumber": 699,
+    "questionIndex": 200
+  },
+  {
+    "question": "Uluslararası Çalışma Örgütü (ILO) listesine göre meslek hastalıkları kaç grupta değerlendirilmektedir?",
+    "options": [
+      "10",
+      "6",
+      "4",
+      "2"
+    ],
+    "answer": 0,
+    "questionNumber": 700,
+    "questionIndex": 201
+  },
+  {
+    "question": "Uluslararası Çalışma Örgütü (ILO) listesine göre aşağıdakilerden hangisi meslek hastalıkları grubunda yer almaz?",
+    "options": [
+      "Hedef organlarda görülen meslek hastalıkları",
+      "Mesleki kazaların neden olduğu meslek hastalıkları",
+      "Etmenlerin neden olduğu meslek hastalıkları",
+      "Mesleki kanserler"
+    ],
+    "answer": 0,
+    "questionNumber": 701,
+    "questionIndex": 202
+  },
+  {
+    "question": "Ülkemizde meslek hastalıkları listesi hangi mevzuatımızda yer almaktadır?",
+    "options": [
+      "Sosyal Sigorta İşlemleri Yönetmeliği",
+      "İşyeri Sağlık ve Güvenlik Birimleri İle Ortak Sağlık ve Güvenlik Birimleri Hakkında Yönetmelik",
+      "İşçi Sağlığı ve İş Güvenliği Tüzüğü",
+      "Sosyal Sigorta Sağlık İşlemleri Tüzüğü"
+    ],
+    "answer": 0,
+    "questionNumber": 702,
+    "questionIndex": 203
+  },
+  {
+    "question": "Aşağıdakilerden hangisi meslek hastalıkları özelliklerinden biri değildir?",
+    "options": [
+      "Çok değişik klinik tablolar gösterir.",
+      "Çok değişik ten rengine neden olur.",
+      "Çok değişik semptomlar olabilir.",
+      "Çok değişik iş kollarında görülür."
+    ],
+    "answer": 0,
+    "questionNumber": 703,
+    "questionIndex": 204
+  },
+  {
+    "question": "Meslek hastalıkları teşhisi için aşağıdakilerden hangisinin yapılması gerekmez?",
+    "options": [
+      "Rutin laboratuar analizi",
+      "Rutin ücret analizi",
+      "İyi bir mesleki anomnezi alınması",
+      "Sistemik fiziki muayene"
+    ],
+    "answer": 0,
+    "questionNumber": 704,
+    "questionIndex": 205
+  },
+  {
+    "question": "Aşağıdakilerden hangisi ülkemizdeki meslek hastalıkları hastanesi bulunan illerden biri değildir?",
+    "options": [
+      "Kocaeli",
+      "Zonguldak",
+      "İstanbul",
+      "Ankara"
+    ],
+    "answer": 0,
+    "questionNumber": 705,
+    "questionIndex": 206
+  },
+  {
+    "question": "Ülkemizde meslek hastalığı teşhisi koyma yetkisi yasal olarak aşağıdakilerden hangisine aittir?",
+    "options": [
+      "Sağlık Bakanlığı Hastaneleri",
+      "Sosyal Güvenlik Kurumu Hastaneleri",
+      "Çalışma ve Sosyal Güvenlik Bakanlığı Merkezi",
+      "Meslek Hastalıkları Hastanesi"
+    ],
+    "answer": 0,
+    "questionNumber": 706,
+    "questionIndex": 207
+  },
+  {
+    "question": "Aşağıdakilerden hangisi meslek hastalıklarını önleme tedbirleri arasında yer almaz?",
+    "options": [
+      "Kişisel korunma tedbirleri",
+      "İşyerine ait korunma tedbirleri",
+      "Tıbbi korunma tedbirleri",
+      "Kimyasallardan korunma tedbirleri"
+    ],
+    "answer": 0,
+    "questionNumber": 707,
+    "questionIndex": 208
+  },
+  {
+    "question": "Dünya Sağlık Örgütü tarafından yapılan, \"yalnızca bilinen ve kabul edilen meslek hastalıkları değil, fakat oluşmasında ve gelişmesinde çalışma ortamı ve çalışma şeklinin, diğer sebepler arasında önemli bir faktör olduğu hastalıklardır\" tanımı aşağıdakilerden hangisi ile ilgilidir?",
+    "options": [
+      "Meslek kazaları",
+      "Meslek hastalıkları",
+      "İşle ilgili kazalar",
+      "İşle ilgili hastalıklar"
+    ],
+    "answer": 0,
+    "questionNumber": 708,
+    "questionIndex": 209
+  },
+  {
+    "question": "Aşağıdakilerden hangisi işle ilgili hastalıklardan biri değildir?",
+    "options": [
+      "Peptik ülser",
+      "Hipertansiyon",
+      "Pnömokonyoz",
+      "Ruhsal hastalıklar"
+    ],
+    "answer": 0,
+    "questionNumber": 709,
+    "questionIndex": 210
+  },
+  {
+    "question": "İşle ilgili hastalıkların ortaya çıkmasına aşağıdakilerden hangisi rol oynamaz?",
+    "options": [
+      "Ailevi ve genetik faktörler",
+      "Kötü alışkanlıklar",
+      "Yaşam tazı",
+      "Yaş faktörü"
+    ],
+    "answer": 0,
+    "questionNumber": 710,
+    "questionIndex": 211
+  },
+  {
+    "question": "Aşağıdakilerden hangisi kronik karaciğer hastalıklarına neden olan çalışma ortamındaki etmenlerden biri değildir?",
+    "options": [
+      "Amonyak",
+      "Arsenik",
+      "Beyaz fosfor",
+      "Solventler"
+    ],
+    "answer": 0,
+    "questionNumber": 711,
+    "questionIndex": 212
+  },
+  {
+    "question": "Aşağıdakilerden hangisi kronik böbrek hastalıklarına neden olan çalışma ortamındaki etmenlerden biridir?",
+    "options": [
+      "Nitro glikoz",
+      "Karbon sülfür",
+      "Talyum",
+      "Civa"
+    ],
+    "answer": 0,
+    "questionNumber": 712,
+    "questionIndex": 213
+  },
+  {
+    "question": "İşyeri sağlık ve güvenlik birimleri ile ortak sağlık ve güvenlik birimleri aşağıdakilerden hangisini yapmakla yükümlü değildir?",
+    "options": [
+      "Çalışma ortamının gözetimi",
+      "Periyodik makine bakım ve kontrolü",
+      "Kayıt ve istatistik",
+      "İlk yardım ve acil müdahale"
+    ],
+    "answer": 0,
+    "questionNumber": 713,
+    "questionIndex": 214
+  },
+  {
+    "question": "İşyerinde istenen kayıt ve belgelerden 4857 sayılı İş Kanunun 77. maddesine göre yazılı olarak istenen, ayrıca örneği Bakanlık tarafından belirlenen belge aşağıdakilerden hangisidir?",
+    "options": [
+      "İş kazası bildirimi formu",
+      "Risk değerlendirmesi raporu",
+      "Basınçlı kaplara ait kontrol formları",
+      "Acil eylem planı"
+    ],
+    "answer": 0,
+    "questionNumber": 714,
+    "questionIndex": 215
+  },
+  {
+    "question": "Aşağıdaki belgelerden hangisi iş sağlığı ve güvenliği mevzuatında örneği verilmemiş belgelerden biridir?",
+    "options": [
+      "İş güvenliği uzmanlığı sözleşmesi",
+      "İşe giriş sağlık raporları",
+      "İşletme belgesi başvuru ve beyan formu",
+      "İşyerlerinde İSG Kurulları tarafından hazırlanan yönetmelik"
+    ],
+    "answer": 0,
+    "questionNumber": 715,
+    "questionIndex": 216
+  },
+  {
+    "question": "İşyerinde kullanılan kaldırma araçlarının kontrol ve testleri ile ilgili olarak aşağıdakilerden hangisi doğrudur?",
+    "options": [
+      "Her ay periyodik olarak yapılır.",
+      "En az yılda bir defa yapılır ve belgelenmesi gerekir.",
+      "Kullanıldığı sürece her üç ayda bir yapılır ve belgelenmesi gerekir.",
+      "Üç yılda bir defa yapılır."
+    ],
+    "answer": 0,
+    "questionNumber": 716,
+    "questionIndex": 217
+  },
+  {
+    "question": "İş Güvenliği Uzmanlığı Belgesi kaç yıl için geçerlidir?",
+    "options": [
+      "He yıl yenileme kurlarına katılmak kaydıyla yedi yıl geçerlidir.",
+      "Süresiz olarak geçerlidir.",
+      "Bir yıl için geçerli olup, her yıl İş Sağlığı Genel Müdürlüğü tarafından vize ettirilmesi gerekir",
+      "Yedi yıl geçerli olup, yedi yıldan sonra yenileme eğitimlerine katılarak İş Sağlığı Genel Müdürlüğünce yeniden vize yapılır."
+    ],
+    "answer": 0,
+    "questionNumber": 717,
+    "questionIndex": 218
+  },
+  {
+    "question": "Enfraruj ışınlar saçan işlerde çalışan işçilerin özellikle hangi muayeneye tabi tutulması ve belge düzenlenmesi gerekir?",
+    "options": [
+      "Göz muayenesine tabi tutulurlar.",
+      "Kalp muayenesi tabi tutulurlar.",
+      "Solunum ve solunum yolları muayenesine tabi tutulurlar.",
+      "Karaciğer muayenesine tabi tutulurlar."
+    ],
+    "answer": 0,
+    "questionNumber": 718,
+    "questionIndex": 219
+  },
+  {
+    "question": "\"Ağır ve Tehlikeli İşler Yönetmeliği\" aşağıdaki çalışan gruplarından hangileri ile ilgili hükümleri içerir?",
+    "options": [
+      "Alkolikler",
+      "Özürlüler",
+      "Kadınlar",
+      "Erkekler"
+    ],
+    "answer": 0,
+    "questionNumber": 719,
+    "questionIndex": 220
+  },
+  {
+    "question": "Hangi yaş grubundaki işçilerin ağır ve tehlikeli işlerde çalıştırılması yasaktır?",
+    "options": [
+      "17 yaşını doldurmamış",
+      "20 yaşını doldurmamış",
+      "18 yaşını doldurmamış",
+      "16 yaşını doldurmamış"
+    ],
+    "answer": 0,
+    "questionNumber": 720,
+    "questionIndex": 221
+  },
+  {
+    "question": "Aşağıdakilerden hangisi ağır ve tehlikeli işlerde çalışacaklar için yapılması gereken bir yasal zorunluluktur?",
+    "options": [
+      "İlk yardım eğitimi alması",
+      "Sağlık raporu düzenlenmesi",
+      "Kulak koruyucusu takması",
+      "Yangın tatbikatına katılması"
+    ],
+    "answer": 0,
+    "questionNumber": 721,
+    "questionIndex": 222
+  },
+  {
+    "question": "Ağır ve tehlikeli işlerde çalışmasına izin verilen 18 yaşını bitirmemiş genç işçiler için sağlık muayenesi hangi sürede bir yapılmalıdır?",
+    "options": [
+      "6 ayda",
+      "9 ayda",
+      "12 ayda",
+      "3 ayda"
+    ],
+    "answer": 0,
+    "questionNumber": 722,
+    "questionIndex": 223
+  },
+  {
+    "question": "Ağır ve tehlikeli işlerde çalışacak 18 yaşını doldurmuş işçiler için sağlık muayenesi hangi sürede bir yapılmalıdır?",
+    "options": [
+      "3 ay",
+      "9 ay",
+      "6 ay",
+      "12 ay"
+    ],
+    "answer": 0,
+    "questionNumber": 723,
+    "questionIndex": 224
+  },
+  {
+    "question": "Ağır ve tehlikeli işlerde çalışacak işçiler için düzenlenecek sağlık raporları için aşağıdakilerden hangisi doğrudur?",
+    "options": [
+      "İşyeri hekiminden alınmalıdır.",
+      "Dahiliye hekiminden alınmalıdır.",
+      "Aile hekiminden alınmalıdır.",
+      "Sağlık kurulundan alınmalıdır."
+    ],
+    "answer": 0,
+    "questionNumber": 724,
+    "questionIndex": 225
+  },
+  {
+    "question": "Kadınların çalıştırılamayacağı işler hangi yönetmelikte belirtilmiştir?",
+    "options": [
+      "Ağır ve Tehlikeli İşler Yönetmeliği",
+      "İnsan Hakları Yönetmeliği",
+      "Kadın Hakları Yönetmeliği",
+      "Kadınların Çalışamayacağı İşler Yönetmeliği"
+    ],
+    "answer": 0,
+    "questionNumber": 725,
+    "questionIndex": 226
+  },
+  {
+    "question": "Yönetmeliğin EK-I'inde verilen çizelgede yer almayan herhangi bir işin, ağır ve tehlikeli işlerden sayılıp sayılmadığına, hangi Bakanlık karar vermeye yetkilidir?",
+    "options": [
+      "Sağlık Bakanlığı",
+      "Çalışma ve Sosyal Güvenlik Bakanlığı",
+      "Sanayi ve Ticaret Bakanlığı",
+      "Çevre ve Orman Bakanlığı"
+    ],
+    "answer": 0,
+    "questionNumber": 726,
+    "questionIndex": 227
+  },
+  {
+    "question": "İş Yasasının 85. maddesine göre ağır ve tehlikeli işlerde çalışacaklar için aşağıdakilerden hangisi zorunludur?",
+    "options": [
+      "Mesleki eğitim almış olmak",
+      "İlköğrenimi bitirmiş olmak",
+      "Yangın eğitimi almış olmak",
+      "Okuryazar olmak"
+    ],
+    "answer": 0,
+    "questionNumber": 727,
+    "questionIndex": 228
+  },
+  {
+    "question": "İşveren veya vekili, ağır ve tehlikeli işlerde çalıştırdığı işçilerin hangi belgelerinin onaylı örneklerini saklayarak, bunları İş Müfettişlerinin her isteyişinde göstermekle yükümlüdür?",
+    "options": [
+      "Evlenme cüzdanı",
+      "Operatör belgesi",
+      "Ehliyet",
+      "Nüfus cüzdanı"
+    ],
+    "answer": 0,
+    "questionNumber": 728,
+    "questionIndex": 229
+  },
+  {
+    "question": "Aşağıdakilerden hangisi kansorejen madde tanımına uygundur?",
+    "options": [
+      "Solunduğunda, ağız yoluyla alındığında, deriye nüfuz ettiğinde kanser oluşumuna neden olan veya kanser oluşumunu yavaşlatan maddeler",
+      "Solunduğunda, ağız yoluyla alındığında, deriye nüfuz ettiğinde kanser oluşumuna neden olan veya kanser oluşumunu hızlandıran maddeler",
+      "Solunduğunda, ağız yoluyla alındığında, deriye nüfuz ettiğinde kalıtımsal genetik hasarlara yol açmayan maddeler",
+      "Solunduğunda, ağız yoluyla alındığında, deriye nüfuz ettiğinde kalıtımsal genetik hasarlara yol açabilen veya bu etkinin oluşumunu hızlandıran maddeler"
+    ],
+    "answer": 0,
+    "questionNumber": 729,
+    "questionIndex": 230
+  },
+  {
+    "question": "Kanserojen ve mutajen maddelere maruziyet riski bulunan işlerde yapılacak risk değerlendirmesinde aşağıdaki kriterlerden hangisi dikkate alınmaz?",
+    "options": [
+      "Maruziyet miktarı",
+      "Maruziyet şekli",
+      "Maruziyet sayısı",
+      "Maruziyet süresi"
+    ],
+    "answer": 0,
+    "questionNumber": 730,
+    "questionIndex": 231
+  },
+  {
+    "question": "Kanserojen ve mutajen maddelere maruziyet riski bulunan işlerde yapılacak risk değerlendirmesi her durumda en az kaç yılda bir yenilenmelidir?",
+    "options": [
+      "5",
+      "3",
+      "1",
+      "10"
+    ],
+    "answer": 0,
+    "questionNumber": 731,
+    "questionIndex": 232
+  },
+  {
+    "question": "Risk değerlendirmesi ile ilgi esaslar arasında aşağıdakilerden hangisi yoktur?",
+    "options": [
+      "Risk değerlendirmesi yapılırken kanserojen ve mutajen maddelerle çalışmak istemeyenlerin bu isteklerini dikkate almalıdır.",
+      "Risk değerlendirmesinde kanserojen ve mutajen maddelerin, deri yolu da dahil olmak üzere vücuda giriş yollarının tümü dikkate alınmalıdır.",
+      "İşveren, risk değerlendirmesinde kullanılan bilgileri istenmesi halinde yetkili makamlara vermek zorundadır.",
+      "Risk değerlendirmesi beşli matris yöntemi ile yapılmalı ve her yıl tekrarlanmalıdır."
+    ],
+    "answer": 0,
+    "questionNumber": 732,
+    "questionIndex": 233
+  },
+  {
+    "question": "Kansorejen ve mutajen maddelerin kullanımın azaltılması ile ilgili olarak işverenler aşağıdaki kurallardan hangisine uymakla yükümlüdürler?",
+    "options": [
+      "İşveren, kanserojen ve mutajen maddeleri işyeri sınırları dışında özel yapılmış depolardaözel kaplar içinde saklayacaktır.",
+      "İşveren, kanserojen ve mutajen maddeleri aldığı firmaların kalite yönetim sistemine sahip olmalarını isteyecektir.",
+      "İşveren, kanserojen veya mutajen maddelerin değiştirilmesi konusunda yapılan araştırma sonuçlarını, istenmesi halinde herkese vermek zorundadır.",
+      "İşveren, teknik olarak mümkün olduğu hallerde, işçilerin sağlığı ve güvenliği açısından kullanım koşullarında tehlikesiz veya daha az tehlikeli madde, karışım veya proses kullanarak işyerindeki kanserojen veya mutajen maddelerin kullanımını azaltacaktır."
+    ],
+    "answer": 0,
+    "questionNumber": 733,
+    "questionIndex": 234
+  },
+  {
+    "question": "Kanserojen veya mutajen maddelerle yapılan çalışmalarda maruziyetin önlenmesi ve azaltılması için işveren aşağıdakilerden hangisini yapmak zorunda değildir?",
+    "options": [
+      "Kapalı sistemle çalışmanın teknik olarak mümkün olmadığı hallerde çalışanların maruziyeti mümkün olan en az düzeye indirilecektir.",
+      "Çalışanların kanserojen veya mutajen maddelere maruziyeti, Yönetmelik ekinde verilen sınır değerleri aşmayacaktır.",
+      "Yapılan risk değerlendirmesi sonucunda çalışanların sağlığı ve güvenliği yönünden risk bulunduğunun ortaya çıkması halinde çalışanların tehlikeli maddelere maruziyeti önlenecektir.",
+      "İşveren, kanserojen ve mutajen maddelere maruziyeti azaltmak için bu maddelerin kullanımını işyerinde uygun araçlarla yasaklayacaktır."
+    ],
+    "answer": 0,
+    "questionNumber": 734,
+    "questionIndex": 235
+  },
+  {
+    "question": "İşveren kanserojen veya mutajen maddelerin kullanıldığı işlerde aşağıdaki önlemlerden hangisini alacaktır?",
+    "options": [
+      "İşyerinde kullanılacak kanserojen veya mutajen madde miktarı belirlenecek ve yapılan iş için gereken miktardan fazla madde bulundurulacaktır.",
+      "Kanserojen veya mutajen maddelerin kaynağından lokal veya genel havalandırma sistemi veya diğer yöntemlerle çalışılan ortamdan dışarı atılması, halk sağlığı ve çevreye zarar verecek şekilde yapılacaktır.",
+      "Kanserojen veya mutajen maddelere maruz kalan veya kalabilecek işçi sayısı mümkün olan en çok sayıda olacaktır.",
+      "Kanserojen veya mutajen maddelerin çalışma ortamına yayılmasını önlemek veya en aza indirmek için proses tasarımı uygun şekilde yapılacak ve gerekli mühendislik kontrol önlemleri alınacaktır."
+    ],
+    "answer": 0,
+    "questionNumber": 735,
+    "questionIndex": 236
+  },
+  {
+    "question": "İşverenin kanserojen veya mutajen maddelerin kullanıldığı işlerde aşağıdaki önlemlerden hangisini alması doğru değildir?",
+    "options": [
+      "Herhangi bir kaza sonucunda veya beklenmeyen bir şekilde kanserojen veya mutajen maddelerin ortama yayılması halinde, bu durumun erken tespiti için uygun ölçüm sistemleri bulunacaktır.",
+      "Uygun çalışma yöntemleri ve işlemler kullanılacaktır.",
+      "Kanserojen ve mutajen maddelerle çalışan işçilere öncelikle uygun ve CE işaretli kişisel koruyucu donanımlar verecektir.",
+      "Özellikle işyeri tabanı, duvarlar ve diğer yüzeyler düzenli olarak temizlenecek ve hijyen şartları sağlanacaktır."
+    ],
+    "answer": 0,
+    "questionNumber": 736,
+    "questionIndex": 237
+  },
+  {
+    "question": "Yapılan risk değerlendirmesi sonucunda çalışanların sağlığı ve güvenliği yönünden risk bulunduğu saptanan işlerde, Bakanlıkça istendiğinde, işveren aşağıdaki konulardan hangisinde yeterli bilgileri vermek zorunda değildir?",
+    "options": [
+      "İşyerinde kanserojen veya mutajen maddeleri kullanıldığı prosesler ve/veya işlemler ile bu maddelerin kullanılma nedeni",
+      "İkame yapılıp yapılamadığı",
+      "Kanserojen veya mutajen maddeler ve preparatları ile bunları içeren maddelerin işyerinde üretilen ve kullanılan miktarı",
+      "Kullanılan kansorejenmutajen maddelerin malzeme güvenlik bilgi formları"
+    ],
+    "answer": 0,
+    "questionNumber": 737,
+    "questionIndex": 238
+  },
+  {
+    "question": "Çalışanların yüksek düzeyde maruziyetine neden olabilecek beklenmedik bir olay veya kaza halinde aşağıdakilerden hangisi yapılmayacaktır?",
+    "options": [
+      "Koruyucu araç ve gereci bulunmayan işçilerin etkilenmiş alanda çalışmasına izin verilecektir.",
+      "Etkilenmiş alana girecek kişilerin koruyucu giyim eşyası ve solunum cihazı kullanmaları sağlanacaktır. Her bir işçi etkilenmiş alanda mümkün olduğunca kısa süreli çalıştırılacak ve bu durum süreklilik arz etmeyecektir.",
+      "İşveren, çalışanlara durum hakkında derhal bilgi verecektir.",
+      "Etkilenmiş alana, sadece onarım ve diğer zorunlu işleri yapacak kişilerin girmesine izin verilecektir."
+    ],
+    "answer": 0,
+    "questionNumber": 738,
+    "questionIndex": 239
+  },
+  {
+    "question": "İşveren, kanserojen ve mutajen maddelerle kirlenme olasılığı bulunan işlerde aşağıdaki önlemlerden hangisini alacaktır?",
+    "options": [
+      "İşçiler uygun ve yeterli yıkanma yeri, tuvalet ve temizlik malzemesi bulunduracaktır.",
+      "Kanserojen ve mutajen maddelerle kirlenme olasılığı bulunan yerlerde çalışanların sigara içmeleri, yemeleri ve içmeleri sağlanacaktır.",
+      "Çalışanlara, işe özel koruyucu giyim eşyası verilecek ve kendi elbiseleri ile koruyucu giyim eşyalarının ayrı yerlerde saklanması için her çalışana bir elbise dolabı verilecektir.",
+      "Koruyucu araç ve gereçler özel yerlerde ve uygun şartlarda saklanacaktır."
+    ],
+    "answer": 0,
+    "questionNumber": 739,
+    "questionIndex": 240
+  },
+  {
+    "question": "Kansorejen ve mutajen maddelerle çalışan işçilere verilecek bilgi ve talimatlar arasında öncelikle aşağıdakilerden hangisi yoktur?",
+    "options": [
+      "Koruyucu malzeme ve giyim eşyalarının kullanılması",
+      "Sağlığı etkileyebilecek riskler ile sigara içmenin getireceği ek riskler",
+      "İlk yardım temel ilkeleri",
+      "Maruziyeti önlenmek için alınması gerekli önlemler"
+    ],
+    "answer": 0,
+    "questionNumber": 740,
+    "questionIndex": 241
+  },
+  {
+    "question": "İşveren, işçilerin özellikle aşağıda belirtilen hangi konuda bilgi almalarını sağlayacaktır?",
+    "options": [
+      "OHSAS 18001 iş sağlığı ve güvenliği yönetim sistemi",
+      "Kullanılan kansorejen ve mutajen maddelerin fiyatları",
+      "İşverenin koruyucu giyim eşyası ve koruyucu ekipmanın etkinliğini belirleme sorumluluğu saklı kalmak kaydıyla, koruyucu giyim eşyası ve ekipmanın seçimi, giyilmesi ve kullanılmasının çalışanların sağlık ve güvenliği yönünden etkilerinin belirlenmesi",
+      "ISO 9001 kalite yönetim sistemi"
+    ],
+    "answer": 0,
+    "questionNumber": 741,
+    "questionIndex": 242
+  },
+  {
+    "question": "İşçilerin sağlık gözetimine tabi tutulmasında aşağıdakilerden hangisi gözetilmez?",
+    "options": [
+      "Yapılan risk değerlendirmesine göre sağlık ve güvenlik yönünden risk bulunan işlerde çalışanların, sağlık durumlarının gözetim altında tutulması için işyerinde gerekli düzenlemeleri yapacaktır.",
+      "Çalışanlardan birinde kanserojen veya mutajen maddelere maruziyet nedeniyle oluştuğu şüphesi bulunan bir sağlık sorunu görüldüğünde, aynı şekilde maruz kalan diğer kişiler de sağlık gözetiminden geçirileceklerdir.",
+      "Çalışanlara, sadece maruziyet sırasında yapılması gerekli sağlık gözetimi hakkında bilgi verilecektir.",
+      "Sağlık gözetimi, maruziyet başlamadan önce yapılacak ve daha sonra da düzenli aralıklarla sürdürülecektir."
+    ],
+    "answer": 0,
+    "questionNumber": 742,
+    "questionIndex": 243
+  },
+  {
+    "question": "Kanserojen veya mutajen maddelere maruziyet sonucu ortaya çıkan meslek hastalıkları hangi kuruluşa bildirilecektir?",
+    "options": [
+      "Çalışma ve Sosyal Güvenlik Bakanlığı",
+      "Sağlık Bakanlığı",
+      "Meslek Hastalıkları Hastanesi",
+      "Çevre ve Orman Bakanlığı"
+    ],
+    "answer": 0,
+    "questionNumber": 743,
+    "questionIndex": 244
+  },
+  {
+    "question": "Sağlık gözetimi kayıtları ile risk değerlendirmesine göre, çalışanların sağlığı ve güvenliği yönünden riskli olan işlerde çalışanların güncellenmiş listesini ve bunların maruziyet durumlarını belirten kayıtları maruziyetin sona ermesinden sonra en az kaç yıl süre ile saklanacaktır?",
+    "options": [
+      "50",
+      "10",
+      "40",
+      "20"
+    ],
+    "answer": 0,
+    "questionNumber": 744,
+    "questionIndex": 245
+  },
+  {
+    "question": "\"Sanayi, Ticaret, Tarım ve Orman İşlerinden Sayılan İşlere İlişkin Yönetmelik\"inEKI'inde yer alan liste dışında kalan bir işin sanayi, ticaret, tarım ve orman işlerinin hangisi kapsamında sayılacağı hususunda karar vermede hangi bakanlık yetkilidir?",
+    "options": [
+      "Çalışma ve Sosyal Güvenlik Bakanlığı",
+      "Çevre ve Orman Bakanlığı",
+      "İçişleri Bakanlığı",
+      "Sanayi ve Ticaret Bakanlığı"
+    ],
+    "answer": 0,
+    "questionNumber": 745,
+    "questionIndex": 246
+  },
+  {
+    "question": "Aşağıdakilerden hangisi sanayiden sayılan işlerden biridir?",
+    "options": [
+      "Ham, yarı ve tam yapılmış her tür bitkisel, hayvansal veya endüstriyel ürün ve malların alım ve satım işleri",
+      "Depoculuk, ambarcılık, antrepoculuk ve benzeri işler",
+      "Otel, pansiyon, kamp, yurt ve misafirhane gibi konaklama tesislerinde yapılan işler",
+      "Petrol ve doğal gaz arama işleri"
+    ],
+    "answer": 0,
+    "questionNumber": 746,
+    "questionIndex": 247
+  },
+  {
+    "question": "Aşağıdakilerden hangisi sanayiden sayılan işlerden biri değildir?",
+    "options": [
+      "Bitkisel yağların tasfiyesi ve çeşitli işlemlere tabi tutulması işleri",
+      "Apre, boya, yazma ve basmacılık işleri",
+      "Mühendislik, müşavirlik gibi bilgi ve teknolojisi alımı ve satımı işleri",
+      "Soğuk hava tesislerindeki işler"
+    ],
+    "answer": 0,
+    "questionNumber": 747,
+    "questionIndex": 248
+  },
+  {
+    "question": "Aşağıdakilerden hangisi ticaretten sayılan işlerden biridir?",
+    "options": [
+      "Bilimsel araştırma merkezleri ve laboratuarlarda yapılan işler",
+      "Isıtma ve enerji maksadıyla buhar üretim ve dağıtım işleri",
+      "Çöp ve kanalizasyon hizmetleri işleri",
+      "Mücevherat ve kuyumculuk imalat işleri"
+    ],
+    "answer": 0,
+    "questionNumber": 748,
+    "questionIndex": 249
+  },
+  {
+    "question": "Aşağıdakilerden hangisi tarım ve orman işlerinden sayılan işlerden biridir?",
+    "options": [
+      "Suların toplanma, tasfiye, tevzii, arıtım ve su şebekelerinin işletilmesi ve aynı işletme tarafından yapılan bakım ve tamir işleri",
+      "Her türlü iş ve gelir hayvanlarının yetiştirilmesi, üretimi, ıslahı ve bunlarla ilgili bakım, güdüm, terbiye, kırkım, sağım ve ürünlerinin elde edilmesi",
+      "Karada, göl ve akarsularda insan veya eşya ve hayvan taşıma işleri",
+      "Zirai mücadele ilaç bayiliği işleri"
+    ],
+    "answer": 0,
+    "questionNumber": 749,
+    "questionIndex": 250
+  },
+  {
+    "question": "Aşağıdakilerden hangisi çalışma yaşamında risk gruplarından biri değildir?",
+    "options": [
+      "16 yaşından küçük çocuklar",
+      "18 yaşından büyük 40 yaşından küçük işçiler",
+      "Özürlüler",
+      "20 yaşından büyük 30 yaşından küçük genç kızlar"
+    ],
+    "answer": 0,
+    "questionNumber": 750,
+    "questionIndex": 251
+  },
+  {
+    "question": "Yeterli koruma önlemleri alındığında her yaştaki kadın işçiler aşağıdaki işlerden hangisinde çalıştırılabilirler?",
+    "options": [
+      "Buhar, gaz ve sair muharrik kuvvet üretimiyle ilgili işlerde",
+      "Kimyasal gübrelerin üretimi ve depolanması işlerinde",
+      "Muharrik kuvvetle işleyen tam otomatik soğuk şekillendirme tezgahlarında yapılan işlerde",
+      "Piroteknik malzemesi hazırlama ve imali işlerinde"
+    ],
+    "answer": 0,
+    "questionNumber": 751,
+    "questionIndex": 252
+  },
+  {
+    "question": "Aşağıdaki cümlelerden hangisi doğru bir önermedir?",
+    "options": [
+      "Kadın ve genç işçiler bünyelerine uygun olmayan işlerde, sağlık muayenesinden geçirilerek çalıştırılmasına müsaade edilir.",
+      "Çıraklar ve stajyerler kendilerinden sorumlu usta veya formen gözetiminde çalıştırılması zorunludur.",
+      "Genç ve sağlıklı erkek işçilerin işe girişinde sağlık muayenesinden geçmeleri zorunlu değildir.",
+      "14 yaşından küçük çocuk işçilerin işe girişlerinde hekim kontrolünden geçirilerek sağlıklı olduklarının belirlenmesi gerekir."
+    ],
+    "answer": 0,
+    "questionNumber": 752,
+    "questionIndex": 253
+  },
+  {
+    "question": "Risk gruplarından yaşlılar tanımına hangi yaşın üstündekiler girer?",
+    "options": [
+      "30 yaşından daha yaşlı olanlar",
+      "50 yaşından daha yaşlı olanlar",
+      "40 yaşından daha yaşlı olanlar",
+      "60 yaşından daha yaşlı olanlar"
+    ],
+    "answer": 0,
+    "questionNumber": 753,
+    "questionIndex": 254
+  },
+  {
+    "question": "Elli işçiden daha fazla işçi çalıştırılan özel işyerlerinde özürlü çalıştırma oranı ne kadardır?",
+    "options": [
+      "% 2",
+      "% 4",
+      "% 5",
+      "% 3"
+    ],
+    "answer": 0,
+    "questionNumber": 754,
+    "questionIndex": 255
+  },
+  {
+    "question": "Aşağıdaki çalışmalardan hangisi gece çalışması sayılır?",
+    "options": [
+      "Saat 16:00'da başlayıp, saat 19:00 ile 20:00 arasında yemek ve dinlenme arası verilen ve 22:30?a kadar süren çalışmalar",
+      "Saat 11:00'de başlayıp, saat 15:00 ile 16:00 arasında yemek molası verilen ve saat 20:00?ye kadar süren çalışmalar",
+      "Saat 18:00'de başlayıp, saat 20:00 ile 21:00 arası yemek ve dinlenme arası verilen ve saat 24:00?e kadar süren çalışmalar",
+      "Saat 02:30'de başlayıp, saat 06:00 ile 07:00 arası yemek ve dinlenme arası verilen ve saat 11:00?e kadar süren çalışmalar"
+    ],
+    "answer": 0,
+    "questionNumber": 755,
+    "questionIndex": 256
+  },
+  {
+    "question": "Gece çalışmalarında görev yapan işçilerin sağlık muayeneleri en az kaç yılda bir yapılmak zorundadır?",
+    "options": [
+      "Yılda en az iki defa",
+      "Yılda en az bir defa",
+      "Üç yılda en az bir defa",
+      "İki yılda en az bir defa"
+    ],
+    "answer": 0,
+    "questionNumber": 756,
+    "questionIndex": 257
+  },
+  {
+    "question": "Gece çalışmaları en fazla kaç saatle sınırlandırılır?",
+    "options": [
+      "6 saat",
+      "8 saat",
+      "7,5 saat",
+      "8,5 saat"
+    ],
+    "answer": 0,
+    "questionNumber": 757,
+    "questionIndex": 258
+  },
+  {
+    "question": "İş Kanununa göre çalışma hayatında \"gece\" tanımı saat kaçta başlayıp saat kaça kadar süren ve en fazla kaç saat süren bir dönemdir?",
+    "options": [
+      "En erken saat 21.00'de başlayarak en geç saat 05.00'e kadar geçen ve her halde en fazla dokuz saat süren dönemdir.",
+      "En erken saat 20.00'de başlayarak en geç saat 06.00'ya kadar geçen ve her halde en fazla on saat süren dönemdir.",
+      "En geç saat 18.00'de başlayarak en erken saat 07.00'ye kadar geçen ve her halde en fazla on iki saat süren dönemdir.",
+      "En geç saat 20.00?de başlayarak en erken saat 06.00'ya kadar geçen ve her halde en fazla on bir saat süren dönemdir."
+    ],
+    "answer": 0,
+    "questionNumber": 758,
+    "questionIndex": 259
+  },
+  {
+    "question": "İş Kanununa göre gece postaları, durmaksızın birbiri ardına postalar halinde işçi çalıştırılarak yürütülen işlerde 24 saatlik süre içinde en az kaç posta çalıştırılacak şekilde düzenlenir?",
+    "options": [
+      "En az iki posta çalıştırılacak şekilde düzenlenir.",
+      "En az beş posta çalıştırılacak şekilde düzenlenir.",
+      "En az üç posta çalıştırılacak şekilde düzenlenir.",
+      "En az dört posta çalıştırılacak şekilde düzenlenir"
+    ],
+    "answer": 0,
+    "questionNumber": 759,
+    "questionIndex": 260
+  },
+  {
+    "question": "Açık arazide çalışmalara başlamadan önce iş sağlığı ve güvenliği yönünden aşağıdakilerden hangisinin yapılması gerekir?",
+    "options": [
+      "İyi bir planlama",
+      "Çalışma mahalline ilk önce elektrik enerjisinin sağlanması",
+      "Çevre şartlarını dikkate almadan yerleşmenin sağlanması",
+      "Makine ve ekipmanın önceden yerleştirilmesi"
+    ],
+    "answer": 0,
+    "questionNumber": 760,
+    "questionIndex": 261
+  },
+  {
+    "question": "Aşağıdakilerden hangisi açık arazide yapılacak çalışmaların planlamasında göz önünde tutulması gereken konulardan biri değildir?",
+    "options": [
+      "Kamu işyerlerine olan uzaklık",
+      "Meteoroloji",
+      "Yüksek gerilim enerji nakil hatları",
+      "Haberleşme"
+    ],
+    "answer": 0,
+    "questionNumber": 761,
+    "questionIndex": 262
+  },
+  {
+    "question": "Yerleşim yerlerinden uzak açık alanlarda yapılan çalışmalarda sahanın hazırlanmasında aşağıda belirtilenlerden hangisinin yapılması gerekir?",
+    "options": [
+      "Hepsi",
+      "Yollar",
+      "Gerekirse helikopter pisti",
+      "Kamp alanı"
+    ],
+    "answer": 0,
+    "questionNumber": 762,
+    "questionIndex": 263
+  },
+  {
+    "question": "Yerleşim yerlerinden uzak açık alanlarda yapılan çalışmalarda kamp alanlarının hazırlanmasında hangi hususa dikkat edilmesi gerekir?",
+    "options": [
+      "Kamp alanı, faaliyet için önceden izin alınmış bir alanda olmamalıdır.",
+      "Kamp alanı, doğal drenaj kanallarını kesecek bir konumda olmamalıdır.",
+      "Kamp alanı, mümkün olduğunca geniş tutulmalıdır.",
+      "Kamp alanı, içinde araç kullanımı mümkün olduğunca çok olacak şekilde planlanmalıdır."
+    ],
+    "answer": 0,
+    "questionNumber": 763,
+    "questionIndex": 264
+  },
+  {
+    "question": "100 kişinin çalıştığı yerleşim yerlerinden uzak açık alanlarda yapılan çalışmalarda aşağıda belirtilen hususlardan hangisi mevzuat hükümlerine uygundur?",
+    "options": [
+      "Her 30 erkek işçi için bir kabin ve pisuar, her 25 kadın işçi için de en az bir tuvalet kabininin yapılması",
+      "Her 50 erkek ve her 50 kadın işçi için bir adet olmak üzere tuvalet kabinlerinin yapılması",
+      "Her 20 erkek ve her 20 kadın işçi için bir adet olmak üzere tuvalet kabinlerinin yapılması",
+      "Her 40 erkek ve her 40 kadın işçi için bir adet olmak üzere tuvalet kabinlerinin yapılması"
+    ],
+    "answer": 0,
+    "questionNumber": 764,
+    "questionIndex": 265
+  },
+  {
+    "question": "Aşağıdakilerden hangisi süre ile sınırlı ve tekrarlayıcı işlerin yol açtığı nevrozlardan biri değildir?",
+    "options": [
+      "Uyku bozuklukları",
+      "Anemi rahatsızlığı",
+      "Mizaç bozuklukları",
+      "Sinirsel yorgunluk sendromu"
+    ],
+    "answer": 0,
+    "questionNumber": 765,
+    "questionIndex": 266
+  },
+  {
+    "question": "İş güvenliği kavramı içeriğinde aşağıdakilerden hangisini yoktur?",
+    "options": [
+      "Çalışanların korunması",
+      "Üretimin korunması",
+      "İşletmenin korunması",
+      "Ekonominin korunması"
+    ],
+    "answer": 0,
+    "questionNumber": 766,
+    "questionIndex": 267
+  },
+  {
+    "question": "İş kazaların % 10 u aşağıdakilerden hangisinden dolayı olmaktadır?",
+    "options": [
+      "Tehlikeli hareket",
+      "Tehlikeli durum",
+      "Dalgınlık",
+      "Dikkatsizlik"
+    ],
+    "answer": 0,
+    "questionNumber": 767,
+    "questionIndex": 268
+  },
+  {
+    "question": "Aşağıdakilerden hangisi iş sağlığı ve güvenliği yönetim sisteminin amaçlarından biri değildir?",
+    "options": [
+      "Üretim güvenliğini sağlamak",
+      "Çalışanı korumak",
+      "İşletme güvenliğini sağlamak",
+      "Kaliteli ürün üretmek"
+    ],
+    "answer": 0,
+    "questionNumber": 768,
+    "questionIndex": 269
+  },
+  {
+    "question": "Oksijen tüplerinin ventili aşağıdaki maddelerden hangi ile temas etmemelidir?",
+    "options": [
+      "Yağ",
+      "Su",
+      "Kağıt",
+      "Toz"
+    ],
+    "answer": 0,
+    "questionNumber": 769,
+    "questionIndex": 270
+  },
+  {
+    "question": "Yeterli koruma önlemleri alındığında her yaştaki kadın işçiler aşağıdaki işlerden hangisinde çalıştırılabilirler?",
+    "options": [
+      "Piroteknik malzemesi hazırlama ve imali işlerinde",
+      "Buhar, gaz ve sair muharrik kuvvet üretimiyle ilgili işlerde",
+      "Muharrik kuvvetle işleyen tam otomatik soğuk şekillendirme tezgahlarında yapılan işlerde",
+      "Kimyasal gübrelerin üretimi ve depolanması işlerinde"
+    ],
+    "answer": 0,
+    "questionNumber": 770,
+    "questionIndex": 271
+  },
+  {
+    "question": "İş sağlığı ve güvenliği kurulu kurulması için işçi sayısının tespit edilmesindeaşağıdakilerden hangisi esas alınır?",
+    "options": [
+      "Asıl işverene ve bir alt işverene ait işçi sayısı",
+      "İşyerinde çalışan işçilerin tamamı",
+      "İşi ihale eden kurumdaki çalışan işçisayısı",
+      "İşverene ait işçi sayısı"
+    ],
+    "answer": 0,
+    "questionNumber": 771,
+    "questionIndex": 272
+  },
+  {
+    "question": "NFPA Tehlike İşaretleme Sistemine göre mavi renk hangi anlama gelmektedir?",
+    "options": [
+      "Yanıcılık",
+      "Hepsi",
+      "Reaktivite",
+      "Sağlık"
+    ],
+    "answer": 0,
+    "questionNumber": 772,
+    "questionIndex": 273
+  },
+  {
+    "question": "Aşağıdaki iş sözleşmelerinden hangisi yazılı şekle tabi değildir?",
+    "options": [
+      "Ödünç iş sözleşmesi",
+      "Çağrı üzerine yapılan iş sözleşmesi",
+      "Toplu iş sözleşmesi",
+      "Takım sözleşmesi"
+    ],
+    "answer": 0,
+    "questionNumber": 773,
+    "questionIndex": 274
+  },
+  {
+    "question": "Madenlerde çalışanların sağlık sorunlarını inceleyen ve \"De Re Metalica\" isimli kitabınyazarı olan hekim aşağıdakilerden hangisidir?",
+    "options": [
+      "Nicander",
+      "Agricola",
+      "Plini",
+      "Ramazzini"
+    ],
+    "answer": 0,
+    "questionNumber": 774,
+    "questionIndex": 275
+  },
+  {
+    "question": "Aşağıdakilerden hangisi elektrikle çalışmalarda alınacak genel güvenlik önlemleriarasındadır?",
+    "options": [
+      "Elektrik devresi üzerinde 30 mA değerinde kaçak akım rölesi kullanmak",
+      "Yüksek gerilimli çıplak iletkenlerin bulunduğu mahalde topraklaması yapılmış metalçubuklarla çalışmak",
+      "Elektrik devresi üzerinde uygun nitelikte diyot kullanmak",
+      "Elektrik devresi üzerinde 16 A değerinde sigorta kullanmak"
+    ],
+    "answer": 0,
+    "questionNumber": 775,
+    "questionIndex": 276
+  },
+  {
+    "question": "Yapı işlerinde çalışan işçiler hangi eğitimi almış olmalıdır?",
+    "options": [
+      "Okuryazar",
+      "İlköğrenim",
+      "Mesleki eğitim",
+      "Yüksek okul"
+    ],
+    "answer": 0,
+    "questionNumber": 776,
+    "questionIndex": 277
+  },
+  {
+    "question": "Sodyum ile su temas ederse hangi gaz ortaya çıkar?",
+    "options": [
+      "Metan",
+      "Hidrojen",
+      "Azot",
+      "Asetilen"
+    ],
+    "answer": 0,
+    "questionNumber": 777,
+    "questionIndex": 278
+  },
+  {
+    "question": "Çelik boru iskelelerde boru ekleri en çok kaç metrede bir yapılacaktır?",
+    "options": [
+      "8",
+      "7",
+      "6",
+      "5"
+    ],
+    "answer": 0,
+    "questionNumber": 778,
+    "questionIndex": 279
+  },
+  {
+    "question": "\"Ağır ve Tehlikeli İşler Yönetmeliği\" aşağıdaki çalışan gruplarından hangileri ile ilgilihükümleri içerir?",
+    "options": [
+      "Özürlüler",
+      "Erkekler",
+      "Alkolikler",
+      "Kadınlar"
+    ],
+    "answer": 0,
+    "questionNumber": 779,
+    "questionIndex": 280
+  },
+  {
+    "question": "Aşağıdakilerden hangisi işçi sağlığının kurucusu olarak bilinir?",
+    "options": [
+      "Ramazzini",
+      "Agricola",
+      "Paraselsus",
+      "Nicander"
+    ],
+    "answer": 0,
+    "questionNumber": 780,
+    "questionIndex": 281
+  },
+  {
+    "question": "Aşağıdakilerden hangisi temel etik ve ilkeler açısından olumsuz davranış türüdür?",
+    "options": [
+      "Görevi dışında iş yapmak",
+      "Bilgilerini paylaşmamak",
+      "Ayrımcılık yapmak",
+      "İş arkadaşlarına yardım etmemek"
+    ],
+    "answer": 0,
+    "questionNumber": 781,
+    "questionIndex": 282
+  },
+  {
+    "question": "İşyeri binalarında tehlike çıkışları aşağıdakilerden hangisine uygun olmak zorundadeğildir?",
+    "options": [
+      "Yapının çatısına",
+      "Yapının yüksekliğine",
+      "Yapının kullanım sınıfına",
+      "Kullanıcı yüküne"
+    ],
+    "answer": 0,
+    "questionNumber": 782,
+    "questionIndex": 283
+  },
+  {
+    "question": "Ahşap seyyar merdivenlerin uzunluğu kaç metreyi geçmeyecektir?",
+    "options": [
+      "6",
+      "8",
+      "2",
+      "4"
+    ],
+    "answer": 0,
+    "questionNumber": 783,
+    "questionIndex": 284
+  },
+  {
+    "question": "İşyerlerinde işçilerin daimi olarak çalıştırıldığı yerlerin tavan yüksekliği en az kaç metreolmalıdır?",
+    "options": [
+      "3",
+      "4",
+      "7",
+      "5"
+    ],
+    "answer": 0,
+    "questionNumber": 784,
+    "questionIndex": 285
+  },
+  {
+    "question": "İş sağlığı ve güvenliği kurulunun sekteri aşağıdakilerden hangisidir?",
+    "options": [
+      "Sendika temsilcisi",
+      "İşyeri hekimi",
+      "İş güvenliği uzmanı",
+      "İşveren vekili"
+    ],
+    "answer": 0,
+    "questionNumber": 785,
+    "questionIndex": 286
+  },
+  {
+    "question": "İnsan, araç - gereç, çevre koşullarının etkileşimini inceleyen ve bu etkileşmeyle ortayaçıkan fiziksel ve psikososyal sorunların azaltılması ve engellenmesi için çalışan bilim dalıaşağıdakilerden hangisidir?",
+    "options": [
+      "İşçi sağlığı",
+      "Ergonomi",
+      "İş güvenliği",
+      "Psikoloji"
+    ],
+    "answer": 0,
+    "questionNumber": 786,
+    "questionIndex": 287
+  },
+  {
+    "question": "\"Kuruluşun, yasal zorunluluklara ve kendi iş sağlığı ve güvenliği politikasına göre,tahammül edebileceği düzeye indirilmiş risk\" ifadesi aşağıdakilerden hangisinitanımlamaktadır?",
+    "options": [
+      "Risk",
+      "Tehlike",
+      "Kabul edilebilir risk",
+      "Risk değerlendirme"
+    ],
+    "answer": 0,
+    "questionNumber": 787,
+    "questionIndex": 288
+  },
+  {
+    "question": "İşçilere verilecek iş sağlığı ve güvenliği hizmetleri ile ilgi aşağıdakilerden hangisi doğrudeğildir?",
+    "options": [
+      "Eğitimlere katılanlara fazla mesai ücreti verilir.",
+      "Eğitimlerde geçen süre çalışma süresinden sayılır.",
+      "Eğitimler işçilere mali yük getirmemelidir.",
+      "Eğitimler dinlenme süreleri dışında düzenlenir."
+    ],
+    "answer": 0,
+    "questionNumber": 788,
+    "questionIndex": 289
+  },
+  {
+    "question": "Elektriğin tanımı aşağıdakilerden hangisidir?",
+    "options": [
+      "Bir madde atomundaki elektronların, kendi atom çekirdeği etrafındaki hareketine elektrikdenir.",
+      "Durağan veya devingen yüklü parçacıkların yol açtığı fiziksel bir olgudur.",
+      "Ses dalgasının metaller içerisinde yayılmasına elektrik denir.",
+      "Sabit bir mıknatısın metalleri çekmesine elektrik denir."
+    ],
+    "answer": 0,
+    "questionNumber": 789,
+    "questionIndex": 290
+  },
+  {
+    "question": "Aşağıdakilerden hangisi açık arazide yapılacak çalışmaların planlamasında göz önündetutulması gereken konulardan biri değildir?",
+    "options": [
+      "Kamu işyerlerine olan uzaklık",
+      "Meteoroloji",
+      "Haberleşme",
+      "Yüksek gerilim enerji nakil hatları"
+    ],
+    "answer": 0,
+    "questionNumber": 790,
+    "questionIndex": 291
+  },
+  {
+    "question": "\"Sanayi ve Ticarette İş Teftişi İle İlgili Uluslararası Çalışma Sözleşmesi\" kaç sayılı ILOsözleşmesidir?",
+    "options": [
+      "116",
+      "81",
+      "102",
+      "91"
+    ],
+    "answer": 0,
+    "questionNumber": 791,
+    "questionIndex": 292
+  },
+  {
+    "question": "İş kazası analizlerinde kullanılan sebep-sonuç diyagramının diğer adı nedir?",
+    "options": [
+      "Balık kılçığı tekniği",
+      "Kronominal tekniği",
+      "Beyin fırtınası",
+      "Grup çalışması"
+    ],
+    "answer": 0,
+    "questionNumber": 792,
+    "questionIndex": 293
+  },
+  {
+    "question": "Aşağıdakilerden hangisi tehlikeli hareketlerden biri değildir?",
+    "options": [
+      "Alet ve makineleri tehlikeli şekilde kullanma",
+      "Emniyetsiz yükleme, taşıma ve istifleme",
+      "Bakımsız makina",
+      "Emniyetsiz vaziyet alma"
+    ],
+    "answer": 0,
+    "questionNumber": 793,
+    "questionIndex": 294
+  },
+  {
+    "question": "Aşağıdakilerden hangisi gürültü maruziyeti en yüksek maruziyet etkin değerlerineulaştığında yada bu değerleri aştığında işveren tarafından alınacak önlemlerden değildir?",
+    "options": [
+      "Kişisel koruyucu kullandırılması",
+      "Gürültü kaynağının izole edilmesi",
+      "Gürültüye maruz kalan işçiye fazla mesai ödenmesi",
+      "Gürültünün kaynağında kesilmesi"
+    ],
+    "answer": 0,
+    "questionNumber": 794,
+    "questionIndex": 295
+  },
+  {
+    "question": "Aşağıda belirtilen özelliklere sahip çalışma ortamlarından hangisi sırt incinmesi riskiniarttırabilir?",
+    "options": [
+      "Çalışılan yer işi yapmak için yeterli yükseklikte ise",
+      "İşyeri tabanında veya çalışılan zeminlerde yüklerin indirilip kaldırılmasını gerektirenseviye farklılıkları yoksa",
+      "Sıcaklık, nem veya havalandırma uygun değilse",
+      "Çalışılan yer işi yapmak için yeterli genişlikte ise"
+    ],
+    "answer": 0,
+    "questionNumber": 795,
+    "questionIndex": 296
+  },
+  {
+    "question": "Ülkemizde ölüm ile sonuçlanan iş kazalarının en fazla olduğu sektör hangisidir?",
+    "options": [
+      "Tekstil",
+      "İnşaat",
+      "Metal",
+      "Maden"
+    ],
+    "answer": 0,
+    "questionNumber": 796,
+    "questionIndex": 297
+  },
+  {
+    "question": "İş hukukunda daha çok hangi tür kurallar yer alır?",
+    "options": [
+      "Mutlak emredici kurallar",
+      "Tanımlayıcı kurallar",
+      "Nisbi emredici kurallar",
+      "Tamamlayıcı kurallar"
+    ],
+    "answer": 0,
+    "questionNumber": 797,
+    "questionIndex": 298
+  },
+  {
+    "question": "Acil durum ekiplerinin alması gereken eğitim konuları arasında aşağıdakilerden hangisiyoktur?",
+    "options": [
+      "Bina ve tesis çalışanları için depremden korunma ve davranış eğitimi",
+      "İş kazaları ve meslek hastalıkları eğitimi",
+      "Ofis çalışanları yangın ve deprem eğitimi",
+      "Tehlikeli kimyasallar, depolama, kullanma, korunma ve taşıma eğitimi"
+    ],
+    "answer": 0,
+    "questionNumber": 798,
+    "questionIndex": 299
+  },
+  {
+    "question": "İş güvenliği uzmanlığı eğitimleri teorik ve uygulama olmak üzere toplam kaç saatten azolamaz?",
+    "options": [
+      "220",
+      "160",
+      "300",
+      "180"
+    ],
+    "answer": 0,
+    "questionNumber": 799,
+    "questionIndex": 300
+  },
+  {
+    "question": "Hangi yaş grubundaki işçilerin ağır ve tehlikeli işlerde çalıştırılması yasaktır?",
+    "options": [
+      "18 yaşını doldurmamış",
+      "16 yaşını doldurmamış",
+      "20 yaşını doldurmamış",
+      "17 yaşını doldurmamış"
+    ],
+    "answer": 0,
+    "questionNumber": 800,
+    "questionIndex": 301
+  },
+  {
+    "question": "İşyeri sağlık ve güvenlik birimleri ile ortak sağlık ve güvenlik birimlerinin görevleriarasında aşağıdakilerden hangisi yoktur?",
+    "options": [
+      "İşçilerin sağlık gözetimi",
+      "Çalışma ortamının gözetimi",
+      "Yangın alarm ve tatbikatı",
+      "Eğitim, danışmanlık ve bilgilendirme"
+    ],
+    "answer": 0,
+    "questionNumber": 801,
+    "questionIndex": 302
+  },
+  {
+    "question": "Aşağıdaki belgelerden hangisi iş sağlığı ve güvenliği mevzuatında örneği verilmemişbelgelerden biridir?",
+    "options": [
+      "İş güvenliği uzmanlığı sözleşmesi",
+      "İşe giriş sağlık raporları",
+      "İşyerlerinde İSG Kurulları tarafından hazırlanan yönetmelik",
+      "İşletme belgesi başvuru ve beyan formu"
+    ],
+    "answer": 0,
+    "questionNumber": 802,
+    "questionIndex": 303
+  },
+  {
+    "question": "Kanun çıkarmaya yetkili olan organ aşağıdakilerden hangisidir?",
+    "options": [
+      "TBMM",
+      "Bakanlar Kurulu",
+      "Bakanlıklar",
+      "Başbakanlık"
+    ],
+    "answer": 0,
+    "questionNumber": 803,
+    "questionIndex": 304
+  },
+  {
+    "question": "Aşağıdakilerden hangisi mahfazaların ve koruma tertibatlarının temel özelliklerinden birideğildir?",
+    "options": [
+      "Üretim işleminin izlenmesine asgari engel olmalı",
+      "Tehlike bölgesinden yeterli uzaklığa yerleştirilmeli",
+      "İlave herhangi bir tehlike ortaya çıkarmamalı",
+      "Kolayca devreden çıkarılmalı veya kolayca by-pass edilmeli"
+    ],
+    "answer": 0,
+    "questionNumber": 804,
+    "questionIndex": 305
+  },
+  {
+    "question": "Grizu patlama alt sınırı aşağıdakilerden hangisidir?",
+    "options": [
+      "% 2",
+      "% 4",
+      "% 1",
+      "% 3"
+    ],
+    "answer": 0,
+    "questionNumber": 805,
+    "questionIndex": 306
+  },
+  {
+    "question": "İnsanlar hangi frekans aralığındaki titreşimleri algılayabilirler?",
+    "options": [
+      "1 kHz ile 10 kHz",
+      "0,01 Hz ile 0,1 Hz",
+      "0,1 Hz ile 1 Hz",
+      "1 Hz ile 1 kHz"
+    ],
+    "answer": 0,
+    "questionNumber": 806,
+    "questionIndex": 307
+  },
+  {
+    "question": "Aşağıdakilerden hangisi iş sağlığı ve güvenliğinin temel amaçlarından biri değildir?",
+    "options": [
+      "Çalışanların korunması",
+      "İşletmenin korunması",
+      "Hakların korunması",
+      "Üretimin korunması"
+    ],
+    "answer": 0,
+    "questionNumber": 807,
+    "questionIndex": 308
+  },
+  {
+    "question": "Kimyasalların sağlığa zararları başlıca kaç ana başlıkta toplanmaktadır?",
+    "options": [
+      "11",
+      "7",
+      "9",
+      "5"
+    ],
+    "answer": 0,
+    "questionNumber": 808,
+    "questionIndex": 309
+  },
+  {
+    "question": "İşyeri merdivenleri metrekarede en az kaç kilogram yük taşıyabilir?",
+    "options": [
+      "1000",
+      "500",
+      "300",
+      "700"
+    ],
+    "answer": 0,
+    "questionNumber": 809,
+    "questionIndex": 310
+  },
+  {
+    "question": "Aşağıdaki işçilerden hangisinin eğitimine özel önem verilmelidir?",
+    "options": [
+      "Mühendisler",
+      "Formenler",
+      "Ustalar",
+      "Özürlüler"
+    ],
+    "answer": 0,
+    "questionNumber": 810,
+    "questionIndex": 311
+  },
+  {
+    "question": "Kaba malzemelerin taşınması, aktarılması, depolanması vb. kaba işlerin yapıldığı yerlerile iç geçit, koridor, yol ve merdivenler en az kaç lüks (lux) ile aydınlatılmalıdır?",
+    "options": [
+      "100",
+      "70",
+      "50",
+      "90"
+    ],
+    "answer": 0,
+    "questionNumber": 811,
+    "questionIndex": 312
+  },
+  {
+    "question": "Enfraruj ışınlar saçan işlerde çalışan işçilerin özellikle hangi muayeneye tabi tutulması vebelge düzenlenmesi gerekir?",
+    "options": [
+      "Karaciğer muayenesine tabi tutulurlar.",
+      "Solunum ve solunum yolları muayenesine tabi tutulurlar.",
+      "Göz muayenesine tabi tutulurlar.",
+      "Kalp muayenesi tabi tutulurlar."
+    ],
+    "answer": 0,
+    "questionNumber": 812,
+    "questionIndex": 313
+  },
+  {
+    "question": "Acil çıkış kapıları ile ilgili olarak aşağıdakilerden hangisi doğrudur?",
+    "options": [
+      "Kilitleri yetkilide bulunacaktır.",
+      "Kapalı veya kilitli olmayacaktır.",
+      "Kolay açılacak şekilde iple bağlanacaktır.",
+      "Kapalı veya kilitli olacaktır."
+    ],
+    "answer": 0,
+    "questionNumber": 813,
+    "questionIndex": 314
+  },
+  {
+    "question": "Aşağıdakilerden hangisi hukuk kurallarının özelliklerinden biri değildir?",
+    "options": [
+      "Sürekli olması",
+      "Genel olması",
+      "Soyut olması",
+      "Özel olması"
+    ],
+    "answer": 0,
+    "questionNumber": 814,
+    "questionIndex": 315
+  },
+  {
+    "question": "İnşaat işlerinde kaç yaşını doldurmuş işçiler çalıştırılabilir?",
+    "options": [
+      "17",
+      "16",
+      "18",
+      "19"
+    ],
+    "answer": 0,
+    "questionNumber": 815,
+    "questionIndex": 316
+  },
+  {
+    "question": "Aşağıdakilerden hangisi ticaretten sayılan işlerden biridir?",
+    "options": [
+      "Çöp ve kanalizasyon hizmetleri işleri",
+      "Isıtma ve enerji maksadıyla buhar üretim ve dağıtım işleri",
+      "Mücevherat ve kuyumculuk imalat işleri",
+      "Bilimsel araştırma merkezleri ve laboratuarlarda yapılan işler"
+    ],
+    "answer": 0,
+    "questionNumber": 816,
+    "questionIndex": 317
+  },
+  {
+    "question": "Patlayıcı madde depolarına aşağıdakilerden hangisi ile girilebilir?",
+    "options": [
+      "Cep telefonu",
+      "Notebook",
+      "Çakmak",
+      "Telsiz"
+    ],
+    "answer": 0,
+    "questionNumber": 817,
+    "questionIndex": 318
+  },
+  {
+    "question": "Yapı işleri, \"İş Sağlığı ve Güvenliğine İlişkin Tehlike Sınıfları Listesi Tebliği\"ne görehangi grupta yer alır?",
+    "options": [
+      "Çok tehlikeli",
+      "Tehlikeli",
+      "Az tehlikeli",
+      "Tehlikesiz"
+    ],
+    "answer": 0,
+    "questionNumber": 818,
+    "questionIndex": 319
+  },
+  {
+    "question": "Gırgır vincini çalıştıran işçiye kişisel koruyucu donanımlardan hangisi verilmelidir?",
+    "options": [
+      "Gözlük",
+      "Güvenlik kemeri",
+      "Gaz maskesi",
+      "Yüz siperi"
+    ],
+    "answer": 0,
+    "questionNumber": 819,
+    "questionIndex": 320
+  },
+  {
+    "question": "Aşağıdakilerden hangisi iş sağlığı ve güvenliği kurulu üyelerinin eğitim konuları arasındayer alır?",
+    "options": [
+      "Kaynak işlerinde güvenlik önlemleri",
+      "Meslek hastalıkları",
+      "Kaldırma makinalarında güvenlik önlemleri",
+      "Döküm işlerinde güvenlik önlemleri"
+    ],
+    "answer": 0,
+    "questionNumber": 820,
+    "questionIndex": 321
+  },
+  {
+    "question": "Aşağıdakilerden hangisi kaynak arkından yayılan ışınlardan biridir?",
+    "options": [
+      "Ultraviyole ışınlar",
+      "Manyetik ışınlar",
+      "Kozmik ışınlar",
+      "Röntgen ışınları"
+    ],
+    "answer": 0,
+    "questionNumber": 821,
+    "questionIndex": 322
+  },
+  {
+    "question": "Biyolojik risk etmenleri vücudumuza en yüksek ihtimalle hangi yolla alınırlar?",
+    "options": [
+      "Teneffüs edilerek solunum yoluyla",
+      "Bulaşmadığı halde sindirim yoluyla",
+      "İyi önlem alınmamış ortamlarda uygun iş elbisesi ile çalışmamakla",
+      "Temas edilmediği halde deri yoluyla"
+    ],
+    "answer": 0,
+    "questionNumber": 822,
+    "questionIndex": 323
+  },
+  {
+    "question": "Tehlikeli Maddelerin Karayolu ile Taşınmasına İlişkin Avrupa Anlaşmasının kısaltılmışşekli aşağıdakilerden hangisidir?",
+    "options": [
+      "TMT",
+      "ADR",
+      "ETR",
+      "DGR"
+    ],
+    "answer": 0,
+    "questionNumber": 823,
+    "questionIndex": 324
+  },
+  {
+    "question": "Yapılan ölçümlerde % kaç metan tespit edilirse lağımlar doldurulamaz?",
+    "options": [
+      "5",
+      "3",
+      "1",
+      "2"
+    ],
+    "answer": 0,
+    "questionNumber": 824,
+    "questionIndex": 325
+  },
+  {
+    "question": "CO2'li yangın söndürme cihazları kaç ayda bir kontrol edilmelidir?",
+    "options": [
+      "9",
+      "12",
+      "6",
+      "3"
+    ],
+    "answer": 0,
+    "questionNumber": 825,
+    "questionIndex": 326
+  },
+  {
+    "question": "Aşağıdakilerden hangisi iş sağlığı ve güvenliği ile ilgili ulusal kuruluşlardan biri değildir?",
+    "options": [
+      "İş Teftiş Kurulu Başkanlığı",
+      "TİSK",
+      "Türk Kızılay Derneği",
+      "Türk Tabipler Birliği"
+    ],
+    "answer": 0,
+    "questionNumber": 826,
+    "questionIndex": 327
+  },
+  {
+    "question": "İş kazalarının önlenmesi için proaktif yaklaşım nasıl uygulanır?",
+    "options": [
+      "İş kazası olmadan önlem alınır.",
+      "İş kazası olduktan sonra önlem alınır.",
+      "İş kazası raporu hazırlanır.",
+      "İş kazası sonrası analizi yapılır."
+    ],
+    "answer": 0,
+    "questionNumber": 827,
+    "questionIndex": 328
+  },
+  {
+    "question": "Ülkemizde meslek hastalığı teşhisi koyma yetkisi yasal olarak aşağıdakilerden hangisineaittir?",
+    "options": [
+      "Sağlık Bakanlığı Hastaneleri",
+      "Meslek Hastalıkları Hastanesi",
+      "Sosyal Güvenlik Kurumu Hastaneleri",
+      "Çalışma ve Sosyal Güvenlik Bakanlığı Merkezi"
+    ],
+    "answer": 0,
+    "questionNumber": 828,
+    "questionIndex": 329
+  },
+  {
+    "question": "Asma iskelelerde metrekareye kaç kilogramdan fazla yük konulmamalıdır?",
+    "options": [
+      "300",
+      "500",
+      "400",
+      "1000"
+    ],
+    "answer": 0,
+    "questionNumber": 829,
+    "questionIndex": 330
+  },
+  {
+    "question": "Aşağıdakilerden hangisi iş sağlığı ve güvenliği kurulu üyelerinden biri değildir?",
+    "options": [
+      "Şantiye şefi",
+      "İşçi temsilcisi",
+      "İşyeri hekimi",
+      "Usta temsilcisi"
+    ],
+    "answer": 0,
+    "questionNumber": 830,
+    "questionIndex": 331
+  },
+  {
+    "question": "Aşağıda belirtilen özelliklere sahip yüklerden hangisinin elle taşınması halinde sırt ve belincinmesi riski oluşmayabilir?",
+    "options": [
+      "Kaba ve kavranması zor ise",
+      "Çok ağır ve çok büyükse",
+      "Vücudun eğilmesini veya bükülmesini gerektirmeyen bir konumda ise",
+      "Dengesiz veya içindekiler yer değiştiriyorsa"
+    ],
+    "answer": 0,
+    "questionNumber": 831,
+    "questionIndex": 332
+  },
+  {
+    "question": "İş kazaları sonucunda uğranılan zarar; iş sağlığı ve iş güvenliği tedbirleri için yapılacaködemelerin yaklaşık kaç katı kadardır?",
+    "options": [
+      "5",
+      "4",
+      "10",
+      "2"
+    ],
+    "answer": 0,
+    "questionNumber": 832,
+    "questionIndex": 333
+  },
+  {
+    "question": "Aşağıdakilerden hangisi SGK mevzuatına göre iş kazası değildir?",
+    "options": [
+      "İşçinin fabrika sınırları dışında kamyondan yük boşaltırken düşüp kolunu kırması",
+      "İşçinin işyerinde öğle tatilinde top oynarken düşüp ayağını kırması",
+      "İşçinin görev ile gittiği yerde mesai bittikten sonra yemek yerken meydana gelen LPGpatlaması sonucu yaralanması",
+      "İşçinin işe giderken bindiği dolmuşun bir taksi ile çarpışması sonucu yaralanması"
+    ],
+    "answer": 0,
+    "questionNumber": 833,
+    "questionIndex": 334
+  },
+  {
+    "question": "İşveren işyerinde yapılan risk değerlendirmesi sonuçlarına göre; çalışma yöntemleri, işorganizasyonu ve toplu korunma önlemleriyle işyerindeki risklerin giderilemediği veyayeterince azaltılamadığı durumlarda, aşağıdakilerden hangisini bulundurmak ve uygun şekildekullanmak zorundadır?",
+    "options": [
+      "Güvenlik ve sağlık işaretleri",
+      "Makine koruyucuları",
+      "Kişisel koruyucu donanımları",
+      "İş makinaları kullanma talimatları"
+    ],
+    "answer": 0,
+    "questionNumber": 834,
+    "questionIndex": 335
+  },
+  {
+    "question": "Parlamentoda girişimlerde bulunarak 1802 yılında \"Çırakların Sağlığı ve Morali\" adlıyasanın çıkarılmasını sağlayan kimdir?",
+    "options": [
+      "Thomas Percival",
+      "Robert Owen",
+      "Sir Robert Peel",
+      "AntonyAshly Cooper"
+    ],
+    "answer": 0,
+    "questionNumber": 835,
+    "questionIndex": 336
+  },
+  {
+    "question": "Kaldırma-İletme makinalarının (forklift, vinç vb.) testlerinin periyodik olarak ne kadarsürede yapılması gerekir?",
+    "options": [
+      "Üç ayda bir",
+      "İki ayda bir",
+      "Ayda bir",
+      "Dört ayda bir"
+    ],
+    "answer": 0,
+    "questionNumber": 836,
+    "questionIndex": 337
+  },
+  {
+    "question": "Sağlık ve güvenliğin korunması ile ilgili önlemlerin alınmasında aşağıdakilerden hangisigenel prensipler arasında yer almaz?",
+    "options": [
+      "Risklerin önlenmesi",
+      "Risklerle kaynağında mücadele edilmesi",
+      "Çalışanın tedbirli ve dikkatli davranması",
+      "Önlenmesi mümkün olmayan risklerin değerlendirilmesi"
+    ],
+    "answer": 0,
+    "questionNumber": 837,
+    "questionIndex": 338
+  },
+  {
+    "question": "Metal içeren toz, gaz ve dumanların uzun süre solunması sonucu ortaya çıkan meslekhastalığı aşağıdakilerden hangisidir?",
+    "options": [
+      "Alerji",
+      "Pnömokonyoz",
+      "Astım",
+      "Grip"
+    ],
+    "answer": 0,
+    "questionNumber": 838,
+    "questionIndex": 339
+  },
+  {
+    "question": "Normal havada bulunan nitrojen miktarı % ne kadardır?",
+    "options": [
+      "78",
+      "68",
+      "88",
+      "58"
+    ],
+    "answer": 0,
+    "questionNumber": 839,
+    "questionIndex": 340
+  },
+  {
+    "question": "Baretler kaç kg bilyenin 1,5 metreden üzerine düşmesine dayanıklı olmalıdır?",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "1"
+    ],
+    "answer": 0,
+    "questionNumber": 840,
+    "questionIndex": 341
+  },
+  {
+    "question": "Makina Emniyeti Yönetmeliğine göre; kaldırma aksesuarları ve bunların aksamlarından dokuma halat veya sapanların çalışma katsayısı genel bir kural olarak aşağıdakilerdenhangisine eşittir?",
+    "options": [
+      "3",
+      "5",
+      "7",
+      "1"
+    ],
+    "answer": 0,
+    "questionNumber": 841,
+    "questionIndex": 342
+  },
+  {
+    "question": "Aşağıdakilerden hangisi gürültünün insanlar üzerinde fiziksel etki (işitme kaybı)oluşturmasına etki eden faktörlerden biri değildir?",
+    "options": [
+      "Gürültüye maruz kalanın işitme engelli olması",
+      "Gürültüye maruz kalanın cinsiyeti",
+      "Gürültüden etkilenme süresi",
+      "Gürültüyü meydana getiren sesin şiddeti"
+    ],
+    "answer": 0,
+    "questionNumber": 842,
+    "questionIndex": 343
+  },
+  {
+    "question": "İşverene bağlı, fabrika, müessese, işletme veya işletmeler grubu gibi birden çok işyeribulunduğu hallerde, iş sağlığı ve güvenliği kurulu kurulması ile ilgili aşağıdakilerden hangisidoğrudur?",
+    "options": [
+      "İş sağlığı ve güvenliği kurulunun kurulması zorunlu değildir.",
+      "Her işyerinden bir temsilcinin katılımı ile iş sağlığı ve güvenliği kurulur.",
+      "Toplam işçi sayısı esas alınarak iş sağlığı ve güvenliği kurulu kurulur.",
+      "Elliden fazla işçi çalıştıran her bir işyerinde ayrı ayrı birer iş sağlığı ve güvenliği kurulukurulur."
+    ],
+    "answer": 0,
+    "questionNumber": 843,
+    "questionIndex": 344
+  },
+  {
+    "question": "Aşağıdaki yargı kararlarından hangisi kanun seviyesinde bağlayıcıdır?",
+    "options": [
+      "Danıştay Dairesi Kararı",
+      "Yargıtay İctihadı Birleştirme Kararı",
+      "Ağır Ceza Mahkemesi Kararı",
+      "Yargıtay Dairesi Kararı"
+    ],
+    "answer": 0,
+    "questionNumber": 844,
+    "questionIndex": 345
+  },
+  {
+    "question": "En fazla kaç mikron büyüklüğündeki katı parçacıklara toz denir?",
+    "options": [
+      "100",
+      "250",
+      "50",
+      "150"
+    ],
+    "answer": 0,
+    "questionNumber": 845,
+    "questionIndex": 346
+  },
+  {
+    "question": "İş kazalarının önlenmesi için reaktif yaklaşım nasıl uygulanır?",
+    "options": [
+      "Psikolojik önlem alınır.",
+      "Ergonomik önlem alınır.",
+      "İş kazası olduktan sonra önlem alınır.",
+      "İş kazası olmadan önlem alınır."
+    ],
+    "answer": 0,
+    "questionNumber": 846,
+    "questionIndex": 347
+  },
+  {
+    "question": "Kişisel koruyucu donanımların piyasa denetimi ve gözetimi işlemlerini yürüten kurumaşağıdakilerden hangisidir?",
+    "options": [
+      "ÇSGB",
+      "Ticaret Odaları",
+      "TOBB",
+      "Sanayi Odaları"
+    ],
+    "answer": 0,
+    "questionNumber": 847,
+    "questionIndex": 348
+  },
+  {
+    "question": "Yükseklik kavramı aşağıdaki cümlelerden hangisi ile tanımlanır?",
+    "options": [
+      "El ile tutularak çıkılan ve düşme tehlikesi bulunan yerlere yüksek denir.",
+      "Başkalarının yardımı ile çıkılabilen 5 metre yüksekliğe yüksek denir.",
+      "Araç kullanmadan çıkılabilen en az 7 metre yüksekliğe yüksek denir.",
+      "Tek adımla kolayca çıkamayacağımız yerler yüksek olarak tanımlanabilir."
+    ],
+    "answer": 0,
+    "questionNumber": 848,
+    "questionIndex": 349
+  },
+  {
+    "question": "Kansorejen ve mutajen maddelerle çalışan işçilere verilecek bilgi ve talimatlar arasındaöncelikle aşağıdakilerden hangisi yoktur?",
+    "options": [
+      "Koruyucu malzeme ve giyim eşyalarının kullanılması",
+      "İlk yardım temel ilkeleri",
+      "Sağlığı etkileyebilecek riskler ile sigara içmenin getireceği ek riskler",
+      "Maruziyeti önlenmek için alınması gerekli önlemler"
+    ],
+    "answer": 0,
+    "questionNumber": 849,
+    "questionIndex": 350
+  },
+  {
+    "question": "İşveren, işçilerin kişisel sağlık dosyalarını işten ayrılma tarihinden itibaren kaç yıl süreylesaklamak zorundadır?",
+    "options": [
+      "5",
+      "40",
+      "20",
+      "10"
+    ],
+    "answer": 0,
+    "questionNumber": 850,
+    "questionIndex": 351
+  },
+  {
+    "question": "Makine Emniyeti Yönetmeliği kapsamına giren makinaların piyasa gözetimi ve denetimiaşağıdaki kurumlardan hangisi tarafından yapılır?",
+    "options": [
+      "TOBB",
+      "MMO",
+      "Çalışma ve Sosyal Güvenlik Bakanlığı",
+      "Sanayi ve Ticaret Bakanlığı"
+    ],
+    "answer": 0,
+    "questionNumber": 851,
+    "questionIndex": 352
+  },
+  {
+    "question": "Aşağıdakilerden hangisi inşaat iş kolundaki iş kazalarının meydana geliş şekillerindenbiri değildir?",
+    "options": [
+      "Malzeme düşmesi",
+      "Makina ve ekipman kazaları",
+      "Kazı göçükleri",
+      "Kişisel koruyucu donanımlar"
+    ],
+    "answer": 0,
+    "questionNumber": 852,
+    "questionIndex": 353
+  },
+  {
+    "question": "Aşağıdakilerden hangisi yüksekte çalışmanın güvenlik koşullarından biri değildir?",
+    "options": [
+      "Çelik burunlu ayakkabı giyilmesi",
+      "Emniyet kemeri kullanılması",
+      "Korkuluk olması",
+      "Güvenlik ağı kurulması"
+    ],
+    "answer": 0,
+    "questionNumber": 853,
+    "questionIndex": 354
+  },
+  {
+    "question": "Dünya Sağlık Örgütü tarafından yapılan, \"yalnızca bilinen ve kabul edilen meslekhastalıkları değil, fakat oluşmasında ve gelişmesinde çalışma ortamı ve çalışma şeklinin, diğersebepler arasında önemli bir faktör olduğu hastalıklardır\" tanımı aşağıdakilerden hangisi ileilgilidir?",
+    "options": [
+      "İşle ilgili kazalar",
+      "Meslek hastalıkları",
+      "İşle ilgili hastalıklar",
+      "Meslek kazaları"
+    ],
+    "answer": 0,
+    "questionNumber": 854,
+    "questionIndex": 355
+  },
+  {
+    "question": "Sağlık gözetimi kayıtları ile risk değerlendirmesine göre, çalışanların sağlığı ve güvenliğiyönünden riskli olan işlerde çalışanların güncellenmiş listesini ve bunların maruziyetdurumlarını belirten kayıtları maruziyetin sona ermesinden sonra en az kaç yıl süre ilesaklanacaktır?",
+    "options": [
+      "20",
+      "40",
+      "50",
+      "10"
+    ],
+    "answer": 0,
+    "questionNumber": 855,
+    "questionIndex": 356
+  },
+  {
+    "question": "Ağır ve tehlikeli işlerde çalışacak işçiler için düzenlenecek sağlık raporları içinaşağıdakilerden hangisi doğrudur?",
+    "options": [
+      "İşyeri hekiminden alınmalıdır.",
+      "Sağlık kurulundan alınmalıdır.",
+      "Aile hekiminden alınmalıdır.",
+      "Dahiliye hekiminden alınmalıdır."
+    ],
+    "answer": 0,
+    "questionNumber": 856,
+    "questionIndex": 357
+  },
+  {
+    "question": "Kömür ocaklarında müsaade edilen en az oksijen konsantrasyonu % kaçtır?",
+    "options": [
+      "19",
+      "21",
+      "18",
+      "16"
+    ],
+    "answer": 0,
+    "questionNumber": 857,
+    "questionIndex": 358
+  },
+  {
+    "question": "Aşağıdakilerden hangisi uyarı işaretini tanımlar?",
+    "options": [
+      "Uyulması zorunlu bir davranışı belirleyen işaret",
+      "Tehlikeye neden olacak veya tehlikeye maruz bırakacak bir davranışı yasaklayan işaret",
+      "Bir tehlikeye neden olabilecek veya zarar verecek durum hakkında uyarıda bulunan işaret",
+      "Acil çıkış yolları, ilkyardım veya kurtarma ile ilgili bilgi veren işaretler"
+    ],
+    "answer": 0,
+    "questionNumber": 858,
+    "questionIndex": 359
+  },
+  {
+    "question": "Aşağıdakilerden hangisi tehlikeli kimyasal tanımı içinde yer almaz?",
+    "options": [
+      "Alerjik",
+      "Oksitleyici",
+      "Toksik",
+      "Yanıcı"
+    ],
+    "answer": 0,
+    "questionNumber": 859,
+    "questionIndex": 360
+  },
+  {
+    "question": "İşyeri sağlık ve güvenlik birimlerinde aşağıdakilerden hangisi bulunmak zorundadeğildir?",
+    "options": [
+      "Muayene, ilk yardım ve acil müdahale odası",
+      "İşyeri hekimi odası",
+      "Bekleme yeri",
+      "İş güvenliği uzmanı odası"
+    ],
+    "answer": 0,
+    "questionNumber": 860,
+    "questionIndex": 361
+  },
+  {
+    "question": "Küçük gerilim için en yüksek sınır değer aşağıdakilerden hangisidir?",
+    "options": [
+      "Gerilim değeri en fazla 50 volt olan gerilimlere küçük gerilim denir.",
+      "Gerilim değeri en fazla 100 volt olan gerilimlere küçük gerilim denir.",
+      "Gerilim değeri en fazla 75 volt olan gerilimlere küçük gerilim denir.",
+      "Gerilim değeri en fazla 25 volt olan gerilimlere küçük gerilim denir."
+    ],
+    "answer": 0,
+    "questionNumber": 861,
+    "questionIndex": 362
+  },
+  {
+    "question": "Uluslararası Çalışma Örgütü (ILO) listesine göre meslek hastalıkları kaç gruptadeğerlendirilmektedir?",
+    "options": [
+      "10",
+      "6",
+      "4",
+      "2"
+    ],
+    "answer": 0,
+    "questionNumber": 862,
+    "questionIndex": 363
+  },
+  {
+    "question": "Aşağıdakilerden hangisi işverenin yükümlülüklerinden biri değildir?",
+    "options": [
+      "İşçilere mesleki riskler konusunda eğitim vermek",
+      "Denetlemek",
+      "İş sağlığı ve iş güvenliği eğitimlerine katılmak",
+      "İşçileri yasal hak ve sorumlulukları konusunda bilgilendirmek"
+    ],
+    "answer": 0,
+    "questionNumber": 863,
+    "questionIndex": 364
+  },
+  {
+    "question": "İş kazaları SGK Bölge Müdürlüğü'ne kazadan sonraki kaç iş günü içinde bildirilmelidir?",
+    "options": [
+      "2",
+      "3",
+      "1",
+      "5"
+    ],
+    "answer": 0,
+    "questionNumber": 864,
+    "questionIndex": 365
+  },
+  {
+    "question": "Herhangi bir kaçış merdiveninde basamak yüksekliği .......... cm'den çok ve basamak genişliği .......... cm'den az olamaz?",
+    "options": [
+      "12-14 cm",
+      "18-20 cm",
+      "14-16 cm",
+      "10-12 cm"
+    ],
+    "answer": 0,
+    "questionNumber": 865,
+    "questionIndex": 366
+  },
+  {
+    "question": "Yaptığı etkiye göre karbondioksit gazı aşağıdaki sınıflardan hangisine girer?",
+    "options": [
+      "Basit boğucular",
+      "Sistemik zehirler",
+      "Kimyasal boğucular",
+      "Tahriş ediciler"
+    ],
+    "answer": 0,
+    "questionNumber": 866,
+    "questionIndex": 367
+  },
+  {
+    "question": "Hangi kurum görev ve sorumluluk olarak iş sağlığı ve güvenliği ile daha çok ilgilidir?",
+    "options": [
+      "SS kurumu",
+      "Sağlık bakanlığı",
+      "Çalışma ve sosyal güvenlik bakanlığı",
+      "Sanayi bakanlığı"
+    ],
+    "answer": 0,
+    "questionNumber": 867,
+    "questionIndex": 368
+  },
+  {
+    "question": "Aşağıdaki işlerden hangisi iş kanunu kapsamına girer?",
+    "options": [
+      "50 den fazla işçi çalıştırılan tarım ve orman işlerinin yapıldığı işyerleri veya işletmeleri",
+      "507 sayılı esnaf ve sanatkarlar kanununun 2. Maddesinin tarifine uygun 3 kişinin çalıştığıiş yerleri",
+      "Ev hizmetleri",
+      "Deniz ve hava taşıma işleri"
+    ],
+    "answer": 0,
+    "questionNumber": 868,
+    "questionIndex": 369
+  },
+  {
+    "question": "Aşağıdaki işlerden hangisi günde ancak 7,5 saat çalışabilecek işlerdendir?",
+    "options": [
+      "Oksijen ve elektrik kaynağı işçileri",
+      "Ensektisitler",
+      "Karbon sülfür işleri",
+      "Civa izabe fırınların da görülen işler"
+    ],
+    "answer": 0,
+    "questionNumber": 869,
+    "questionIndex": 370
+  },
+  {
+    "question": "Ekranlı araçlarla çalışmalarda sağlık ve güvenlik yönetmeliği aşağıdakilerden hangisindeuygulanır?",
+    "options": [
+      "Ekranlı daktilolarda",
+      "Çalışma merkezlerinde kullanılan bilgisayar sistemlerinde",
+      "Toplumun kullanımına açık bilgisayar sistemlerinde",
+      "Taşıma araçlarındaki bilgisayar sistemlerinde"
+    ],
+    "answer": 0,
+    "questionNumber": 870,
+    "questionIndex": 371
+  },
+  {
+    "question": "Muafiyet sınırları içerisinde olduğu halde izin verilmeyen radyoaktif madde içerenmalzemelerin ithali, ihracı, imali, bulundurulması, kullanılması ve depolanması yasak olanmalzemeler aşağıdakilerden hangisidir?",
+    "options": [
+      "Kozmetikler",
+      "Hepsi",
+      "Giysiler",
+      "Kırtasiye malzemeleri"
+    ],
+    "answer": 0,
+    "questionNumber": 871,
+    "questionIndex": 372
+  },
+  {
+    "question": "Ekranlı araçlarla çalışmalarda sağlık ve güvenlik önlemleri hakkında yönetmelikyayımladığı tarihte faaliyette olan çalışma merkezlerinin en fazla kaç yıl içinde yönetmelikhükümlerini uygun hale getirilmeleri zorunludur?",
+    "options": [
+      "2",
+      "1",
+      "4",
+      "3"
+    ],
+    "answer": 0,
+    "questionNumber": 872,
+    "questionIndex": 373
+  },
+  {
+    "question": "Aşağıdaki hangi tehlikelere karşı Kişisel Koruyucu Donanım kullanılmaktadır?Bir cevap seçin.",
+    "options": [
+      "Hepsi",
+      "Fırlayan parçalar",
+      "Kimyasal maruziyet",
+      "Zararlı tozlar"
+    ],
+    "answer": 0,
+    "questionNumber": 873,
+    "questionIndex": 374
+  },
+  {
+    "question": "Keskiler ile çalışma yapılırken genel olarak uyulacak aşağıdaki tedbirlerden hangisiyanlıştır?",
+    "options": [
+      "Küçük parçaların sıçrama ihtimaline karşı koruyucu gözlük kullanılmalı",
+      "Keski başının ve çekiç yüzünün yağlı ve kaygan olmamasına dikkat edilmeli",
+      "Keski ve çekiç gevşek tutulmalı",
+      "Keski başına oluşacak çapaklar zımpara taşı veya eğe ile temizlenmeli"
+    ],
+    "answer": 0,
+    "questionNumber": 874,
+    "questionIndex": 375
+  },
+  {
+    "question": "Üniversitelerin kimya, makine, maden, jeoloji, metalürji, endüstri, elektrik, elektronik,inşaat, fizik, jeofizik, bilgisayar, tekstil, petrol, uçak, gemi, çevre, gıda mühendisliği vemimarlık bölümleri ile ziraat fakültelerinin tarım makineleri bölümünden mezun olanları,aşağıdaki tanımlardan hangisini kapsar?",
+    "options": [
+      "Teknik Eleman",
+      "Mühendis",
+      "Bakanlık",
+      "İş Güvenliği Uzmanı"
+    ],
+    "answer": 0,
+    "questionNumber": 875,
+    "questionIndex": 376
+  },
+  {
+    "question": "1990 standardında tanımlandığı gibi, sekiz saatlik iş günü için, anlık darbeli gürültününde dahil olduğu bütün gürültü maruziyet düzeylerinin zaman ağırlıklı ortalamasıaşağıdakilerden hangisidir?",
+    "options": [
+      "Günlük gürültü maruziyet düzeyi (LEX, 8 saat) (dB(A) re.20 μPa)",
+      "Günlük gürültü maruziyet düzeyi (LEX, 8 saat) (dB(A) re.10 μPa)",
+      "Günlük gürültü maruziyet düzeyi (LEX, 8 saat) (dB(A) re.25 μPa)",
+      "Günlük gürültü maruziyet düzeyi (LEX, 8 saat) (dB(A) re.15 μPa)"
+    ],
+    "answer": 0,
+    "questionNumber": 876,
+    "questionIndex": 377
+  },
+  {
+    "question": "Gürültülü ortamlarda kullanmamız gereken Kişisel Koruyucu Donanım aşağıdakilerdenhangisidir?",
+    "options": [
+      "İş Gözlüğü",
+      "Toz maskesi",
+      "Kulaklık",
+      "Baret"
+    ],
+    "answer": 0,
+    "questionNumber": 878,
+    "questionIndex": 378
+  },
+  {
+    "question": "Ayak ve bacakların koruması için gerekli Kişisel Koruyucu Donanım aşağıdakilerdenhangisi değildir?",
+    "options": [
+      "Baret",
+      "Tahta tabanlı ayakkabılar",
+      "Zincirli testere operatörleri için koruyucu bot ve çizmeler",
+      "Takıp çıkarılabilen ayak üst kısmı koruyucuları"
+    ],
+    "answer": 0,
+    "questionNumber": 879,
+    "questionIndex": 379
+  },
+  {
+    "question": "Mühendis veya teknik elemanların, işyerlerinde iş güvenliği uzmanı olarakgörevlendirilebilmesi için, eğitimin süresi, teorik ve pratik olarak ??.saatten az olamaz.Noktalı alana yazılması gereken değer aşağıdakilerden hangisidir?",
+    "options": [
+      "60",
+      "100",
+      "80",
+      "220"
+    ],
+    "answer": 0,
+    "questionNumber": 880,
+    "questionIndex": 380
+  },
+  {
+    "question": "Aşağıdaki eldiven cinslerinden hangisi yağa karşı dirençli değildir?",
+    "options": [
+      "PVC",
+      "Deri",
+      "Nitril",
+      "Neopren"
+    ],
+    "answer": 0,
+    "questionNumber": 881,
+    "questionIndex": 381
+  },
+  {
+    "question": "Kaldırma makineleri ve araçları yetkili bir teknik eleman tarafından kaç ayda bir kontroledilmelidir?",
+    "options": [
+      "12 ay",
+      "2 ay",
+      "3 ay",
+      "6 ay"
+    ],
+    "answer": 0,
+    "questionNumber": 882,
+    "questionIndex": 382
+  },
+  {
+    "question": "Cisimlerin birbirlerine sürtünmeleri veya temasları sonucu elektron veya proton akışısonucu meydana gelen durağan enerjiye ne ad verilir?",
+    "options": [
+      "Doğru akım",
+      "Alternatif akım",
+      "Kondansatör",
+      "Statik elektrik"
+    ],
+    "answer": 0,
+    "questionNumber": 883,
+    "questionIndex": 383
+  },
+  {
+    "question": "Hastanelerde koridor genişlikleri kaç m?den az olamaz?",
+    "options": [
+      "4 m",
+      "1 m",
+      "2 m",
+      "3 m"
+    ],
+    "answer": 0,
+    "questionNumber": 884,
+    "questionIndex": 384
+  },
+  {
+    "question": "Radyasyon uygulaması işinde kaç yaşından küçükler çalıştırılamazlar?",
+    "options": [
+      "12",
+      "16",
+      "18",
+      "10"
+    ],
+    "answer": 0,
+    "questionNumber": 885,
+    "questionIndex": 385
+  },
+  {
+    "question": "Tozlu ortamlarda kullanmamız gereken Kişisel Koruyucu Donanım aşağıdakilerdenhangisidir?",
+    "options": [
+      "Toz maskesi",
+      "Kulaklık",
+      "Toz maskesi",
+      "İş Gözlüğü"
+    ],
+    "answer": 0,
+    "questionNumber": 886,
+    "questionIndex": 386
+  },
+  {
+    "question": "Ekranlı araçlarla çalışmalarda sağlık ve güvenlik yönetmeliğine göre aşağıdakidurumların hangisinde işçilerin göz muayenelerinin yapılması uygun değildir?",
+    "options": [
+      "Ekranlı araçların sistemlerinde bir bozukluk olduğunda",
+      "Ekranlı araçla çalışmalardan kaynaklanacak görme zorluğu olduğunda",
+      "Düzenli aralıklarla",
+      "Ekranlı araçlarla çalışmaya başlamadan önce"
+    ],
+    "answer": 0,
+    "questionNumber": 887,
+    "questionIndex": 387
+  },
+  {
+    "question": "Ağır veya yuvarlanabilen malzemelerin kaldırılıp taşındığı işlerde kullanılması gerekenKişisel Koruyucu Donanım aşağıdakilerden hangisidir?",
+    "options": [
+      "Baret",
+      "iş gözlüğü",
+      "İş ayakkabısı",
+      "Kulaklık"
+    ],
+    "answer": 0,
+    "questionNumber": 888,
+    "questionIndex": 388
+  },
+  {
+    "question": "Plazma, lazer kesme vb. makinelerde çalışırken kullanılması gereken Kişisel KoruyucuDonanım aşağıdakilerden hangisidir?",
+    "options": [
+      "İş Gözlüğü",
+      "X-ışını gözlüğü, lazer ışını gözlüğü, ultra-viyole, infrared, görünür radyasyon gözlükleri",
+      "Toz maskesi",
+      "Kulaklık"
+    ],
+    "answer": 0,
+    "questionNumber": 889,
+    "questionIndex": 389
+  },
+  {
+    "question": "İnsan sağlığı için tehlike oluşturan mikroorganizmaların bulunduğu bir ortamda,aşağıdaki solunum sistemini koruyan filtrelerden hangisi kullanılırsa etkili bir korumasağlanır?",
+    "options": [
+      "P2",
+      "P3",
+      "FFP1",
+      "FFP2"
+    ],
+    "answer": 0,
+    "questionNumber": 890,
+    "questionIndex": 390
+  },
+  {
+    "question": "Ekranlı araçlarla çalışanlara verilen eğitimlerden hangisi iş sağlığı ve güvenliğikapsamına girmez?",
+    "options": [
+      "Doğru oturma şekilleri",
+      "Gözlerin korunması",
+      "Hızlı yazma teknikleri",
+      "Zorlayıcı travmalar ve koruma yolları"
+    ],
+    "answer": 0,
+    "questionNumber": 891,
+    "questionIndex": 391
+  },
+  {
+    "question": "İmalat atölyelerinde, el ve kolların ısıya, kesilmeye maruz kalan işçilerin kullanmasıgereken Kişisel Koruyucu Donanım aşağıdakilerden hangisidir?",
+    "options": [
+      "iş gözlüğü",
+      "Kulaklık",
+      "İş eldiveni",
+      "Baret"
+    ],
+    "answer": 0,
+    "questionNumber": 892,
+    "questionIndex": 392
+  },
+  {
+    "question": "Kaldırma araçlarının halat tamburlarında en az kaç sarım halat kalmalıdır?",
+    "options": [
+      "4",
+      "3",
+      "1",
+      "2"
+    ],
+    "answer": 0,
+    "questionNumber": 893,
+    "questionIndex": 393
+  },
+  {
+    "question": "Kulak koruyucularının ambalajları üzerinde NRR ve SNR olarak belirtilen özellikaşağıdakilerden hangisidir?",
+    "options": [
+      "Emniyet Faktörü",
+      "Kulak Koruyucusu Standardı",
+      "Kulak Koruyucusu Tipi",
+      "Gürültü Azaltma Oranı"
+    ],
+    "answer": 0,
+    "questionNumber": 894,
+    "questionIndex": 394
+  },
+  {
+    "question": "Radyasyon uygulaması işinde kaç yaşından küçükler çalıştırılamazlar?",
+    "options": [
+      "16",
+      "10",
+      "12",
+      "18"
+    ],
+    "answer": 0,
+    "questionNumber": 895,
+    "questionIndex": 395
+  },
+  {
+    "question": "Elektrik çarpması sırasında kalp, her ne kadar çalışmaya devam etse de atışlar düzensizgerçekleşir. Kalbin bu şartlar altındaki anlamsız atışlarına ne ad verilir?",
+    "options": [
+      "Fibrilasyon",
+      "Heyecan",
+      "Çarpıntı",
+      "Travma"
+    ],
+    "answer": 0,
+    "questionNumber": 896,
+    "questionIndex": 396
+  },
+  {
+    "question": "Genel olarak el aletlerinde alınması gereken aşağıdaki önlemlerden hangisi yanlıştır?",
+    "options": [
+      "Uygun yerde muhafaza edilmeli",
+      "Bakımlı olmalı",
+      "Yapılacak işe uygun olmalı",
+      "Çapları uygun olmalı, kolayca çıkmalı, çatlak kırık olmalı"
+    ],
+    "answer": 0,
+    "questionNumber": 897,
+    "questionIndex": 397
+  },
+  {
+    "question": "Kaç yaşını doldurmamış genç işçiler ve çocuklar ile çalıştığı işle ilgili mesleki eğitimalmamış işçiler ağır ve tehlikeli işlerde çalıştırılamazlar?",
+    "options": [
+      "16",
+      "14",
+      "15",
+      "12"
+    ],
+    "answer": 0,
+    "questionNumber": 898,
+    "questionIndex": 398
+  },
+  {
+    "question": "İşyerlerinde malzemelerin istifleme yüksekliği en fazla kaç metre olmalıdır?",
+    "options": [
+      "5 m",
+      "3 m",
+      "10 m",
+      "8 m"
+    ],
+    "answer": 0,
+    "questionNumber": 899,
+    "questionIndex": 399
+  },
+  {
+    "question": "Ayakkabı seçiminde aşağıdakilerden hangisi yapılırsa yanlış olur?",
+    "options": [
+      "Her iki ayağa ayakkabı giyilip denerek seçilmeli",
+      "Ayakkabı ayağa tam oturacak fakat sıkmayacak şekilde seçilmeli",
+      "Ayakkabının ön tarafında parmakların rahatça hareket edebileceği yer olacak şekildeseçilmeli",
+      "Sabah vakitlerinde deneyerek seçilmeli"
+    ],
+    "answer": 0,
+    "questionNumber": 900,
+    "questionIndex": 400
+  },
+  {
+    "question": "Vinç ile yük 25-30 cm. kaldırıldıktan sonra aşağıdakilerden hangisi kontrol edilir?",
+    "options": [
+      "Halatlar",
+      "Sapanlar",
+      "Kancalar",
+      "Frenler"
+    ],
+    "answer": 0,
+    "questionNumber": 901,
+    "questionIndex": 401
+  },
+  {
+    "question": "Manivela ve sökme aletleri ile çalışma yapılırken genel olarak uyulacak aşağıdakitedbirlerden hangisi yanlıştır?",
+    "options": [
+      "Bu aletler kullanılırken kayarak diğer şahıslara zarar verilmemeli",
+      "Sert çelikten yapılmamalı",
+      "Yapılacak işe uygun seçilmeli",
+      "Destek olarak tahta, plastik veya yumuşak malzeme kullanılmamalıdır"
+    ],
+    "answer": 0,
+    "questionNumber": 902,
+    "questionIndex": 402
+  },
+  {
+    "question": "Aşağıdakilerden hangisi İş Sağlığı ve Güvenliği kapsamında sayılan kişisel koruyucudonanım olarak kullanılabilir?",
+    "options": [
+      "Sedye",
+      "Gaz ölçüm cihazı",
+      "Çizme",
+      "Tabanca"
+    ],
+    "answer": 0,
+    "questionNumber": 903,
+    "questionIndex": 403
+  },
+  {
+    "question": "Tehlikeli gerilimin alt sınır gerilim değeri aşağıdakilerden hangisidir?",
+    "options": [
+      "50 volt",
+      "42 volt",
+      "110 volt",
+      "65 volt"
+    ],
+    "answer": 0,
+    "questionNumber": 904,
+    "questionIndex": 404
+  },
+  {
+    "question": "LPG tankların, yaylı emniyet valflerinin hidrostatik testleri kaç yılda bir yapılır?",
+    "options": [
+      "15",
+      "10",
+      "20",
+      "5"
+    ],
+    "answer": 0,
+    "questionNumber": 905,
+    "questionIndex": 405
+  },
+  {
+    "question": "İnşaat işleri, özellikle iskeleler ve yerden yüksek çalışma platformların üstünde, altındaveya yakınında yapılan işler, kalıp yapımı ve sökümü, montaj ve kurma işleri, iskeledeçalışma ve yıkım işlerinde, çalışana çarpmasından ve darbelerden koruyan Kişisel KoruyucuDonanım aşağıdakilerden hangisidir?",
+    "options": [
+      "İş Gözlüğü",
+      "Baret",
+      "İş eldiveni",
+      "Toz maskesi"
+    ],
+    "answer": 0,
+    "questionNumber": 906,
+    "questionIndex": 406
+  },
+  {
+    "question": "Kuvvetli akım tesislerinde yapılacak bakım onarım çalışmaları sırasında çalışanlarınhayatının korunması açısından mutlaka alınması gereken 5 önlemden en son yapılmasıgereken aşağıdakilerden hangisidir?",
+    "options": [
+      "Kısa devre etme ve topraklama",
+      "Gerilimin her yönden kesilmesi",
+      "Çalışacak yerlerde gerilimin olmadığının kontrolü",
+      "Direnç kontrolü"
+    ],
+    "answer": 0,
+    "questionNumber": 907,
+    "questionIndex": 407
+  },
+  {
+    "question": "Kişisel koruyucu donanımların işyerlerinde kullanımı ile ilgili olarak aşağıdakilerdenhangisi yanlıştır?",
+    "options": [
+      "İstisnai ve özel koşullar uygun olarak",
+      "Ergonomik gereksinimlere uygun olmalı",
+      "Gerekli ayarlamalar yapıldığında kullanana tam uymalı",
+      "Risk yaratmadan ilgili riski önlemeye uygun olmalı"
+    ],
+    "answer": 0,
+    "questionNumber": 908,
+    "questionIndex": 408
+  },
+  {
+    "question": "Kişiler koruyucu donanımlar aşağıdaki durumlardan hangisinde kullanılır?",
+    "options": [
+      "Riskler önlenmişse",
+      "Toplu korunma önlemleri alınmışsa",
+      "Riskler yeterli derecede azaltılmışsa",
+      "Teknik tedbirler yetersizse"
+    ],
+    "answer": 0,
+    "questionNumber": 909,
+    "questionIndex": 409
+  },
+  {
+    "question": "Bakanlık tarafından sertifikalandırılmış, iş güvenliği ile görevli mühendis veya teknikelemanı, aşağıdaki tanımlardan hangisini kapsar?",
+    "options": [
+      "Bakanlık",
+      "Mühendis",
+      "Teknik Eleman",
+      "İş Güvenliği Uzmanı"
+    ],
+    "answer": 0,
+    "questionNumber": 910,
+    "questionIndex": 410
+  },
+  {
+    "question": "Kaldırma ve taşıma araçları azami yükün en az kaç katını kaldırabilecek, askıdatutabilecek güçte olmalıdır?",
+    "options": [
+      "2",
+      "2,5",
+      "3",
+      "1,5"
+    ],
+    "answer": 0,
+    "questionNumber": 911,
+    "questionIndex": 411
+  },
+  {
+    "question": "Yılda 6 mSv'den daha fazla etkin doza veya göz merceği, cilt, el ve ayaklar için yıllıkeşdeğer doz sınırlarının 3/10?undan daha fazla doza maruz kalma olasılığı bulunan çalışmakoşulu",
+    "options": [
+      "Çalışma Koşulu C",
+      "Çalışma Koşulu D",
+      "Çalışma Koşulu A",
+      "Çalışma Koşulu B"
+    ],
+    "answer": 0,
+    "questionNumber": 912,
+    "questionIndex": 412
+  },
+  {
+    "question": "Alçak gerilim ile yüksek gerilim arasındaki sınır gerilim değeri aşağıdakilerdenhangisidir?",
+    "options": [
+      "1000 volt",
+      "660 volt",
+      "380 volt",
+      "6000 volt"
+    ],
+    "answer": 0,
+    "questionNumber": 913,
+    "questionIndex": 413
+  },
+  {
+    "question": "Sağlık ve güvenlik işçi temsilcisi en az kaç işçi çalıştıran iş yerinde olur?",
+    "options": [
+      "50",
+      "Sayı önemli değildir",
+      "30",
+      "10"
+    ],
+    "answer": 0,
+    "questionNumber": 914,
+    "questionIndex": 414
+  },
+  {
+    "question": "I)İşveren, işçilerin işyerinde maruz kalacakları sağlık ve güvenlik risklerine uygun olaraksağlık gözetimine tabi tutmalıdır.II) İşçilerin işe girişlerinde sağlık durumlarının yapacakları işe uygun olduğunu belirten sağlıkraporu alınır.III) Yapılan işin özelliğine göre, işin devamı süresince işçilerin sağlık muayeneleri düzenliaralıklarla yapılır.IV) Yeni ekipman alındığında tehlike ve riskler konusunda işçiler bilgilendirilmelidir.",
+    "options": [
+      "I, II",
+      "Hepsi",
+      "II, III, IV",
+      "I, II, III"
+    ],
+    "answer": 0,
+    "questionNumber": 915,
+    "questionIndex": 415
+  },
+  {
+    "question": "Türkiye de 1936 yılında yürürlüğe giren ve içerisinde iş sağlığı güvenliği konusundaayrıntılı düzenlemelerin de yer aldığı İş Kanunu aşağıda belirtilenlerden hangisidir?",
+    "options": [
+      "4857 sayılı Yasa",
+      "3008 Sayılı Yasa",
+      "931 Sayılı Yasa",
+      "1475 Sayılı Yasa"
+    ],
+    "answer": 0,
+    "questionNumber": 916,
+    "questionIndex": 416
+  },
+  {
+    "question": "Cumhuriyetin ilk yıllarında çıkartılan ve içerisinde işverenlere iş kazaları ve meslekhastalıkları nedeniyle hukuki sorumluluk getiren maddenin de yer aldığı yasa hangisidir?",
+    "options": [
+      "Umumi Hıfzıssıhha Kanunu",
+      "Borçlar Yasası",
+      "931 Sayılı İş Kanunu",
+      "Belediye Kanunu"
+    ],
+    "answer": 0,
+    "questionNumber": 917,
+    "questionIndex": 417
+  },
+  {
+    "question": "Yukarıdaki maddelerden hangisi çağdaş iş sağlığı ve güvenliği ilkelerindendir? I)Uygun işe yerleştirme II)İşyeri risklerinin kontrolü III)Aralıklı kontrol muayenesi IV)İşyerinde sağlık hizmeti",
+    "options": [
+      "I,IV",
+      "I,II,III",
+      "Yalnız III",
+      "hepsi"
+    ],
+    "answer": 0,
+    "questionNumber": 918,
+    "questionIndex": 418
+  },
+  {
+    "question": "M.S. 23 ile 79 yılları arasında yaşamış olan ve çalışma ortamındaki tehlikeli tozlara karşı çalışanların korunması amacıyla maske yerine geçmek üzere başlarına torba geçirmeleriniöneren kişi aşağıda belirtilenlerden hangisidir?",
+    "options": [
+      "Owen",
+      "BerdardinoRamazzini",
+      "Plini",
+      "Juvenal"
+    ],
+    "answer": 0,
+    "questionNumber": 919,
+    "questionIndex": 419
+  },
+  {
+    "question": "Aşağıdakilerden hangisi iş güvenliğinin kapsamı içinde değildir?",
+    "options": [
+      "İşverenin hakları",
+      "İşyerinin güvenliği",
+      "Çalışanların can güvenliği",
+      "Makine ve araçların güvenliği"
+    ],
+    "answer": 0,
+    "questionNumber": 920,
+    "questionIndex": 420
+  },
+  {
+    "question": "17. Yüzyılda Ergonominin ilkeleri diyebileceğimiz İşyerlerinde işçinin çalışma şeklinin,iş-işçi uyumunun sağlık ve iş verimi üzerinde etkili olduğu düşüncesini ortaya koyan kişiaşağıda belirtilenlerden hangisidir?",
+    "options": [
+      "BerdardinoRamazzini",
+      "Plini",
+      "Juvenal",
+      "Owen"
+    ],
+    "answer": 0,
+    "questionNumber": 921,
+    "questionIndex": 421
+  },
+  {
+    "question": "Aşağıda belirtilenlerden hangisi /hangileri çağdaş İSG uygulama ilkelerindendir? I. Uygun işe yerleştirme II. İşyeri ortam faktörlerinin değerlendirilmesi III. İşyerinde İSG hizmeti sağlanması IV. İSG Risklerinin değerlendirilmesi ve kontrolü",
+    "options": [
+      "Hepsi",
+      "II, IV",
+      "II, III, IV",
+      "I, III, IV"
+    ],
+    "answer": 0,
+    "questionNumber": 922,
+    "questionIndex": 422
+  },
+  {
+    "question": "Aşağıdakilerden hangisi iş sağlığının temel kavramlarından değildir?",
+    "options": [
+      "yükümlülük süresi",
+      "Yaralanma",
+      "meslek hastalığı",
+      "iş hekimi"
+    ],
+    "answer": 0,
+    "questionNumber": 923,
+    "questionIndex": 423
+  },
+  {
+    "question": "Halsizlik, kabızlık, felçler ve görme bozuklukları gibi bulguların kurşun ile ilişkisini ilkçağlarda ortaya koyan kişi aşağıda belirtilenlerden hangisidir?",
+    "options": [
+      "BerdardinoRamazzini",
+      "Heredot",
+      "Owen",
+      "Hipokrates"
+    ],
+    "answer": 0,
+    "questionNumber": 924,
+    "questionIndex": 424
+  },
+  {
+    "question": "Aşağıdakilerden hangisi yanlıştır?",
+    "options": [
+      "İSG kurulunun sekreteri iş güvenliği uzmanıdır.",
+      "İSG kurulları sanayiden sayılan devamlı olarak en az 50 işçi çalışan ve altı aydan fazlasürekli işlerin yapıldığı işyerlerinde kurulur.",
+      "Kurul üyelerinin çoğunluğu ile toplanır.",
+      "İSG kurulları danışma organı niteliğindedir."
+    ],
+    "answer": 0,
+    "questionNumber": 925,
+    "questionIndex": 425
+  },
+  {
+    "question": "Sağlık ve güvenlik işçi temsilcisi en az kaç işçi çalıştıran iş yerinde olur?",
+    "options": [
+      "10",
+      "30",
+      "50",
+      "Sayı önemli değildir."
+    ],
+    "answer": 0,
+    "questionNumber": 926,
+    "questionIndex": 426
+  },
+  {
+    "question": "Aşağıdaki işlerden hangisi günde ancak 7,5 saat çalışabilecek işlerdendir?",
+    "options": [
+      "Karbon sülfür işleri",
+      "Ensektisitler",
+      "Oksijen ve elektrik kaynağı işçileri",
+      "Civa izabe fırınların da görülen işler"
+    ],
+    "answer": 0,
+    "questionNumber": 927,
+    "questionIndex": 427
+  },
+  {
+    "question": "İş sağlığı ve güvenliği kurul sekreteri hangisidir?",
+    "options": [
+      "İşyeri hekimi",
+      "İş güvenliği uzmanı",
+      "İşçi temsilcisi",
+      "İşveren"
+    ],
+    "answer": 0,
+    "questionNumber": 928,
+    "questionIndex": 428
+  },
+  {
+    "question": "İşyerlerinde, işlerin yürütülmesi sırasında, çeşitli nedenlerden kaynaklanan, sağlığazararlı durumlardan korunmak amacı ile yapılan sistemli çalışmalara ne denir?",
+    "options": [
+      "Güvenlik kültürü",
+      "Güvenlik önlemleri",
+      "İş sağlığı ve güvenliği",
+      "Risk değerlendirmesi"
+    ],
+    "answer": 0,
+    "questionNumber": 929,
+    "questionIndex": 429
+  },
+  {
+    "question": "Aşağıdakilerden hangisi iş sağlığı ve güvenliğinin temel amaçlarından biri değildir?Bir cevap seçin.",
+    "options": [
+      "Hakların korunması",
+      "Çalışanların korunması",
+      "Üretimin korunması",
+      "İşletmenin korunması"
+    ],
+    "answer": 0,
+    "questionNumber": 930,
+    "questionIndex": 430
+  },
+  {
+    "question": "İnsanın kendi kusurlarından kaynaklanan ve kazaya sebep olan olaya ne denir?",
+    "options": [
+      "Dikkatsizlik",
+      "Tehlikeli hareket",
+      "Tehlikeli durum",
+      "Dalgınlık"
+    ],
+    "answer": 0,
+    "questionNumber": 931,
+    "questionIndex": 431
+  },
+  {
+    "question": "İş kazalarının yüzde kaçı tehlikeli hareketlerden oluşmaktadır?",
+    "options": [
+      "% 44",
+      "% 88",
+      "% 50",
+      "% 10"
+    ],
+    "answer": 0,
+    "questionNumber": 932,
+    "questionIndex": 432
+  },
+  {
+    "question": "Aşağıdakilerden hangisi tehlikeli hareketlerden biri değildir?",
+    "options": [
+      "Emniyetsiz vaziyet alma",
+      "Bakımsız makina",
+      "Alet ve makineleri tehlikeli şekilde kullanma",
+      "Emniyetsiz yükleme, taşıma ve istifleme"
+    ],
+    "answer": 0,
+    "questionNumber": 933,
+    "questionIndex": 433
+  },
+  {
+    "question": "Bir işyerinin tesis ve tertiplerinde, çalışma yöntem ve şekillerinde, makine vecihazlarında işçilerin yaşamı için tehlikeli olan bir husus tespit edilirse, bu tehlikegiderilinceye kadar işyerlerini iş sağlığı ve güvenliği bakımından tehlikenin niteliğine göre,işin tamamen veya kısmen durdurulması veya işyerinin kapatılması kararını verecek olankomisyona aşağıdaki görevlilerden hangisi girmez ?",
+    "options": [
+      "Denetlemeye Yetkili Müfettiş",
+      "İşveren Temsilcisi",
+      "İşçi Temsilcisi",
+      "İl Sanayi Müdürü"
+    ],
+    "answer": 0,
+    "questionNumber": 934,
+    "questionIndex": 434
+  },
+  {
+    "question": "Ağır ve tehlikeli işler raporu aşağıdaki durumlardan hangisinde gerekir? I-İlk işe giriş de II-İşçinin meslek hastalığı durumunda III-İşin devamı süresince en az yılda bir defa",
+    "options": [
+      "I-II",
+      "I-III",
+      "I-II-III",
+      "II-III"
+    ],
+    "answer": 0,
+    "questionNumber": 935,
+    "questionIndex": 435
+  },
+  {
+    "question": "İşverenler, işyerlerinde meydana gelen iş kazasını ve tespit edilen meslek hastalığını kaçiş günü içinde yazılı olarak ilgili Bölge Müdürlüğüne bildirmek zorundadır?",
+    "options": [
+      "4",
+      "3",
+      "1",
+      "2"
+    ],
+    "answer": 0,
+    "questionNumber": 936,
+    "questionIndex": 436
+  },
+  {
+    "question": "İş kazaları meslek hastalıkları açısından maddi sorumluluk aşağıdakilerden hangisindetanımlıdır?",
+    "options": [
+      "Ticaret Hukuku",
+      "4857 sayılı İş Kanunu",
+      "Deniz İş Kanunu",
+      "Borçlar Kanunu"
+    ],
+    "answer": 0,
+    "questionNumber": 937,
+    "questionIndex": 437
+  },
+  {
+    "question": "Aşağıdaki iş mevzuatının hangisinde teknik önlemler yer almaz?",
+    "options": [
+      "Gürültü Yönetmeliği",
+      "Elle Taşıma İşleri Yönetmeliği",
+      "Güvenlik ve sağlık işaretleri Yönetmeliği",
+      "Ağır ve Tehlikeli İşler Yönetmeliği"
+    ],
+    "answer": 0,
+    "questionNumber": 938,
+    "questionIndex": 438
+  },
+  {
+    "question": "Aşağıdakilerden hangisi özel hukuk dalıdır?",
+    "options": [
+      "Borçlar hukuku",
+      "İdare hukuku",
+      "İş hukuku",
+      "Mali hukuk"
+    ],
+    "answer": 0,
+    "questionNumber": 940,
+    "questionIndex": 439
+  },
+  {
+    "question": "Kaza, kaçınılmazlık sebebiyle meydana gelmiş ise, kaza ile ilgili herhangi bir kişininveya Kuruluşun kusuru bulunmuyor ise, bu zararın belli oranlarda işçi ve işveren tarafındankarşılanması gerekmektedir. İşverenin bu yükümlülüğüne ne denir?",
+    "options": [
+      "Kaçınılmazlık sorumluluğu",
+      "Manevi tazminat",
+      "Kusursuz sorumluluk",
+      "Destek tazminatı"
+    ],
+    "answer": 0,
+    "questionNumber": 941,
+    "questionIndex": 440
+  },
+  {
+    "question": "Kişinin hukuka aykırı olarak, sonucu bilerek ve isteyerek hareket etmesi CezaHukukunda ne anlama gelir?",
+    "options": [
+      "Kasıt",
+      "İhmal",
+      "Taksir",
+      "Kusur"
+    ],
+    "answer": 0,
+    "questionNumber": 942,
+    "questionIndex": 441
+  },
+  {
+    "question": "İşyerinde iş sağlığı ve güvenliği açısından, işçinin sağlığını bozacak veya vücutbütünlüğünü tehlikeye sokacak yakın, acil ve hayati bir tehlike ile karşı karşıya kalan işçininyasal hakları gereği aşağıdakilerden hangisini yapamaz?",
+    "options": [
+      "İşveren veya işveren vekiline başvurmak",
+      "Hizmet akdini derhal feshetmek",
+      "İş Sağlığı ve Güvenliği Kuruluna başvurmak",
+      "Sağlık ve Sosyal Yardım Bakanlığına başvurmak"
+    ],
+    "answer": 0,
+    "questionNumber": 943,
+    "questionIndex": 442
+  },
+  {
+    "question": "Ceza Hukuk açısından, bir kişinin hukuka aykırı sonucu istememekle birlikte bu sonucuönlemek için durumun gerektirdiği dikkat ve ihtimamı göstermemesi kusurlu davranışına nedenir?",
+    "options": [
+      "Taksir",
+      "Kusur",
+      "İhmal",
+      "Kasıt"
+    ],
+    "answer": 0,
+    "questionNumber": 944,
+    "questionIndex": 443
+  },
+  {
+    "question": "Aşağıdakilerden hangisi yanlıştır?",
+    "options": [
+      "İşveren adına hareket eden ve işin, iş yerinin ve işletmenin yönetiminde görev alankimselere işveren vekili denir",
+      "Asıl işveren, alt işverenin işçilerine karşı o işyeri ile ilgili olarak, iş sözleşmesinden veyaalt işverenin taraf olduğu toplu iş sözleşmesinden doğan yükümlülüklerinden alt işveren ilebirlikte sorumludur",
+      "İşveren vekilliği özel yükümlere dayanan özel bir statüdür",
+      "İşveren vekilinin işçilere karşı işlem ve yükümlülüklerinden doğrudan işveren sorumludur"
+    ],
+    "answer": 0,
+    "questionNumber": 945,
+    "questionIndex": 444
+  },
+  {
+    "question": "İşyerini kapatma hangi mevzuata göre yapılır?",
+    "options": [
+      "Hukuki",
+      "Mali",
+      "Cezai",
+      "İdari"
+    ],
+    "answer": 0,
+    "questionNumber": 946,
+    "questionIndex": 445
+  },
+  {
+    "question": "İşçinin iş sağlığı ve güvenliği yönünden çalışmasının sakıncalı olduğu işyerlerinde, işindurdurulması yaptırımı nasıl bir yaptırımdır?",
+    "options": [
+      "Hukuki",
+      "Mali",
+      "Cezai",
+      "İdari"
+    ],
+    "answer": 0,
+    "questionNumber": 947,
+    "questionIndex": 446
+  },
+  {
+    "question": "Kusur oranları hangi kanuna tabidir?",
+    "options": [
+      "SS kanunu",
+      "Borçlar kanunu",
+      "Ticaret kanunu",
+      "İş kanunu"
+    ],
+    "answer": 0,
+    "questionNumber": 948,
+    "questionIndex": 447
+  },
+  {
+    "question": "İşçinin kendi isteği veya savsaması yüzünden işin güvenliğini tehlikeye düşürmesi,işyerinin malı olan veya malı olmayıp ta eli altında bulunan makineleri, tesisatı veya başkaeşya ve maddeleri kaç günlük ücretinin tutarıyla ödeyemeyecek derecede hasara ve kaybauğratması durumunda, işveren işçiyi derhal işiten çıkarabilir?",
+    "options": [
+      "30",
+      "90",
+      "10",
+      "15"
+    ],
+    "answer": 0,
+    "questionNumber": 950,
+    "questionIndex": 448
+  },
+  {
+    "question": "18 ve daha küçük yaştaki işçilerle 50 ve daha yukarı yaştaki işçilere verilecek yıllıkücretli izin süresi en az ne kadardır?",
+    "options": [
+      "26 gün",
+      "30 gün",
+      "15 gün",
+      "20 gün"
+    ],
+    "answer": 0,
+    "questionNumber": 951,
+    "questionIndex": 449
+  },
+  {
+    "question": "İşverenin iş sağlığı ve güvenliliği ile ilgili eğitim verme zorunluluğu hangi kanunda yeralır?",
+    "options": [
+      "İş kurumu kanunu",
+      "SSK",
+      "İş kanunu",
+      "Meslek eğitimi kanunu"
+    ],
+    "answer": 0,
+    "questionNumber": 952,
+    "questionIndex": 450
+  },
+  {
+    "question": "İş yeri kapatılması işlemi hangi tip uygulamadır?",
+    "options": [
+      "Mali",
+      "Ticari",
+      "İdari",
+      "Cezai"
+    ],
+    "answer": 0,
+    "questionNumber": 953,
+    "questionIndex": 451
+  },
+  {
+    "question": "İş kazası veya meslek hastalığı meydana gelmeden önce oluşan işveren kusurunun cezaiyönden yaptırımları aşağıdaki hangi mevzuat ta yer alır?",
+    "options": [
+      "Ceza kanunu",
+      "Ceza kanunu",
+      "SS kanunu",
+      "İş kanunu"
+    ],
+    "answer": 0,
+    "questionNumber": 954,
+    "questionIndex": 452
+  },
+  {
+    "question": "Aşağıdaki işlerden hangisi iş kanunu kapsamına girer?",
+    "options": [
+      "50 den fazla işçi çalıştırılan tarım ve orman işlerinin yapıldığı işyerleri veya işletmeleri",
+      "507 sayılı esnaf ve sanatkarlar kanununun 2. Maddesinin tarifine uygun 3 kişinin çalıştığıiş yerleri",
+      "Deniz ve hava taşıma işleri",
+      "Ev hizmetleri"
+    ],
+    "answer": 0,
+    "questionNumber": 955,
+    "questionIndex": 453
+  },
+  {
+    "question": "Aşağıda belirtilenlerden hangisi 4857 sayılı İş Kanunu ve İş Kanununa göre çıkartılanmevzuatın ilkeleri arasında yer almamaktadır?",
+    "options": [
+      "Önlenmesi mümkün olmayan risklerin değerlendirilmesi,",
+      "Risklerle kaynağında mücadele edilmesi,",
+      "Kişisel korunma önlemlerine öncelik verilmesi,",
+      "İşçilere uygun talimatların verilmesi"
+    ],
+    "answer": 0,
+    "questionNumber": 956,
+    "questionIndex": 454
+  },
+  {
+    "question": "Hizmet akdi, bir mukaveledir ki onunla işçi, muayyen veya gayri muayyen bir zamandahizmet görmeği ve iş sahibi dahi ona bir ücret vermeği taahhüt eder?. Hükmünün yer aldığıİşçi ile işveren arasında yapılan ?Hizmet akdi? ne ilişkin tanımın yer aldığı kanun aşağıdabelirtilenlerden hangisidir?",
+    "options": [
+      "Hiçbiri",
+      "Borçlar Kanunu",
+      "Umumi Hıfzıssıhha Kanunu",
+      "Sosyal Sigortalar ve Genel Sigortalar Kanunu"
+    ],
+    "answer": 0,
+    "questionNumber": 957,
+    "questionIndex": 455
+  },
+  {
+    "question": "4857 sayılı İş Kanunu?nda yazılı olan idari para cezaları, 101 ve 106. maddedeki idaripara cezaları hariç, gerekçesi belirtilmek suretiyle o yerin Çalışma ve Sosyal GüvenlikBakanlığı Bölge Müdürü tarafından verilir. 101 ve 106. Maddedeki İdari para cezaları aşağıdabelirtilen makamlardan hangisi tarafından verilir?",
+    "options": [
+      "ÇASGEM",
+      "İş Teftiş Kurulu Başkanı",
+      "SGK İl Müdürü",
+      "Türkiye İş Kurumu İl Müdürü"
+    ],
+    "answer": 0,
+    "questionNumber": 958,
+    "questionIndex": 456
+  },
+  {
+    "question": "Maden işletmelerinde daimi olarak istihdam edilen Maden Mühendisi, iş güvenliğiuzmanı olabilme şartlarını taşıması halinde İş Güvenliği uzmanı olarak da görevyapabilmektedir. işçi sayısımının hangi sayının üzerine çıkması halinde ayrıca bir iş güvenliğiuzmanı maden mühendisi görevlendirilir.",
+    "options": [
+      "50100",
+      "500",
+      "300",
+      "100"
+    ],
+    "answer": 0,
+    "questionNumber": 959,
+    "questionIndex": 457
+  },
+  {
+    "question": "İş kazası sonucu işçinin zarar görmesi halinde kendisine, hayatını kaybetmesi halinde deailesine manevi tazminat ödenebilmesine ilişkin karar dayanağını hangi kanundanalmaktadır.?",
+    "options": [
+      "Sosyal Sigortalar ve GSS Kanunu",
+      "İş Kanunu",
+      "Umumi Hıfzıssıhha Kanunu",
+      "Borçlar Kanunu"
+    ],
+    "answer": 0,
+    "questionNumber": 960,
+    "questionIndex": 458
+  },
+  {
+    "question": "Belediyeler ve diğer ilgili makamların işyeri denetimlerine ilişkin olarak aşağıdabelirtilenlerden hangisi yanlıştır?",
+    "options": [
+      "İgili mevzuat gereğince işletme belgesi alınması gerekiyorsa, Çalışma ve Sosyal GüvenlikBakanlığınca işletme belgesi verilmemiş işyerlerine belediyeler veya diğer ilgili makamlarcaaçılma izni verilemez.",
+      "İşyerinin kurulup açılmasına izin vermeye yetkili belediyelerle diğer ilgili makamlar heray bu hususta izin verdikleri, işveren ve işyerinin isim ve adresini ve yapılan işin çeşidinigösterir listeleri bir sonraki ayın sonuna kadar o yerin bağlı bulunduğu bölge müdürlüğünebildirirler.",
+      "Kamu kurum ve kuruluşları, işyerlerinde yapacakları iş sağlığı ve güvenliği ile ilgili teftişve denetlemelerin sonuçlarını ve yapacakları işlemleri o yer için yetkili bölge müdürlüğünebildirirler.",
+      "İşyerinin açılmasına izin vermeye yetkili belediyeler ile diğer ilgili makamlar bu iznivermeden önce, Çalışma ve Sosyal Güvenlik Bakanlığınca iş mevzuatına göre verilmesigerekli işletme belgesinin varlığını araştırmak zorundadır."
+    ],
+    "answer": 0,
+    "questionNumber": 961,
+    "questionIndex": 459
+  },
+  {
+    "question": "Aşağıdakilerden hangisinde iş sağlı ve güvenliğiyle ilgili madde bulunmaz?",
+    "options": [
+      "Anayasa",
+      "Umumi hıfzısıhha kanunu",
+      "Borçlar kanunu",
+      "İş kanunu"
+    ],
+    "answer": 0,
+    "questionNumber": 962,
+    "questionIndex": 460
+  },
+  {
+    "question": "İşyerinin kurulup açılmasına izin vermeye yetkili belediyeler ile diğer ilgili makamlarizin verdikleri işyerlerine ilişkin bilgileri ne kadar süre içerisinde ilgili bölge müdürlüğünebildirmek zorundadırlar",
+    "options": [
+      "Bir sonraki ayın 10?una kadar",
+      "Bir sonraki ayın 5?ine kadar",
+      "Bir sonraki ayın sonuna kadar",
+      "Bir sonraki ayın 15?ine kadar"
+    ],
+    "answer": 0,
+    "questionNumber": 963,
+    "questionIndex": 461
+  },
+  {
+    "question": "Aşağıda belirtilenlerden hangisi İş Kanunun 77. Maddesinde yer alan hususlar arasındayer almamaktadır?",
+    "options": [
+      "Hangi işlerin Ağır ve Tehlikeli İşlerden Sayılacağına ilişkin yönetmelik çıkartılacaktır.",
+      "İşverenler işyerinde alınan iş sağlığı ve güvenliği önlemlerine uyulup uyulmadığınıdenetlemek zorundadır.",
+      "İşverenler işyerlerinde iş sağlığı ve güvenliğinin sağlanması için gerekli her türlü önlemialmak, araç ve gereçleri noksansız bulundurmakla yükümlüdür",
+      "işçiler iş sağlığı ve güvenliği konusunda alınan her türlü önleme uymakla yükümlüdürler."
+    ],
+    "answer": 0,
+    "questionNumber": 964,
+    "questionIndex": 462
+  },
+  {
+    "question": "İşverenin işçilerinin işverenin verdiği işi yaparken başkalarına verdiği zarara ilişkinolarak aşağıda belirtilenlerden hangisi Borçlar Kanununa yanlıştır ?",
+    "options": [
+      "İşçiler zarar verdiği için işçilerin maddi durumu da göz önünde bulundurularak kimsesorumlu tutulmaz",
+      "İşveren böyle bir zararın olmaması gereken tüm dikkat ve özende bulunduğunu ispatederse mesul olmaz.",
+      "İşverenin ödediği zararı, zarara neden olan işçisine karşı rücu hakkı vardır.",
+      "Başkalarını istihdam eden kimse, istihdam ettiği kimselerin hizmetlerini yerine getirdiklerisırada yaptıkları zarardan sorumludur."
+    ],
+    "answer": 0,
+    "questionNumber": 965,
+    "questionIndex": 463
+  },
+  {
+    "question": "İşçi kovuşlarında antiseptik solüsyonlarla genel temizlik be ensektisik ve rodentisituygulanması en fazla ne kadar sürede periyodik olarak yapılmalıdır ?",
+    "options": [
+      "Ayda 1",
+      "3 Ay",
+      "6 Ay",
+      "12 Ay"
+    ],
+    "answer": 0,
+    "questionNumber": 966,
+    "questionIndex": 464
+  },
+  {
+    "question": "Kurşunla çalışan işçiler,en fazla ne kadar sürede periyodik olarak ,sağlık muayenesinetabi tutulurlar?",
+    "options": [
+      "12 ay",
+      "ayda 1",
+      "3 ay",
+      "6 ay"
+    ],
+    "answer": 0,
+    "questionNumber": 967,
+    "questionIndex": 465
+  },
+  {
+    "question": "Aşağıdaki iş yerlerinden hangisinde işçilere yan yana 2 bölmeli veya 2 ayrı dolapverilmesi en uygundur?",
+    "options": [
+      "Un değirmeni",
+      "Zirai mücadele ilaçları üreten fabrika",
+      "Şeker fabrikası",
+      "Gofret , bisküvi imalathanesi"
+    ],
+    "answer": 0,
+    "questionNumber": 968,
+    "questionIndex": 466
+  },
+  {
+    "question": "İşyeri hemşiresi veya sağlık memurunun görevlendirilmesi ile ilgili olarakaşağıdakilerden hangisi doğrudur?",
+    "options": [
+      "Tüm işyerlerinde iş yeri hemşiresi bulunması zorunludur",
+      "50 işçi çalışan işyerlerinde işyeri hemşiresi bulunması zorunludur",
+      "II. Risk grubunda 500 işçi çalışan iş yerinde tam gün çalışan en az bir iş yeri hemşiresibulunmalıdır",
+      "IV.risk gurubunda 300 işçi çalışan iş yerinde tam gün çalışan en az 1 iş yeri hemşiresibulunmalıdır"
+    ],
+    "answer": 0,
+    "questionNumber": 969,
+    "questionIndex": 467
+  },
+  {
+    "question": "Aşağıdakilerden hangisi yanlıştır?",
+    "options": [
+      "iş sağlığı ve güvenliği kurulunun sekreterliğini iş güvenliği uzmanı yapar",
+      "Sağlık birimi, en az bir işyeri hekimi ile birlikte en az bir iş yeri hemşiresi veya sağlıkmemurundan oluşur",
+      "V.risk gurubunda 350 işçi çalışan bir iş yerinde tam gün bir iş yeri hemşiresi çalışmalıdır",
+      "Sağlık ve güvenlik işçisi,50 den fazla işçi çalıştıran yerlerde seçilmelidir"
+    ],
+    "answer": 0,
+    "questionNumber": 970,
+    "questionIndex": 468
+  },
+  {
+    "question": "V.Riski grubunda bulunan bir işyeri için çalışan A sınıfı İSİG uzmanı ayda en az ne kadar süre işyerine gitmelidir?",
+    "options": [
+      "Ayda en az 3 iş günü",
+      "Ayda en az 2 iş günü",
+      "Ayda en az 1 iş günü",
+      "Ayda en az 5 iş günü"
+    ],
+    "answer": 0,
+    "questionNumber": 971,
+    "questionIndex": 469
+  },
+  {
+    "question": "İş yeri sağlık birimi çalışanları ile ilgili aşağıdakilerden hangisi yanlıştır?",
+    "options": [
+      "Sağlık birimi iş yeri hekimi , iş yeri hemşiresi ve /veya sağlık memuru ve iş güvenliğiuzmanından oluşur",
+      "İş yeri hemşiresi sağlıkla ilgili kayıtları tutar",
+      "iş yeri sağlık biriminin yıllık faaliyet raporunun bir örneği çalışma ve sosyal güvenlik bakanlığına gönderilir",
+      "iş yeri hemşiresi işçi sağlığı ile ilgili konularda hekime yardımcı olur"
+    ],
+    "answer": 0,
+    "questionNumber": 972,
+    "questionIndex": 470
+  },
+  {
+    "question": "Aşağıdakilerden hangisi iş güvenliği uzmanının görevi değildir?",
+    "options": [
+      "Düzeltici faaliyet planlarını yapmak",
+      "Yangından korunma ve yangınla mücadele çalışmalarını yönetmek ve ilgili kayıtların tutulmasını sağlamak",
+      "Acil durum planlarını hazırlamak",
+      "Üretimi artırmak"
+    ],
+    "answer": 0,
+    "questionNumber": 973,
+    "questionIndex": 471
+  },
+  {
+    "question": "Meslek hastalığı öyküsünü araştırırken aşağıdakilerden hangisine bakılmaz ?",
+    "options": [
+      "Çocuk sayısı",
+      "Oturduğu yer",
+      "Askerlik yaptığı sınıf",
+      "Daha önceki işler"
+    ],
+    "answer": 0,
+    "questionNumber": 974,
+    "questionIndex": 472
+  },
+  {
+    "question": "Aşağıdakilerden hangisi iş sağlığı hizmetlerinin amaçlarından değildir ?",
+    "options": [
+      "İşçiyi işe uydurmak",
+      "İşçiyi işten kaynaklanabilecek sağlık zararlarından korumak",
+      "İşçilere ve iş verene danışmanlık yapmak",
+      "İşçinin iyilik halinin sağlanmasına ve sürdürülmesine katkı yapmak"
+    ],
+    "answer": 0,
+    "questionNumber": 975,
+    "questionIndex": 473
+  },
+  {
+    "question": "Aşağıda özellikleri belirtilen işyerlerinden hangisinde iş sağlığı güvenliği kurulukurulması zorunludur?",
+    "options": [
+      "Hiçbiri",
+      "Sanayiden sayılan ve yılda 4 ay faaliyet yürütülen 51 işçi çalıştırıla bir işyeri",
+      "Ticaretten sayılan ve 100 işçi çalıştırılan bir işyeri,",
+      "Sanayiden sayılan ve yılda 11 ay faaliyet yürütülen 51 işçi çalıştırılan bir işyeri"
+    ],
+    "answer": 0,
+    "questionNumber": 976,
+    "questionIndex": 474
+  },
+  {
+    "question": "İşyerinde iş sağlığı ve güvenliği açısından işçinin sağlığını bozacak veya vücutbütünlüğünü tehlikeye sokacak yakın, acil ve hayati bir tehlike ile karşı karşıya kalan işçi; İSG Kurulunun toplanarak konuyu görüşmesini istediğinde İSG Kurulu kaç gün içerisindetoplanmak zorundadır?",
+    "options": [
+      "Toplanmasına gerek yok, ilk olağan toplantıda konu gündeme alınarak görüşülür",
+      "Bir hafta içerisinde toplanması gerekir",
+      "Hiçbiri",
+      "Aynı gün toplanmak zorundadır,"
+    ],
+    "answer": 0,
+    "questionNumber": 977,
+    "questionIndex": 475
+  },
+  {
+    "question": "İSG Kurulu ile ilgili aşağıdakilerden hangisi seçimle gelir?",
+    "options": [
+      "İşyeri hekimi",
+      "Formen,ustabaşı",
+      "İşveren Vekili",
+      "İş güvenliği uzmanı"
+    ],
+    "answer": 0,
+    "questionNumber": 978,
+    "questionIndex": 476
+  },
+  {
+    "question": "Aşağıdakilerden hangisi İSG Kurulunun görevlerinden değildir?",
+    "options": [
+      "Tesislerde yapılacak bakım ve onarım çalışmalarında gerekli güvenlik tedbirleri planlamakve bu tedbirlerin uygulanmalarını kontrol etmek",
+      "İşveren kurulun verdiği kararları uygulamakla yükümlüdür.",
+      "4857 sayımı İş Kanunun 83 maddesinde belirtilen taleplerin vukuunda acilen ve kararvermek",
+      "İşyerinde yangınla,doğalafetlerle,sabotaj ve benzeri ile ilgili tedbirlerin yeterliliğini veekiplerin çalışmalarını izlemek"
+    ],
+    "answer": 0,
+    "questionNumber": 979,
+    "questionIndex": 477
+  },
+  {
+    "question": "Aşağıda belirtilen İş Sağlığı Güvenliği Kurulu üyelerinden hangisi bu göreve seçimlegelir?",
+    "options": [
+      "İşyeri Hekimi",
+      "Sağlık Güvenlik İşçi Temsilcisi",
+      "Hiçbiri",
+      "İş güvenliği uzmanı"
+    ],
+    "answer": 0,
+    "questionNumber": 980,
+    "questionIndex": 478
+  },
+  {
+    "question": "Aşağıdaki tehlikelerden korunma yollarından hangisi önceliklidir?",
+    "options": [
+      "Kişiye yönelik koruma uygulamalarına öncelik verilmesi",
+      "Tehlikenin kaynağında yok edilmesi",
+      "Tehlike alanının mesafesinin artırılması veya çalışma ortamına kapatılması",
+      "Tehlikenin kaynağında azaltılması"
+    ],
+    "answer": 0,
+    "questionNumber": 981,
+    "questionIndex": 479
+  },
+  {
+    "question": "Aşağıdakilerden hangisi süreklilik arz eden koruma uygulamalarından değildir ?",
+    "options": [
+      "Kişisel koruyucu donanım kullanımı",
+      "İş sağlığı ve güvenliği eğitimleri",
+      "Periyodik sağlık muayenesi",
+      "İşe giriş sağlık muayenesi"
+    ],
+    "answer": 0,
+    "questionNumber": 982,
+    "questionIndex": 480
+  },
+  {
+    "question": "TS OHSAS 18001 ? in temel felsefesi hangisidir?",
+    "options": [
+      "Risk değerlendirmesi yapmak",
+      "Verimliliği artırmak",
+      "İSG mevzuatına göre ihtiyaçları belirlemek",
+      "İş güvenliği ve işçi sağlığının sağlanması"
+    ],
+    "answer": 0,
+    "questionNumber": 983,
+    "questionIndex": 481
+  },
+  {
+    "question": "ISO 18001 in amaçları arasında hangisi yoktur?",
+    "options": [
+      "Ürün ve hizmet kalitesinin Yükseltilmesi",
+      "Sürekli öğrenme , yenilikçilik ve öğrenme",
+      "Stajyer ve taşeronların korunması",
+      "Risk değerlendirilmesinin yapılması"
+    ],
+    "answer": 0,
+    "questionNumber": 984,
+    "questionIndex": 482
+  },
+  {
+    "question": "Aşağıdakilerden hangisi mal ve hizmet üretiminde etik unsurları garanti altına alanstandarttır?",
+    "options": [
+      "ISO 14001 Standardı",
+      "SA 8000 Standardı",
+      "OHSAS 18001 Standardı",
+      "ISO 9001 Standardı"
+    ],
+    "answer": 0,
+    "questionNumber": 985,
+    "questionIndex": 483
+  },
+  {
+    "question": "Aşağıdakilerden hangisi risk değerlendirme prosesinin çalışanlar açısından yararı yoktur?",
+    "options": [
+      "Kayıtlara ulaşabilme",
+      "Güvenli teknoloji seçme",
+      "Katılım hakkı",
+      "Kuralların önceden belirlenmesi"
+    ],
+    "answer": 0,
+    "questionNumber": 986,
+    "questionIndex": 484
+  },
+  {
+    "question": "Aşağıdakilerden hangisi 4857 sayılı Kanunu ile iş sağlığı ve güvenliği yönünden getirilenyeni anlayış değildir?",
+    "options": [
+      "Tespit bazlı reaktif",
+      "Uzman katkısı sağlanması",
+      "Çalışanların katılımı Koruma önleme anlayışı",
+      "boş şık :=D"
+    ],
+    "answer": 0,
+    "questionNumber": 987,
+    "questionIndex": 485
+  },
+  {
+    "question": "Tehlikeli Kimyasallarla Çalışmalara İlişkin Risk değerlendirmesinde aşağıdabelirtilenlerden hangisi dikkate alınmalıdır?",
+    "options": [
+      "İmalatçı, ithalatçı veya satıcılardan sağlanacak malzeme güvenlik bilgi formu",
+      "Kimyasal maddenin miktarı, kullanma şartları ve kullanım sıklığı,",
+      "Hepsi",
+      "Maruziyetin türü, düzeyi ve süresi,"
+    ],
+    "answer": 0,
+    "questionNumber": 988,
+    "questionIndex": 486
+  },
+  {
+    "question": "Aşağıdakilerden hangisi riski tam olarak ifade eder?",
+    "options": [
+      "Belirli bir tehlike karşısında kişinin şahsi varlıklarından bir kısmını veya tamamınıkaybetme ihtimali",
+      "Kaybetme ihtimali",
+      "Tehlikelerden kaynaklanan bir olayın meydana gelebilme olasılığı ile zarar vermederecesinin bir bileşkesidir.",
+      "Muhtemel kaybın miktarı"
+    ],
+    "answer": 0,
+    "questionNumber": 989,
+    "questionIndex": 487
+  },
+  {
+    "question": "Olayların ortaya çıkmasından önce önlem alma faaliyeti aşağıdakilerden hangisidir?",
+    "options": [
+      "Deneme yanılma metodu",
+      "Reaktif",
+      "Proaktif faaliyet",
+      "Hepsi"
+    ],
+    "answer": 0,
+    "questionNumber": 990,
+    "questionIndex": 488
+  },
+  {
+    "question": "Risk değerlendirmesi çalıştırmalarını , işletmenin özelliğine göre bireyin yapması yararlıdeğildir ? cümlesinin nedeni aşağıdakilerden hangisidir?",
+    "options": [
+      "Bireyin kendisine olan özgüveni artar",
+      "Tek boyutluk",
+      "Çabuk netice alınması sağlanır",
+      "Bireyin meslektaşları tarafından yönlendirilmesi engeller"
+    ],
+    "answer": 0,
+    "questionNumber": 991,
+    "questionIndex": 489
+  },
+  {
+    "question": "Aşağıdakilerden hangisi işyerindeki kimyasal tehlikeler arasında değildir?",
+    "options": [
+      "Radyan ısı",
+      "Gazlar (yanıcı, yakıcı, boğucu, narkotik)",
+      "Sıvılar (asitler, bazlar, Solventler)",
+      "Katı tozları (organik, inorganik)"
+    ],
+    "answer": 0,
+    "questionNumber": 992,
+    "questionIndex": 490
+  },
+  {
+    "question": "Risk değerlendirmesi çalışmaların , işletmenin özelliğine göre takım olarak yapılmasıyararlı değildir ? cümlesinin nedeni aşağıdakilerden hangisidir ?",
+    "options": [
+      "Katılanlara ciddiyet ve iş birliği ruhu kazandırır",
+      "Gerekli tüm bilgi çalışanlar tarafından sağlanır",
+      "Takım içi etkileşim sonucu etkileyebilir.",
+      "Herkese tatmin edici sonuçlar elde edebilir"
+    ],
+    "answer": 0,
+    "questionNumber": 993,
+    "questionIndex": 491
+  },
+  {
+    "question": "Risk değerlendirmesi yapma yükümlülüğü İş kanunu kapsamına giren hangi iş yerlerindeyapılmalıdır?",
+    "options": [
+      "Tehlikeli iş yerleri",
+      "Tüm iş yerleri",
+      "Büyük iş yerleri",
+      "50 ve daha fazla işçi çalıştıran iş yerleri"
+    ],
+    "answer": 0,
+    "questionNumber": 994,
+    "questionIndex": 492
+  },
+  {
+    "question": "Aşağıdakilerden hangisi risk değerlendirmesinin temel adımlardan birisi Değildir?",
+    "options": [
+      "Tehlikelerin belirlenmesi",
+      "Önlemlerin belirlenmesi",
+      "Çalışanların eğitilmesi",
+      "Risklerin değerlendirilmesi"
+    ],
+    "answer": 0,
+    "questionNumber": 995,
+    "questionIndex": 493
+  },
+  {
+    "question": "Aşağıdakilerden hangisi işyerlerinde görülen \"Güvensiz Durumlar\"dan Değildir?",
+    "options": [
+      "Gövde topraklaması yapılmamış elektrikli makinalar",
+      "Kapatılmamış boşluklar",
+      "Tehlikeli makina parçaları",
+      "Makine koruyucularını çıkarmak"
+    ],
+    "answer": 0,
+    "questionNumber": 996,
+    "questionIndex": 494
+  },
+  {
+    "question": "Risk değerlendirmesinde hangisi yer almaz?",
+    "options": [
+      "Risk skoru",
+      "maruz kişiler",
+      "iş yeri sağlık pirimleri",
+      "Tehlike tanımları"
+    ],
+    "answer": 0,
+    "questionNumber": 997,
+    "questionIndex": 495
+  },
+  {
+    "question": "Kaçınılmaz risk düzeyi ne kadardır?",
+    "options": [
+      "40-50",
+      "2-3",
+      "60-100",
+      "20-25"
+    ],
+    "answer": 0,
+    "questionNumber": 998,
+    "questionIndex": 496
+  },
+  {
+    "question": "Risk Değerlendirmesi en geç hangi ralıklarla yenilenmelidir ?",
+    "options": [
+      "2 yılda bir",
+      "Her yıl",
+      "Sanayiden sayılan ve yılda 11 ay faaliyet yürütülen 51 işçi çalıştırılan bir işyeri",
+      "10 yılda bir"
+    ],
+    "answer": 0,
+    "questionNumber": 999,
+    "questionIndex": 497
+  },
+  {
+    "question": "İşyeri bina ve eklentilerinde alınacak sağlık ve güvenlik önlemlerine ilişkin yönetmelikhükümleri aşağıdakilerden hangisinde uygulanır?",
+    "options": [
+      "Fabrika ve depolarda",
+      "Balıkçı teknelerinde",
+      "Geçici veya Hareketli iş alanlarında",
+      "Maden, petrol ve gaz çıkarma işlerinde"
+    ],
+    "answer": 0,
+    "questionNumber": 1000,
+    "questionIndex": 498
+  }
+]

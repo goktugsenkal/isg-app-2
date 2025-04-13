@@ -1,0 +1,40 @@
+# HTTP to HTTPS redirection
+<VirtualHost *:80>
+    ServerName goktug.fun
+    ServerAlias www.goktug.fun
+
+    # Enable mod_rewrite for redirection
+    RewriteEngine On
+    RewriteCond %{SERVER_NAME} =goktug.fun [OR]
+    RewriteCond %{SERVER_NAME} =www.goktug.fun
+    RewriteRule ^ https://%{SERVER_NAME}%{REQUEST_URI} [END,NE,R=permanent]
+</VirtualHost>
+
+# HTTPS VirtualHost for PHP Project
+<VirtualHost *:443>
+    ServerName goktug.fun
+    ServerAlias www.goktug.fun
+
+    # Set the DocumentRoot to your PHP application's public folder
+    DocumentRoot /var/www/quiz-app/public
+
+    # Enable SSL
+    SSLEngine on
+    SSLCertificateFile /etc/letsencrypt/live/goktug.fun/fullchain.pem
+    SSLCertificateKeyFile /etc/letsencrypt/live/goktug.fun/privkey.pem
+    Include /etc/letsencrypt/options-ssl-apache.conf
+
+    # Enable mod_rewrite
+    RewriteEngine On
+
+    # Directory settings for the PHP application
+    <Directory "/var/www/quiz-app/public">
+        Options Indexes FollowSymLinks
+        AllowOverride All
+        Require all granted
+    </Directory>
+
+    # Logging (optional but recommended)
+    ErrorLog /var/log/httpd/quiz-app-error.log
+    CustomLog /var/log/httpd/quiz-app-access.log combined
+</VirtualHost>

@@ -1,0 +1,13 @@
+# Enable URL rewriting
+# URL yeniden yazmayı etkinleştir
+RewriteEngine On
+
+# If the requested file or directory exists, serve it directly.
+# İstenen dosya veya dizin mevcutsa, doğrudan sun.
+RewriteCond %{REQUEST_FILENAME} -f [OR]
+RewriteCond %{REQUEST_FILENAME} -d
+RewriteRule ^ - [L]
+
+# Otherwise, forward the request to index.php while preserving the query string.
+# Aksi halde, sorgu dizgesini koruyarak isteği index.php'ye yönlendir.
+RewriteRule ^ index.php [QSA,L]

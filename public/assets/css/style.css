@@ -1,0 +1,60 @@
+/* English: Global styles for the Landscape Architect Website */
+/* Turkish: Landscape Architect Web Sitesi için global stiller */
+
+/* English: Container class for consistent layout */
+/* Turkish: Tutarlı düzen için container sınıfı */
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 20px;
+}
+
+/* Header Styling */
+/* Başlık Stili */
+.site-header {
+    background-color: #f8f8f8;
+    border-bottom: 1px solid #ddd;
+    padding: 20px 0;
+}
+
+.site-header .logo {
+    font-size: 2em;
+    margin: 0;
+    color: #333;
+}
+
+.main-nav ul {
+    list-style: none;
+    padding: 0;
+    display: flex;
+    gap: 15px;
+}
+
+.main-nav ul li a {
+    text-decoration: none;
+    color: #333;
+    font-weight: bold;
+}
+
+/* Footer Styling */
+/* Altbilgi Stili */
+.site-footer {
+    background-color: #333;
+    color: #fff;
+    padding: 20px 0;
+    text-align: center;
+}
+
+.footer-nav ul {
+    list-style: none;
+    padding: 0;
+    display: flex;
+    gap: 15px;
+    justify-content: center;
+    margin: 10px 0;
+}
+
+.footer-nav ul li a {
+    text-decoration: none;
+    color: #fff;
+}
